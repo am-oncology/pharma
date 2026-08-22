@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Biotech Radar — pharma and biotech signal triage</title>
+<meta name="description" content="A daily triage board for pharma and biotech equities, combining price factors with clinical trial registry changes, SEC filings and sector news.">
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@300;400;600&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/theme.css">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="masthead-top">
+      <h1 class="wordmark">Biotech <span>Radar</span></h1>
+      <div class="stamp" id="stamp">Loading…</div>
+    </div>
+    <div class="bench-row" id="bench"></div>
+  </header>
+
+  <div id="demo-banner"></div>
+
+  <div class="notice notice-plain">
+    <strong>Read this as triage, not advice.</strong>
+    Every input here is public and machine-readable, and this sector is covered by
+    specialist funds employing clinicians. A mechanical rule over this data is not an
+    edge. What the board does is put the right dozen names in front of you each morning
+    so your own reading of the underlying science gets applied to them. Nothing on this
+    page is a recommendation to buy or sell, and none of it has been prepared by anyone
+    authorised to give investment advice.
+  </div>
+
+  <!-- movers -->
+  <section class="section">
+    <div class="section-head">
+      <h2>Movers</h2>
+      <span class="count">across the covered universe</span>
+    </div>
+    <div class="tabs" id="mover-tabs" role="tablist">
+      <button class="tab" role="tab" data-tab="gainers_1d" aria-selected="true">Gainers · 1d</button>
+      <button class="tab" role="tab" data-tab="losers_1d" aria-selected="false">Losers · 1d</button>
+      <button class="tab" role="tab" data-tab="gainers_5d" aria-selected="false">Gainers · 1w</button>
+      <button class="tab" role="tab" data-tab="losers_5d" aria-selected="false">Losers · 1w</button>
+      <button class="tab" role="tab" data-tab="unusual_volume" aria-selected="false">Unusual volume</button>
+    </div>
+    <div class="mover-grid" id="movers"></div>
+  </section>
+
+  <!-- constructive -->
+  <section class="section">
+    <div class="section-head">
+      <h2>Constructive</h2>
+      <span class="count" id="constructive-count"></span>
+    </div>
+    <p class="section-note">
+      Factors currently line up favourably: relative strength against XBI, an intact trend,
+      supportive news flow, and no financing overhang. Worth your reading time — which is
+      not the same as worth buying. Check the factor bars: a score carried by one dominant
+      factor is a far weaker claim than the same score built from several independent ones.
+    </p>
+    <div class="cards" id="constructive"></div>
+  </section>
+
+  <!-- deteriorating -->
+  <section class="section">
+    <div class="section-head">
+      <h2>Deteriorating</h2>
+      <span class="count" id="deteriorating-count"></span>
+    </div>
+    <p class="section-note">
+      Something is breaking: relative weakness, a broken trend, negative event flow, or a
+      short cash runway that makes an equity raise likely. Ordered worst first. If you hold
+      one of these, it is the thing to look at before the market finishes repricing it.
+    </p>
+    <div class="cards" id="deteriorating"></div>
+  </section>
+
+  <!-- hard flags -->
+  <section class="section">
+    <div class="section-head">
+      <h2>Hard flags</h2>
+      <span class="count" id="flag-count"></span>
+    </div>
+    <p class="section-note">
+      Events that end a thesis outright: clinical holds, complete response letters, failed
+      primary endpoints, terminated or suspended registrations, going-concern language.
+      These override the composite score entirely. No momentum reading outvotes a clinical hold.
+    </p>
+    <div class="cards" id="flags"></div>
+  </section>
+
+  <!-- calendar -->
+  <section class="section">
+    <div class="section-head">
+      <h2>Catalyst calendar</h2>
+      <span class="count">next 120 days</span>
+    </div>
+    <p class="section-note">
+      Estimated primary completion dates from ClinicalTrials.gov, sector conferences and
+      scheduled earnings. A tilde marks an estimated rather than actual date. Primary
+      completion is when the last patient is measured, not when data are released — treat
+      each as the opening of a window, typically weeks to months wide.
+    </p>
+    <div class="cal" id="calendar"></div>
+  </section>
+
+  <!-- full table -->
+  <section class="section">
+    <div class="section-head">
+      <h2>Full ranking</h2>
+      <span class="count">click any column to sort</span>
+    </div>
+    <div class="table-scroll">
+      <table class="grid">
+        <thead id="table-head"></thead>
+        <tbody id="table-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- methodology -->
+  <section class="method">
+    <div class="section-head"><h2>How the score is built</h2></div>
+
+    <p>
+      Ten factors are computed for every eligible name, standardised across the universe
+      as z-scores, weighted, and summed. The factor bars on each card show every
+      contribution to that total, so any ranking can be taken apart and argued with.
+    </p>
+
+    <h3>Price factors</h3>
+    <p>
+      Relative strength against XBI over one and three months; position against the 50-day
+      and 200-day moving averages; six-month absolute return; and an accumulation measure
+      (the share of recent volume transacted on advancing days, scaled by how unusual that
+      volume is). Stretched RSI is penalised in both directions.
+    </p>
+
+    <h3>Registry factors</h3>
+    <p>
+      ClinicalTrials.gov is snapshotted on every run and diffed against the previous one.
+      A status flipping from recruiting to active-not-recruiting means enrolment closed and
+      a readout is on the clock. A primary completion date sliding right is a delay that
+      will usually be acknowledged publicly much later, if at all. None of this is
+      privileged: it is a public registry that few people diff.
+    </p>
+
+    <h3>Financing factors</h3>
+    <p>
+      Cash and quarterly operating burn are read from XBRL company facts on
+      <code>data.sec.gov</code> and turned into a runway estimate. A company with nine
+      months of cash and a readout eleven months out will raise equity before the data
+      arrive. Recent <code>424B5</code> and <code>S-3</code> filings add to the same risk score.
+    </p>
+
+    <h3>News factors</h3>
+    <p>
+      A weighted keyword lexicon with a seven-day half-life, run over trade press, regulator
+      feeds and journal tables of contents. It is a lexicon rather than a neural sentiment
+      model on purpose: general-purpose models read "Phase III trial fails to meet primary
+      endpoint" as mildly negative prose when it is a company-ending event, and a lexicon
+      can be inspected and corrected when it is wrong.
+    </p>
+
+    <h3>What this cannot do</h3>
+    <ul>
+      <li>
+        <b>It cannot read a hazard ratio.</b> The lexicon will tell you a readout happened.
+        Whether an HR of 0.87 in that population is commercially meaningful is a clinical
+        judgement, and it is the part you are actually good at.
+      </li>
+      <li>
+        <b>Momentum barely applies here.</b> Small and mid-cap biotech prices are step
+        functions punctuated by binary readouts, not diffusion processes. The
+        <code>Gaps</code> column counts single-day moves above 15% in the past year;
+        where that number is high, read the momentum factors as weak evidence.
+      </li>
+      <li>
+        <b>Backtests on this universe will lie to you.</b> Price history is served for
+        currently listed tickers only. Companies that were acquired, delisted or went
+        bankrupt are simply absent, and biotech has an unusually high rate of all three.
+        Any historical study built on a universe assembled today will look far better
+        than reality.
+      </li>
+      <li>
+        <b>Catalyst proximity is variance, not direction.</b> An imminent Phase III readout
+        means something large is about to happen. It does not mean it will be good.
+      </li>
+      <li>
+        <b>The data are stale by design.</b> GitHub Actions runs on a schedule, so figures
+        are typically 15–60 minutes old. Fine for catalyst-driven work; useless intraday.
+      </li>
+    </ul>
+
+    <h3>Before you trade on any of this</h3>
+    <p>
+      If you work in clinical practice or research, check your employer's conflict-of-interest
+      policy first. Being an investigator on a trial, sitting on an advisory board, or seeing
+      embargoed conference abstracts or unblinded data can make trading in the sponsor a
+      market-abuse offence under UK MAR regardless of intent. The
+      <code>excluded.tickers</code> list in <code>universe.json</code> exists for exactly this:
+      names on it are ingested and displayed but never ranked or recommended. Populate it
+      before you rely on the board.
+    </p>
+  </section>
+
+</div>
+<script src="assets/app.js"></script>
+</body>
+</html>

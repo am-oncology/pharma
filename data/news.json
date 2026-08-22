@@ -1,0 +1,1171 @@
+{
+ "as_of": "2026-08-22T11:44:45Z",
+ "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Revolution Medicines announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-22",
+   "raw_score": 2.4,
+   "tickers": [
+    "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves BioMarin's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-21",
+   "raw_score": 3.0,
+   "tickers": [
+    "BMRN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "Revolution Medicines granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-21",
+   "raw_score": 2.0,
+   "tickers": [
+    "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "BioNTech announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-20",
+   "raw_score": 2.4,
+   "tickers": [
+    "BNTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Jazz Pharmaceuticals receives complete response letter from FDA",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-20",
+   "raw_score": -3.0,
+   "tickers": [
+    "JAZZ"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Ultragenyx study did not meet the primary endpoint",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-20",
+   "raw_score": -3.0,
+   "tickers": [
+    "RARE"
+   ],
+   "hard": true
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Pfizer granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-19",
+   "raw_score": 2.0,
+   "tickers": [
+    "PFE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Moderna reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-19",
+   "raw_score": 2.5,
+   "tickers": [
+    "MRNA"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "BioNTech granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-19",
+   "raw_score": 2.0,
+   "tickers": [
+    "BNTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "BioMarin reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-19",
+   "raw_score": 2.5,
+   "tickers": [
+    "BMRN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Halozyme study did not meet the primary endpoint",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-19",
+   "raw_score": -3.0,
+   "tickers": [
+    "HALO"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "SpringWorks Therapeutics announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-19",
+   "raw_score": -2.7,
+   "tickers": [
+    "SWTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Beam Therapeutics reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-19",
+   "raw_score": 2.5,
+   "tickers": [
+    "BEAM"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Illumina granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-19",
+   "raw_score": 2.0,
+   "tickers": [
+    "ILMN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "FDA approves Alnylam's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-18",
+   "raw_score": 3.0,
+   "tickers": [
+    "ALNY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "Alnylam announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-18",
+   "raw_score": -2.7,
+   "tickers": [
+    "ALNY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Jazz Pharmaceuticals receives complete response letter from FDA",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-18",
+   "raw_score": -3.0,
+   "tickers": [
+    "JAZZ"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Arcus Biosciences announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-18",
+   "raw_score": -2.7,
+   "tickers": [
+    "RCUS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Intellia Therapeutics receives complete response letter from FDA",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-18",
+   "raw_score": -3.0,
+   "tickers": [
+    "NTLA"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Novartis granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-17",
+   "raw_score": 2.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Jazz Pharmaceuticals reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-17",
+   "raw_score": 2.5,
+   "tickers": [
+    "JAZZ"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Insmed reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-16",
+   "raw_score": 2.5,
+   "tickers": [
+    "INSM"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Novartis announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-15",
+   "raw_score": 2.4,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Sarepta Therapeutics announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-15",
+   "raw_score": -2.7,
+   "tickers": [
+    "SRPT"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Immunovant announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-15",
+   "raw_score": -2.7,
+   "tickers": [
+    "IMVT"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Kymera Therapeutics granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-15",
+   "raw_score": 2.0,
+   "tickers": [
+    "KYMR"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Gilead Sciences reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-14",
+   "raw_score": 2.5,
+   "tickers": [
+    "GILD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Cytokinetics reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-14",
+   "raw_score": 2.5,
+   "tickers": [
+    "CYTK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Prothena granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-14",
+   "raw_score": 2.0,
+   "tickers": [
+    "PRTA"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Kura Oncology study did not meet the primary endpoint",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-14",
+   "raw_score": -3.0,
+   "tickers": [
+    "KURA"
+   ],
+   "hard": true
+  },
+  {
+   "source": "STAT News",
+   "title": "Beam Therapeutics granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-14",
+   "raw_score": 2.0,
+   "tickers": [
+    "BEAM"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Arrowhead Pharmaceuticals receives complete response letter from FDA",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-14",
+   "raw_score": -3.0,
+   "tickers": [
+    "ARWR"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Illumina granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-13",
+   "raw_score": 2.0,
+   "tickers": [
+    "ILMN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "Sarepta Therapeutics announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-12",
+   "raw_score": -2.7,
+   "tickers": [
+    "SRPT"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Ionis Pharmaceuticals receives complete response letter from FDA",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-12",
+   "raw_score": -3.0,
+   "tickers": [
+    "IONS"
+   ],
+   "hard": true
+  },
+  {
+   "source": "BioSpace",
+   "title": "FDA approves Exelixis's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-12",
+   "raw_score": 3.0,
+   "tickers": [
+    "EXEL"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "Syndax Pharmaceuticals places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-12",
+   "raw_score": -5.2,
+   "tickers": [
+    "SNDX"
+   ],
+   "hard": true
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Kura Oncology announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-12",
+   "raw_score": 2.4,
+   "tickers": [
+    "KURA"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Pfizer places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-11",
+   "raw_score": -5.2,
+   "tickers": [
+    "PFE"
+   ],
+   "hard": true
+  },
+  {
+   "source": "BioSpace",
+   "title": "Incyte announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-11",
+   "raw_score": -2.7,
+   "tickers": [
+    "INCY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "Pfizer study did not meet the primary endpoint",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-10",
+   "raw_score": -3.0,
+   "tickers": [
+    "PFE"
+   ],
+   "hard": true
+  },
+  {
+   "source": "BioSpace",
+   "title": "Novo Nordisk reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-10",
+   "raw_score": 2.5,
+   "tickers": [
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Akero Therapeutics announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-10",
+   "raw_score": -2.7,
+   "tickers": [
+    "AKRO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "Immunovant places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-10",
+   "raw_score": -5.2,
+   "tickers": [
+    "IMVT"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Arvinas places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-10",
+   "raw_score": -5.2,
+   "tickers": [
+    "ARVN"
+   ],
+   "hard": true
+  },
+  {
+   "source": "BioSpace",
+   "title": "CRISPR Therapeutics announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-10",
+   "raw_score": 2.4,
+   "tickers": [
+    "CRSP"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "FDA approves Ultragenyx's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-09",
+   "raw_score": 3.0,
+   "tickers": [
+    "RARE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Immunovant places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-09",
+   "raw_score": -5.2,
+   "tickers": [
+    "IMVT"
+   ],
+   "hard": true
+  },
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves GSK's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-08",
+   "raw_score": 3.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Gilead Sciences announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-08",
+   "raw_score": 2.4,
+   "tickers": [
+    "GILD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Alnylam announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-08",
+   "raw_score": -2.7,
+   "tickers": [
+    "ALNY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Incyte announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-08",
+   "raw_score": 2.4,
+   "tickers": [
+    "INCY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "FDA approves Neurocrine Biosciences's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-08",
+   "raw_score": 3.0,
+   "tickers": [
+    "NBIX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Intellia Therapeutics study did not meet the primary endpoint",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-08",
+   "raw_score": -3.0,
+   "tickers": [
+    "NTLA"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "GSK receives complete response letter from FDA",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-07",
+   "raw_score": -3.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": true
+  },
+  {
+   "source": "STAT News",
+   "title": "Apellis Pharmaceuticals reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-07",
+   "raw_score": 2.5,
+   "tickers": [
+    "APLS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "Kymera Therapeutics granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-07",
+   "raw_score": 2.0,
+   "tickers": [
+    "KYMR"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "Recursion Pharmaceuticals announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-07",
+   "raw_score": 2.4,
+   "tickers": [
+    "RXRX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Halozyme reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-06",
+   "raw_score": 2.5,
+   "tickers": [
+    "HALO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "FDA approves Kura Oncology's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-06",
+   "raw_score": 3.0,
+   "tickers": [
+    "KURA"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Exelixis announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-05",
+   "raw_score": -2.7,
+   "tickers": [
+    "EXEL"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Akero Therapeutics receives complete response letter from FDA",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-05",
+   "raw_score": -3.0,
+   "tickers": [
+    "AKRO"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Eli Lilly granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-04",
+   "raw_score": 2.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Incyte granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-04",
+   "raw_score": 2.0,
+   "tickers": [
+    "INCY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "BioMarin announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-04",
+   "raw_score": 2.4,
+   "tickers": [
+    "BMRN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Exelixis reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-04",
+   "raw_score": 2.5,
+   "tickers": [
+    "EXEL"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Axsome Therapeutics places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-04",
+   "raw_score": -5.2,
+   "tickers": [
+    "AXSM"
+   ],
+   "hard": true
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Revolution Medicines announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-04",
+   "raw_score": -2.7,
+   "tickers": [
+    "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "Nuvalent announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-04",
+   "raw_score": -2.7,
+   "tickers": [
+    "NUVL"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Twist Bioscience study did not meet the primary endpoint",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-04",
+   "raw_score": -3.0,
+   "tickers": [
+    "TWST"
+   ],
+   "hard": true
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Halozyme study did not meet the primary endpoint",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-03",
+   "raw_score": -3.0,
+   "tickers": [
+    "HALO"
+   ],
+   "hard": true
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Cytokinetics reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-03",
+   "raw_score": 2.5,
+   "tickers": [
+    "CYTK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Madrigal Pharmaceuticals receives complete response letter from FDA",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-03",
+   "raw_score": -3.0,
+   "tickers": [
+    "MDGL"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Arcus Biosciences receives complete response letter from FDA",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-03",
+   "raw_score": -3.0,
+   "tickers": [
+    "RCUS"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "FDA approves Arcus Biosciences's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-03",
+   "raw_score": 3.0,
+   "tickers": [
+    "RCUS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Nuvalent receives complete response letter from FDA",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-03",
+   "raw_score": -3.0,
+   "tickers": [
+    "NUVL"
+   ],
+   "hard": true
+  },
+  {
+   "source": "STAT News",
+   "title": "Twist Bioscience granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-03",
+   "raw_score": 2.0,
+   "tickers": [
+    "TWST"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "FDA approves Novo Nordisk's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-02",
+   "raw_score": 3.0,
+   "tickers": [
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "PTC Therapeutics reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-02",
+   "raw_score": 2.5,
+   "tickers": [
+    "PTCT"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Cytokinetics announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-02",
+   "raw_score": -2.7,
+   "tickers": [
+    "CYTK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Insmed study did not meet the primary endpoint",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-02",
+   "raw_score": -3.0,
+   "tickers": [
+    "INSM"
+   ],
+   "hard": true
+  },
+  {
+   "source": "STAT News",
+   "title": "Johnson & Johnson study did not meet the primary endpoint",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-01",
+   "raw_score": -3.0,
+   "tickers": [
+    "JNJ"
+   ],
+   "hard": true
+  },
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves Merck & Co's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-01",
+   "raw_score": 3.0,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "Vertex Pharmaceuticals announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-01",
+   "raw_score": -2.7,
+   "tickers": [
+    "VRTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "BioNTech places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-08-01",
+   "raw_score": -5.2,
+   "tickers": [
+    "BNTX"
+   ],
+   "hard": true
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Eli Lilly places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-31",
+   "raw_score": -5.2,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": true
+  },
+  {
+   "source": "BioSpace",
+   "title": "Novo Nordisk study did not meet the primary endpoint",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-31",
+   "raw_score": -3.0,
+   "tickers": [
+    "NVO"
+   ],
+   "hard": true
+  },
+  {
+   "source": "STAT News",
+   "title": "IDEAYA Biosciences granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-31",
+   "raw_score": 2.0,
+   "tickers": [
+    "IDYA"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "TG Therapeutics places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-31",
+   "raw_score": -5.2,
+   "tickers": [
+    "TGTX"
+   ],
+   "hard": true
+  },
+  {
+   "source": "STAT News",
+   "title": "Merck & Co announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-30",
+   "raw_score": 2.4,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Denali Therapeutics receives complete response letter from FDA",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-30",
+   "raw_score": -3.0,
+   "tickers": [
+    "DNLI"
+   ],
+   "hard": true
+  },
+  {
+   "source": "STAT News",
+   "title": "Eli Lilly granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-29",
+   "raw_score": 2.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Nuvalent reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-29",
+   "raw_score": 2.5,
+   "tickers": [
+    "NUVL"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Intellia Therapeutics granted breakthrough therapy designation",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-29",
+   "raw_score": 2.0,
+   "tickers": [
+    "NTLA"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Neurocrine Biosciences places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-28",
+   "raw_score": -5.2,
+   "tickers": [
+    "NBIX"
+   ],
+   "hard": true
+  },
+  {
+   "source": "STAT News",
+   "title": "Neurocrine Biosciences announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-28",
+   "raw_score": 2.4,
+   "tickers": [
+    "NBIX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "Viking Therapeutics announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-28",
+   "raw_score": 2.4,
+   "tickers": [
+    "VKTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "BioSpace",
+   "title": "Akero Therapeutics announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-27",
+   "raw_score": 2.4,
+   "tickers": [
+    "AKRO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Kymera Therapeutics announces strategic collaboration with upfront payment",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-27",
+   "raw_score": 2.4,
+   "tickers": [
+    "KYMR"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "FDA approves Beam Therapeutics's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-27",
+   "raw_score": 3.0,
+   "tickers": [
+    "BEAM"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Syndax Pharmaceuticals study did not meet the primary endpoint",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-26",
+   "raw_score": -3.0,
+   "tickers": [
+    "SNDX"
+   ],
+   "hard": true
+  },
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves SpringWorks Therapeutics's lead candidate for advanced disease",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-26",
+   "raw_score": 3.0,
+   "tickers": [
+    "SWTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "SpringWorks Therapeutics places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-26",
+   "raw_score": -5.2,
+   "tickers": [
+    "SWTX"
+   ],
+   "hard": true
+  },
+  {
+   "source": "BioSpace",
+   "title": "United Therapeutics places trial on clinical hold after safety signal",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-25",
+   "raw_score": -5.2,
+   "tickers": [
+    "UTHR"
+   ],
+   "hard": true
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Insmed reports positive topline results from pivotal study",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-25",
+   "raw_score": 2.5,
+   "tickers": [
+    "INSM"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Syndax Pharmaceuticals announces pricing of public offering",
+   "url": "https://example.invalid/demo",
+   "published_iso": "2026-07-25",
+   "raw_score": -2.7,
+   "tickers": [
+    "SNDX"
+   ],
+   "hard": false
+  }
+ ]
+}

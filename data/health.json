@@ -1,0 +1,18 @@
+{
+ "as_of": "2026-08-22T11:44:45Z",
+ "runtime_seconds": 0.6,
+ "demo": true,
+ "price_coverage": "70/70",
+ "missing_prices": [],
+ "edgar_coverage": 70,
+ "trials_coverage": 0,
+ "trials_matched_companies": 0,
+ "trials_rejected_studies": 0,
+ "news_articles": 106,
+ "ineligible": [
+  {
+   "ticker": "BEAM",
+   "reason": "price $1.16 below floor"
+  }
+ ]
+}
