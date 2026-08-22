@@ -1,18 +1,55 @@
 {
- "as_of": "2026-08-22T11:44:45Z",
- "runtime_seconds": 0.6,
- "demo": true,
- "price_coverage": "70/70",
- "missing_prices": [],
- "edgar_coverage": 70,
- "trials_coverage": 0,
- "trials_matched_companies": 0,
+ "as_of": "2026-08-22T13:19:02Z",
+ "runtime_seconds": 282.8,
+ "demo": false,
+ "price_coverage": "62/70",
+ "missing_prices": [
+  "AKRO",
+  "APLS",
+  "EXAS",
+  "FOLD",
+  "NUVL",
+  "SAGE",
+  "SWTX",
+  "VERV"
+ ],
+ "edgar_coverage": 62,
+ "trials_coverage": 70,
+ "trials_matched_companies": 67,
  "trials_rejected_studies": 0,
- "news_articles": 106,
+ "news_articles": 48,
  "ineligible": [
   {
-   "ticker": "BEAM",
-   "reason": "price $1.16 below floor"
+   "ticker": "FOLD",
+   "reason": "no price data returned"
+  },
+  {
+   "ticker": "AKRO",
+   "reason": "no price data returned"
+  },
+  {
+   "ticker": "APLS",
+   "reason": "no price data returned"
+  },
+  {
+   "ticker": "NUVL",
+   "reason": "no price data returned"
+  },
+  {
+   "ticker": "SWTX",
+   "reason": "no price data returned"
+  },
+  {
+   "ticker": "VERV",
+   "reason": "no price data returned"
+  },
+  {
+   "ticker": "SAGE",
+   "reason": "no price data returned"
+  },
+  {
+   "ticker": "EXAS",
+   "reason": "no price data returned"
   }
  ]
 }
