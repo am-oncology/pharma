@@ -1,0 +1,108 @@
+name: Update radar
+
+on:
+  schedule:
+    # Times are UTC. US markets close at 20:00 UTC (21:00 during BST offsets).
+    # The 07:00 run gives you a board before UK clinic; the 21:15 run captures
+    # the US close; the midday run catches European news flow.
+    - cron: "0 7 * * 1-5"
+    - cron: "0 12 * * 1-5"
+    - cron: "15 21 * * 1-5"
+    - cron: "0 10 * * 6"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Pipeline mode"
+        required: false
+        default: "full"
+        type: choice
+        options: [full, quick, demo]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # The trial snapshot lives in data/ and is diffed against the next
+          # run, so the previous state must be present.
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run test suite
+        run: |
+          pip install pytest
+          python -m pytest tests/ -q
+
+      - name: Check live sources are reachable
+        if: ${{ github.event.inputs.mode != 'demo' }}
+        env:
+          RADAR_CONTACT: ${{ secrets.RADAR_CONTACT }}
+        run: python scripts/build.py --preflight -v
+
+      - name: Build dataset
+        env:
+          # Set RADAR_CONTACT in repository secrets to something like
+          # "Your Name your.email@example.com". The SEC rejects requests
+          # without a contactable User-Agent.
+          RADAR_CONTACT: ${{ secrets.RADAR_CONTACT }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: |
+          MODE="${{ github.event.inputs.mode }}"
+          case "$MODE" in
+            demo)  python scripts/build.py --demo -v ;;
+            quick) python scripts/build.py --quick -v ;;
+            *)     python scripts/build.py -v ;;
+          esac
+
+      - name: Verify the page renders against the new data
+        run: |
+          npm install --no-save jsdom
+          node tests/check.js
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
