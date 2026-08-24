@@ -1,6 +1,56 @@
 {
- "as_of": "2026-08-24T12:26:09Z",
+ "as_of": "2026-08-24T21:48:15Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "DC judge rejects Merck\u2019s IRA case more than three years after it was filed",
+   "url": "https://endpoints.news/dc-judge-rejects-mercks-ira-case-more-than-three-years-after-it-was-filed/",
+   "published_iso": "2026-08-24",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "TwinStrand wins patent case; GSK\u2019s hepatitis B drug approved in Japan",
+   "url": "https://endpoints.news/twinstrand-wins-patent-case-gsks-hepatitis-b-drug-approved-in-japan/",
+   "published_iso": "2026-08-24",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "News on AstraZeneca, Cytokinetics, Novartis \u2014 what to look out for at ESC 2026",
+   "url": "https://endpoints.news/news-on-astrazeneca-cytokinetics-novartis-what-to-look-out-for-at-esc-2026/",
+   "published_iso": "2026-08-24",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "NVS",
+    "IONS",
+    "CYTK",
+    "CRSP"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Lady Gaga and her fianc\u00e9 launch a biotech startup",
+   "url": "https://www.statnews.com/2026/08/24/biotech-news-lady-gaga-and-her-fiance-launch-biotech-startup/?utm_campaign=rss",
+   "published_iso": "2026-08-24",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK",
+    "AMGN",
+    "MRNA"
+   ],
+   "hard": false
+  },
   {
    "source": "STAT News",
    "title": "STAT+: Inside Moderna and Merck\u2019s cancer vaccine triumph",
@@ -79,74 +129,6 @@
     "RARE"
    ],
    "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: FDA approves Ultragenyx gene therapy",
-   "url": "https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/?utm_campaign=rss",
-   "published_iso": "2026-08-20",
-   "raw_score": 3.0,
-   "tickers": [
-    "REGN",
-    "RARE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about a Regeneron rare disease drug, an Ultragenyx gene therapy, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/08/20/regeneron-rare-disease-drug-utragenyx-gene-therapy/?utm_campaign=rss",
-   "published_iso": "2026-08-20",
-   "raw_score": 0.0,
-   "tickers": [
-    "REGN",
-    "RARE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "For Moderna, cancer vaccine results ease investor skepticism on its future as stock soars",
-   "url": "https://endpoints.news/for-moderna-cancer-vaccine-results-ease-investor-skepticism-on-its-future-as-stock-soars/",
-   "published_iso": "2026-08-19",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRNA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "FDA approves Regeneron\u2019s garetosmab for disease that turns tissue to bone",
-   "url": "https://endpoints.news/fda-approves-regenerons-garetosmab-for-disease-that-turns-tissue-to-bone/",
-   "published_iso": "2026-08-19",
-   "raw_score": 3.0,
-   "tickers": [
-    "REGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Amylin design debate heats up as Lilly's crucial mid-stage weight loss data near",
-   "url": "https://endpoints.news/amylin-design-debate-heats-up-as-lillys-crucial-mid-stage-weight-loss-data-near/",
-   "published_iso": "2026-08-19",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVO"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Amgen cans its TScan partnership; Amylyx reveals $350M offering",
-   "url": "https://endpoints.news/amgen-cans-its-tscan-partnership-amylyx-reveals-350m-offering/",
-   "published_iso": "2026-08-19",
-   "raw_score": -2.2,
-   "tickers": [
-    "AMGN"
-   ],
-   "hard": true
   },
   {
    "source": "Drugs.com New Approvals",
@@ -339,13 +321,36 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Fierce Biotech Layoff Tracker 2026: Kolon cuts workforce after ph. 3 fail; Sanofi sheds 229 staffers",
-   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+   "source": "FiercePharma",
+   "title": "Merck, AZ lawsuits against Medicare price negotiations swatted down",
+   "url": "https://www.fiercepharma.com/pharma/merck-az-lawsuits-against-medicare-price-negotiations-are-swatted-away",
    "published_iso": "",
-   "raw_score": -1.2,
+   "raw_score": 0.0,
    "tickers": [
-    "SNY"
+    "MRK",
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "After Trump order, RFK Jr. seeks input on US pediatric vaccine recommendations",
+   "url": "https://www.fiercepharma.com/pharma/rfk-jr-seeks-public-input-how-us-formulates-childhood-vaccine-recommendations",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "UTHR"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Regulatory tracker: GSK's world-first hep B nod; Another Trodelvy approval in EU",
+   "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
    ],
    "hard": false
   },
