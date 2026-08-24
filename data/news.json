@@ -1,6 +1,18 @@
 {
- "as_of": "2026-08-24T08:04:19Z",
+ "as_of": "2026-08-24T12:26:09Z",
  "articles": [
+  {
+   "source": "STAT News",
+   "title": "STAT+: Inside Moderna and Merck\u2019s cancer vaccine triumph",
+   "url": "https://www.statnews.com/2026/08/24/inside-moderna-and-merck-cancer-vaccine-triumph/?utm_campaign=rss",
+   "published_iso": "2026-08-24",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Third death in China\u2019s expedited trials; Merck and Moderna\u2019s cancer vaccine win; and more",
@@ -93,17 +105,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "Can reclassifying muscle dysmorphia unlock better care for boys and men?",
-   "url": "https://www.statnews.com/2026/08/20/reclassify-muscle-dysmorphia-eating-disorder-uscf-expert-jason-nagata/?utm_campaign=rss",
-   "published_iso": "2026-08-20",
-   "raw_score": 0.0,
-   "tickers": [
-    "UTHR"
-   ],
-   "hard": false
-  },
-  {
    "source": "Endpoints News",
    "title": "For Moderna, cancer vaccine results ease investor skepticism on its future as stock soars",
    "url": "https://endpoints.news/for-moderna-cancer-vaccine-results-ease-investor-skepticism-on-its-future-as-stock-soars/",
@@ -146,29 +147,6 @@
     "AMGN"
    ],
    "hard": true
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Bristol Myers' partner Biokin says bispecific ADC clears fourth cancer trial in China",
-   "url": "https://endpoints.news/bristol-myers-partner-biokin-says-bispecific-adc-clears-fourth-cancer-trial-in-china/",
-   "published_iso": "2026-08-19",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Merck, Moderna declare Phase 3 success for personalized mRNA cancer vaccine",
-   "url": "https://endpoints.news/merck-moderna-declare-phase-3-success-for-personalized-cancer-vaccine/",
-   "published_iso": "2026-08-19",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "hard": false
   },
   {
    "source": "Drugs.com New Approvals",
@@ -283,6 +261,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Roche, Eli Lilly net FDA approval for first-of-its-kind Alzheimer\u2019s biomarker blood test",
+   "url": "https://www.fiercebiotech.com/medtech/roche-eli-lilly-see-fda-approval-first-its-kind-alzheimers-biomarker-blood-test",
+   "published_iso": "",
+   "raw_score": 3.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Chai tees up Bristol Myers Squibb AI antibody discovery collab",
    "url": "https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal",
    "published_iso": "",
@@ -357,18 +346,6 @@
    "raw_score": -1.2,
    "tickers": [
     "SNY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca",
-   "url": "https://www.fiercebiotech.com/biotech/biomarin-bulks-bone-unit-275m-alesta-buyout-challenge-astrazeneca",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN",
-    "BMRN"
    ],
    "hard": false
   },
