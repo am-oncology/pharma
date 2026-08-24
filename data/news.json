@@ -1,5 +1,5 @@
 {
- "as_of": "2026-08-22T13:19:02Z",
+ "as_of": "2026-08-24T08:04:19Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -282,29 +282,6 @@
    "hard": false
   },
   {
-   "source": "Drugs.com New Approvals",
-   "title": "U.S. FDA Approves Padcev plus Keytruda or Keytruda Qlex as Neoadjuvant and Adjuvant Treatment for Muscle-Invasive Bladder Cancer Regardless of Cisplatin Eligibility",
-   "url": "https://www.drugs.com/newdrugs/u-s-fda-approves-padcev-plus-keytruda-keytruda-qlex-neoadjuvant-adjuvant-muscle-invasive-bladder-6837.html",
-   "published_iso": "2026-07-10",
-   "raw_score": 3.0,
-   "tickers": [
-    "PFE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Drugs.com New Approvals",
-   "title": "FDA Approves Keytruda (pembrolizumab) and Keytruda Qlex (pembrolizumab and berahyaluronidase alfa-pmph), Each With Padcev (enfortumab vedotin-ejfv), as Treatment Before and After Surgery for Adults With Muscle-Invasive Bladder Cancer",
-   "url": "https://www.drugs.com/newdrugs/fda-approves-keytruda-pembrolizumab-keytruda-qlex-pembrolizumab-berahyaluronidase-alfa-pmph-each-6836.html",
-   "published_iso": "2026-07-10",
-   "raw_score": 3.0,
-   "tickers": [
-    "MRK",
-    "UTHR"
-   ],
-   "hard": false
-  },
-  {
    "source": "FierceBiotech",
    "title": "Chai tees up Bristol Myers Squibb AI antibody discovery collab",
    "url": "https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal",
@@ -397,6 +374,17 @@
   },
   {
    "source": "FiercePharma",
+   "title": "When is the new who: The importance of timing in HCP marketing",
+   "url": "https://www.fiercepharma.com/sponsored/when-new-who-importance-timing-hcp-marketing",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "SAGE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill back on track as Lilly's momentum slows",
    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
    "published_iso": "",
@@ -482,17 +470,6 @@
    "raw_score": 3.0,
    "tickers": [
     "REGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Biokin bispecific ADC iza-bren hits goal in lung cancer trial, boosting case for BMS\u2019 global test",
-   "url": "https://www.fiercepharma.com/pharma/biokin-bispecific-adc-iza-bren-hits-goal-lung-cancer-trial-boosting-case-bms-global-test",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY"
    ],
    "hard": false
   },
