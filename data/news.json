@@ -1,6 +1,28 @@
 {
- "as_of": "2026-08-25T12:26:38Z",
+ "as_of": "2026-08-25T21:47:53Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Amgen, academic centers weigh new FDA pilot to speed early drug trials",
+   "url": "https://endpoints.news/amgen-academic-centers-weigh-new-fda-pilot-to-speed-early-drug-trials/",
+   "published_iso": "2026-08-25",
+   "raw_score": 0.0,
+   "tickers": [
+    "AMGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves Jazz's Ziihera in frontline gastric cancer",
+   "url": "https://endpoints.news/fda-approves-jazzs-ziihera-in-frontline-gastric-cancer/",
+   "published_iso": "2026-08-25",
+   "raw_score": 3.0,
+   "tickers": [
+    "JAZZ"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Bristol Myers ends deal with Cellares, cell therapy manufacturer to reorg",
@@ -9,6 +31,17 @@
    "raw_score": 0.0,
    "tickers": [
     "BMY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about RFK Jr. vaccine disclosures, a Merck loss over Medicare prices, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/08/25/rfk-vaccine-disclosure-merck-court-loss-over-medicare/?utm_campaign=rss",
+   "published_iso": "2026-08-25",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK"
    ],
    "hard": false
   },
@@ -94,28 +127,6 @@
    "tickers": [
     "MRK",
     "MRNA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Using gray-market versions of Lilly\u2019s triple-G leads to relatively poor weight loss, study finds",
-   "url": "https://endpoints.news/using-gray-market-versions-of-lillys-triple-g-leads-to-relatively-poor-weight-loss-study-finds/",
-   "published_iso": "2026-08-20",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Lilly partners with Amplitude on vaccines; Otsuka scraps psychedelic trial",
-   "url": "https://endpoints.news/lilly-partners-with-amplitude-on-vaccines-otsuka-scraps-psychedelic-trial/",
-   "published_iso": "2026-08-20",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
    ],
    "hard": false
   },
@@ -288,6 +299,17 @@
   },
   {
    "source": "FiercePharma",
+   "title": "Jazz's HER2 bispecific Ziihera gains FDA approval to change practice in stomach cancer",
+   "url": "https://www.fiercepharma.com/pharma/jazz-her2-bispecific-ziihera-gains-fda-approval-change-practice-stomach-cancer",
+   "published_iso": "",
+   "raw_score": 3.0,
+   "tickers": [
+    "JAZZ"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "Merck, AZ lawsuits against Medicare price negotiations swatted down",
    "url": "https://www.fiercepharma.com/pharma/merck-az-lawsuits-against-medicare-price-negotiations-are-swatted-away",
    "published_iso": "",
@@ -378,39 +400,6 @@
    "hard": false
   },
   {
-   "source": "FiercePharma",
-   "title": "B. Braun recalls IV solution from US, Canada hospitals on particle contamination concerns",
-   "url": "https://www.fiercepharma.com/pharma/b-braun-recalls-iv-solution-us-canada-hospitals-particle-contamination-concerns",
-   "published_iso": "",
-   "raw_score": -1.8,
-   "tickers": [
-    "UTHR"
-   ],
-   "hard": true
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Pursuing patient options, Novo kicks off trial testing smaller doses of Wegovy pill",
-   "url": "https://www.fiercepharma.com/pharma/novo-nordisk-kicks-trial-testing-smaller-doses-wegovy-pill",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVO"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Ultragenyx, after FDA speed bump, lands 1st gene therapy nod with green light in glycogen storage disease",
-   "url": "https://www.fiercepharma.com/pharma/ultragenyx-after-fda-speed-bump-lands-1st-gene-therapy-nod-green-light-glycogen-storage",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "RARE"
-   ],
-   "hard": false
-  },
-  {
    "source": "FDA Press Releases",
    "title": "FDA Licenses First-Ever Freeze-Dried Plasma Product in the U.S.",
    "url": "http://www.fda.gov/news-events/press-announcements/fda-licenses-first-ever-freeze-dried-plasma-product-us",
@@ -440,6 +429,17 @@
    "raw_score": 0.0,
    "tickers": [
     "SAGE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "The oncologist",
+   "title": "Real-world efficacy and toxicity of tebentafusp in metastatic uveal melanoma patients treated on the United Kingdom expanded access programme.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42640561/",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "UTHR"
    ],
    "hard": false
   },
