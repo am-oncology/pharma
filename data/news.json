@@ -1,6 +1,17 @@
 {
- "as_of": "2026-08-24T21:48:15Z",
+ "as_of": "2026-08-25T07:53:00Z",
  "articles": [
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Imaavy (nipocalimab-aahu) as First-Ever Treatment for Warm Autoimmune Hemolytic Anemia",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-imaavy-nipocalimab-aahu-first-ever-warm-autoimmune-hemolytic-anemia-6862.html",
+   "published_iso": "2026-08-25",
+   "raw_score": 3.0,
+   "tickers": [
+    "JNJ"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "DC judge rejects Merck\u2019s IRA case more than three years after it was filed",

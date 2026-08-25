@@ -1,5 +1,5 @@
 {
- "as_of": "2026-08-24T21:48:15Z",
+ "as_of": "2026-08-25T07:53:00Z",
  "events": [
   {
    "date": "2026-08-25",
@@ -423,7 +423,7 @@
   },
   {
    "date": "2026-10-13",
-   "days_out": 50,
+   "days_out": 49,
    "kind": "earnings",
    "ticker": "JNJ",
    "name": "Johnson & Johnson",
@@ -519,7 +519,7 @@
   },
   {
    "date": "2026-10-22",
-   "days_out": 59,
+   "days_out": 58,
    "kind": "earnings",
    "ticker": "ARGX",
    "name": "argenx",
@@ -531,12 +531,48 @@
   },
   {
    "date": "2026-10-27",
-   "days_out": 64,
+   "days_out": 63,
    "kind": "earnings",
    "ticker": "NVS",
    "name": "Novartis",
    "label": "Earnings",
    "detail": "Novartis quarterly results",
+   "nct_id": "",
+   "estimated": true,
+   "weight": 0.3
+  },
+  {
+   "date": "2026-10-29",
+   "days_out": 65,
+   "kind": "earnings",
+   "ticker": "LLY",
+   "name": "Eli Lilly",
+   "label": "Earnings",
+   "detail": "Eli Lilly quarterly results",
+   "nct_id": "",
+   "estimated": true,
+   "weight": 0.3
+  },
+  {
+   "date": "2026-10-29",
+   "days_out": 65,
+   "kind": "earnings",
+   "ticker": "MRK",
+   "name": "Merck & Co",
+   "label": "Earnings",
+   "detail": "Merck & Co quarterly results",
+   "nct_id": "",
+   "estimated": true,
+   "weight": 0.3
+  },
+  {
+   "date": "2026-10-29",
+   "days_out": 65,
+   "kind": "earnings",
+   "ticker": "BMY",
+   "name": "Bristol Myers Squibb",
+   "label": "Earnings",
+   "detail": "Bristol Myers Squibb quarterly results",
    "nct_id": "",
    "estimated": true,
    "weight": 0.3
@@ -602,37 +638,13 @@
    "weight": 0.6
   },
   {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "days_out": 66,
    "kind": "earnings",
-   "ticker": "LLY",
-   "name": "Eli Lilly",
+   "ticker": "SNY",
+   "name": "Sanofi",
    "label": "Earnings",
-   "detail": "Eli Lilly quarterly results",
-   "nct_id": "",
-   "estimated": true,
-   "weight": 0.3
-  },
-  {
-   "date": "2026-10-29",
-   "days_out": 66,
-   "kind": "earnings",
-   "ticker": "MRK",
-   "name": "Merck & Co",
-   "label": "Earnings",
-   "detail": "Merck & Co quarterly results",
-   "nct_id": "",
-   "estimated": true,
-   "weight": 0.3
-  },
-  {
-   "date": "2026-10-29",
-   "days_out": 66,
-   "kind": "earnings",
-   "ticker": "BMY",
-   "name": "Bristol Myers Squibb",
-   "label": "Earnings",
-   "detail": "Bristol Myers Squibb quarterly results",
+   "detail": "Sanofi quarterly results",
    "nct_id": "",
    "estimated": true,
    "weight": 0.3
@@ -717,18 +729,6 @@
    "name": "AstraZeneca",
    "label": "Earnings",
    "detail": "AstraZeneca quarterly results",
-   "nct_id": "",
-   "estimated": true,
-   "weight": 0.3
-  },
-  {
-   "date": "2026-10-30",
-   "days_out": 67,
-   "kind": "earnings",
-   "ticker": "SNY",
-   "name": "Sanofi",
-   "label": "Earnings",
-   "detail": "Sanofi quarterly results",
    "nct_id": "",
    "estimated": true,
    "weight": 0.3
@@ -891,7 +891,7 @@
   },
   {
    "date": "2026-11-03",
-   "days_out": 71,
+   "days_out": 70,
    "kind": "earnings",
    "ticker": "BNTX",
    "name": "BioNTech",
