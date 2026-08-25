@@ -1,6 +1,17 @@
 {
- "as_of": "2026-08-25T07:53:00Z",
+ "as_of": "2026-08-25T12:26:38Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Bristol Myers ends deal with Cellares, cell therapy manufacturer to reorg",
+   "url": "https://endpoints.news/bristol-myers-ends-deal-with-cellares-cell-therapy-manufacturer-to-reorg/",
+   "published_iso": "2026-08-25",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMY"
+   ],
+   "hard": false
+  },
   {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Imaavy (nipocalimab-aahu) as First-Ever Treatment for Warm Autoimmune Hemolytic Anemia",
@@ -87,28 +98,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: Are cancer patients getting too much drug?",
-   "url": "https://www.statnews.com/2026/08/21/biotech-news-are-cancer-patients-us-getting-too-much-drug/?utm_campaign=rss",
-   "published_iso": "2026-08-21",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRNA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "Scientists deploy Merck\u2019s Ebola vaccine in DRC",
-   "url": "https://www.statnews.com/2026/08/21/health-news-scientists-deploy-merck-ebola-vaccine-in-drc/?utm_campaign=rss",
-   "published_iso": "2026-08-21",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
    "source": "Endpoints News",
    "title": "Using gray-market versions of Lilly\u2019s triple-G leads to relatively poor weight loss, study finds",
    "url": "https://endpoints.news/using-gray-market-versions-of-lillys-triple-g-leads-to-relatively-poor-weight-loss-study-finds/",
@@ -127,17 +116,6 @@
    "raw_score": 0.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "FDA approves Ultragenyx's gene therapy Genglycos for glycogen storage disorder",
-   "url": "https://endpoints.news/fda-approves-ultragenyxs-gene-therapy-genglycos-for-glycogen-storage-disorder/",
-   "published_iso": "2026-08-20",
-   "raw_score": 3.0,
-   "tickers": [
-    "RARE"
    ],
    "hard": false
   },
@@ -309,29 +287,6 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Merck, Moderna\u2019s personalized cancer vaccine slows recurrence in phase 3, setting up approval push",
-   "url": "https://www.fiercebiotech.com/biotech/merck-and-modernas-personalized-cancer-vaccine-slows-recurrence-ph-3-trial",
-   "published_iso": "",
-   "raw_score": 2.2,
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Merck and Sarah Cannon team up to boost oncology trial efficiency",
-   "url": "https://www.fiercebiotech.com/cro/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
    "source": "FiercePharma",
    "title": "Merck, AZ lawsuits against Medicare price negotiations swatted down",
    "url": "https://www.fiercepharma.com/pharma/merck-az-lawsuits-against-medicare-price-negotiations-are-swatted-away",
@@ -452,17 +407,6 @@
    "raw_score": 0.0,
    "tickers": [
     "RARE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Regeneron's Pasatru scores FDA approval in ultra-rare bone lesions disorder",
-   "url": "https://www.fiercepharma.com/pharma/regeneron-approval-fop",
-   "published_iso": "",
-   "raw_score": 3.0,
-   "tickers": [
-    "REGN"
    ],
    "hard": false
   },
