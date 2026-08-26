@@ -1,5 +1,5 @@
 {
- "as_of": "2026-08-26T07:55:36Z",
+ "as_of": "2026-08-26T12:28:16Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -113,18 +113,6 @@
    "tickers": [
     "MRK",
     "AMGN",
-    "MRNA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Inside Moderna and Merck\u2019s cancer vaccine triumph",
-   "url": "https://www.statnews.com/2026/08/24/inside-moderna-and-merck-cancer-vaccine-triumph/?utm_campaign=rss",
-   "published_iso": "2026-08-24",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
     "MRNA"
    ],
    "hard": false
@@ -396,17 +384,6 @@
    "tickers": [
     "REGN",
     "ILMN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Aurinia settles with Teva, helping stave off potential Lupkynis generic until late 2036",
-   "url": "https://www.fiercepharma.com/pharma/aurinia-settles-teva-securing-market-exclusivity-lupkynis-until-late-2036",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "UTHR"
    ],
    "hard": false
   },
