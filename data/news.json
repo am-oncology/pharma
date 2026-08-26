@@ -1,5 +1,5 @@
 {
- "as_of": "2026-08-25T21:47:53Z",
+ "as_of": "2026-08-26T07:55:36Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -42,6 +42,17 @@
    "raw_score": 0.0,
    "tickers": [
     "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "U.S. FDA Approves Ziihera (zanidatamab-hrii) with and without Tislelizumab plus Chemotherapy in First-Line HER2+ Advanced Gastroesophageal Adenocarcinoma",
+   "url": "https://www.drugs.com/newdrugs/u-s-fda-approves-ziihera-zanidatamab-hrii-without-tislelizumab-plus-chemotherapy-first-line-her2-6863.html",
+   "published_iso": "2026-08-25",
+   "raw_score": 3.0,
+   "tickers": [
+    "JAZZ"
    ],
    "hard": false
   },
