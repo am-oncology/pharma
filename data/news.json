@@ -1,6 +1,72 @@
 {
- "as_of": "2026-08-26T12:28:16Z",
+ "as_of": "2026-08-27T00:51:41Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Cellares rebukes Bristol Myers' criticism of its cell therapy technology",
+   "url": "https://endpoints.news/cellares-rebukes-bristol-myers-criticism-of-its-cell-therapy-technology/",
+   "published_iso": "2026-08-26",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves Revolution Medicines' pancreatic cancer drug",
+   "url": "https://endpoints.news/fda-approves-revolution-medicines-pancreatic-cancer-drug/",
+   "published_iso": "2026-08-26",
+   "raw_score": 3.0,
+   "tickers": [
+    "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "An uncertain future for Aurora, the first startup dedicated to custom CRISPR therapies",
+   "url": "https://endpoints.news/an-uncertain-future-for-aurora-the-first-startup-dedicated-to-custom-crispr-therapies/",
+   "published_iso": "2026-08-26",
+   "raw_score": 0.0,
+   "tickers": [
+    "CRSP"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Key data on a new class of cardio drugs are coming",
+   "url": "https://www.statnews.com/2026/08/26/biotech-news-key-data-on-new-class-of-cardio-drugs-coming/?utm_campaign=rss",
+   "published_iso": "2026-08-26",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about a GSK shingles shot, U.S. employers dropping GLP-1 coverage, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/08/26/gsk-shingles-shot-us-employers-dropping-glp1-coverage/?utm_campaign=rss",
+   "published_iso": "2026-08-26",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Rasonque (daraxonrasib), the First Broad RAS-Targeted Medicine in Metastatic Pancreatic Cancer",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-rasonque-daraxonrasib-first-broad-ras-targeted-medicine-metastatic-pancreatic-cancer-6865.html",
+   "published_iso": "2026-08-26",
+   "raw_score": 3.0,
+   "tickers": [
+    "RVMD"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Amgen, academic centers weigh new FDA pilot to speed early drug trials",
@@ -105,31 +171,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: Lady Gaga and her fianc\u00e9 launch a biotech startup",
-   "url": "https://www.statnews.com/2026/08/24/biotech-news-lady-gaga-and-her-fiance-launch-biotech-startup/?utm_campaign=rss",
-   "published_iso": "2026-08-24",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "AMGN",
-    "MRNA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Third death in China\u2019s expedited trials; Merck and Moderna\u2019s cancer vaccine win; and more",
-   "url": "https://endpoints.news/third-death-in-chinas-expedited-trials-merck-and-modernas-cancer-vaccine-win-and-more/",
-   "published_iso": "2026-08-22",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Grants Accelerated Approval for Genglycos (pariglasgene brecaparvovec-opnr) Gene Therapy for the Treatment of Glycogen Storage Disease Type Ia",
    "url": "https://www.drugs.com/newdrugs/fda-grants-accelerated-approval-genglycos-pariglasgene-brecaparvovec-opnr-gene-therapy-glycogen-6861.html",
@@ -230,13 +271,13 @@
    "hard": false
   },
   {
-   "source": "Drugs.com New Approvals",
-   "title": "FDA Approves Leqembi Iqlik (lecanemab-irmb) Subcutaneous Injection as an Initiation Dose for Early Alzheimer\u2019s Disease",
-   "url": "https://www.drugs.com/newdrugs/fda-approves-leqembi-iqlik-lecanemab-irmb-subcutaneous-initiation-early-alzheimer-s-6839.html",
-   "published_iso": "2026-07-13",
-   "raw_score": 3.0,
+   "source": "FierceBiotech",
+   "title": "FDA greenlights Revolution Medicines' pancreatic cancer gamechanger",
+   "url": "https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger",
+   "published_iso": "",
+   "raw_score": 0.0,
    "tickers": [
-    "BIIB"
+    "RVMD"
    ],
    "hard": false
   },
@@ -252,47 +293,13 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Chai tees up Bristol Myers Squibb AI antibody discovery collab",
-   "url": "https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal",
+   "source": "FiercePharma",
+   "title": "FDA greenlights Revolution Medicines' pancreatic cancer gamechanger",
+   "url": "https://www.fiercepharma.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "BMY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Lilly pens deal with Gateway Labs resident Amplitude for RNA vaccine platform for infectious disease",
-   "url": "https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Merck-Moderna cancer vaccine win spurs stock jump, speculation of Keytruda-like impact",
-   "url": "https://www.fiercebiotech.com/biotech/merck-moderna-cancer-vaccine-data-spur-speculation-keytruda-impact",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Amgen abandoning $500M+ Crohn\u2019s collab won\u2019t derail TScan\u2019s pipeline strategy",
-   "url": "https://www.fiercebiotech.com/biotech/amgen-abandons-500m-inflammation-team-tscan-therapeutics",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AMGN"
+    "RVMD"
    ],
    "hard": false
   },
@@ -332,17 +339,6 @@
   },
   {
    "source": "FiercePharma",
-   "title": "Regulatory tracker: GSK's world-first hep B nod; Another Trodelvy approval in EU",
-   "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
    "title": "When is the new who: The importance of timing in HCP marketing",
    "url": "https://www.fiercepharma.com/sponsored/when-new-who-importance-timing-hcp-marketing",
    "published_iso": "",
@@ -361,29 +357,6 @@
    "tickers": [
     "LLY",
     "NVO"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Fierce Pharma Asia\u2014China's IIT scrutiny; Daiichi Sankyo, AZ ph. 3 win; Leo, Tanabe's dermatology deal",
-   "url": "https://www.fiercepharma.com/pharma/fierce-pharma-asia-chinas-iit-unravels-daiichi-sankyo-az-ph3-win-leo-tanabe-derm-deal",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Regeneron podcast turns science learnings into immersive experience",
-   "url": "https://www.fiercepharma.com/marketing/regeneron-breathes-out-calming-visual-tour-its-science-new-podcast-series",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "REGN",
-    "ILMN"
    ],
    "hard": false
   },
