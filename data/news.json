@@ -1,6 +1,87 @@
 {
- "as_of": "2026-08-27T00:51:41Z",
+ "as_of": "2026-08-27T18:14:11Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Lilly's move to hide Phase 1 pipeline draws mixed reviews",
+   "url": "https://endpoints.news/lillys-move-to-hide-phase-1-pipeline-draws-mixed-reviews/",
+   "published_iso": "2026-08-27",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Moderna's $2B offering; AstraZeneca-Amgen and Biokin chalk up Phase 3 wins",
+   "url": "https://endpoints.news/modernas-2b-offering-astrazeneca-amgen-and-biokin-chalk-up-phase-3-wins/",
+   "published_iso": "2026-08-27",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "AMGN",
+    "MRNA"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "RayzeBio's $173M radiopharma plan; Lonza creates commercial chief position",
+   "url": "https://endpoints.news/lonza-creates-commercial-chief-position-wuxi-biologics-reports-revenue-jump/",
+   "published_iso": "2026-08-27",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "What\u2019s in Merck and Moderna\u2019s cancer vaccine algorithm?",
+   "url": "https://www.statnews.com/2026/08/27/biotech-news-whats-in-merck-and-modernas-cancer-vaccine-algorithm/?utm_campaign=rss",
+   "published_iso": "2026-08-27",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about a pancreatic cancer drug approval, a Trump deal with biotechs, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/08/27/pancreatic-cancer-drug-approved-trump-deal-with-biotechs/?utm_campaign=rss",
+   "published_iso": "2026-08-27",
+   "raw_score": 0.0,
+   "tickers": [
+    "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Alnylam\u2019s heart drug troubles take center stage at a cardiology conference",
+   "url": "https://www.statnews.com/2026/08/27/alnylam-amvuttra-nucresiran-heart-drugs-esc/?utm_campaign=rss",
+   "published_iso": "2026-08-27",
+   "raw_score": 0.0,
+   "tickers": [
+    "ALNY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: The mystery of Moderna\u2019s magic algorithm",
+   "url": "https://www.statnews.com/2026/08/27/moderna-merck-cancer-vaccine-secret-ingredient-an-algorithm/?utm_campaign=rss",
+   "published_iso": "2026-08-27",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Cellares rebukes Bristol Myers' criticism of its cell therapy technology",
@@ -38,17 +119,6 @@
    "source": "STAT News",
    "title": "STAT+: Key data on a new class of cardio drugs are coming",
    "url": "https://www.statnews.com/2026/08/26/biotech-news-key-data-on-new-class-of-cardio-drugs-coming/?utm_campaign=rss",
-   "published_iso": "2026-08-26",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about a GSK shingles shot, U.S. employers dropping GLP-1 coverage, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/08/26/gsk-shingles-shot-us-employers-dropping-glp1-coverage/?utm_campaign=rss",
    "published_iso": "2026-08-26",
    "raw_score": 0.0,
    "tickers": [
@@ -101,17 +171,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about RFK Jr. vaccine disclosures, a Merck loss over Medicare prices, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/08/25/rfk-vaccine-disclosure-merck-court-loss-over-medicare/?utm_campaign=rss",
-   "published_iso": "2026-08-25",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "U.S. FDA Approves Ziihera (zanidatamab-hrii) with and without Tislelizumab plus Chemotherapy in First-Line HER2+ Advanced Gastroesophageal Adenocarcinoma",
    "url": "https://www.drugs.com/newdrugs/u-s-fda-approves-ziihera-zanidatamab-hrii-without-tislelizumab-plus-chemotherapy-first-line-her2-6863.html",
@@ -130,43 +189,6 @@
    "raw_score": 3.0,
    "tickers": [
     "JNJ"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "DC judge rejects Merck\u2019s IRA case more than three years after it was filed",
-   "url": "https://endpoints.news/dc-judge-rejects-mercks-ira-case-more-than-three-years-after-it-was-filed/",
-   "published_iso": "2026-08-24",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "TwinStrand wins patent case; GSK\u2019s hepatitis B drug approved in Japan",
-   "url": "https://endpoints.news/twinstrand-wins-patent-case-gsks-hepatitis-b-drug-approved-in-japan/",
-   "published_iso": "2026-08-24",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "News on AstraZeneca, Cytokinetics, Novartis \u2014 what to look out for at ESC 2026",
-   "url": "https://endpoints.news/news-on-astrazeneca-cytokinetics-novartis-what-to-look-out-for-at-esc-2026/",
-   "published_iso": "2026-08-24",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN",
-    "NVS",
-    "IONS",
-    "CYTK",
-    "CRSP"
    ],
    "hard": false
   },
@@ -272,6 +294,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Roche nabs expanded FDA approval for diagnostic tied to Jazz\u2019s cancer drug",
+   "url": "https://www.fiercebiotech.com/medtech/roches-nabs-expanded-fda-approval-diagnostic-aimed-jazzs-cancer-drug",
+   "published_iso": "",
+   "raw_score": 3.0,
+   "tickers": [
+    "JAZZ"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "FDA greenlights Revolution Medicines' pancreatic cancer gamechanger",
    "url": "https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger",
    "published_iso": "",
@@ -282,13 +315,38 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Roche, Eli Lilly net FDA approval for first-of-its-kind Alzheimer\u2019s biomarker blood test",
-   "url": "https://www.fiercebiotech.com/medtech/roche-eli-lilly-see-fda-approval-first-its-kind-alzheimers-biomarker-blood-test",
+   "source": "FiercePharma",
+   "title": "As RevMed preps for \u2018historic\u2019 pancreatic cancer launch, questions linger on the ground",
+   "url": "https://www.fiercepharma.com/pharma/revmed-preps-historic-pancreatic-cancer-launch-questions-linger-ground",
    "published_iso": "",
-   "raw_score": 3.0,
+   "raw_score": 0.0,
    "tickers": [
-    "LLY"
+    "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Amgen, AZ\u2019s Tezspire lands phase 3 eosinophilic esophagitis win, turning up heat on Dupixent",
+   "url": "https://www.fiercepharma.com/pharma/amgen-az-tezspire-phase-3-eosinophilic-esophagitis-turning-heat-dupixent",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "SNY",
+    "AMGN",
+    "REGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "AbbVie's patient support extends to the classroom with immunology scholarship program",
+   "url": "https://www.fiercepharma.com/marketing/abbvies-patient-support-extends-classroom-immunology-scholarship-program",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "ABBV"
    ],
    "hard": false
   },
@@ -334,29 +392,6 @@
    "raw_score": 0.0,
    "tickers": [
     "UTHR"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "When is the new who: The importance of timing in HCP marketing",
-   "url": "https://www.fiercepharma.com/sponsored/when-new-who-importance-timing-hcp-marketing",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "SAGE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill back on track as Lilly's momentum slows",
-   "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY",
-    "NVO"
    ],
    "hard": false
   },
