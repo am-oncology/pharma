@@ -1,6 +1,123 @@
 {
- "as_of": "2026-08-28T05:27:32Z",
+ "as_of": "2026-08-28T19:24:14Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Mounjaro scores FDA approval to reduce CV risk; Teva to buy an approved drug",
+   "url": "https://endpoints.news/mounjaro-scores-fda-approval-to-reduce-cv-risk-teva-to-buy-an-approved-drug/",
+   "published_iso": "2026-08-28",
+   "raw_score": 3.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine",
+   "url": "https://endpoints.news/biontech-genentech-terminate-phase-2-of-personalized-mrna-cancer-vaccine/",
+   "published_iso": "2026-08-28",
+   "raw_score": -2.2,
+   "tickers": [
+    "MRK",
+    "MRNA",
+    "BNTX"
+   ],
+   "hard": true
+  },
+  {
+   "source": "Endpoints News",
+   "title": "#ESC26: CRISPR Therapeutics to pursue highest dose of its lipid lowering gene editing therapy",
+   "url": "https://endpoints.news/esc26-crispr-therapeutics-to-pursue-highest-dose-of-its-lipid-lowering-gene-editing-therapy/",
+   "published_iso": "2026-08-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "CRSP"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Daiichi Sankyo to give commercial team a makeover; Novo Nordisk's GPCR partner finds CMO",
+   "url": "https://endpoints.news/daiichi-sankyos-commercial-team-to-get-a-makeover-novo-nordisks-gpcr-partner-finds-cmo/",
+   "published_iso": "2026-08-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "#ESC26: Data in hand, Cytokinetics looks to expanded Myqorzo approval",
+   "url": "https://endpoints.news/esc26-data-in-hand-cytokinetics-looks-to-expanded-myqorzo-approval/",
+   "published_iso": "2026-08-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "CYTK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "#ESC26: Trial failure clouds future of AstraZeneca\u2019s heart disease gene silencer",
+   "url": "https://endpoints.news/esc26-trial-failure-clouds-future-of-astrazenecas-heart-disease-gene-silencer/",
+   "published_iso": "2026-08-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "PFE",
+    "AZN",
+    "IONS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: AstraZeneca and Ionis detail surprise failure of heart disease drug, with Alnylam closely watching",
+   "url": "https://www.statnews.com/2026/08/28/biotech-news-astrazeneca-ionis-detail-surprise-failure-of-heart-disease-drug/?utm_campaign=rss",
+   "published_iso": "2026-08-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "ALNY",
+    "IONS",
+    "CYTK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about an AstraZeneca trial failure, a \u2018monstrous\u2019 conflict of interest, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/08/28/astrazeneca-trial-failure-monstrous-conflict-of-interest/?utm_campaign=rss",
+   "published_iso": "2026-08-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Cytokinetics details trial win for what could be its next approval",
+   "url": "https://www.statnews.com/2026/08/28/cytokinetics-myqorzo-aficamten-nhcm-acacia-trial-success/?utm_campaign=rss",
+   "published_iso": "2026-08-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "CYTK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: In autopsy of failed heart disease study, AstraZeneca raises broader questions about silencer drugs",
+   "url": "https://www.statnews.com/2026/08/28/astrazeneca-ionis-wainua-eplontersen-attr-cm-study-failure-bridgebio-alnylam/?utm_campaign=rss",
+   "published_iso": "2026-08-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Gilead gets another HIV treatment approval, extending lenacapavir's dominance",
@@ -82,18 +199,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: The mystery of Moderna\u2019s magic algorithm",
-   "url": "https://www.statnews.com/2026/08/27/moderna-merck-cancer-vaccine-secret-ingredient-an-algorithm/?utm_campaign=rss",
-   "published_iso": "2026-08-27",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "hard": false
-  },
-  {
    "source": "Endpoints News",
    "title": "Cellares rebukes Bristol Myers' criticism of its cell therapy technology",
    "url": "https://endpoints.news/cellares-rebukes-bristol-myers-criticism-of-its-cell-therapy-technology/",
@@ -127,17 +232,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: Key data on a new class of cardio drugs are coming",
-   "url": "https://www.statnews.com/2026/08/26/biotech-news-key-data-on-new-class-of-cardio-drugs-coming/?utm_campaign=rss",
-   "published_iso": "2026-08-26",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Rasonque (daraxonrasib), the First Broad RAS-Targeted Medicine in Metastatic Pancreatic Cancer",
    "url": "https://www.drugs.com/newdrugs/fda-approves-rasonque-daraxonrasib-first-broad-ras-targeted-medicine-metastatic-pancreatic-cancer-6865.html",
@@ -156,28 +250,6 @@
    "raw_score": 3.0,
    "tickers": [
     "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Amgen, academic centers weigh new FDA pilot to speed early drug trials",
-   "url": "https://endpoints.news/amgen-academic-centers-weigh-new-fda-pilot-to-speed-early-drug-trials/",
-   "published_iso": "2026-08-25",
-   "raw_score": 0.0,
-   "tickers": [
-    "AMGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "FDA approves Jazz's Ziihera in frontline gastric cancer",
-   "url": "https://endpoints.news/fda-approves-jazzs-ziihera-in-frontline-gastric-cancer/",
-   "published_iso": "2026-08-25",
-   "raw_score": 3.0,
-   "tickers": [
-    "JAZZ"
    ],
    "hard": false
   },
@@ -305,6 +377,30 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "BioNTech-Genentech cancer vax records more deaths than control in scrapped ph. 2 test",
+   "url": "https://www.fiercebiotech.com/biotech/biontech-genentech-personalized-cancer-vaccine-posts-worse-patient-survival-terminated-ph-2",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK",
+    "MRNA",
+    "BNTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Teva saddles up as stalking horse bidder for bankrupt BioXcel\u2019s neuroscience portfolio",
+   "url": "https://www.fiercebiotech.com/biotech/teva-saddles-stalking-horse-bidder-bankrupt-bioxcels-neuroscience-portfolio",
+   "published_iso": "",
+   "raw_score": 2.5,
+   "tickers": [
+    "PTCT"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Roche nabs expanded FDA approval for diagnostic tied to Jazz\u2019s cancer drug",
    "url": "https://www.fiercebiotech.com/medtech/roches-nabs-expanded-fda-approval-diagnostic-aimed-jazzs-cancer-drug",
    "published_iso": "",
@@ -322,6 +418,63 @@
    "raw_score": 0.0,
    "tickers": [
     "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Lilly scores Novo-pressuring Mounjaro expansion to curb heart risks in diabetes patients",
+   "url": "https://www.fiercepharma.com/pharma/lilly-scores-fda-expansion-mounjaro-reduce-risk-heart-attack-stroke",
+   "published_iso": "",
+   "raw_score": 3.0,
+   "tickers": [
+    "LLY",
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Biogen enlists lupus patient advocate to share social media story of resilience",
+   "url": "https://www.fiercepharma.com/marketing/biogen-enlists-lupus-patient-advocate-share-social-media-story-resilience",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "BIIB"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "The Oral GLP-1 Tracker: Lilly's Foundayo scripts cross 40K",
+   "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY",
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Teva saddles up as stalking horse bidder for bankrupt BioXcel\u2019s neuroscience portfolio",
+   "url": "https://www.fiercepharma.com/biotech/teva-saddles-stalking-horse-bidder-bankrupt-bioxcels-neuroscience-portfolio",
+   "published_iso": "",
+   "raw_score": 2.5,
+   "tickers": [
+    "PTCT"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "ESC: Cytokinetics delves deeper on \u2018huge\u2019 Myqorzo readout, fueling cardiomyopathy expansion bid",
+   "url": "https://www.fiercepharma.com/pharma/esc-2026-cytokinetics-delves-deeper-huge-myqorzo-readout-fueling-cardiomyopathy-expansion",
+   "published_iso": "",
+   "raw_score": 1.2,
+   "tickers": [
+    "CYTK"
    ],
    "hard": false
   },
@@ -406,29 +559,6 @@
    "hard": false
   },
   {
-   "source": "FiercePharma",
-   "title": "Jazz's HER2 bispecific Ziihera gains FDA approval to change practice in stomach cancer",
-   "url": "https://www.fiercepharma.com/pharma/jazz-her2-bispecific-ziihera-gains-fda-approval-change-practice-stomach-cancer",
-   "published_iso": "",
-   "raw_score": 3.0,
-   "tickers": [
-    "JAZZ"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Merck, AZ lawsuits against Medicare price negotiations swatted down",
-   "url": "https://www.fiercepharma.com/pharma/merck-az-lawsuits-against-medicare-price-negotiations-are-swatted-away",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
    "source": "FDA Press Releases",
    "title": "FDA Licenses First-Ever Freeze-Dried Plasma Product in the U.S.",
    "url": "http://www.fda.gov/news-events/press-announcements/fda-licenses-first-ever-freeze-dried-plasma-product-us",
@@ -469,17 +599,6 @@
    "raw_score": 0.0,
    "tickers": [
     "UTHR"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Journal of hematology & oncology",
-   "title": "The KRAS targeting revolution in metastatic pancreatic cancer: insights from the landmark RASolute-302 trial and emerging allele-specific strategies at ASCO 2026.",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42571010/",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "RVMD"
    ],
    "hard": false
   }
