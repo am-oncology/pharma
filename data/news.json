@@ -1,6 +1,17 @@
 {
- "as_of": "2026-08-27T18:14:11Z",
+ "as_of": "2026-08-28T05:27:32Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Gilead gets another HIV treatment approval, extending lenacapavir's dominance",
+   "url": "https://endpoints.news/gilead-gets-another-hiv-treatment-approval-extending-lenacapavirs-dominance/",
+   "published_iso": "2026-08-27",
+   "raw_score": 0.0,
+   "tickers": [
+    "GILD"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Lilly's move to hide Phase 1 pipeline draws mixed reviews",
@@ -138,6 +149,17 @@
    "hard": false
   },
   {
+   "source": "Drugs.com New Approvals",
+   "title": "U.S. FDA Approves ViiV Healthcare\u2019s Tivicay PD for HIV Treatment in Pediatric Patients Weighing at Least 2 kg",
+   "url": "https://www.drugs.com/newdrugs/u-s-fda-approves-viiv-healthcare-s-tivicay-pd-hiv-pediatric-patients-weighing-least-2-kg-6866.html",
+   "published_iso": "2026-08-26",
+   "raw_score": 3.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
    "source": "Endpoints News",
    "title": "Amgen, academic centers weigh new FDA pilot to speed early drug trials",
    "url": "https://endpoints.news/amgen-academic-centers-weigh-new-fda-pilot-to-speed-early-drug-trials/",
@@ -156,17 +178,6 @@
    "raw_score": 3.0,
    "tickers": [
     "JAZZ"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Bristol Myers ends deal with Cellares, cell therapy manufacturer to reorg",
-   "url": "https://endpoints.news/bristol-myers-ends-deal-with-cellares-cell-therapy-manufacturer-to-reorg/",
-   "published_iso": "2026-08-25",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY"
    ],
    "hard": false
   },
@@ -316,6 +327,39 @@
   },
   {
    "source": "FiercePharma",
+   "title": "Priovant pushes ex-Pfizer asset across FDA finish line in rare skin and muscle disease",
+   "url": "https://www.fiercepharma.com/pharma/priovant-pushes-ex-pfizer-asset-across-fda-finish-line-rare-skin-and-muscle-disease",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "PFE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Gilead christens Bixlenvo with FDA nod for new HIV treatment combo tablet",
+   "url": "https://www.fiercepharma.com/pharma/gilead-christens-bixlenvo-fda-nod-new-hiv-treatment-combo-pill",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GILD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "BMS splashes out $173M to build 2nd radiopharmaceutical plant in Indiana",
+   "url": "https://www.fiercepharma.com/manufacturing/bms-build-2nd-radiopharmaceutical-plant-indiana-173m",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "As RevMed preps for \u2018historic\u2019 pancreatic cancer launch, questions linger on the ground",
    "url": "https://www.fiercepharma.com/pharma/revmed-preps-historic-pancreatic-cancer-launch-questions-linger-ground",
    "published_iso": "",
@@ -381,17 +425,6 @@
    "tickers": [
     "MRK",
     "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "After Trump order, RFK Jr. seeks input on US pediatric vaccine recommendations",
-   "url": "https://www.fiercepharma.com/pharma/rfk-jr-seeks-public-input-how-us-formulates-childhood-vaccine-recommendations",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "UTHR"
    ],
    "hard": false
   },
