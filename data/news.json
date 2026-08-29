@@ -1,5 +1,5 @@
 {
- "as_of": "2026-08-28T21:38:03Z",
+ "as_of": "2026-08-29T03:15:15Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -119,6 +119,28 @@
    "hard": false
   },
   {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Bixlenvo (bictegravir and lenacapavir) for the Treatment of HIV in Adults Who Are Virologically Suppressed",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-bixlenvo-bictegravir-lenacapavir-hiv-adults-virologically-suppressed-6868.html",
+   "published_iso": "2026-08-28",
+   "raw_score": 3.0,
+   "tickers": [
+    "GILD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Lilly's Mounjaro (tirzepatide) to Reduce Cardiovascular Risk in Adults with Type 2 Diabetes",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-lilly-s-mounjaro-tirzepatide-reduce-cardiovascular-risk-adults-type-2-diabetes-6870.html",
+   "published_iso": "2026-08-28",
+   "raw_score": 3.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
    "source": "Endpoints News",
    "title": "Gilead gets another HIV treatment approval, extending lenacapavir's dominance",
    "url": "https://endpoints.news/gilead-gets-another-hiv-treatment-approval-extending-lenacapavirs-dominance/",
@@ -188,6 +210,29 @@
    "hard": false
   },
   {
+   "source": "Drugs.com New Approvals",
+   "title": "Moderna Receives U.S. FDA Approval for Updated 2026-2027 Spikevax and mNEXSPIKE COVID-19 Vaccines",
+   "url": "https://www.drugs.com/newdrugs/moderna-receives-u-s-fda-approval-updated-2026-2027-spikevax-mnexspike-covid-19-vaccines-6871.html",
+   "published_iso": "2026-08-27",
+   "raw_score": 3.0,
+   "tickers": [
+    "MRNA"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-Adapted Comirnaty COVID-19 Vaccine",
+   "url": "https://www.drugs.com/newdrugs/pfizer-biontech-receive-u-s-fda-approval-xfg-adapted-comirnaty-covid-19-vaccine-6869.html",
+   "published_iso": "2026-08-27",
+   "raw_score": 3.0,
+   "tickers": [
+    "PFE",
+    "BNTX"
+   ],
+   "hard": false
+  },
+  {
    "source": "Endpoints News",
    "title": "Cellares rebukes Bristol Myers' criticism of its cell therapy technology",
    "url": "https://endpoints.news/cellares-rebukes-bristol-myers-criticism-of-its-cell-therapy-technology/",
@@ -206,17 +251,6 @@
    "raw_score": 3.0,
    "tickers": [
     "RVMD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "An uncertain future for Aurora, the first startup dedicated to custom CRISPR therapies",
-   "url": "https://endpoints.news/an-uncertain-future-for-aurora-the-first-startup-dedicated-to-custom-crispr-therapies/",
-   "published_iso": "2026-08-26",
-   "raw_score": 0.0,
-   "tickers": [
-    "CRSP"
    ],
    "hard": false
   },
@@ -350,17 +384,6 @@
    "tickers": [
     "MRK",
     "UTHR"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Drugs.com New Approvals",
-   "title": "FDA Grants Traditional Approval to Retevmo (selpercatinib) for Locally Advanced or Metastatic RET Fusion-Positive Solid Tumors",
-   "url": "https://www.drugs.com/newdrugs/fda-grants-traditional-approval-retevmo-selpercatinib-locally-advanced-metastatic-ret-fusion-6842.html",
-   "published_iso": "2026-07-14",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
    ],
    "hard": false
   },

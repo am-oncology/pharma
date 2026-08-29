@@ -1,12 +1,12 @@
 {
- "as_of": "2026-08-28T21:38:03Z",
+ "as_of": "2026-08-29T03:15:15Z",
  "demo": false,
  "universe_size": 70,
  "ranked": 62,
  "counts": {
   "constructive": 3,
-  "neutral": 50,
-  "deteriorating": 9
+  "neutral": 48,
+  "deteriorating": 11
  },
  "weights": {
   "relative_strength": 0.22,
@@ -44,7 +44,7 @@
      "ras"
     ],
     "held": false,
-    "score": 1.489,
+    "score": 1.406,
     "bucket": "constructive",
     "override": null,
     "contributions": {
@@ -52,7 +52,7 @@
      "trend": 0.2327,
      "long_momentum": 0.2337,
      "accumulation": 0.0523,
-     "news_sentiment": 0.6444,
+     "news_sentiment": 0.5615,
      "catalyst_proximity": -0.0982,
      "trial_momentum": 0.0843,
      "reversion_penalty": 0.0295,
@@ -64,9 +64,9 @@
      "trend": 0.8723,
      "long_momentum": 1.0376,
      "accumulation": 0.1084,
-     "news_sentiment": 2.5176,
+     "news_sentiment": 2.4924,
      "catalyst_proximity": 0.0,
-     "trial_momentum": 0.7737,
+     "trial_momentum": 0.773,
      "reversion_penalty": 0.0917,
      "dilution_risk": -0.5,
      "drawdown_risk": 0.0
@@ -304,7 +304,7 @@
      "oncology"
     ],
     "held": false,
-    "score": 1.021,
+    "score": 0.928,
     "bucket": "constructive",
     "override": null,
     "contributions": {
@@ -312,7 +312,7 @@
      "trend": 0.0464,
      "long_momentum": -0.0625,
      "accumulation": 0.0331,
-     "news_sentiment": 0.3304,
+     "news_sentiment": 0.2372,
      "catalyst_proximity": 0.1724,
      "trial_momentum": 0.1457,
      "reversion_penalty": 0.0086,
@@ -324,9 +324,9 @@
      "trend": 0.3833,
      "long_momentum": 0.0187,
      "accumulation": 0.0921,
-     "news_sentiment": 0.8897,
+     "news_sentiment": 0.8705,
      "catalyst_proximity": 2.3415,
-     "trial_momentum": 1.1328,
+     "trial_momentum": 1.1317,
      "reversion_penalty": 0.1216,
      "dilution_risk": -1.0,
      "drawdown_risk": 0.0
@@ -345,9 +345,9 @@
     "ret_63d": 0.2933363801396469,
     "ret_252d": 0.35999441035576707,
     "rs_63d": 0.10422671372994552,
-    "rsi14": 56.08242701611467,
+    "rsi14": 56.08242697490103,
     "vol_ann": 0.2940259220168681,
-    "beta": 0.5154894718142227,
+    "beta": 0.5154897683951304,
     "drawdown_52w": -0.05548026131501127,
     "gap_events": 0,
     "volume_z": -0.7951474562044167,
@@ -517,140 +517,137 @@
     ]
    },
    {
-    "ticker": "LLY",
-    "name": "Eli Lilly",
+    "ticker": "PFE",
+    "name": "Pfizer",
     "tier": "large",
     "tags": [
      "pharma",
-     "metabolic",
-     "oncology"
+     "oncology",
+     "vaccines"
     ],
     "held": false,
-    "score": 0.776,
+    "score": 0.768,
     "bucket": "constructive",
     "override": null,
     "contributions": {
-     "relative_strength": -0.092,
-     "trend": -0.0245,
-     "long_momentum": -0.0232,
-     "accumulation": -0.1161,
-     "news_sentiment": 0.6444,
-     "catalyst_proximity": 0.1479,
-     "trial_momentum": 0.0532,
-     "reversion_penalty": 0.0318,
+     "relative_strength": -0.0068,
+     "trend": 0.0488,
+     "long_momentum": -0.052,
+     "accumulation": 0.0899,
+     "news_sentiment": 0.5615,
+     "catalyst_proximity": 0.0955,
+     "trial_momentum": -0.015,
+     "reversion_penalty": -0.1091,
      "dilution_risk": 0.1293,
      "drawdown_risk": 0.0257
     },
     "raw": {
-     "relative_strength": -0.0998,
-     "trend": 0.202,
-     "long_momentum": 0.1201,
-     "accumulation": -0.0339,
-     "news_sentiment": 1.9377,
-     "catalyst_proximity": 2.1273,
-     "trial_momentum": 0.641,
-     "reversion_penalty": 0.0885,
+     "relative_strength": -0.049,
+     "trend": 0.3894,
+     "long_momentum": 0.0459,
+     "accumulation": 0.1401,
+     "news_sentiment": 1.7401,
+     "catalyst_proximity": 1.6744,
+     "trial_momentum": 0.3501,
+     "reversion_penalty": 0.2896,
      "dilution_risk": -1.0,
      "drawdown_risk": 0.0
     },
     "reasons": [
-     "Positive coverage: Mounjaro scores FDA approval to reduce CV risk; Teva to buy an approved drug",
-     "Phase 1 readout window opens in -28 days (NCT07165002).",
+     "Positive coverage: Pfizer and BioNTech Receive U.S. FDA Approval for XFG-Adapted Comirnaty COVID-19 Vaccine",
      "Operations are cash generative.",
-     "Lagging XBI by 12 points over three months."
+     "RSI at 64 \u2014 stretched, so entry timing matters.",
+     "Phase 3 readout window opens in 2 days (NCT07543380).",
+     "Volume running -0.8 standard deviations from normal, on up days."
     ],
-    "price": 1174.6099853515625,
-    "ret_1d": -0.0012668907961099762,
-    "ret_5d": -0.06435402062398987,
-    "ret_21d": 0.01846215723475142,
-    "ret_63d": 0.06451871275876297,
-    "ret_252d": 0.6100062142084848,
-    "rs_63d": -0.12459095365093842,
-    "rsi14": 45.57690944500668,
-    "vol_ann": 0.3432783970060732,
-    "beta": 0.45659869591240454,
-    "drawdown_52w": -0.08257961423629301,
+    "price": 27.959999084472656,
+    "ret_1d": -0.002141376599242406,
+    "ret_5d": -0.0039187962788558295,
+    "ret_21d": 0.12244075695477807,
+    "ret_63d": 0.08667415524939504,
+    "ret_252d": 0.19349415835538375,
+    "rs_63d": -0.10243551116030636,
+    "rsi14": 64.48097240376177,
+    "vol_ann": 0.22325338496881475,
+    "beta": 0.21583060111842145,
+    "drawdown_52w": -0.021351089144816204,
     "gap_events": 0,
-    "volume_z": -0.463152055160078,
-    "market_cap": 1047448322048,
-    "short_pct_float": 0.0074,
+    "volume_z": -0.7826633612201964,
+    "market_cap": 159362875392,
+    "short_pct_float": 0.026199998,
     "runway_months": 999.0,
-    "cash": 8950000000.0,
+    "cash": 8257000000.0,
     "catalysts": [
      {
-      "ticker": "LLY",
-      "nct_id": "NCT07165002",
-      "title": "A Study of the Pharmacokinetics and Safety of LY3537031 in Participants With Normal Liver Function and With Mild, Moderate, or Severe Liver Impairment",
+      "ticker": "PFE",
+      "nct_id": "NCT07543380",
+      "title": "A Study to Learn Safety and Immune Response to Study Vaccine -RSVpreF in Adults at High Risk of Severe RSV Disease.",
+      "phases": [
+       "Phase 3"
+      ],
+      "phase_weight": 1.0,
+      "status": "RECRUITING",
+      "enrollment": 130,
+      "conditions": [
+       "Respiratory Syncytial Virus (RSV)"
+      ],
+      "date": "2026-08-31",
+      "days_out": 2,
+      "estimated": true,
+      "kind": "readout"
+     },
+     {
+      "ticker": "PFE",
+      "nct_id": "NCT07231991",
+      "title": "A Study to Learn How the Body Processes the Study Medicine Called Vepdegestrant in People With Loss of Liver Function",
       "phases": [
        "Phase 1"
       ],
       "phase_weight": 0.25,
       "status": "RECRUITING",
-      "enrollment": 32,
-      "conditions": [
-       "Healthy",
-       "Hepatic Insufficiency"
-      ],
-      "date": "2026-08-01",
-      "days_out": -28,
-      "estimated": true,
-      "kind": "readout"
-     },
-     {
-      "ticker": "LLY",
-      "nct_id": "NCT07346495",
-      "title": "A Study of Remternetug (LY3372993) in Healthy Chinese Participants",
-      "phases": [
-       "Phase 1"
-      ],
-      "phase_weight": 0.25,
-      "status": "ACTIVE_NOT_RECRUITING",
       "enrollment": 24,
       "conditions": [
-       "Healthy"
+       "Healthy Participants"
       ],
-      "date": "2026-08-01",
-      "days_out": -28,
+      "date": "2026-12-04",
+      "days_out": 97,
       "estimated": true,
       "kind": "readout"
      },
      {
-      "ticker": "LLY",
-      "nct_id": "NCT06945419",
-      "title": "A Study of LY4086940 in Healthy Participants and Participants With Overweight or Obesity, With or Without Type 2 Diabetes",
+      "ticker": "PFE",
+      "nct_id": "NCT07500506",
+      "title": "A Study to Learn About the Safety, Tolerability, and Immunogenicity of a Fifth Dose of 6-Valent OspA-Based Lyme Disease Vaccine",
       "phases": [
-       "Phase 1"
+       "Phase 3"
       ],
-      "phase_weight": 0.25,
-      "status": "COMPLETED",
-      "enrollment": 219,
+      "phase_weight": 1.0,
+      "status": "RECRUITING",
+      "enrollment": 1712,
       "conditions": [
-       "Healthy",
-       "Overweight",
-       "Obesity"
+       "Lyme Disease"
       ],
-      "date": "2026-08-05",
-      "days_out": -24,
+      "date": "2026-12-04",
+      "days_out": 97,
       "estimated": true,
       "kind": "readout"
      },
      {
-      "ticker": "LLY",
-      "nct_id": "NCT05536804",
-      "title": "A Study of Tirzepatide (LY3298176) in Participants With Overweight or Obesity and Chronic Kidney Disease With or Without Type 2 Diabetes",
+      "ticker": "PFE",
+      "nct_id": "NCT05573555",
+      "title": "TACTIVE-U: A Study to Learn About the Study Medicine (Vepdegestrant) When Given With Other Medicines in People With Advanced or Metastatic Breast Cancer (Sub-St",
       "phases": [
+       "Phase 1",
        "Phase 2"
       ],
       "phase_weight": 0.6,
       "status": "ACTIVE_NOT_RECRUITING",
-      "enrollment": 140,
+      "enrollment": 20,
       "conditions": [
-       "Overweight",
-       "Obesity",
-       "Chronic Kidney Disease"
+       "Breast Cancer"
       ],
-      "date": "2026-09-01",
-      "days_out": 3,
+      "date": "2026-12-30",
+      "days_out": 123,
       "estimated": true,
       "kind": "readout"
      }
@@ -659,62 +656,18 @@
     "trial_changes": [],
     "filings": [
      {
-      "form": "4",
+      "form": "3",
       "label": "filing",
-      "filed": "2026-08-18",
-      "days_ago": 11,
-      "description": "FORM 4",
+      "filed": "2026-08-28",
+      "days_ago": 1,
+      "description": "filing",
       "weight": 0.0,
       "dilutive": false,
       "deal": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/59478/000126238826000016/xslF345X06/wk-form4_1787084689.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826007363/xslF345X06/doc3.xml"
      },
      {
       "form": "4",
-      "label": "filing",
-      "filed": "2026-08-18",
-      "days_ago": 11,
-      "description": "FORM 4",
-      "weight": 0.0,
-      "dilutive": false,
-      "deal": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000087/xslF345X06/wk-form4_1787084623.xml"
-     },
-     {
-      "form": "4",
-      "label": "filing",
-      "filed": "2026-08-18",
-      "days_ago": 11,
-      "description": "FORM 4",
-      "weight": 0.0,
-      "dilutive": false,
-      "deal": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000085/xslF345X06/wk-form4_1787084560.xml"
-     },
-     {
-      "form": "4",
-      "label": "filing",
-      "filed": "2026-08-18",
-      "days_ago": 11,
-      "description": "FORM 4",
-      "weight": 0.0,
-      "dilutive": false,
-      "deal": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/59478/000131021526000015/xslF345X06/wk-form4_1787084504.xml"
-     },
-     {
-      "form": "4",
-      "label": "filing",
-      "filed": "2026-08-18",
-      "days_ago": 11,
-      "description": "FORM 4",
-      "weight": 0.0,
-      "dilutive": false,
-      "deal": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/59478/000178605426000006/xslF345X06/wk-form4_1787084453.xml"
-     },
-     {
-      "form": "144",
       "label": "filing",
       "filed": "2026-08-17",
       "days_ago": 12,
@@ -722,41 +675,49 @@
       "weight": 0.0,
       "dilutive": false,
       "deal": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/59478/000162828026057430/xsl144X01/primary_doc.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826007145/xslF345X06/doc4.xml"
+     },
+     {
+      "form": "13F-HR",
+      "label": "filing",
+      "filed": "2026-08-13",
+      "days_ago": 16,
+      "description": "filing",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000102/xslForm13F_X02/primary_doc.xml"
+     },
+     {
+      "form": "4",
+      "label": "filing",
+      "filed": "2026-08-12",
+      "days_ago": 17,
+      "description": "filing",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826007083/xslF345X06/doc4.xml"
      }
     ],
     "headlines": [
      {
-      "title": "Mounjaro scores FDA approval to reduce CV risk; Teva to buy an approved drug",
-      "url": "https://endpoints.news/mounjaro-scores-fda-approval-to-reduce-cv-risk-teva-to-buy-an-approved-drug/",
+      "title": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-Adapted Comirnaty COVID-19 Vaccine",
+      "url": "https://www.drugs.com/newdrugs/pfizer-biontech-receive-u-s-fda-approval-xfg-adapted-comirnaty-covid-19-vaccine-6869.html",
+      "source": "Drugs.com New Approvals",
+      "published": "2026-08-27",
+      "score": 3.0
+     },
+     {
+      "title": "#ESC26: Trial failure clouds future of AstraZeneca\u2019s heart disease gene silencer",
+      "url": "https://endpoints.news/esc26-trial-failure-clouds-future-of-astrazenecas-heart-disease-gene-silencer/",
       "source": "Endpoints News",
       "published": "2026-08-28",
-      "score": 3.0
-     },
-     {
-      "title": "Lilly scores Novo-pressuring Mounjaro expansion to curb heart risks in diabetes patients",
-      "url": "https://www.fiercepharma.com/pharma/lilly-scores-fda-expansion-mounjaro-reduce-risk-heart-attack-stroke",
-      "source": "FiercePharma",
-      "published": "",
-      "score": 3.0
-     },
-     {
-      "title": "Lilly's move to hide Phase 1 pipeline draws mixed reviews",
-      "url": "https://endpoints.news/lillys-move-to-hide-phase-1-pipeline-draws-mixed-reviews/",
-      "source": "Endpoints News",
-      "published": "2026-08-27",
       "score": 0.0
      },
      {
-      "title": "FDA Grants Traditional Approval to Retevmo (selpercatinib) for Locally Advanced or Metastatic RET Fusion-Positive Solid Tumors",
-      "url": "https://www.drugs.com/newdrugs/fda-grants-traditional-approval-retevmo-selpercatinib-locally-advanced-metastatic-ret-fusion-6842.html",
-      "source": "Drugs.com New Approvals",
-      "published": "2026-07-14",
-      "score": 0.0
-     },
-     {
-      "title": "The Oral GLP-1 Tracker: Lilly's Foundayo scripts cross 40K",
-      "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+      "title": "Priovant pushes ex-Pfizer asset across FDA finish line in rare skin and muscle disease",
+      "url": "https://www.fiercepharma.com/pharma/priovant-pushes-ex-pfizer-asset-across-fda-finish-line-rare-skin-and-muscle-disease",
       "source": "FiercePharma",
       "published": "",
       "score": 0.0
@@ -775,7 +736,7 @@
      "oncology"
     ],
     "held": false,
-    "score": -1.329,
+    "score": -1.344,
     "bucket": "deteriorating",
     "override": null,
     "contributions": {
@@ -783,7 +744,7 @@
      "trend": -0.2248,
      "long_momentum": -0.0518,
      "accumulation": 0.0164,
-     "news_sentiment": -0.0749,
+     "news_sentiment": -0.0905,
      "catalyst_proximity": -0.0982,
      "trial_momentum": -0.1455,
      "reversion_penalty": -0.0398,
@@ -797,7 +758,7 @@
      "accumulation": 0.078,
      "news_sentiment": 0.0,
      "catalyst_proximity": 0.0,
-     "trial_momentum": -0.2645,
+     "trial_momentum": -0.2642,
      "reversion_penalty": 0.1908,
      "dilution_risk": 1.5,
      "drawdown_risk": 0.1494
@@ -906,7 +867,7 @@
      "trend": 0.1597,
      "long_momentum": 0.0138,
      "accumulation": 0.0671,
-     "news_sentiment": -0.0749,
+     "news_sentiment": -0.0905,
      "catalyst_proximity": 0.0316,
      "trial_momentum": -0.0046,
      "reversion_penalty": -0.0821,
@@ -918,9 +879,9 @@
      "trend": 0.6731,
      "long_momentum": 0.2157,
      "accumulation": 0.1208,
-     "news_sentiment": -1.4429,
+     "news_sentiment": -1.4151,
      "catalyst_proximity": 1.1226,
-     "trial_momentum": 0.3948,
+     "trial_momentum": 0.3944,
      "reversion_penalty": 0.2511,
      "dilution_risk": -1.0,
      "drawdown_risk": 0.0
@@ -930,18 +891,18 @@
      "Outperforming XBI by 7 points over three months.",
      "Trading 13% above its 50-day average and 28% above its 200-day.",
      "Operations are cash generative.",
-     "RSI at 63 \u2014 stretched, so entry timing matters."
+     "Negative coverage: BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine"
     ],
     "price": 148.35000610351562,
     "ret_1d": -0.007957651705522317,
     "ret_5d": -0.02753193617975347,
     "ret_21d": 0.14300033729461492,
     "ret_63d": 0.25856482227627264,
-    "ret_252d": 0.8235949891711769,
+    "ret_252d": 0.8235948181463164,
     "rs_63d": 0.06945515586657125,
-    "rsi14": 62.5553626194561,
+    "rsi14": 62.555362618623974,
     "vol_ann": 0.3722635559302933,
-    "beta": 0.40183076363270037,
+    "beta": 0.4018308306895373,
     "drawdown_52w": -0.051773672117144565,
     "gap_events": 0,
     "volume_z": 0.00988641719861469,
@@ -1154,8 +1115,8 @@
      "relative_strength": 0.4487,
      "trend": 0.2327,
      "long_momentum": 0.2337,
-     "accumulation": 0.0828,
-     "news_sentiment": -0.0749,
+     "accumulation": 0.0827,
+     "news_sentiment": 0.143,
      "catalyst_proximity": -0.0982,
      "trial_momentum": -0.0971,
      "reversion_penalty": -0.0959,
@@ -1166,8 +1127,8 @@
      "relative_strength": 1.5864,
      "trend": 0.9999,
      "long_momentum": 1.5759,
-     "accumulation": 0.1341,
-     "news_sentiment": -1.2988,
+     "accumulation": 0.134,
+     "news_sentiment": 0.6202,
      "catalyst_proximity": 0.0,
      "trial_momentum": 0.0,
      "reversion_penalty": 0.2708,
@@ -1193,7 +1154,7 @@
     "beta": 3.5625048422062022,
     "drawdown_52w": -0.208682178980918,
     "gap_events": 5,
-    "volume_z": 0.5472125869112465,
+    "volume_z": 0.5476125861544912,
     "market_cap": 55090565120,
     "short_pct_float": 0.1616,
     "runway_months": 13.9,
@@ -1226,6 +1187,13 @@
      }
     ],
     "headlines": [
+     {
+      "title": "Moderna Receives U.S. FDA Approval for Updated 2026-2027 Spikevax and mNEXSPIKE COVID-19 Vaccines",
+      "url": "https://www.drugs.com/newdrugs/moderna-receives-u-s-fda-approval-updated-2026-2027-spikevax-mnexspike-covid-19-vaccines-6871.html",
+      "source": "Drugs.com New Approvals",
+      "published": "2026-08-27",
+      "score": 3.0
+     },
      {
       "title": "BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine",
       "url": "https://endpoints.news/biontech-genentech-terminate-phase-2-of-personalized-mrna-cancer-vaccine/",
@@ -1281,7 +1249,7 @@
      "trend": -0.0146,
      "long_momentum": -0.0985,
      "accumulation": -0.0459,
-     "news_sentiment": -0.0749,
+     "news_sentiment": 0.0666,
      "catalyst_proximity": 0.1167,
      "trial_momentum": 0.1457,
      "reversion_penalty": 0.0688,
@@ -1293,9 +1261,9 @@
      "trend": 0.2274,
      "long_momentum": -0.074,
      "accumulation": 0.0254,
-     "news_sentiment": -1.467,
+     "news_sentiment": 0.4173,
      "catalyst_proximity": 1.8583,
-     "trial_momentum": 1.3073,
+     "trial_momentum": 1.3062,
      "reversion_penalty": 0.0356,
      "dilution_risk": 0.0,
      "drawdown_risk": 0.0
@@ -1305,7 +1273,7 @@
      "Pipeline activity net positive.",
      "Phase 3 readout window opens in -36 days (NCT07222384).",
      "Down 7% over six months.",
-     "Negative coverage: BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine"
+     "RSI at 52 \u2014 stretched, so entry timing matters."
     ],
     "price": 102.07499694824219,
     "ret_1d": -0.08370740080708583,
@@ -1450,6 +1418,13 @@
     ],
     "headlines": [
      {
+      "title": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-Adapted Comirnaty COVID-19 Vaccine",
+      "url": "https://www.drugs.com/newdrugs/pfizer-biontech-receive-u-s-fda-approval-xfg-adapted-comirnaty-covid-19-vaccine-6869.html",
+      "source": "Drugs.com New Approvals",
+      "published": "2026-08-27",
+      "score": 3.0
+     },
+     {
       "title": "BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine",
       "url": "https://endpoints.news/biontech-genentech-terminate-phase-2-of-personalized-mrna-cancer-vaccine/",
       "source": "Endpoints News",
@@ -1474,15 +1449,15 @@
      "ai-discovery"
     ],
     "held": false,
-    "score": -0.969,
+    "score": -0.985,
     "bucket": "deteriorating",
     "override": null,
     "contributions": {
      "relative_strength": -0.1911,
      "trend": -0.1654,
      "long_momentum": -0.1047,
-     "accumulation": -0.0228,
-     "news_sentiment": -0.0749,
+     "accumulation": -0.0229,
+     "news_sentiment": -0.0905,
      "catalyst_proximity": -0.0982,
      "trial_momentum": -0.1455,
      "reversion_penalty": 0.0777,
@@ -1493,10 +1468,10 @@
      "relative_strength": -0.1589,
      "trend": -0.1583,
      "long_momentum": -0.0899,
-     "accumulation": 0.0449,
+     "accumulation": 0.0448,
      "news_sentiment": 0.0,
      "catalyst_proximity": 0.0,
-     "trial_momentum": -0.8365,
+     "trial_momentum": -0.8358,
      "reversion_penalty": 0.0229,
      "dilution_risk": 1.0,
      "drawdown_risk": 0.09
@@ -1520,7 +1495,7 @@
     "beta": 1.3585718671480984,
     "drawdown_52w": -0.5081001571526066,
     "gap_events": 2,
-    "volume_z": -0.7205248709353447,
+    "volume_z": -0.7193011271448299,
     "market_cap": 1791145344,
     "short_pct_float": 0.3479,
     "runway_months": 14.9,
@@ -1627,7 +1602,7 @@
      "metabolic"
     ],
     "held": false,
-    "score": -0.871,
+    "score": -0.887,
     "bucket": "deteriorating",
     "override": null,
     "contributions": {
@@ -1635,7 +1610,7 @@
      "trend": -0.2089,
      "long_momentum": -0.0891,
      "accumulation": -0.0518,
-     "news_sentiment": -0.0749,
+     "news_sentiment": -0.0905,
      "catalyst_proximity": -0.0982,
      "trial_momentum": 0.0024,
      "reversion_penalty": -0.0295,
@@ -1649,7 +1624,7 @@
      "accumulation": 0.0204,
      "news_sentiment": 0.0,
      "catalyst_proximity": 0.0,
-     "trial_momentum": 0.4243,
+     "trial_momentum": 0.4239,
      "reversion_penalty": 0.176,
      "dilution_risk": 0.5,
      "drawdown_risk": 0.0442
@@ -1658,8 +1633,8 @@
      "Lagging XBI by 21 points over three months.",
      "Trading 9% below its 50-day average and 4% below its 200-day.",
      "Phase 3 readout window opens in 306 days (NCT07104383).",
-     "Down 5% over six months.",
-     "Filed a shelf registration in the last quarter."
+     "Net negative news flow this month.",
+     "Down 5% over six months."
     ],
     "price": 32.15999984741211,
     "ret_1d": -0.05020675523613949,
@@ -1743,15 +1718,15 @@
      "respiratory"
     ],
     "held": false,
-    "score": -0.841,
+    "score": -0.857,
     "bucket": "deteriorating",
     "override": null,
     "contributions": {
      "relative_strength": -0.3166,
      "trend": -0.2248,
      "long_momentum": -0.1546,
-     "accumulation": -0.1486,
-     "news_sentiment": -0.0749,
+     "accumulation": -0.1485,
+     "news_sentiment": -0.0905,
      "catalyst_proximity": 0.0979,
      "trial_momentum": 0.0903,
      "reversion_penalty": 0.0298,
@@ -1765,7 +1740,7 @@
      "accumulation": -0.1081,
      "news_sentiment": 0.0,
      "catalyst_proximity": 1.6954,
-     "trial_momentum": 0.7992,
+     "trial_momentum": 0.7984,
      "reversion_penalty": 0.0914,
      "dilution_risk": 0.0,
      "drawdown_risk": 0.1139
@@ -1993,7 +1968,7 @@
      "cardiology"
     ],
     "held": false,
-    "score": -0.829,
+    "score": -0.844,
     "bucket": "deteriorating",
     "override": null,
     "contributions": {
@@ -2001,7 +1976,7 @@
      "trend": -0.2248,
      "long_momentum": -0.1546,
      "accumulation": 0.0355,
-     "news_sentiment": -0.0749,
+     "news_sentiment": -0.0905,
      "catalyst_proximity": -0.0982,
      "trial_momentum": 0.0692,
      "reversion_penalty": 0.0548,
@@ -2015,7 +1990,7 @@
      "accumulation": 0.0942,
      "news_sentiment": 0.0,
      "catalyst_proximity": 0.0,
-     "trial_momentum": 0.7095,
+     "trial_momentum": 0.7088,
      "reversion_penalty": 0.0556,
      "dilution_risk": -0.5,
      "drawdown_risk": 0.2728
@@ -2142,7 +2117,7 @@
      "oncology"
     ],
     "held": false,
-    "score": -0.801,
+    "score": -0.817,
     "bucket": "deteriorating",
     "override": null,
     "contributions": {
@@ -2150,7 +2125,7 @@
      "trend": -0.2018,
      "long_momentum": -0.1086,
      "accumulation": -0.102,
-     "news_sentiment": -0.0749,
+     "news_sentiment": -0.0905,
      "catalyst_proximity": 0.0068,
      "trial_momentum": -0.0904,
      "reversion_penalty": 0.0157,
@@ -2164,7 +2139,7 @@
      "accumulation": -0.022,
      "news_sentiment": 0.0,
      "catalyst_proximity": 0.9078,
-     "trial_momentum": 0.0287,
+     "trial_momentum": 0.0286,
      "reversion_penalty": 0.1114,
      "dilution_risk": 0.0,
      "drawdown_risk": 0.0647
@@ -2174,7 +2149,7 @@
      "Lagging XBI by 19 points over three months.",
      "Down 10% over six months.",
      "Volume running -0.7 standard deviations from normal, on down days.",
-     "Pipeline activity net negative."
+     "Net negative news flow this month."
     ],
     "price": 19.540000915527344,
     "ret_1d": -0.030753915504833418,
@@ -2184,12 +2159,12 @@
     "ret_252d": 0.20172205660977816,
     "rs_63d": -0.19166195005804743,
     "rsi14": 44.42908405705731,
-    "vol_ann": 0.45812540600830437,
+    "vol_ann": 0.4581254060083043,
     "beta": 0.86301152348845,
     "drawdown_52w": -0.22306158203157733,
     "gap_events": 0,
     "volume_z": -0.7103440198704115,
-    "market_cap": 1744865152,
+    "market_cap": 1731440000,
     "short_pct_float": 0.2609,
     "runway_months": 22.5,
     "cash": 547860000.0,
@@ -2235,6 +2210,321 @@
     "trial_changes": [],
     "filings": [],
     "headlines": []
+   },
+   {
+    "ticker": "INSM",
+    "name": "Insmed",
+    "tier": "small",
+    "tags": [
+     "biotech",
+     "respiratory"
+    ],
+    "held": false,
+    "score": -0.759,
+    "bucket": "deteriorating",
+    "override": null,
+    "contributions": {
+     "relative_strength": 0.0441,
+     "trend": -0.1974,
+     "long_momentum": -0.1497,
+     "accumulation": -0.0188,
+     "news_sentiment": -0.0905,
+     "catalyst_proximity": -0.0982,
+     "trial_momentum": 0.01,
+     "reversion_penalty": 0.0664,
+     "dilution_risk": -0.1452,
+     "drawdown_risk": -0.1797
+    },
+    "raw": {
+     "relative_strength": -0.0186,
+     "trend": -0.24,
+     "long_momentum": -0.2062,
+     "accumulation": 0.0483,
+     "news_sentiment": 0.0,
+     "catalyst_proximity": 0.0,
+     "trial_momentum": 0.4563,
+     "reversion_penalty": 0.0391,
+     "dilution_risk": 1.0,
+     "drawdown_risk": 0.1684
+    },
+    "reasons": [
+     "Trading 5% above its 50-day average and 17% below its 200-day.",
+     "44% below its 52-week high.",
+     "Down 21% over six months.",
+     "15 months of cash.",
+     "Phase 2/Phase 3 readout window opens in 124 days (NCT05649748)."
+    ],
+    "price": 118.54000091552734,
+    "ret_1d": -0.023478033515536234,
+    "ret_5d": -0.05748585450039956,
+    "ret_21d": 0.16799688058565243,
+    "ret_63d": 0.10878305916230957,
+    "ret_252d": -0.1188582324303884,
+    "rs_63d": -0.08032660724739182,
+    "rsi14": 48.04558864886317,
+    "vol_ann": 0.73176453660439,
+    "beta": 1.021980391945544,
+    "drawdown_52w": -0.4392885915418342,
+    "gap_events": 4,
+    "volume_z": -0.5398369541025098,
+    "market_cap": 25886943232,
+    "short_pct_float": 0.056199998,
+    "runway_months": 15.1,
+    "cash": 1160312000.0,
+    "catalysts": [
+     {
+      "ticker": "INSM",
+      "nct_id": "NCT05649748",
+      "title": "An Extension Study of Treprostinil Palmitil Inhalation Powder (TPIP) for Pulmonary Arterial Hypertension (PAH)",
+      "phases": [
+       "Phase 2",
+       "Phase 3"
+      ],
+      "phase_weight": 1.0,
+      "status": "ACTIVE_NOT_RECRUITING",
+      "enrollment": 91,
+      "conditions": [
+       "Pulmonary Arterial Hypertension"
+      ],
+      "date": "2026-12-31",
+      "days_out": 124,
+      "estimated": true,
+      "kind": "readout"
+     },
+     {
+      "ticker": "INSM",
+      "nct_id": "NCT07643155",
+      "title": "A Study to Evaluate the Pharmacokinetics (PK) and Safety of a Single Dose of Treprostinil Palmitil Inhalation Powder (TPIP) in Participants With Normal Hepatic ",
+      "phases": [
+       "Phase 1"
+      ],
+      "phase_weight": 0.25,
+      "status": "RECRUITING",
+      "enrollment": 30,
+      "conditions": [
+       "Hepatic Impairment"
+      ],
+      "date": "2027-02-07",
+      "days_out": 162,
+      "estimated": true,
+      "kind": "readout"
+     },
+     {
+      "ticker": "INSM",
+      "nct_id": "NCT07765706",
+      "title": "A Study to Assess the Safety, Tolerability and Pharmacokinetics (PK) of INS1033 in Healthy Participants",
+      "phases": [
+       "Phase 1"
+      ],
+      "phase_weight": 0.25,
+      "status": "NOT_YET_RECRUITING",
+      "enrollment": 116,
+      "conditions": [
+       "Healthy Volunteers"
+      ],
+      "date": "2027-03-22",
+      "days_out": 205,
+      "estimated": true,
+      "kind": "readout"
+     }
+    ],
+    "hard_flags": [],
+    "trial_changes": [],
+    "filings": [
+     {
+      "form": "4",
+      "label": "filing",
+      "filed": "2026-08-19",
+      "days_ago": 10,
+      "description": "FORM 4",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000118263326000010/xslF345X06/wk-form4_1787170216.xml"
+     },
+     {
+      "form": "144",
+      "label": "filing",
+      "filed": "2026-08-17",
+      "days_ago": 12,
+      "description": "filing",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000162828026057378/xsl144X01/primary_doc.xml"
+     },
+     {
+      "form": "SCHEDULE 13G/A",
+      "label": "filing",
+      "filed": "2026-08-14",
+      "days_ago": 15,
+      "description": "filing",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000090266426003527/xslSCHEDULE_13G_X02/primary_doc.xml"
+     },
+     {
+      "form": "4",
+      "label": "filing",
+      "filed": "2026-08-12",
+      "days_ago": 17,
+      "description": "FORM 4",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000168590426000014/xslF345X06/wk-form4_1786568667.xml"
+     },
+     {
+      "form": "144",
+      "label": "filing",
+      "filed": "2026-08-10",
+      "days_ago": 19,
+      "description": "filing",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000162828026055394/xsl144X01/primary_doc.xml"
+     },
+     {
+      "form": "S-3ASR",
+      "label": "automatic shelf",
+      "filed": "2026-05-15",
+      "days_ago": 106,
+      "description": "S-3ASR",
+      "weight": -0.4,
+      "dilutive": true,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126021704/ny20072736x1_s3asr.htm"
+     }
+    ],
+    "headlines": []
+   },
+   {
+    "ticker": "AXSM",
+    "name": "Axsome Therapeutics",
+    "tier": "small",
+    "tags": [
+     "biotech",
+     "neurology"
+    ],
+    "held": false,
+    "score": -0.753,
+    "bucket": "deteriorating",
+    "override": null,
+    "contributions": {
+     "relative_strength": -0.3166,
+     "trend": -0.1768,
+     "long_momentum": 0.0133,
+     "accumulation": -0.1485,
+     "news_sentiment": -0.0905,
+     "catalyst_proximity": -0.0198,
+     "trial_momentum": 0.0789,
+     "reversion_penalty": -0.1106,
+     "dilution_risk": -0.008,
+     "drawdown_risk": 0.0257
+    },
+    "raw": {
+     "relative_strength": -0.2996,
+     "trend": -0.1873,
+     "long_momentum": 0.2144,
+     "accumulation": -0.0627,
+     "news_sentiment": 0.0,
+     "catalyst_proximity": 0.6784,
+     "trial_momentum": 0.7502,
+     "reversion_penalty": 0.3665,
+     "dilution_risk": 0.0,
+     "drawdown_risk": 0.0
+    },
+    "reasons": [
+     "Lagging XBI by 34 points over three months.",
+     "Trading 13% below its 50-day average and 3% above its 200-day.",
+     "RSI at 32 \u2014 stretched, so entry timing matters.",
+     "Net negative news flow this month."
+    ],
+    "price": 199.02000427246094,
+    "ret_1d": -0.03514810612222374,
+    "ret_5d": -0.04211387505448383,
+    "ret_21d": -0.15180700311048045,
+    "ret_63d": -0.15122821605763725,
+    "ret_252d": 0.6331856497262722,
+    "rs_63d": -0.34033788246733865,
+    "rsi14": 31.673477069058308,
+    "vol_ann": 0.39244210942758745,
+    "beta": 0.7100487150518202,
+    "drawdown_52w": -0.2200493565051016,
+    "gap_events": 1,
+    "volume_z": -0.42316634130753045,
+    "market_cap": 10424829952,
+    "short_pct_float": 0.0949,
+    "runway_months": 29.1,
+    "cash": 319850000.0,
+    "catalysts": [
+     {
+      "ticker": "AXSM",
+      "nct_id": "NCT06413433",
+      "title": "Elucidating TAAR-1, Dopamine, and Norepinephrine in Binge Eating Disorder Using Solriamfetol",
+      "phases": [
+       "Phase 3"
+      ],
+      "phase_weight": 1.0,
+      "status": "RECRUITING",
+      "enrollment": 450,
+      "conditions": [
+       "Binge-Eating Disorder"
+      ],
+      "date": "2026-12-01",
+      "days_out": 94,
+      "estimated": true,
+      "kind": "readout"
+     },
+     {
+      "ticker": "AXSM",
+      "nct_id": "NCT06568367",
+      "title": "Studying Solriamfetol Modulation of TAAR-1, Dopamine, and Norepinephrine in Shift Work Disorder (SUSTAIN)",
+      "phases": [
+       "Phase 3"
+      ],
+      "phase_weight": 1.0,
+      "status": "RECRUITING",
+      "enrollment": 520,
+      "conditions": [
+       "Excessive Sleepiness",
+       "Shift-work Disorder"
+      ],
+      "date": "2026-12-01",
+      "days_out": 94,
+      "estimated": true,
+      "kind": "readout"
+     }
+    ],
+    "hard_flags": [],
+    "trial_changes": [],
+    "filings": [
+     {
+      "form": "10-Q",
+      "label": "quarterly report",
+      "filed": "2026-08-10",
+      "days_ago": 19,
+      "description": "10-Q",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1579428/000119312526342360/axsm-20260630.htm"
+     },
+     {
+      "form": "8-K",
+      "label": "material event",
+      "filed": "2026-08-10",
+      "days_ago": 19,
+      "description": "8-K",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1579428/000119312526341206/axsm-20260810.htm"
+     }
+    ],
+    "headlines": []
    }
   ]
  },
@@ -2249,7 +2539,7 @@
     "ras"
    ],
    "held": false,
-   "score": 1.489,
+   "score": 1.406,
    "bucket": "constructive",
    "override": null,
    "contributions": {
@@ -2257,7 +2547,7 @@
     "trend": 0.2327,
     "long_momentum": 0.2337,
     "accumulation": 0.0523,
-    "news_sentiment": 0.6444,
+    "news_sentiment": 0.5615,
     "catalyst_proximity": -0.0982,
     "trial_momentum": 0.0843,
     "reversion_penalty": 0.0295,
@@ -2269,9 +2559,9 @@
     "trend": 0.8723,
     "long_momentum": 1.0376,
     "accumulation": 0.1084,
-    "news_sentiment": 2.5176,
+    "news_sentiment": 2.4924,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.7737,
+    "trial_momentum": 0.773,
     "reversion_penalty": 0.0917,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -2509,7 +2799,7 @@
     "oncology"
    ],
    "held": false,
-   "score": 1.021,
+   "score": 0.928,
    "bucket": "constructive",
    "override": null,
    "contributions": {
@@ -2517,7 +2807,7 @@
     "trend": 0.0464,
     "long_momentum": -0.0625,
     "accumulation": 0.0331,
-    "news_sentiment": 0.3304,
+    "news_sentiment": 0.2372,
     "catalyst_proximity": 0.1724,
     "trial_momentum": 0.1457,
     "reversion_penalty": 0.0086,
@@ -2529,9 +2819,9 @@
     "trend": 0.3833,
     "long_momentum": 0.0187,
     "accumulation": 0.0921,
-    "news_sentiment": 0.8897,
+    "news_sentiment": 0.8705,
     "catalyst_proximity": 2.3415,
-    "trial_momentum": 1.1328,
+    "trial_momentum": 1.1317,
     "reversion_penalty": 0.1216,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -2550,9 +2840,9 @@
    "ret_63d": 0.2933363801396469,
    "ret_252d": 0.35999441035576707,
    "rs_63d": 0.10422671372994552,
-   "rsi14": 56.08242701611467,
+   "rsi14": 56.08242697490103,
    "vol_ann": 0.2940259220168681,
-   "beta": 0.5154894718142227,
+   "beta": 0.5154897683951304,
    "drawdown_52w": -0.05548026131501127,
    "gap_events": 0,
    "volume_z": -0.7951474562044167,
@@ -2722,6 +3012,443 @@
    ]
   },
   {
+   "ticker": "PFE",
+   "name": "Pfizer",
+   "tier": "large",
+   "tags": [
+    "pharma",
+    "oncology",
+    "vaccines"
+   ],
+   "held": false,
+   "score": 0.768,
+   "bucket": "constructive",
+   "override": null,
+   "contributions": {
+    "relative_strength": -0.0068,
+    "trend": 0.0488,
+    "long_momentum": -0.052,
+    "accumulation": 0.0899,
+    "news_sentiment": 0.5615,
+    "catalyst_proximity": 0.0955,
+    "trial_momentum": -0.015,
+    "reversion_penalty": -0.1091,
+    "dilution_risk": 0.1293,
+    "drawdown_risk": 0.0257
+   },
+   "raw": {
+    "relative_strength": -0.049,
+    "trend": 0.3894,
+    "long_momentum": 0.0459,
+    "accumulation": 0.1401,
+    "news_sentiment": 1.7401,
+    "catalyst_proximity": 1.6744,
+    "trial_momentum": 0.3501,
+    "reversion_penalty": 0.2896,
+    "dilution_risk": -1.0,
+    "drawdown_risk": 0.0
+   },
+   "reasons": [
+    "Positive coverage: Pfizer and BioNTech Receive U.S. FDA Approval for XFG-Adapted Comirnaty COVID-19 Vaccine",
+    "Operations are cash generative.",
+    "RSI at 64 \u2014 stretched, so entry timing matters.",
+    "Phase 3 readout window opens in 2 days (NCT07543380).",
+    "Volume running -0.8 standard deviations from normal, on up days."
+   ],
+   "price": 27.959999084472656,
+   "ret_1d": -0.002141376599242406,
+   "ret_5d": -0.0039187962788558295,
+   "ret_21d": 0.12244075695477807,
+   "ret_63d": 0.08667415524939504,
+   "ret_252d": 0.19349415835538375,
+   "rs_63d": -0.10243551116030636,
+   "rsi14": 64.48097240376177,
+   "vol_ann": 0.22325338496881475,
+   "beta": 0.21583060111842145,
+   "drawdown_52w": -0.021351089144816204,
+   "gap_events": 0,
+   "volume_z": -0.7826633612201964,
+   "market_cap": 159362875392,
+   "short_pct_float": 0.026199998,
+   "runway_months": 999.0,
+   "cash": 8257000000.0,
+   "catalysts": [
+    {
+     "ticker": "PFE",
+     "nct_id": "NCT07543380",
+     "title": "A Study to Learn Safety and Immune Response to Study Vaccine -RSVpreF in Adults at High Risk of Severe RSV Disease.",
+     "phases": [
+      "Phase 3"
+     ],
+     "phase_weight": 1.0,
+     "status": "RECRUITING",
+     "enrollment": 130,
+     "conditions": [
+      "Respiratory Syncytial Virus (RSV)"
+     ],
+     "date": "2026-08-31",
+     "days_out": 2,
+     "estimated": true,
+     "kind": "readout"
+    },
+    {
+     "ticker": "PFE",
+     "nct_id": "NCT07231991",
+     "title": "A Study to Learn How the Body Processes the Study Medicine Called Vepdegestrant in People With Loss of Liver Function",
+     "phases": [
+      "Phase 1"
+     ],
+     "phase_weight": 0.25,
+     "status": "RECRUITING",
+     "enrollment": 24,
+     "conditions": [
+      "Healthy Participants"
+     ],
+     "date": "2026-12-04",
+     "days_out": 97,
+     "estimated": true,
+     "kind": "readout"
+    },
+    {
+     "ticker": "PFE",
+     "nct_id": "NCT07500506",
+     "title": "A Study to Learn About the Safety, Tolerability, and Immunogenicity of a Fifth Dose of 6-Valent OspA-Based Lyme Disease Vaccine",
+     "phases": [
+      "Phase 3"
+     ],
+     "phase_weight": 1.0,
+     "status": "RECRUITING",
+     "enrollment": 1712,
+     "conditions": [
+      "Lyme Disease"
+     ],
+     "date": "2026-12-04",
+     "days_out": 97,
+     "estimated": true,
+     "kind": "readout"
+    },
+    {
+     "ticker": "PFE",
+     "nct_id": "NCT05573555",
+     "title": "TACTIVE-U: A Study to Learn About the Study Medicine (Vepdegestrant) When Given With Other Medicines in People With Advanced or Metastatic Breast Cancer (Sub-St",
+     "phases": [
+      "Phase 1",
+      "Phase 2"
+     ],
+     "phase_weight": 0.6,
+     "status": "ACTIVE_NOT_RECRUITING",
+     "enrollment": 20,
+     "conditions": [
+      "Breast Cancer"
+     ],
+     "date": "2026-12-30",
+     "days_out": 123,
+     "estimated": true,
+     "kind": "readout"
+    }
+   ],
+   "hard_flags": [],
+   "trial_changes": [],
+   "filings": [
+    {
+     "form": "3",
+     "label": "filing",
+     "filed": "2026-08-28",
+     "days_ago": 1,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826007363/xslF345X06/doc3.xml"
+    },
+    {
+     "form": "4",
+     "label": "filing",
+     "filed": "2026-08-17",
+     "days_ago": 12,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826007145/xslF345X06/doc4.xml"
+    },
+    {
+     "form": "13F-HR",
+     "label": "filing",
+     "filed": "2026-08-13",
+     "days_ago": 16,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000102/xslForm13F_X02/primary_doc.xml"
+    },
+    {
+     "form": "4",
+     "label": "filing",
+     "filed": "2026-08-12",
+     "days_ago": 17,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826007083/xslF345X06/doc4.xml"
+    }
+   ],
+   "headlines": [
+    {
+     "title": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-Adapted Comirnaty COVID-19 Vaccine",
+     "url": "https://www.drugs.com/newdrugs/pfizer-biontech-receive-u-s-fda-approval-xfg-adapted-comirnaty-covid-19-vaccine-6869.html",
+     "source": "Drugs.com New Approvals",
+     "published": "2026-08-27",
+     "score": 3.0
+    },
+    {
+     "title": "#ESC26: Trial failure clouds future of AstraZeneca\u2019s heart disease gene silencer",
+     "url": "https://endpoints.news/esc26-trial-failure-clouds-future-of-astrazenecas-heart-disease-gene-silencer/",
+     "source": "Endpoints News",
+     "published": "2026-08-28",
+     "score": 0.0
+    },
+    {
+     "title": "Priovant pushes ex-Pfizer asset across FDA finish line in rare skin and muscle disease",
+     "url": "https://www.fiercepharma.com/pharma/priovant-pushes-ex-pfizer-asset-across-fda-finish-line-rare-skin-and-muscle-disease",
+     "source": "FiercePharma",
+     "published": "",
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "ticker": "GILD",
+   "name": "Gilead Sciences",
+   "tier": "large",
+   "tags": [
+    "biotech",
+    "virology",
+    "oncology"
+   ],
+   "held": false,
+   "score": 0.746,
+   "bucket": "neutral",
+   "override": null,
+   "contributions": {
+    "relative_strength": -0.0097,
+    "trend": 0.0345,
+    "long_momentum": -0.0737,
+    "accumulation": 0.0619,
+    "news_sentiment": 0.5615,
+    "catalyst_proximity": 0.1336,
+    "trial_momentum": 0.0158,
+    "reversion_penalty": -0.0641,
+    "dilution_risk": 0.0606,
+    "drawdown_risk": 0.0257
+   },
+   "raw": {
+    "relative_strength": -0.0507,
+    "trend": 0.3529,
+    "long_momentum": -0.0099,
+    "accumulation": 0.1164,
+    "news_sentiment": 1.8719,
+    "catalyst_proximity": 2.0043,
+    "trial_momentum": 0.4811,
+    "reversion_penalty": 0.2254,
+    "dilution_risk": -0.5,
+    "drawdown_risk": 0.0
+   },
+   "reasons": [
+    "Positive coverage: FDA Approves Bixlenvo (bictegravir and lenacapavir) for the Treatment of HIV in Adults Who Are Virologically Suppressed",
+    "Phase 2 readout window opens in -28 days (NCT06727565).",
+    "Down 1% over six months.",
+    "RSI at 61 \u2014 stretched, so entry timing matters.",
+    "Volume running -0.8 standard deviations from normal, on up days."
+   ],
+   "price": 145.67999267578125,
+   "ret_1d": -0.02136240710420345,
+   "ret_5d": -0.0030112404606458254,
+   "ret_21d": 0.10968916842155907,
+   "ret_63d": 0.09080875573351643,
+   "ret_252d": 0.3121054446770639,
+   "rs_63d": -0.09830091067618496,
+   "rsi14": 61.270468060019724,
+   "vol_ann": 0.30373703094469523,
+   "beta": 0.3536700796956278,
+   "drawdown_52w": -0.05346480861661462,
+   "gap_events": 0,
+   "volume_z": -0.8448085163624108,
+   "market_cap": 180636663808,
+   "short_pct_float": 0.0187,
+   "runway_months": 999.0,
+   "cash": 3179000000.0,
+   "catalysts": [
+    {
+     "ticker": "GILD",
+     "nct_id": "NCT06727565",
+     "title": "Study of Novel Treatment Combination Therapies in Participants With Head and Neck Squamous Cell Carcinoma Regardless of PD-L1 Expression Status; Substudy-01",
+     "phases": [
+      "Phase 2"
+     ],
+     "phase_weight": 0.6,
+     "status": "ACTIVE_NOT_RECRUITING",
+     "enrollment": 100,
+     "conditions": [
+      "Head and Neck Squamous Cell Carcinoma"
+     ],
+     "date": "2026-08-01",
+     "days_out": -28,
+     "estimated": true,
+     "kind": "readout"
+    },
+    {
+     "ticker": "GILD",
+     "nct_id": "NCT05186974",
+     "title": "Study of Sacituzumab Govitecan Combinations in First-line Treatment of Participants With Advanced or Metastatic Non-Small-Cell Lung Cancer (NSCLC)",
+     "phases": [
+      "Phase 2"
+     ],
+     "phase_weight": 0.6,
+     "status": "ACTIVE_NOT_RECRUITING",
+     "enrollment": 193,
+     "conditions": [
+      "Non-small Cell Lung Cancer"
+     ],
+     "date": "2026-09-01",
+     "days_out": 3,
+     "estimated": true,
+     "kind": "readout"
+    },
+    {
+     "ticker": "GILD",
+     "nct_id": "NCT05119907",
+     "title": "Study of Sacituzumab Govitecan in Patients With Solid Tumor",
+     "phases": [
+      "Phase 2"
+     ],
+     "phase_weight": 0.6,
+     "status": "ACTIVE_NOT_RECRUITING",
+     "enrollment": 53,
+     "conditions": [
+      "Solid Tumor"
+     ],
+     "date": "2026-10-01",
+     "days_out": 33,
+     "estimated": true,
+     "kind": "readout"
+    },
+    {
+     "ticker": "GILD",
+     "nct_id": "NCT06562907",
+     "title": "Study of GS-4571 in Healthy Participants, Nondiabetic Obese Participants, and Nonobese Participants With Type 2 Diabetes Mellitus (T2DM)",
+     "phases": [
+      "Phase 1"
+     ],
+     "phase_weight": 0.25,
+     "status": "RECRUITING",
+     "enrollment": 134,
+     "conditions": [
+      "Weight Management"
+     ],
+     "date": "2026-11-01",
+     "days_out": 64,
+     "estimated": true,
+     "kind": "readout"
+    }
+   ],
+   "hard_flags": [],
+   "trial_changes": [],
+   "filings": [
+    {
+     "form": "4",
+     "label": "filing",
+     "filed": "2026-08-27",
+     "days_ago": 2,
+     "description": "FORM 4",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/882095/000121330726000005/xslF345X06/wk-form4_1787870685.xml"
+    },
+    {
+     "form": "144",
+     "label": "filing",
+     "filed": "2026-08-26",
+     "days_ago": 3,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/882095/000195004726008716/xsl144X01/primary_doc.xml"
+    },
+    {
+     "form": "N-PX",
+     "label": "filing",
+     "filed": "2026-08-26",
+     "days_ago": 3,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/882095/000112329226001172/xslN-PX_X01/primary_doc.xml"
+    },
+    {
+     "form": "4",
+     "label": "filing",
+     "filed": "2026-08-21",
+     "days_ago": 8,
+     "description": "FORM 4",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/882095/000177181426000005/xslF345X06/wk-form4_1787354535.xml"
+    },
+    {
+     "form": "144",
+     "label": "filing",
+     "filed": "2026-08-20",
+     "days_ago": 9,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/882095/000195004726008471/xsl144X01/primary_doc.xml"
+    },
+    {
+     "form": "4",
+     "label": "filing",
+     "filed": "2026-08-18",
+     "days_ago": 11,
+     "description": "FORM 4",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/882095/000131020426000024/xslF345X06/wk-form4_1787094366.xml"
+    }
+   ],
+   "headlines": [
+    {
+     "title": "FDA Approves Bixlenvo (bictegravir and lenacapavir) for the Treatment of HIV in Adults Who Are Virologically Suppressed",
+     "url": "https://www.drugs.com/newdrugs/fda-approves-bixlenvo-bictegravir-lenacapavir-hiv-adults-virologically-suppressed-6868.html",
+     "source": "Drugs.com New Approvals",
+     "published": "2026-08-28",
+     "score": 3.0
+    },
+    {
+     "title": "Gilead gets another HIV treatment approval, extending lenacapavir's dominance",
+     "url": "https://endpoints.news/gilead-gets-another-hiv-treatment-approval-extending-lenacapavirs-dominance/",
+     "source": "Endpoints News",
+     "published": "2026-08-27",
+     "score": 0.0
+    },
+    {
+     "title": "Gilead christens Bixlenvo with FDA nod for new HIV treatment combo tablet",
+     "url": "https://www.fiercepharma.com/pharma/gilead-christens-bixlenvo-fda-nod-new-hiv-treatment-combo-pill",
+     "source": "FiercePharma",
+     "published": "",
+     "score": 0.0
+    }
+   ]
+  },
+  {
    "ticker": "LLY",
    "name": "Eli Lilly",
    "tier": "large",
@@ -2731,15 +3458,15 @@
     "oncology"
    ],
    "held": false,
-   "score": 0.776,
-   "bucket": "constructive",
+   "score": 0.693,
+   "bucket": "neutral",
    "override": null,
    "contributions": {
     "relative_strength": -0.092,
     "trend": -0.0245,
     "long_momentum": -0.0232,
     "accumulation": -0.1161,
-    "news_sentiment": 0.6444,
+    "news_sentiment": 0.5615,
     "catalyst_proximity": 0.1479,
     "trial_momentum": 0.0532,
     "reversion_penalty": 0.0318,
@@ -2751,9 +3478,9 @@
     "trend": 0.202,
     "long_momentum": 0.1201,
     "accumulation": -0.0339,
-    "news_sentiment": 1.9377,
+    "news_sentiment": 2.6719,
     "catalyst_proximity": 2.1273,
-    "trial_momentum": 0.641,
+    "trial_momentum": 0.6404,
     "reversion_penalty": 0.0885,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -2769,15 +3496,15 @@
    "ret_5d": -0.06435402062398987,
    "ret_21d": 0.01846215723475142,
    "ret_63d": 0.06451871275876297,
-   "ret_252d": 0.6100062142084848,
+   "ret_252d": 0.6100059448247315,
    "rs_63d": -0.12459095365093842,
-   "rsi14": 45.57690944500668,
+   "rsi14": 45.57690944505762,
    "vol_ann": 0.3432783970060732,
    "beta": 0.45659869591240454,
    "drawdown_52w": -0.08257961423629301,
    "gap_events": 0,
    "volume_z": -0.463152055160078,
-   "market_cap": 1047448322048,
+   "market_cap": 1046996910080,
    "short_pct_float": 0.0074,
    "runway_months": 999.0,
    "cash": 8950000000.0,
@@ -2939,6 +3666,13 @@
      "score": 3.0
     },
     {
+     "title": "FDA Approves Lilly's Mounjaro (tirzepatide) to Reduce Cardiovascular Risk in Adults with Type 2 Diabetes",
+     "url": "https://www.drugs.com/newdrugs/fda-approves-lilly-s-mounjaro-tirzepatide-reduce-cardiovascular-risk-adults-type-2-diabetes-6870.html",
+     "source": "Drugs.com New Approvals",
+     "published": "2026-08-28",
+     "score": 3.0
+    },
+    {
      "title": "Lilly scores Novo-pressuring Mounjaro expansion to curb heart risks in diabetes patients",
      "url": "https://www.fiercepharma.com/pharma/lilly-scores-fda-expansion-mounjaro-reduce-risk-heart-attack-stroke",
      "source": "FiercePharma",
@@ -2953,356 +3687,11 @@
      "score": 0.0
     },
     {
-     "title": "FDA Grants Traditional Approval to Retevmo (selpercatinib) for Locally Advanced or Metastatic RET Fusion-Positive Solid Tumors",
-     "url": "https://www.drugs.com/newdrugs/fda-grants-traditional-approval-retevmo-selpercatinib-locally-advanced-metastatic-ret-fusion-6842.html",
-     "source": "Drugs.com New Approvals",
-     "published": "2026-07-14",
-     "score": 0.0
-    },
-    {
      "title": "The Oral GLP-1 Tracker: Lilly's Foundayo scripts cross 40K",
      "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
      "source": "FiercePharma",
      "published": "",
      "score": 0.0
-    }
-   ]
-  },
-  {
-   "ticker": "JNJ",
-   "name": "Johnson & Johnson",
-   "tier": "large",
-   "tags": [
-    "pharma",
-    "oncology",
-    "immunology"
-   ],
-   "held": false,
-   "score": 0.686,
-   "bucket": "neutral",
-   "override": null,
-   "contributions": {
-    "relative_strength": 0.071,
-    "trend": 0.0458,
-    "long_momentum": -0.0347,
-    "accumulation": 0.0478,
-    "news_sentiment": 0.5718,
-    "catalyst_proximity": -0.0982,
-    "trial_momentum": -0.0675,
-    "reversion_penalty": -0.0053,
-    "dilution_risk": 0.1293,
-    "drawdown_risk": 0.0257
-   },
-   "raw": {
-    "relative_strength": -0.0026,
-    "trend": 0.3818,
-    "long_momentum": 0.0905,
-    "accumulation": 0.1046,
-    "news_sentiment": 1.4197,
-    "catalyst_proximity": 0.0,
-    "trial_momentum": 0.1262,
-    "reversion_penalty": 0.1414,
-    "dilution_risk": -1.0,
-    "drawdown_risk": 0.0
-   },
-   "reasons": [
-    "Positive coverage: FDA Approves Imaavy (nipocalimab-aahu) as First-Ever Treatment for Warm Autoimmune Hemolytic Anemia",
-    "Operations are cash generative.",
-    "Phase 4 readout window opens in 280 days (NCT07141004).",
-    "Outperforming XBI by 1 points over three months.",
-    "Pipeline activity net negative."
-   ],
-   "price": 268.0400085449219,
-   "ret_1d": 0.008541293694124485,
-   "ret_5d": -0.0032490653121139967,
-   "ret_21d": 0.052935478572978534,
-   "ret_63d": 0.1954110422951647,
-   "ret_252d": 0.550316739509664,
-   "rs_63d": 0.006301375885463312,
-   "rsi14": 57.06987056425265,
-   "vol_ann": 0.25146785830438917,
-   "beta": 0.14737217427167368,
-   "drawdown_52w": -0.01867176477265664,
-   "gap_events": 0,
-   "volume_z": -0.737495125742917,
-   "market_cap": 645949227008,
-   "short_pct_float": 0.01,
-   "runway_months": 999.0,
-   "cash": 20758000000.0,
-   "catalysts": [
-    {
-     "ticker": "JNJ",
-     "nct_id": "NCT07141004",
-     "title": "A Study of Guselkumab Administered Subcutaneously in Treatment of Indian Participants With Psoriatic Arthritis (PsA)",
-     "phases": [
-      "Phase 4"
-     ],
-     "phase_weight": 0.35,
-     "status": "RECRUITING",
-     "enrollment": 100,
-     "conditions": [
-      "Arthritis, Psoriatic"
-     ],
-     "date": "2027-06-05",
-     "days_out": 280,
-     "estimated": true,
-     "kind": "readout"
-    }
-   ],
-   "hard_flags": [],
-   "trial_changes": [],
-   "filings": [
-    {
-     "form": "4",
-     "label": "filing",
-     "filed": "2026-08-18",
-     "days_ago": 11,
-     "description": "FORM 4",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000175/xslF345X06/wk-form4_1787092263.xml"
-    },
-    {
-     "form": "144",
-     "label": "filing",
-     "filed": "2026-08-17",
-     "days_ago": 12,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/200406/000195917326006082/xsl144X01/primary_doc.xml"
-    },
-    {
-     "form": "4",
-     "label": "filing",
-     "filed": "2026-08-14",
-     "days_ago": 15,
-     "description": "FORM 4",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000173/xslF345X06/wk-form4_1786739711.xml"
-    },
-    {
-     "form": "144",
-     "label": "filing",
-     "filed": "2026-08-13",
-     "days_ago": 16,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/200406/000195917326005985/xsl144X01/primary_doc.xml"
-    },
-    {
-     "form": "N-PX",
-     "label": "filing",
-     "filed": "2026-08-11",
-     "days_ago": 18,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/200406/000119312526342782/xslN-PX_X01/primary_doc.xml"
-    }
-   ],
-   "headlines": [
-    {
-     "title": "FDA Approves Imaavy (nipocalimab-aahu) as First-Ever Treatment for Warm Autoimmune Hemolytic Anemia",
-     "url": "https://www.drugs.com/newdrugs/fda-approves-imaavy-nipocalimab-aahu-first-ever-warm-autoimmune-hemolytic-anemia-6862.html",
-     "source": "Drugs.com New Approvals",
-     "published": "2026-08-25",
-     "score": 3.0
-    }
-   ]
-  },
-  {
-   "ticker": "JAZZ",
-   "name": "Jazz Pharmaceuticals",
-   "tier": "mid",
-   "tags": [
-    "pharma",
-    "oncology",
-    "neurology"
-   ],
-   "held": false,
-   "score": 0.635,
-   "bucket": "neutral",
-   "override": null,
-   "contributions": {
-    "relative_strength": -0.1675,
-    "trend": 0.0418,
-    "long_momentum": 0.0414,
-    "accumulation": -0.1119,
-    "news_sentiment": 0.6444,
-    "catalyst_proximity": 0.0703,
-    "trial_momentum": -0.0496,
-    "reversion_penalty": 0.0107,
-    "dilution_risk": 0.1293,
-    "drawdown_risk": 0.0257
-   },
-   "raw": {
-    "relative_strength": -0.1448,
-    "trend": 0.3716,
-    "long_momentum": 0.2869,
-    "accumulation": -0.0304,
-    "news_sentiment": 1.6047,
-    "catalyst_proximity": 1.457,
-    "trial_momentum": 0.2025,
-    "reversion_penalty": 0.1186,
-    "dilution_risk": -1.0,
-    "drawdown_risk": 0.0
-   },
-   "reasons": [
-    "Positive coverage: U.S. FDA Approves Ziihera (zanidatamab-hrii) with and without Tislelizumab plus Chemotherapy in First-Line HER2+ Advanced Gastroesophageal Adenocarcin",
-    "Lagging XBI by 16 points over three months.",
-    "Operations are cash generative.",
-    "Volume running +1.8 standard deviations from normal, on down days.",
-    "Phase 3 readout window opens in -29 days (NCT05152147)."
-   ],
-   "price": 244.5399932861328,
-   "ret_1d": -0.026125100190871553,
-   "ret_5d": -0.03830425334246568,
-   "ret_21d": -0.05356456124751907,
-   "ret_63d": 0.03403944186216967,
-   "ret_252d": 0.9652816257042229,
-   "rs_63d": -0.15507022454753172,
-   "rsi14": 44.06939618145583,
-   "vol_ann": 0.2958693175395001,
-   "beta": 0.5465400812949185,
-   "drawdown_52w": -0.06528553684669258,
-   "gap_events": 1,
-   "volume_z": 1.8456621522282106,
-   "market_cap": 15874209792,
-   "short_pct_float": 0.0573,
-   "runway_months": 999.0,
-   "cash": 1619800000.0,
-   "catalysts": [
-    {
-     "ticker": "JAZZ",
-     "nct_id": "NCT05152147",
-     "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal ",
-     "phases": [
-      "Phase 3"
-     ],
-     "phase_weight": 1.0,
-     "status": "ACTIVE_NOT_RECRUITING",
-     "enrollment": 920,
-     "conditions": [
-      "Gastric Neoplasms",
-      "Gastroesophageal Adenocarcinoma",
-      "Esophageal Adenocarcinoma"
-     ],
-     "date": "2026-07-31",
-     "days_out": -29,
-     "estimated": true,
-     "kind": "readout"
-    },
-    {
-     "ticker": "JAZZ",
-     "nct_id": "NCT06695845",
-     "title": "A Phase 2 Study of Zanidatamab in Patients With HER2-expressing Tumors",
-     "phases": [
-      "Phase 2"
-     ],
-     "phase_weight": 0.6,
-     "status": "RECRUITING",
-     "enrollment": 200,
-     "conditions": [
-      "Breast Cancer",
-      "Gastric Cancer",
-      "Esophageal Cancer"
-     ],
-     "date": "2026-12-31",
-     "days_out": 124,
-     "estimated": true,
-     "kind": "readout"
-    },
-    {
-     "ticker": "JAZZ",
-     "nct_id": "NCT05044819",
-     "title": "Assessment of Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution",
-     "phases": [
-      "Phase 4"
-     ],
-     "phase_weight": 0.35,
-     "status": "ACTIVE_NOT_RECRUITING",
-     "enrollment": 154,
-     "conditions": [
-      "Lennox Gastaut Syndrome",
-      "Dravet Syndrome",
-      "Tuberous Sclerosis Complex"
-     ],
-     "date": "2027-08-01",
-     "days_out": 337,
-     "estimated": true,
-     "kind": "readout"
-    }
-   ],
-   "hard_flags": [],
-   "trial_changes": [],
-   "filings": [
-    {
-     "form": "144",
-     "label": "filing",
-     "filed": "2026-08-27",
-     "days_ago": 2,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/1232524/000195004726008785/xsl144X01/primary_doc.xml"
-    },
-    {
-     "form": "8-K",
-     "label": "material event",
-     "filed": "2026-08-25",
-     "days_ago": 4,
-     "description": "8-K",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/1232524/000162828026058864/jazz-20260825.htm"
-    },
-    {
-     "form": "8-K",
-     "label": "material event",
-     "filed": "2026-08-10",
-     "days_ago": 19,
-     "description": "8-K",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/1232524/000119312526342667/d151973d8k.htm"
-    },
-    {
-     "form": "8-K",
-     "label": "material event",
-     "filed": "2026-08-10",
-     "days_ago": 19,
-     "description": "8-K",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/1232524/000119312526341270/d106596d8k.htm"
-    }
-   ],
-   "headlines": [
-    {
-     "title": "U.S. FDA Approves Ziihera (zanidatamab-hrii) with and without Tislelizumab plus Chemotherapy in First-Line HER2+ Advanced Gastroesophageal Adenocarcinoma",
-     "url": "https://www.drugs.com/newdrugs/u-s-fda-approves-ziihera-zanidatamab-hrii-without-tislelizumab-plus-chemotherapy-first-line-her2-6863.html",
-     "source": "Drugs.com New Approvals",
-     "published": "2026-08-25",
-     "score": 3.0
-    },
-    {
-     "title": "Roche nabs expanded FDA approval for diagnostic tied to Jazz\u2019s cancer drug",
-     "url": "https://www.fiercebiotech.com/medtech/roches-nabs-expanded-fda-approval-diagnostic-aimed-jazzs-cancer-drug",
-     "source": "FierceBiotech",
-     "published": "",
-     "score": 3.0
     }
    ]
   },
@@ -3316,7 +3705,7 @@
     "oncology"
    ],
    "held": false,
-   "score": 0.632,
+   "score": 0.617,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -3324,7 +3713,7 @@
     "trend": 0.1627,
     "long_momentum": 0.2337,
     "accumulation": -0.052,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.032,
     "trial_momentum": -0.0092,
     "reversion_penalty": 0.027,
@@ -3338,7 +3727,7 @@
     "accumulation": 0.0202,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.5729,
-    "trial_momentum": 0.3749,
+    "trial_momentum": 0.3745,
     "reversion_penalty": 0.0953,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -3363,7 +3752,7 @@
    "drawdown_52w": -0.08686083557111457,
    "gap_events": 1,
    "volume_z": -0.6353646946177639,
-   "market_cap": 8255797760,
+   "market_cap": 8255014400,
    "short_pct_float": 0.2843,
    "runway_months": 55.8,
    "cash": 552248000.0,
@@ -3437,7 +3826,7 @@
     "immunology"
    ],
    "held": false,
-   "score": 0.607,
+   "score": 0.592,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -3445,7 +3834,7 @@
     "trend": 0.1289,
     "long_momentum": 0.0598,
     "accumulation": 0.1046,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.1724,
     "trial_momentum": 0.1147,
     "reversion_penalty": -0.0883,
@@ -3459,7 +3848,7 @@
     "accumulation": 0.1525,
     "news_sentiment": 0.0,
     "catalyst_proximity": 2.4536,
-    "trial_momentum": 0.9035,
+    "trial_momentum": 0.9027,
     "reversion_penalty": 0.2599,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -3484,7 +3873,7 @@
    "drawdown_52w": -0.03370478951604061,
    "gap_events": 1,
    "volume_z": -0.5525290425984153,
-   "market_cap": 63631151104,
+   "market_cap": 64013033472,
    "short_pct_float": 0.019199999,
    "runway_months": null,
    "cash": null,
@@ -3646,7 +4035,7 @@
     "ctdna"
    ],
    "held": false,
-   "score": 0.604,
+   "score": 0.588,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -3654,7 +4043,7 @@
     "trend": 0.2097,
     "long_momentum": 0.1505,
     "accumulation": -0.0368,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": -0.0733,
     "reversion_penalty": -0.0767,
@@ -3668,7 +4057,7 @@
     "accumulation": 0.0331,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.1015,
+    "trial_momentum": 0.1014,
     "reversion_penalty": 0.2434,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -3723,6 +4112,17 @@
     {
      "form": "4",
      "label": "filing",
+     "filed": "2026-08-28",
+     "days_ago": 1,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/1604821/000201013526000020/xslF345X06/form4-08282026_090801.xml"
+    },
+    {
+     "form": "4",
+     "label": "filing",
      "filed": "2026-08-14",
      "days_ago": 15,
      "description": "filing",
@@ -3755,7 +4155,7 @@
     "immunology"
    ],
    "held": false,
-   "score": 0.585,
+   "score": 0.569,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -3763,7 +4163,7 @@
     "trend": 0.1556,
     "long_momentum": 0.0439,
     "accumulation": 0.1297,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0882,
     "trial_momentum": -0.0241,
     "reversion_penalty": 0.0452,
@@ -3777,7 +4177,7 @@
     "accumulation": 0.1833,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0869,
-    "trial_momentum": 0.3113,
+    "trial_momentum": 0.311,
     "reversion_penalty": 0.0694,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -3785,8 +4185,8 @@
    "reasons": [
     "Outperforming XBI by 26 points over three months.",
     "Trading 5% above its 50-day average and 35% above its 200-day.",
-    "Phase 1 readout window opens in 94 days (NCT07412288).",
-    "Net negative news flow this month."
+    "Net negative news flow this month.",
+    "Phase 1 readout window opens in 94 days (NCT07412288)."
    ],
    "price": 118.1500015258789,
    "ret_1d": -0.01730018941178657,
@@ -3801,7 +4201,7 @@
    "drawdown_52w": -0.07195032761271558,
    "gap_events": 2,
    "volume_z": -0.36075957969642614,
-   "market_cap": 9718733824,
+   "market_cap": 9824245760,
    "short_pct_float": 0.16059999,
    "runway_months": 31.0,
    "cash": 690985000.0,
@@ -3880,7 +4280,7 @@
     "platform"
    ],
    "held": false,
-   "score": 0.568,
+   "score": 0.553,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -3888,7 +4288,7 @@
     "trend": 0.2327,
     "long_momentum": 0.1299,
     "accumulation": -0.0231,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": -0.0913,
     "reversion_penalty": -0.1106,
@@ -4005,6 +4405,156 @@
    "headlines": []
   },
   {
+   "ticker": "JNJ",
+   "name": "Johnson & Johnson",
+   "tier": "large",
+   "tags": [
+    "pharma",
+    "oncology",
+    "immunology"
+   ],
+   "held": false,
+   "score": 0.547,
+   "bucket": "neutral",
+   "override": null,
+   "contributions": {
+    "relative_strength": 0.071,
+    "trend": 0.0458,
+    "long_momentum": -0.0347,
+    "accumulation": 0.0478,
+    "news_sentiment": 0.4336,
+    "catalyst_proximity": -0.0982,
+    "trial_momentum": -0.0675,
+    "reversion_penalty": -0.0053,
+    "dilution_risk": 0.1293,
+    "drawdown_risk": 0.0257
+   },
+   "raw": {
+    "relative_strength": -0.0026,
+    "trend": 0.3818,
+    "long_momentum": 0.0905,
+    "accumulation": 0.1046,
+    "news_sentiment": 1.3922,
+    "catalyst_proximity": 0.0,
+    "trial_momentum": 0.1261,
+    "reversion_penalty": 0.1414,
+    "dilution_risk": -1.0,
+    "drawdown_risk": 0.0
+   },
+   "reasons": [
+    "Positive coverage: FDA Approves Imaavy (nipocalimab-aahu) as First-Ever Treatment for Warm Autoimmune Hemolytic Anemia",
+    "Operations are cash generative.",
+    "Phase 4 readout window opens in 280 days (NCT07141004).",
+    "Outperforming XBI by 1 points over three months.",
+    "Pipeline activity net negative."
+   ],
+   "price": 268.0400085449219,
+   "ret_1d": 0.008541293694124485,
+   "ret_5d": -0.0032490653121139967,
+   "ret_21d": 0.052935478572978534,
+   "ret_63d": 0.1954110422951647,
+   "ret_252d": 0.5503166026859798,
+   "rs_63d": 0.006301375885463312,
+   "rsi14": 57.06987052699542,
+   "vol_ann": 0.25146785830438917,
+   "beta": 0.14737225997950718,
+   "drawdown_52w": -0.01867176477265664,
+   "gap_events": 0,
+   "volume_z": -0.737495125742917,
+   "market_cap": 645949227008,
+   "short_pct_float": 0.01,
+   "runway_months": 999.0,
+   "cash": 20758000000.0,
+   "catalysts": [
+    {
+     "ticker": "JNJ",
+     "nct_id": "NCT07141004",
+     "title": "A Study of Guselkumab Administered Subcutaneously in Treatment of Indian Participants With Psoriatic Arthritis (PsA)",
+     "phases": [
+      "Phase 4"
+     ],
+     "phase_weight": 0.35,
+     "status": "RECRUITING",
+     "enrollment": 100,
+     "conditions": [
+      "Arthritis, Psoriatic"
+     ],
+     "date": "2027-06-05",
+     "days_out": 280,
+     "estimated": true,
+     "kind": "readout"
+    }
+   ],
+   "hard_flags": [],
+   "trial_changes": [],
+   "filings": [
+    {
+     "form": "4",
+     "label": "filing",
+     "filed": "2026-08-18",
+     "days_ago": 11,
+     "description": "FORM 4",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000175/xslF345X06/wk-form4_1787092263.xml"
+    },
+    {
+     "form": "144",
+     "label": "filing",
+     "filed": "2026-08-17",
+     "days_ago": 12,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/200406/000195917326006082/xsl144X01/primary_doc.xml"
+    },
+    {
+     "form": "4",
+     "label": "filing",
+     "filed": "2026-08-14",
+     "days_ago": 15,
+     "description": "FORM 4",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000173/xslF345X06/wk-form4_1786739711.xml"
+    },
+    {
+     "form": "144",
+     "label": "filing",
+     "filed": "2026-08-13",
+     "days_ago": 16,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/200406/000195917326005985/xsl144X01/primary_doc.xml"
+    },
+    {
+     "form": "N-PX",
+     "label": "filing",
+     "filed": "2026-08-11",
+     "days_ago": 18,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/200406/000119312526342782/xslN-PX_X01/primary_doc.xml"
+    }
+   ],
+   "headlines": [
+    {
+     "title": "FDA Approves Imaavy (nipocalimab-aahu) as First-Ever Treatment for Warm Autoimmune Hemolytic Anemia",
+     "url": "https://www.drugs.com/newdrugs/fda-approves-imaavy-nipocalimab-aahu-first-ever-warm-autoimmune-hemolytic-anemia-6862.html",
+     "source": "Drugs.com New Approvals",
+     "published": "2026-08-25",
+     "score": 3.0
+    }
+   ]
+  },
+  {
    "ticker": "AMGN",
    "name": "Amgen",
    "tier": "large",
@@ -4014,7 +4564,7 @@
     "metabolic"
    ],
    "held": false,
-   "score": 0.554,
+   "score": 0.538,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -4022,7 +4572,7 @@
     "trend": 0.1332,
     "long_momentum": -0.0198,
     "accumulation": 0.0141,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.1683,
     "trial_momentum": 0.0725,
     "reversion_penalty": -0.1106,
@@ -4036,7 +4586,7 @@
     "accumulation": 0.0761,
     "news_sentiment": 0.0,
     "catalyst_proximity": 2.3037,
-    "trial_momentum": 0.7235,
+    "trial_momentum": 0.7229,
     "reversion_penalty": 0.2919,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -4055,9 +4605,9 @@
    "ret_63d": 0.29144895352318656,
    "ret_252d": 0.5432699261471758,
    "rs_63d": 0.10233928711348517,
-   "rsi14": 64.59657235811574,
+   "rsi14": 64.59657230635557,
    "vol_ann": 0.2728726059341848,
-   "beta": 0.3425451821102309,
+   "beta": 0.3425453614878837,
    "drawdown_52w": -0.025729954497977103,
    "gap_events": 0,
    "volume_z": -0.5910382592330381,
@@ -4228,6 +4778,194 @@
    ]
   },
   {
+   "ticker": "JAZZ",
+   "name": "Jazz Pharmaceuticals",
+   "tier": "mid",
+   "tags": [
+    "pharma",
+    "oncology",
+    "neurology"
+   ],
+   "held": false,
+   "score": 0.493,
+   "bucket": "neutral",
+   "override": null,
+   "contributions": {
+    "relative_strength": -0.1675,
+    "trend": 0.0418,
+    "long_momentum": 0.0414,
+    "accumulation": -0.1119,
+    "news_sentiment": 0.5033,
+    "catalyst_proximity": 0.0703,
+    "trial_momentum": -0.0496,
+    "reversion_penalty": 0.0107,
+    "dilution_risk": 0.1293,
+    "drawdown_risk": 0.0257
+   },
+   "raw": {
+    "relative_strength": -0.1448,
+    "trend": 0.3716,
+    "long_momentum": 0.2869,
+    "accumulation": -0.0304,
+    "news_sentiment": 1.5772,
+    "catalyst_proximity": 1.457,
+    "trial_momentum": 0.2024,
+    "reversion_penalty": 0.1186,
+    "dilution_risk": -1.0,
+    "drawdown_risk": 0.0
+   },
+   "reasons": [
+    "Positive coverage: U.S. FDA Approves Ziihera (zanidatamab-hrii) with and without Tislelizumab plus Chemotherapy in First-Line HER2+ Advanced Gastroesophageal Adenocarcin",
+    "Lagging XBI by 16 points over three months.",
+    "Operations are cash generative.",
+    "Volume running +1.8 standard deviations from normal, on down days.",
+    "Phase 3 readout window opens in -29 days (NCT05152147)."
+   ],
+   "price": 244.5399932861328,
+   "ret_1d": -0.026125100190871553,
+   "ret_5d": -0.03830425334246568,
+   "ret_21d": -0.05356456124751907,
+   "ret_63d": 0.03403944186216967,
+   "ret_252d": 0.9652816257042229,
+   "rs_63d": -0.15507022454753172,
+   "rsi14": 44.06939618145583,
+   "vol_ann": 0.2958693175395001,
+   "beta": 0.5465400812949185,
+   "drawdown_52w": -0.06528553684669258,
+   "gap_events": 1,
+   "volume_z": 1.8456621522282106,
+   "market_cap": 15874209792,
+   "short_pct_float": 0.0573,
+   "runway_months": 999.0,
+   "cash": 1619800000.0,
+   "catalysts": [
+    {
+     "ticker": "JAZZ",
+     "nct_id": "NCT05152147",
+     "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal ",
+     "phases": [
+      "Phase 3"
+     ],
+     "phase_weight": 1.0,
+     "status": "ACTIVE_NOT_RECRUITING",
+     "enrollment": 920,
+     "conditions": [
+      "Gastric Neoplasms",
+      "Gastroesophageal Adenocarcinoma",
+      "Esophageal Adenocarcinoma"
+     ],
+     "date": "2026-07-31",
+     "days_out": -29,
+     "estimated": true,
+     "kind": "readout"
+    },
+    {
+     "ticker": "JAZZ",
+     "nct_id": "NCT06695845",
+     "title": "A Phase 2 Study of Zanidatamab in Patients With HER2-expressing Tumors",
+     "phases": [
+      "Phase 2"
+     ],
+     "phase_weight": 0.6,
+     "status": "RECRUITING",
+     "enrollment": 200,
+     "conditions": [
+      "Breast Cancer",
+      "Gastric Cancer",
+      "Esophageal Cancer"
+     ],
+     "date": "2026-12-31",
+     "days_out": 124,
+     "estimated": true,
+     "kind": "readout"
+    },
+    {
+     "ticker": "JAZZ",
+     "nct_id": "NCT05044819",
+     "title": "Assessment of Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution",
+     "phases": [
+      "Phase 4"
+     ],
+     "phase_weight": 0.35,
+     "status": "ACTIVE_NOT_RECRUITING",
+     "enrollment": 154,
+     "conditions": [
+      "Lennox Gastaut Syndrome",
+      "Dravet Syndrome",
+      "Tuberous Sclerosis Complex"
+     ],
+     "date": "2027-08-01",
+     "days_out": 337,
+     "estimated": true,
+     "kind": "readout"
+    }
+   ],
+   "hard_flags": [],
+   "trial_changes": [],
+   "filings": [
+    {
+     "form": "144",
+     "label": "filing",
+     "filed": "2026-08-27",
+     "days_ago": 2,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/1232524/000195004726008785/xsl144X01/primary_doc.xml"
+    },
+    {
+     "form": "8-K",
+     "label": "material event",
+     "filed": "2026-08-25",
+     "days_ago": 4,
+     "description": "8-K",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/1232524/000162828026058864/jazz-20260825.htm"
+    },
+    {
+     "form": "8-K",
+     "label": "material event",
+     "filed": "2026-08-10",
+     "days_ago": 19,
+     "description": "8-K",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/1232524/000119312526342667/d151973d8k.htm"
+    },
+    {
+     "form": "8-K",
+     "label": "material event",
+     "filed": "2026-08-10",
+     "days_ago": 19,
+     "description": "8-K",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/1232524/000119312526341270/d106596d8k.htm"
+    }
+   ],
+   "headlines": [
+    {
+     "title": "U.S. FDA Approves Ziihera (zanidatamab-hrii) with and without Tislelizumab plus Chemotherapy in First-Line HER2+ Advanced Gastroesophageal Adenocarcinoma",
+     "url": "https://www.drugs.com/newdrugs/u-s-fda-approves-ziihera-zanidatamab-hrii-without-tislelizumab-plus-chemotherapy-first-line-her2-6863.html",
+     "source": "Drugs.com New Approvals",
+     "published": "2026-08-25",
+     "score": 3.0
+    },
+    {
+     "title": "Roche nabs expanded FDA approval for diagnostic tied to Jazz\u2019s cancer drug",
+     "url": "https://www.fiercebiotech.com/medtech/roches-nabs-expanded-fda-approval-diagnostic-aimed-jazzs-cancer-drug",
+     "source": "FierceBiotech",
+     "published": "",
+     "score": 3.0
+    }
+   ]
+  },
+  {
    "ticker": "ILMN",
    "name": "Illumina",
    "tier": "mid",
@@ -4236,7 +4974,7 @@
     "sequencing"
    ],
    "held": false,
-   "score": 0.504,
+   "score": 0.489,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -4244,7 +4982,7 @@
     "trend": 0.2111,
     "long_momentum": 0.1641,
     "accumulation": -0.028,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.1159,
     "trial_momentum": 0.0004,
     "reversion_penalty": -0.0425,
@@ -4258,7 +4996,7 @@
     "accumulation": 0.0405,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.851,
-    "trial_momentum": 0.4161,
+    "trial_momentum": 0.4157,
     "reversion_penalty": 0.1946,
     "dilution_risk": 0.5,
     "drawdown_risk": 0.0
@@ -4268,7 +5006,7 @@
     "Outperforming XBI by 13 points over three months.",
     "Up 60% over six months.",
     "Phase 3 readout window opens in -30 days (NCT04724369).",
-    "Operations are cash generative."
+    "Net negative news flow this month."
    ],
    "price": 215.58999633789062,
    "ret_1d": -0.053142456734038834,
@@ -4427,7 +5165,7 @@
     "oncology"
    ],
    "held": false,
-   "score": 0.476,
+   "score": 0.46,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -4435,7 +5173,7 @@
     "trend": 0.1826,
     "long_momentum": 0.1047,
     "accumulation": 0.1297,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0882,
     "trial_momentum": -0.0215,
     "reversion_penalty": -0.0751,
@@ -4449,7 +5187,7 @@
     "accumulation": 0.3892,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0869,
-    "trial_momentum": 0.3224,
+    "trial_momentum": 0.3221,
     "reversion_penalty": 0.2412,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -4459,7 +5197,7 @@
     "Trading 17% above its 50-day average and 30% above its 200-day.",
     "Volume running +1.1 standard deviations from normal, on up days.",
     "Up 45% over six months.",
-    "Phase 1 readout window opens in 94 days (NCT06001788)."
+    "Net negative news flow this month."
    ],
    "price": 12.65999984741211,
    "ret_1d": -0.03945375157233255,
@@ -4601,7 +5339,7 @@
     "oncology"
    ],
    "held": false,
-   "score": 0.462,
+   "score": 0.414,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -4609,7 +5347,7 @@
     "trend": 0.0798,
     "long_momentum": -0.0346,
     "accumulation": 0.1159,
-    "news_sentiment": 0.0947,
+    "news_sentiment": 0.0466,
     "catalyst_proximity": -0.0092,
     "trial_momentum": 0.049,
     "reversion_penalty": -0.0248,
@@ -4621,9 +5359,9 @@
     "trend": 0.4687,
     "long_momentum": 0.0907,
     "accumulation": 0.1621,
-    "news_sentiment": 0.3723,
+    "news_sentiment": 0.3642,
     "catalyst_proximity": 0.7699,
-    "trial_momentum": 0.6231,
+    "trial_momentum": 0.6225,
     "reversion_penalty": 0.1692,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -4631,9 +5369,9 @@
    "reasons": [
     "Operations are cash generative.",
     "Volume running -1.0 standard deviations from normal, on up days.",
-    "Positive coverage: FDA Grants Accelerated Approval to Zenbexus (iberdomide) in Combination with Daratumumab and Hyaluronidase-fihj and Dexamethasone for the Treatment of",
     "Trading 8% above its 50-day average and 17% above its 200-day.",
-    "Pipeline activity net positive."
+    "Pipeline activity net positive.",
+    "Positive coverage: FDA Grants Accelerated Approval to Zenbexus (iberdomide) in Combination with Daratumumab and Hyaluronidase-fihj and Dexamethasone for the Treatment of"
    ],
    "price": 66.58000183105469,
    "ret_1d": -0.00552643964231303,
@@ -4794,7 +5532,7 @@
     "pain"
    ],
    "held": false,
-   "score": 0.427,
+   "score": 0.411,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -4802,7 +5540,7 @@
     "trend": 0.0782,
     "long_momentum": -0.0348,
     "accumulation": 0.037,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.0881,
     "trial_momentum": 0.1152,
     "reversion_penalty": -0.0664,
@@ -4816,7 +5554,7 @@
     "accumulation": 0.0954,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.6106,
-    "trial_momentum": 0.9055,
+    "trial_momentum": 0.9046,
     "reversion_penalty": 0.2287,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -4825,8 +5563,8 @@
     "Outperforming XBI by 2 points over three months.",
     "Operations are cash generative.",
     "Pipeline activity net positive.",
-    "Phase 1 readout window opens in -44 days (NCT07570069).",
-    "Trading 8% above its 50-day average and 17% above its 200-day."
+    "Net negative news flow this month.",
+    "Phase 1 readout window opens in -44 days (NCT07570069)."
    ],
    "price": 541.6900024414062,
    "ret_1d": -0.010702192461335969,
@@ -4841,7 +5579,7 @@
    "drawdown_52w": -0.02018625963165388,
    "gap_events": 0,
    "volume_z": -0.6646814134588788,
-   "market_cap": 137297248256,
+   "market_cap": 137210077184,
    "short_pct_float": 0.0185,
    "runway_months": 999.0,
    "cash": 7852400000.0,
@@ -4947,7 +5685,7 @@
     "io"
    ],
    "held": false,
-   "score": 0.394,
+   "score": 0.378,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -4955,7 +5693,7 @@
     "trend": 0.0491,
     "long_momentum": 0.0985,
     "accumulation": 0.0236,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.087,
     "trial_momentum": 0.0977,
     "reversion_penalty": 0.0816,
@@ -4969,7 +5707,7 @@
     "accumulation": 0.0841,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.6009,
-    "trial_momentum": 0.8308,
+    "trial_momentum": 0.83,
     "reversion_penalty": 0.0118,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -4977,9 +5715,9 @@
    "reasons": [
     "Up 43% over six months.",
     "Pipeline activity net positive.",
+    "Net negative news flow this month.",
     "Phase 3 readout window opens in -28 days (NCT05568095).",
-    "RSI at 49 \u2014 stretched, so entry timing matters.",
-    "Net negative news flow this month."
+    "RSI at 49 \u2014 stretched, so entry timing matters."
    ],
    "price": 29.209999084472656,
    "ret_1d": -0.045112816646994625,
@@ -4994,7 +5732,7 @@
    "drawdown_52w": -0.07475453383480635,
    "gap_events": 1,
    "volume_z": -0.5627814761144808,
-   "market_cap": 3673833984,
+   "market_cap": 3719407872,
    "short_pct_float": 0.1775,
    "runway_months": 20.8,
    "cash": 702000000.0,
@@ -5109,7 +5847,7 @@
     "synthetic-biology"
    ],
    "held": false,
-   "score": 0.394,
+   "score": 0.378,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -5117,7 +5855,7 @@
     "trend": 0.2327,
     "long_momentum": 0.2337,
     "accumulation": 0.0565,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": -0.0971,
     "reversion_penalty": -0.0542,
@@ -5243,7 +5981,7 @@
     "dermatology"
    ],
    "held": false,
-   "score": 0.366,
+   "score": 0.35,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -5251,7 +5989,7 @@
     "trend": 0.0722,
     "long_momentum": 0.0186,
     "accumulation": -0.1168,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.1724,
     "trial_momentum": 0.0864,
     "reversion_penalty": 0.0452,
@@ -5265,7 +6003,7 @@
     "accumulation": -0.0345,
     "news_sentiment": 0.0,
     "catalyst_proximity": 2.4993,
-    "trial_momentum": 0.7827,
+    "trial_momentum": 0.782,
     "reversion_penalty": 0.0693,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -5274,8 +6012,8 @@
     "Phase 2 readout window opens in -38 days (NCT05879822).",
     "Outperforming XBI by 10 points over three months.",
     "Volume running -1.0 standard deviations from normal, on down days.",
-    "Pipeline activity net positive.",
-    "Net negative news flow this month."
+    "Net negative news flow this month.",
+    "Pipeline activity net positive."
    ],
    "price": 124.37000274658203,
    "ret_1d": -0.026381675070806576,
@@ -5441,7 +6179,7 @@
     "neurology"
    ],
    "held": false,
-   "score": 0.333,
+   "score": 0.318,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -5449,7 +6187,7 @@
     "trend": 0.0984,
     "long_momentum": 0.002,
     "accumulation": 0.1205,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": -0.1455,
     "reversion_penalty": 0.0176,
@@ -5463,7 +6201,7 @@
     "accumulation": 0.166,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": -0.3661,
+    "trial_momentum": -0.3658,
     "reversion_penalty": 0.1087,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -5487,7 +6225,7 @@
    "drawdown_52w": -0.047759211614249675,
    "gap_events": 0,
    "volume_z": -0.28161994028822734,
-   "market_cap": 5015813632,
+   "market_cap": 4984676352,
    "short_pct_float": 0.086899996,
    "runway_months": 999.0,
    "cash": 956474000.0,
@@ -5526,7 +6264,7 @@
     "rare"
    ],
    "held": false,
-   "score": 0.304,
+   "score": 0.288,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -5534,7 +6272,7 @@
     "trend": 0.0265,
     "long_momentum": -0.0514,
     "accumulation": 0.0022,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.1297,
     "trial_momentum": 0.0283,
     "reversion_penalty": 0.0816,
@@ -5548,7 +6286,7 @@
     "accumulation": 0.066,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.9705,
-    "trial_momentum": 0.535,
+    "trial_momentum": 0.5345,
     "reversion_penalty": 0.0143,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -5556,8 +6294,8 @@
    "reasons": [
     "Phase 3 readout window opens in -28 days (NCT06455059).",
     "Operations are cash generative.",
-    "RSI at 51 \u2014 stretched, so entry timing matters.",
     "Net negative news flow this month.",
+    "RSI at 51 \u2014 stretched, so entry timing matters.",
     "Up 5% over six months."
    ],
    "price": 64.66500091552734,
@@ -5678,7 +6416,7 @@
     "immunology"
    ],
    "held": false,
-   "score": 0.248,
+   "score": 0.233,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -5686,7 +6424,7 @@
     "trend": 0.1521,
     "long_momentum": 0.1185,
     "accumulation": 0.0195,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0327,
     "trial_momentum": -0.1213,
     "reversion_penalty": 0.0582,
@@ -5700,7 +6438,7 @@
     "accumulation": 0.0806,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.5669,
-    "trial_momentum": -0.1031,
+    "trial_momentum": -0.103,
     "reversion_penalty": 0.0507,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -5835,7 +6573,7 @@
     "ras"
    ],
    "held": false,
-   "score": 0.246,
+   "score": 0.23,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -5843,7 +6581,7 @@
     "trend": 0.1726,
     "long_momentum": 0.0542,
     "accumulation": 0.0015,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0587,
     "trial_momentum": 0.0106,
     "reversion_penalty": 0.0816,
@@ -5857,7 +6595,7 @@
     "accumulation": 0.0654,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.342,
-    "trial_momentum": 0.4594,
+    "trial_momentum": 0.459,
     "reversion_penalty": 0.0173,
     "dilution_risk": 1.5,
     "drawdown_risk": 0.0
@@ -5866,8 +6604,8 @@
     "Outperforming XBI by 22 points over three months.",
     "Priced an offering 46d ago.",
     "Trading 0% below its 50-day average and 44% above its 200-day.",
-    "RSI at 49 \u2014 stretched, so entry timing matters.",
-    "Net negative news flow this month."
+    "Net negative news flow this month.",
+    "RSI at 49 \u2014 stretched, so entry timing matters."
    ],
    "price": 18.030000686645508,
    "ret_1d": -0.07491016426979125,
@@ -5989,7 +6727,7 @@
     "synthetic-lethality"
    ],
    "held": false,
-   "score": 0.225,
+   "score": 0.209,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -5997,7 +6735,7 @@
     "trend": 0.0945,
     "long_momentum": 0.0254,
     "accumulation": 0.1183,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0705,
     "trial_momentum": 0.0176,
     "reversion_penalty": -0.0465,
@@ -6011,7 +6749,7 @@
     "accumulation": 0.1641,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.2397,
-    "trial_momentum": 0.4891,
+    "trial_momentum": 0.4887,
     "reversion_penalty": 0.2002,
     "dilution_risk": 1.0,
     "drawdown_risk": 0.0
@@ -6190,7 +6928,7 @@
     "oncology"
    ],
    "held": false,
-   "score": 0.201,
+   "score": 0.185,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -6198,7 +6936,7 @@
     "trend": 0.0123,
     "long_momentum": -0.0241,
     "accumulation": -0.082,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.1724,
     "trial_momentum": 0.1457,
     "reversion_penalty": 0.0816,
@@ -6212,7 +6950,7 @@
     "accumulation": -0.0051,
     "news_sentiment": 0.0,
     "catalyst_proximity": 2.4788,
-    "trial_momentum": 1.0426,
+    "trial_momentum": 1.0416,
     "reversion_penalty": 0.0125,
     "dilution_risk": 0.5,
     "drawdown_risk": 0.0
@@ -6220,17 +6958,17 @@
    "reasons": [
     "Phase 1 readout window opens in -43 days (NCT07587008).",
     "Pipeline activity net positive.",
-    "RSI at 51 \u2014 stretched, so entry timing matters.",
-    "Operations are cash generative."
+    "Negative coverage: AbbVie's patient support extends to the classroom with immunology scholarship program",
+    "RSI at 51 \u2014 stretched, so entry timing matters."
    ],
    "price": 255.47999572753906,
    "ret_1d": -0.010342817091120837,
    "ret_5d": -0.03577897053618495,
    "ret_21d": -0.0074977969275186185,
    "ret_63d": 0.18178604716165103,
-   "ret_252d": 0.2660084907998692,
+   "ret_252d": 0.266008395072445,
    "rs_63d": -0.0073236192480503615,
-   "rsi14": 50.62297529140555,
+   "rsi14": 50.622975291405524,
    "vol_ann": 0.2934194037209504,
    "beta": 0.25784451566482386,
    "drawdown_52w": -0.03944055887889175,
@@ -6384,429 +7122,6 @@
    ]
   },
   {
-   "ticker": "PFE",
-   "name": "Pfizer",
-   "tier": "large",
-   "tags": [
-    "pharma",
-    "oncology",
-    "vaccines"
-   ],
-   "held": false,
-   "score": 0.131,
-   "bucket": "neutral",
-   "override": null,
-   "contributions": {
-    "relative_strength": -0.0068,
-    "trend": 0.0488,
-    "long_momentum": -0.052,
-    "accumulation": 0.0899,
-    "news_sentiment": -0.0749,
-    "catalyst_proximity": 0.0955,
-    "trial_momentum": -0.015,
-    "reversion_penalty": -0.1091,
-    "dilution_risk": 0.1293,
-    "drawdown_risk": 0.0257
-   },
-   "raw": {
-    "relative_strength": -0.049,
-    "trend": 0.3894,
-    "long_momentum": 0.0459,
-    "accumulation": 0.1401,
-    "news_sentiment": 0.0,
-    "catalyst_proximity": 1.6744,
-    "trial_momentum": 0.3504,
-    "reversion_penalty": 0.2896,
-    "dilution_risk": -1.0,
-    "drawdown_risk": 0.0
-   },
-   "reasons": [
-    "Operations are cash generative.",
-    "RSI at 64 \u2014 stretched, so entry timing matters.",
-    "Phase 3 readout window opens in 2 days (NCT07543380).",
-    "Volume running -0.8 standard deviations from normal, on up days.",
-    "Negative coverage: #ESC26: Trial failure clouds future of AstraZeneca\u2019s heart disease gene silencer"
-   ],
-   "price": 27.959999084472656,
-   "ret_1d": -0.002141376599242406,
-   "ret_5d": -0.0039187962788558295,
-   "ret_21d": 0.12244075695477807,
-   "ret_63d": 0.08667415524939504,
-   "ret_252d": 0.1934940611850957,
-   "rs_63d": -0.10243551116030636,
-   "rsi14": 64.48097238681589,
-   "vol_ann": 0.22325338496881475,
-   "beta": 0.21583074963982884,
-   "drawdown_52w": -0.021351089144816204,
-   "gap_events": 0,
-   "volume_z": -0.7829328889061677,
-   "market_cap": 159362875392,
-   "short_pct_float": 0.026199998,
-   "runway_months": 999.0,
-   "cash": 8257000000.0,
-   "catalysts": [
-    {
-     "ticker": "PFE",
-     "nct_id": "NCT07543380",
-     "title": "A Study to Learn Safety and Immune Response to Study Vaccine -RSVpreF in Adults at High Risk of Severe RSV Disease.",
-     "phases": [
-      "Phase 3"
-     ],
-     "phase_weight": 1.0,
-     "status": "RECRUITING",
-     "enrollment": 130,
-     "conditions": [
-      "Respiratory Syncytial Virus (RSV)"
-     ],
-     "date": "2026-08-31",
-     "days_out": 2,
-     "estimated": true,
-     "kind": "readout"
-    },
-    {
-     "ticker": "PFE",
-     "nct_id": "NCT07231991",
-     "title": "A Study to Learn How the Body Processes the Study Medicine Called Vepdegestrant in People With Loss of Liver Function",
-     "phases": [
-      "Phase 1"
-     ],
-     "phase_weight": 0.25,
-     "status": "RECRUITING",
-     "enrollment": 24,
-     "conditions": [
-      "Healthy Participants"
-     ],
-     "date": "2026-12-04",
-     "days_out": 97,
-     "estimated": true,
-     "kind": "readout"
-    },
-    {
-     "ticker": "PFE",
-     "nct_id": "NCT07500506",
-     "title": "A Study to Learn About the Safety, Tolerability, and Immunogenicity of a Fifth Dose of 6-Valent OspA-Based Lyme Disease Vaccine",
-     "phases": [
-      "Phase 3"
-     ],
-     "phase_weight": 1.0,
-     "status": "RECRUITING",
-     "enrollment": 1712,
-     "conditions": [
-      "Lyme Disease"
-     ],
-     "date": "2026-12-04",
-     "days_out": 97,
-     "estimated": true,
-     "kind": "readout"
-    },
-    {
-     "ticker": "PFE",
-     "nct_id": "NCT05573555",
-     "title": "TACTIVE-U: A Study to Learn About the Study Medicine (Vepdegestrant) When Given With Other Medicines in People With Advanced or Metastatic Breast Cancer (Sub-St",
-     "phases": [
-      "Phase 1",
-      "Phase 2"
-     ],
-     "phase_weight": 0.6,
-     "status": "ACTIVE_NOT_RECRUITING",
-     "enrollment": 20,
-     "conditions": [
-      "Breast Cancer"
-     ],
-     "date": "2026-12-30",
-     "days_out": 123,
-     "estimated": true,
-     "kind": "readout"
-    }
-   ],
-   "hard_flags": [],
-   "trial_changes": [],
-   "filings": [
-    {
-     "form": "3",
-     "label": "filing",
-     "filed": "2026-08-28",
-     "days_ago": 1,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826007363/xslF345X06/doc3.xml"
-    },
-    {
-     "form": "4",
-     "label": "filing",
-     "filed": "2026-08-17",
-     "days_ago": 12,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826007145/xslF345X06/doc4.xml"
-    },
-    {
-     "form": "13F-HR",
-     "label": "filing",
-     "filed": "2026-08-13",
-     "days_ago": 16,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000102/xslForm13F_X02/primary_doc.xml"
-    },
-    {
-     "form": "4",
-     "label": "filing",
-     "filed": "2026-08-12",
-     "days_ago": 17,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/78003/000122520826007083/xslF345X06/doc4.xml"
-    }
-   ],
-   "headlines": [
-    {
-     "title": "#ESC26: Trial failure clouds future of AstraZeneca\u2019s heart disease gene silencer",
-     "url": "https://endpoints.news/esc26-trial-failure-clouds-future-of-astrazenecas-heart-disease-gene-silencer/",
-     "source": "Endpoints News",
-     "published": "2026-08-28",
-     "score": 0.0
-    },
-    {
-     "title": "Priovant pushes ex-Pfizer asset across FDA finish line in rare skin and muscle disease",
-     "url": "https://www.fiercepharma.com/pharma/priovant-pushes-ex-pfizer-asset-across-fda-finish-line-rare-skin-and-muscle-disease",
-     "source": "FiercePharma",
-     "published": "",
-     "score": 0.0
-    }
-   ]
-  },
-  {
-   "ticker": "GILD",
-   "name": "Gilead Sciences",
-   "tier": "large",
-   "tags": [
-    "biotech",
-    "virology",
-    "oncology"
-   ],
-   "held": false,
-   "score": 0.11,
-   "bucket": "neutral",
-   "override": null,
-   "contributions": {
-    "relative_strength": -0.0097,
-    "trend": 0.0345,
-    "long_momentum": -0.0737,
-    "accumulation": 0.0618,
-    "news_sentiment": -0.0749,
-    "catalyst_proximity": 0.1336,
-    "trial_momentum": 0.0158,
-    "reversion_penalty": -0.0641,
-    "dilution_risk": 0.0606,
-    "drawdown_risk": 0.0257
-   },
-   "raw": {
-    "relative_strength": -0.0507,
-    "trend": 0.3529,
-    "long_momentum": -0.0099,
-    "accumulation": 0.1164,
-    "news_sentiment": 0.0,
-    "catalyst_proximity": 2.0043,
-    "trial_momentum": 0.4815,
-    "reversion_penalty": 0.2254,
-    "dilution_risk": -0.5,
-    "drawdown_risk": 0.0
-   },
-   "reasons": [
-    "Phase 2 readout window opens in -28 days (NCT06727565).",
-    "Negative coverage: Gilead gets another HIV treatment approval, extending lenacapavir's dominance",
-    "Down 1% over six months.",
-    "RSI at 61 \u2014 stretched, so entry timing matters.",
-    "Volume running -0.8 standard deviations from normal, on up days."
-   ],
-   "price": 145.67999267578125,
-   "ret_1d": -0.02136240710420345,
-   "ret_5d": -0.0030112404606458254,
-   "ret_21d": 0.10968916842155907,
-   "ret_63d": 0.09080875573351643,
-   "ret_252d": 0.3121054446770639,
-   "rs_63d": -0.09830091067618496,
-   "rsi14": 61.27046806324977,
-   "vol_ann": 0.30373703094469523,
-   "beta": 0.3536700499919785,
-   "drawdown_52w": -0.05346480861661462,
-   "gap_events": 0,
-   "volume_z": -0.8456574492151956,
-   "market_cap": 180636663808,
-   "short_pct_float": 0.0187,
-   "runway_months": 999.0,
-   "cash": 3179000000.0,
-   "catalysts": [
-    {
-     "ticker": "GILD",
-     "nct_id": "NCT06727565",
-     "title": "Study of Novel Treatment Combination Therapies in Participants With Head and Neck Squamous Cell Carcinoma Regardless of PD-L1 Expression Status; Substudy-01",
-     "phases": [
-      "Phase 2"
-     ],
-     "phase_weight": 0.6,
-     "status": "ACTIVE_NOT_RECRUITING",
-     "enrollment": 100,
-     "conditions": [
-      "Head and Neck Squamous Cell Carcinoma"
-     ],
-     "date": "2026-08-01",
-     "days_out": -28,
-     "estimated": true,
-     "kind": "readout"
-    },
-    {
-     "ticker": "GILD",
-     "nct_id": "NCT05186974",
-     "title": "Study of Sacituzumab Govitecan Combinations in First-line Treatment of Participants With Advanced or Metastatic Non-Small-Cell Lung Cancer (NSCLC)",
-     "phases": [
-      "Phase 2"
-     ],
-     "phase_weight": 0.6,
-     "status": "ACTIVE_NOT_RECRUITING",
-     "enrollment": 193,
-     "conditions": [
-      "Non-small Cell Lung Cancer"
-     ],
-     "date": "2026-09-01",
-     "days_out": 3,
-     "estimated": true,
-     "kind": "readout"
-    },
-    {
-     "ticker": "GILD",
-     "nct_id": "NCT05119907",
-     "title": "Study of Sacituzumab Govitecan in Patients With Solid Tumor",
-     "phases": [
-      "Phase 2"
-     ],
-     "phase_weight": 0.6,
-     "status": "ACTIVE_NOT_RECRUITING",
-     "enrollment": 53,
-     "conditions": [
-      "Solid Tumor"
-     ],
-     "date": "2026-10-01",
-     "days_out": 33,
-     "estimated": true,
-     "kind": "readout"
-    },
-    {
-     "ticker": "GILD",
-     "nct_id": "NCT06562907",
-     "title": "Study of GS-4571 in Healthy Participants, Nondiabetic Obese Participants, and Nonobese Participants With Type 2 Diabetes Mellitus (T2DM)",
-     "phases": [
-      "Phase 1"
-     ],
-     "phase_weight": 0.25,
-     "status": "RECRUITING",
-     "enrollment": 134,
-     "conditions": [
-      "Weight Management"
-     ],
-     "date": "2026-11-01",
-     "days_out": 64,
-     "estimated": true,
-     "kind": "readout"
-    }
-   ],
-   "hard_flags": [],
-   "trial_changes": [],
-   "filings": [
-    {
-     "form": "4",
-     "label": "filing",
-     "filed": "2026-08-27",
-     "days_ago": 2,
-     "description": "FORM 4",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/882095/000121330726000005/xslF345X06/wk-form4_1787870685.xml"
-    },
-    {
-     "form": "144",
-     "label": "filing",
-     "filed": "2026-08-26",
-     "days_ago": 3,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/882095/000195004726008716/xsl144X01/primary_doc.xml"
-    },
-    {
-     "form": "N-PX",
-     "label": "filing",
-     "filed": "2026-08-26",
-     "days_ago": 3,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/882095/000112329226001172/xslN-PX_X01/primary_doc.xml"
-    },
-    {
-     "form": "4",
-     "label": "filing",
-     "filed": "2026-08-21",
-     "days_ago": 8,
-     "description": "FORM 4",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/882095/000177181426000005/xslF345X06/wk-form4_1787354535.xml"
-    },
-    {
-     "form": "144",
-     "label": "filing",
-     "filed": "2026-08-20",
-     "days_ago": 9,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/882095/000195004726008471/xsl144X01/primary_doc.xml"
-    },
-    {
-     "form": "4",
-     "label": "filing",
-     "filed": "2026-08-18",
-     "days_ago": 11,
-     "description": "FORM 4",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/882095/000131020426000024/xslF345X06/wk-form4_1787094366.xml"
-    }
-   ],
-   "headlines": [
-    {
-     "title": "Gilead gets another HIV treatment approval, extending lenacapavir's dominance",
-     "url": "https://endpoints.news/gilead-gets-another-hiv-treatment-approval-extending-lenacapavirs-dominance/",
-     "source": "Endpoints News",
-     "published": "2026-08-27",
-     "score": 0.0
-    },
-    {
-     "title": "Gilead christens Bixlenvo with FDA nod for new HIV treatment combo tablet",
-     "url": "https://www.fiercepharma.com/pharma/gilead-christens-bixlenvo-fda-nod-new-hiv-treatment-combo-pill",
-     "source": "FiercePharma",
-     "published": "",
-     "score": 0.0
-    }
-   ]
-  },
-  {
    "ticker": "EXEL",
    "name": "Exelixis",
    "tier": "mid",
@@ -6815,7 +7130,7 @@
     "oncology"
    ],
    "held": false,
-   "score": 0.082,
+   "score": 0.066,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -6823,7 +7138,7 @@
     "trend": 0.0111,
     "long_momentum": 0.0216,
     "accumulation": 0.0226,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.011,
     "trial_momentum": -0.0193,
     "reversion_penalty": 0.0802,
@@ -6837,7 +7152,7 @@
     "accumulation": 0.0832,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.7537,
-    "trial_momentum": 0.3321,
+    "trial_momentum": 0.3318,
     "reversion_penalty": 0.0194,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -6845,8 +7160,8 @@
    "reasons": [
     "Operations are cash generative.",
     "Lagging XBI by 11 points over three months.",
-    "RSI at 51 \u2014 stretched, so entry timing matters.",
-    "Net negative news flow this month."
+    "Net negative news flow this month.",
+    "RSI at 51 \u2014 stretched, so entry timing matters."
    ],
    "price": 54.45000076293945,
    "ret_1d": -0.014657936720894105,
@@ -6996,176 +7311,6 @@
    "headlines": []
   },
   {
-   "ticker": "GSK",
-   "name": "GSK",
-   "tier": "large",
-   "tags": [
-    "pharma",
-    "vaccines",
-    "oncology"
-   ],
-   "held": false,
-   "score": 0.063,
-   "bucket": "neutral",
-   "override": null,
-   "contributions": {
-    "relative_strength": -0.1661,
-    "trend": -0.1199,
-    "long_momentum": -0.1182,
-    "accumulation": -0.0844,
-    "news_sentiment": 0.6444,
-    "catalyst_proximity": -0.0982,
-    "trial_momentum": -0.0563,
-    "reversion_penalty": 0.0581,
-    "dilution_risk": -0.008,
-    "drawdown_risk": 0.0118
-   },
-   "raw": {
-    "relative_strength": -0.144,
-    "trend": -0.042,
-    "long_momentum": -0.1249,
-    "accumulation": -0.0072,
-    "news_sentiment": 1.5875,
-    "catalyst_proximity": 0.0,
-    "trial_momentum": 0.1741,
-    "reversion_penalty": 0.0509,
-    "dilution_risk": 0.0,
-    "drawdown_risk": 0.0101
-   },
-   "reasons": [
-    "Positive coverage: U.S. FDA Approves ViiV Healthcare\u2019s Tivicay PD for HIV Treatment in Pediatric Patients Weighing at Least 2 kg",
-    "Lagging XBI by 17 points over three months.",
-    "Trading 1% below its 50-day average and 1% below its 200-day.",
-    "Down 12% over six months.",
-    "Phase 1 readout window opens in 193 days (NCT05489237)."
-   ],
-   "price": 50.81999969482422,
-   "ret_1d": 0.010940903760735976,
-   "ret_5d": -0.030337724808568223,
-   "ret_21d": -0.015182800366422722,
-   "ret_63d": 0.014630552279357723,
-   "ret_252d": 0.31846630597477277,
-   "rs_63d": -0.17447911413034367,
-   "rsi14": 47.454363345387705,
-   "vol_ann": 0.27143436109993163,
-   "beta": 0.3224244546884851,
-   "drawdown_52w": -0.14736540827861122,
-   "gap_events": 0,
-   "volume_z": -0.8789797371991752,
-   "market_cap": 101782585344,
-   "short_pct_float": 0.0074,
-   "runway_months": null,
-   "cash": null,
-   "catalysts": [
-    {
-     "ticker": "GSK",
-     "nct_id": "NCT05489237",
-     "title": "First-in-human Study of IDRX-42 in Participants With Metastatic and/or Unresectable Gastrointestinal Stromal Tumors",
-     "phases": [
-      "Phase 1"
-     ],
-     "phase_weight": 0.25,
-     "status": "ACTIVE_NOT_RECRUITING",
-     "enrollment": 276,
-     "conditions": [
-      "Gastrointestinal Neoplasms",
-      "Gastrointestinal Stromal Tumor (GIST)",
-      "Digestive System Disease"
-     ],
-     "date": "2027-03-10",
-     "days_out": 193,
-     "estimated": true,
-     "kind": "readout"
-    }
-   ],
-   "hard_flags": [],
-   "trial_changes": [],
-   "filings": [
-    {
-     "form": "6-K",
-     "label": "filing",
-     "filed": "2026-08-26",
-     "days_ago": 3,
-     "description": "DIRECTOR/PDMR SHAREHOLDING",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426007877/a2573s.htm"
-    },
-    {
-     "form": "6-K",
-     "label": "filing",
-     "filed": "2026-08-24",
-     "days_ago": 5,
-     "description": "DIRECTOR/PDMR SHAREHOLDING",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426007810/a9312r.htm"
-    },
-    {
-     "form": "6-K",
-     "label": "filing",
-     "filed": "2026-08-24",
-     "days_ago": 5,
-     "description": "FIRST GLOBAL APPROVAL FOR HIBSAGO IN JAPAN",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426007800/a8443r.htm"
-    },
-    {
-     "form": "6-K",
-     "label": "filing",
-     "filed": "2026-08-24",
-     "days_ago": 5,
-     "description": "US FDA TO REVIEW JEMPERLI FOR RECTAL CANCER",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426007798/a7607r.htm"
-    },
-    {
-     "form": "144",
-     "label": "filing",
-     "filed": "2026-08-20",
-     "days_ago": 9,
-     "description": "filing",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000194984626000534/xsl144X01/primary_doc.xml"
-    },
-    {
-     "form": "6-K",
-     "label": "filing",
-     "filed": "2026-08-18",
-     "days_ago": 11,
-     "description": "DIRECTOR/PDMR SHAREHOLDING",
-     "weight": 0.0,
-     "dilutive": false,
-     "deal": false,
-     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426007718/a1253r.htm"
-    }
-   ],
-   "headlines": [
-    {
-     "title": "U.S. FDA Approves ViiV Healthcare\u2019s Tivicay PD for HIV Treatment in Pediatric Patients Weighing at Least 2 kg",
-     "url": "https://www.drugs.com/newdrugs/u-s-fda-approves-viiv-healthcare-s-tivicay-pd-hiv-pediatric-patients-weighing-least-2-kg-6866.html",
-     "source": "Drugs.com New Approvals",
-     "published": "2026-08-26",
-     "score": 3.0
-    },
-    {
-     "title": "FDA Approves Jideytro (zidesamtinib) for Previously Treated ROS1-Positive Non-Small Cell Lung Cancer",
-     "url": "https://www.drugs.com/newdrugs/fda-approves-jideytro-zidesamtinib-previously-treated-ros1-positive-non-small-cell-lung-cancer-6844.html",
-     "source": "Drugs.com New Approvals",
-     "published": "2026-07-22",
-     "score": 3.0
-    }
-   ]
-  },
-  {
    "ticker": "ALKS",
    "name": "Alkermes",
    "tier": "mid",
@@ -7174,7 +7319,7 @@
     "neurology"
    ],
    "held": false,
-   "score": 0.057,
+   "score": 0.041,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -7182,7 +7327,7 @@
     "trend": 0.0487,
     "long_momentum": 0.1532,
     "accumulation": -0.1007,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.0892,
     "trial_momentum": -0.0266,
     "reversion_penalty": -0.0497,
@@ -7196,7 +7341,7 @@
     "accumulation": -0.0209,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.62,
-    "trial_momentum": 0.3009,
+    "trial_momentum": 0.3007,
     "reversion_penalty": 0.2049,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -7204,8 +7349,8 @@
    "reasons": [
     "Up 58% over six months.",
     "Volume running -0.5 standard deviations from normal, on down days.",
-    "Phase 3 readout window opens in 3 days (NCT05303064).",
     "Net negative news flow this month.",
+    "Phase 3 readout window opens in 3 days (NCT05303064).",
     "Lagging XBI by 7 points over three months."
    ],
    "price": 47.40999984741211,
@@ -7349,7 +7494,7 @@
     "derm"
    ],
    "held": false,
-   "score": 0.04,
+   "score": 0.024,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -7357,7 +7502,7 @@
     "trend": 0.0692,
     "long_momentum": 0.0368,
     "accumulation": -0.0538,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0101,
     "trial_momentum": -0.0608,
     "reversion_penalty": 0.0265,
@@ -7371,7 +7516,7 @@
     "accumulation": 0.0187,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.762,
-    "trial_momentum": 0.1548,
+    "trial_momentum": 0.1547,
     "reversion_penalty": 0.0961,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -7515,7 +7660,7 @@
     "neurology"
    ],
    "held": false,
-   "score": 0.029,
+   "score": 0.014,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -7523,7 +7668,7 @@
     "trend": 0.0488,
     "long_momentum": -0.0159,
     "accumulation": -0.0352,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.1426,
     "trial_momentum": -0.0133,
     "reversion_penalty": -0.0225,
@@ -7537,7 +7682,7 @@
     "accumulation": 0.0344,
     "news_sentiment": 0.0,
     "catalyst_proximity": 2.0818,
-    "trial_momentum": 0.3577,
+    "trial_momentum": 0.3574,
     "reversion_penalty": 0.1661,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -7673,7 +7818,7 @@
     "metabolic"
    ],
    "held": false,
-   "score": 0.017,
+   "score": 0.002,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -7681,7 +7826,7 @@
     "trend": -0.0591,
     "long_momentum": -0.0094,
     "accumulation": 0.0413,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.058,
     "trial_momentum": 0.0799,
     "reversion_penalty": 0.0124,
@@ -7695,14 +7840,14 @@
     "accumulation": 0.0991,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.3477,
-    "trial_momentum": 0.7548,
+    "trial_momentum": 0.7541,
     "reversion_penalty": 0.1162,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
    },
    "reasons": [
-    "Pipeline activity net positive.",
     "Net negative news flow this month.",
+    "Pipeline activity net positive.",
     "Outperforming XBI by 2 points over three months.",
     "Trading 2% below its 50-day average and 8% above its 200-day.",
     "Phase 2 readout window opens in 63 days (NCT06772597)."
@@ -7720,7 +7865,7 @@
    "drawdown_52w": -0.08884547129412812,
    "gap_events": 0,
    "volume_z": -0.8552092680187668,
-   "market_cap": 7378877440,
+   "market_cap": 7351173632,
    "short_pct_float": 0.1486,
    "runway_months": 22.6,
    "cash": 330897000.0,
@@ -7847,7 +7992,7 @@
     "neurology"
    ],
    "held": false,
-   "score": -0.003,
+   "score": -0.019,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -7855,7 +8000,7 @@
     "trend": -0.027,
     "long_momentum": 0.0805,
     "accumulation": -0.0792,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.128,
     "trial_momentum": 0.0017,
     "reversion_penalty": -0.0122,
@@ -7869,7 +8014,7 @@
     "accumulation": -0.0027,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.9558,
-    "trial_momentum": 0.4213,
+    "trial_momentum": 0.421,
     "reversion_penalty": 0.1513,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -7877,8 +8022,8 @@
    "reasons": [
     "Phase 3 readout window opens in -28 days (NCT06775379).",
     "Lagging XBI by 9 points over three months.",
-    "Up 39% over six months.",
-    "Net negative news flow this month."
+    "Net negative news flow this month.",
+    "Up 39% over six months."
    ],
    "price": 59.9900016784668,
    "ret_1d": -0.03132566796623848,
@@ -8030,7 +8175,7 @@
     "rnai"
    ],
    "held": false,
-   "score": -0.022,
+   "score": -0.037,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -8038,7 +8183,7 @@
     "trend": 0.0633,
     "long_momentum": 0.0628,
     "accumulation": -0.0778,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0221,
     "trial_momentum": -0.0214,
     "reversion_penalty": 0.0532,
@@ -8052,7 +8197,7 @@
     "accumulation": -0.0015,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.6578,
-    "trial_momentum": 0.323,
+    "trial_momentum": 0.3227,
     "reversion_penalty": 0.0579,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -8077,7 +8222,7 @@
    "drawdown_52w": -0.052237893370712496,
    "gap_events": 3,
    "volume_z": -0.42511652672933187,
-   "market_cap": 11993917440,
+   "market_cap": 11960170496,
    "short_pct_float": 0.0907,
    "runway_months": 57.0,
    "cash": 1601960000.0,
@@ -8230,7 +8375,7 @@
     "hepatology"
    ],
    "held": false,
-   "score": -0.052,
+   "score": -0.068,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -8238,7 +8383,7 @@
     "trend": -0.0645,
     "long_momentum": 0.0215,
     "accumulation": 0.0522,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0583,
     "trial_momentum": 0.0529,
     "reversion_penalty": 0.0458,
@@ -8252,7 +8397,7 @@
     "accumulation": 0.1082,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.3457,
-    "trial_momentum": 0.6398,
+    "trial_momentum": 0.6392,
     "reversion_penalty": 0.0685,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -8381,6 +8526,176 @@
    "headlines": []
   },
   {
+   "ticker": "GSK",
+   "name": "GSK",
+   "tier": "large",
+   "tags": [
+    "pharma",
+    "vaccines",
+    "oncology"
+   ],
+   "held": false,
+   "score": -0.085,
+   "bucket": "neutral",
+   "override": null,
+   "contributions": {
+    "relative_strength": -0.1661,
+    "trend": -0.1199,
+    "long_momentum": -0.1182,
+    "accumulation": -0.0844,
+    "news_sentiment": 0.4963,
+    "catalyst_proximity": -0.0982,
+    "trial_momentum": -0.0563,
+    "reversion_penalty": 0.0581,
+    "dilution_risk": -0.008,
+    "drawdown_risk": 0.0118
+   },
+   "raw": {
+    "relative_strength": -0.144,
+    "trend": -0.042,
+    "long_momentum": -0.1249,
+    "accumulation": -0.0072,
+    "news_sentiment": 1.5587,
+    "catalyst_proximity": 0.0,
+    "trial_momentum": 0.174,
+    "reversion_penalty": 0.0509,
+    "dilution_risk": 0.0,
+    "drawdown_risk": 0.0101
+   },
+   "reasons": [
+    "Positive coverage: U.S. FDA Approves ViiV Healthcare\u2019s Tivicay PD for HIV Treatment in Pediatric Patients Weighing at Least 2 kg",
+    "Lagging XBI by 17 points over three months.",
+    "Trading 1% below its 50-day average and 1% below its 200-day.",
+    "Down 12% over six months.",
+    "Phase 1 readout window opens in 193 days (NCT05489237)."
+   ],
+   "price": 50.81999969482422,
+   "ret_1d": 0.010940903760735976,
+   "ret_5d": -0.030337724808568223,
+   "ret_21d": -0.015182800366422722,
+   "ret_63d": 0.014630552279357723,
+   "ret_252d": 0.31846630597477277,
+   "rs_63d": -0.17447911413034367,
+   "rsi14": 47.4543633455439,
+   "vol_ann": 0.27143436109993163,
+   "beta": 0.3224244546884851,
+   "drawdown_52w": -0.14736546284827634,
+   "gap_events": 0,
+   "volume_z": -0.8789797371991752,
+   "market_cap": 101782585344,
+   "short_pct_float": 0.0074,
+   "runway_months": null,
+   "cash": null,
+   "catalysts": [
+    {
+     "ticker": "GSK",
+     "nct_id": "NCT05489237",
+     "title": "First-in-human Study of IDRX-42 in Participants With Metastatic and/or Unresectable Gastrointestinal Stromal Tumors",
+     "phases": [
+      "Phase 1"
+     ],
+     "phase_weight": 0.25,
+     "status": "ACTIVE_NOT_RECRUITING",
+     "enrollment": 276,
+     "conditions": [
+      "Gastrointestinal Neoplasms",
+      "Gastrointestinal Stromal Tumor (GIST)",
+      "Digestive System Disease"
+     ],
+     "date": "2027-03-10",
+     "days_out": 193,
+     "estimated": true,
+     "kind": "readout"
+    }
+   ],
+   "hard_flags": [],
+   "trial_changes": [],
+   "filings": [
+    {
+     "form": "6-K",
+     "label": "filing",
+     "filed": "2026-08-26",
+     "days_ago": 3,
+     "description": "DIRECTOR/PDMR SHAREHOLDING",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426007877/a2573s.htm"
+    },
+    {
+     "form": "6-K",
+     "label": "filing",
+     "filed": "2026-08-24",
+     "days_ago": 5,
+     "description": "DIRECTOR/PDMR SHAREHOLDING",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426007810/a9312r.htm"
+    },
+    {
+     "form": "6-K",
+     "label": "filing",
+     "filed": "2026-08-24",
+     "days_ago": 5,
+     "description": "FIRST GLOBAL APPROVAL FOR HIBSAGO IN JAPAN",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426007800/a8443r.htm"
+    },
+    {
+     "form": "6-K",
+     "label": "filing",
+     "filed": "2026-08-24",
+     "days_ago": 5,
+     "description": "US FDA TO REVIEW JEMPERLI FOR RECTAL CANCER",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426007798/a7607r.htm"
+    },
+    {
+     "form": "144",
+     "label": "filing",
+     "filed": "2026-08-20",
+     "days_ago": 9,
+     "description": "filing",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000194984626000534/xsl144X01/primary_doc.xml"
+    },
+    {
+     "form": "6-K",
+     "label": "filing",
+     "filed": "2026-08-18",
+     "days_ago": 11,
+     "description": "DIRECTOR/PDMR SHAREHOLDING",
+     "weight": 0.0,
+     "dilutive": false,
+     "deal": false,
+     "url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426007718/a1253r.htm"
+    }
+   ],
+   "headlines": [
+    {
+     "title": "U.S. FDA Approves ViiV Healthcare\u2019s Tivicay PD for HIV Treatment in Pediatric Patients Weighing at Least 2 kg",
+     "url": "https://www.drugs.com/newdrugs/u-s-fda-approves-viiv-healthcare-s-tivicay-pd-hiv-pediatric-patients-weighing-least-2-kg-6866.html",
+     "source": "Drugs.com New Approvals",
+     "published": "2026-08-26",
+     "score": 3.0
+    },
+    {
+     "title": "FDA Approves Jideytro (zidesamtinib) for Previously Treated ROS1-Positive Non-Small Cell Lung Cancer",
+     "url": "https://www.drugs.com/newdrugs/fda-approves-jideytro-zidesamtinib-previously-treated-ros1-positive-non-small-cell-lung-cancer-6844.html",
+     "source": "Drugs.com New Approvals",
+     "published": "2026-07-22",
+     "score": 3.0
+    }
+   ]
+  },
+  {
    "ticker": "NVO",
    "name": "Novo Nordisk",
    "tier": "large",
@@ -8389,15 +8704,15 @@
     "metabolic"
    ],
    "held": false,
-   "score": -0.061,
+   "score": -0.085,
    "bucket": "neutral",
    "override": null,
    "contributions": {
     "relative_strength": -0.2201,
     "trend": -0.1237,
     "long_momentum": 0.0382,
-    "accumulation": -0.0448,
-    "news_sentiment": -0.0223,
+    "accumulation": -0.0449,
+    "news_sentiment": -0.047,
     "catalyst_proximity": 0.124,
     "trial_momentum": 0.1457,
     "reversion_penalty": 0.0246,
@@ -8411,7 +8726,7 @@
     "accumulation": 0.0263,
     "news_sentiment": 0.1154,
     "catalyst_proximity": 1.9207,
-    "trial_momentum": 1.1028,
+    "trial_momentum": 1.1018,
     "reversion_penalty": 0.0988,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -8420,7 +8735,8 @@
     "Lagging XBI by 18 points over three months.",
     "Pipeline activity net positive.",
     "Phase 1 readout window opens in -40 days (NCT06719011).",
-    "Trading 4% below its 50-day average and 1% above its 200-day."
+    "Trading 4% below its 50-day average and 1% above its 200-day.",
+    "Negative coverage: Lilly scores Novo-pressuring Mounjaro expansion to curb heart risks in diabetes patients"
    ],
    "price": 45.61000061035156,
    "ret_1d": -0.014050967029090367,
@@ -8429,12 +8745,12 @@
    "ret_63d": 0.013444916021403408,
    "ret_252d": -0.15154259042047735,
    "rs_63d": -0.17566475038829799,
-   "rsi14": 45.05966520367852,
+   "rsi14": 45.05966520246175,
    "vol_ann": 0.39420627724956675,
-   "beta": 0.4661935904373119,
+   "beta": 0.46619375963085663,
    "drawdown_52w": -0.25153273996671066,
    "gap_events": 1,
-   "volume_z": -0.2006374003639815,
+   "volume_z": -0.1996053674768419,
    "market_cap": 201643180032,
    "short_pct_float": 0.0107,
    "runway_months": null,
@@ -8598,7 +8914,7 @@
     "rare"
    ],
    "held": false,
-   "score": -0.099,
+   "score": -0.114,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -8606,7 +8922,7 @@
     "trend": 0.0908,
     "long_momentum": 0.025,
     "accumulation": 0.1297,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.032,
     "trial_momentum": -0.0826,
     "reversion_penalty": -0.1106,
@@ -8761,7 +9077,7 @@
     "immunology"
    ],
    "held": false,
-   "score": -0.131,
+   "score": -0.147,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -8769,7 +9085,7 @@
     "trend": -0.0763,
     "long_momentum": -0.0806,
     "accumulation": 0.0551,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.1074,
     "trial_momentum": -0.0087,
     "reversion_penalty": 0.0472,
@@ -8783,7 +9099,7 @@
     "accumulation": 0.1107,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.7775,
-    "trial_momentum": 0.3771,
+    "trial_momentum": 0.3768,
     "reversion_penalty": 0.0665,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -8791,9 +9107,9 @@
    "reasons": [
     "Lagging XBI by 16 points over three months.",
     "Phase 1 readout window opens in 32 days (NCT07646548).",
+    "Negative coverage: Amgen, AZ\u2019s Tezspire lands phase 3 eosinophilic esophagitis win, turning up heat on Dupixent",
     "Down 3% over six months.",
-    "Trading 3% above its 50-day average and 1% above its 200-day.",
-    "Negative coverage: Amgen, AZ\u2019s Tezspire lands phase 3 eosinophilic esophagitis win, turning up heat on Dupixent"
+    "Trading 3% above its 50-day average and 1% above its 200-day."
    ],
    "price": 44.81999969482422,
    "ret_1d": -0.0004460405373686305,
@@ -8942,7 +9258,7 @@
     "neurology"
    ],
    "held": false,
-   "score": -0.278,
+   "score": -0.294,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -8950,7 +9266,7 @@
     "trend": 0.0005,
     "long_momentum": -0.0182,
     "accumulation": 0.0044,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0742,
     "trial_momentum": -0.0152,
     "reversion_penalty": 0.0471,
@@ -8964,7 +9280,7 @@
     "accumulation": 0.0679,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.2083,
-    "trial_momentum": 0.3495,
+    "trial_momentum": 0.3492,
     "reversion_penalty": 0.0666,
     "dilution_risk": 1.0,
     "drawdown_risk": 0.0
@@ -9116,7 +9432,7 @@
     "gene-editing"
    ],
    "held": false,
-   "score": -0.294,
+   "score": -0.31,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -9124,7 +9440,7 @@
     "trend": 0.0209,
     "long_momentum": -0.0854,
     "accumulation": -0.0211,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": -0.0944,
     "reversion_penalty": 0.0032,
@@ -9146,8 +9462,8 @@
    "reasons": [
     "Phase 1 readout window opens in 276 days (NCT07491172).",
     "Pipeline activity net negative.",
-    "Down 4% over six months.",
     "Negative coverage: #ESC26: CRISPR Therapeutics to pursue highest dose of its lipid lowering gene editing therapy",
+    "Down 4% over six months.",
     "Well funded (639 months)."
    ],
    "price": 57.720001220703125,
@@ -9222,13 +9538,6 @@
      "source": "Endpoints News",
      "published": "2026-08-28",
      "score": 0.0
-    },
-    {
-     "title": "An uncertain future for Aurora, the first startup dedicated to custom CRISPR therapies",
-     "url": "https://endpoints.news/an-uncertain-future-for-aurora-the-first-startup-dedicated-to-custom-crispr-therapies/",
-     "source": "Endpoints News",
-     "published": "2026-08-26",
-     "score": 0.0
     }
    ]
   },
@@ -9242,15 +9551,15 @@
     "radioligand"
    ],
    "held": false,
-   "score": -0.309,
+   "score": -0.337,
    "bucket": "neutral",
    "override": null,
    "contributions": {
     "relative_strength": -0.1639,
     "trend": -0.0739,
     "long_momentum": -0.0931,
-    "accumulation": -0.1486,
-    "news_sentiment": -0.0114,
+    "accumulation": -0.1485,
+    "news_sentiment": -0.0391,
     "catalyst_proximity": 0.0982,
     "trial_momentum": 0.0144,
     "reversion_penalty": 0.0511,
@@ -9262,9 +9571,9 @@
     "trend": 0.0757,
     "long_momentum": -0.0601,
     "accumulation": -0.0902,
-    "news_sentiment": 0.1394,
+    "news_sentiment": 0.1364,
     "catalyst_proximity": 1.6983,
-    "trial_momentum": 0.4755,
+    "trial_momentum": 0.4751,
     "reversion_penalty": 0.061,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -9396,7 +9705,7 @@
     "rare"
    ],
    "held": false,
-   "score": -0.407,
+   "score": -0.481,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -9404,7 +9713,7 @@
     "trend": -0.1991,
     "long_momentum": -0.033,
     "accumulation": 0.0088,
-    "news_sentiment": 0.2288,
+    "news_sentiment": 0.1551,
     "catalyst_proximity": -0.0982,
     "trial_momentum": 0.0825,
     "reversion_penalty": -0.0012,
@@ -9416,17 +9725,17 @@
     "trend": -0.2445,
     "long_momentum": 0.0949,
     "accumulation": 0.0716,
-    "news_sentiment": 0.6667,
+    "news_sentiment": 0.6524,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.766,
+    "trial_momentum": 0.7653,
     "reversion_penalty": 0.1355,
     "dilution_risk": 3.0,
     "drawdown_risk": 0.0257
    },
    "reasons": [
     "Under 6 months of cash at current burn (3m).",
-    "Positive coverage: FDA Grants Accelerated Approval for Genglycos (pariglasgene brecaparvovec-opnr) Gene Therapy for the Treatment of Glycogen Storage Disease Type Ia",
     "Trading 10% below its 50-day average and 3% below its 200-day.",
+    "Positive coverage: FDA Grants Accelerated Approval for Genglycos (pariglasgene brecaparvovec-opnr) Gene Therapy for the Treatment of Glycogen Storage Disease Type Ia",
     "Lagging XBI by 12 points over three months.",
     "Phase 3 readout window opens in 125 days (NCT06636071)."
    ],
@@ -9590,7 +9899,7 @@
     "pulmonary"
    ],
    "held": false,
-   "score": -0.523,
+   "score": -0.541,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -9598,7 +9907,7 @@
     "trend": -0.1357,
     "long_momentum": -0.0609,
     "accumulation": 0.0068,
-    "news_sentiment": -0.0605,
+    "news_sentiment": -0.0789,
     "catalyst_proximity": -0.0583,
     "trial_momentum": -0.1279,
     "reversion_penalty": 0.0434,
@@ -9610,9 +9919,9 @@
     "trend": -0.0823,
     "long_momentum": 0.0229,
     "accumulation": 0.0699,
-    "news_sentiment": 0.0315,
+    "news_sentiment": 0.0307,
     "catalyst_proximity": 0.3457,
-    "trial_momentum": -0.131,
+    "trial_momentum": -0.1309,
     "reversion_penalty": 0.0719,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0137
@@ -9622,7 +9931,7 @@
     "Trading 3% below its 50-day average and 1% below its 200-day.",
     "Operations are cash generative.",
     "Pipeline activity net negative.",
-    "Up 2% over six months."
+    "Negative coverage: FDA Approves Lipfendra (enlicitide) Oral PCSK9 Inhibitor to Reduce LDL-C in Adults with Hypercholesterolemia"
    ],
    "price": 515.4600219726562,
    "ret_1d": -0.023583474086909195,
@@ -9766,7 +10075,7 @@
     "cardiology"
    ],
    "held": false,
-   "score": -0.53,
+   "score": -0.549,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -9774,7 +10083,7 @@
     "trend": -0.1525,
     "long_momentum": -0.0083,
     "accumulation": -0.0854,
-    "news_sentiment": -0.0537,
+    "news_sentiment": -0.073,
     "catalyst_proximity": 0.1276,
     "trial_momentum": 0.0217,
     "reversion_penalty": -0.0968,
@@ -9788,7 +10097,7 @@
     "accumulation": -0.0079,
     "news_sentiment": 0.0465,
     "catalyst_proximity": 1.9517,
-    "trial_momentum": 0.5068,
+    "trial_momentum": 0.5064,
     "reversion_penalty": 0.272,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -9983,15 +10292,15 @@
     "neurology"
    ],
    "held": false,
-   "score": -0.546,
+   "score": -0.561,
    "bucket": "neutral",
    "override": null,
    "contributions": {
     "relative_strength": -0.2,
     "trend": -0.0928,
     "long_momentum": -0.0403,
-    "accumulation": 0.1034,
-    "news_sentiment": -0.0749,
+    "accumulation": 0.1035,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": -0.1455,
     "reversion_penalty": 0.0107,
@@ -10005,7 +10314,7 @@
     "accumulation": 0.1516,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": -0.21,
+    "trial_momentum": -0.2098,
     "reversion_penalty": 0.1186,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0188
@@ -10115,7 +10424,7 @@
     "gene-editing"
    ],
    "held": false,
-   "score": -0.559,
+   "score": -0.574,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -10123,7 +10432,7 @@
     "trend": -0.0898,
     "long_momentum": -0.0581,
     "accumulation": -0.0498,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0742,
     "trial_momentum": -0.0536,
     "reversion_penalty": 0.0538,
@@ -10137,15 +10446,15 @@
     "accumulation": 0.0221,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.2083,
-    "trial_momentum": 0.1859,
+    "trial_momentum": 0.1857,
     "reversion_penalty": 0.0571,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
    },
    "reasons": [
     "Lagging XBI by 30 points over three months.",
-    "Trading 2% below its 50-day average and 3% above its 200-day.",
     "Net negative news flow this month.",
+    "Trading 2% below its 50-day average and 3% above its 200-day.",
     "Phase 1/Phase 2 readout window opens in 94 days (NCT05885464).",
     "Up 3% over six months."
    ],
@@ -10226,7 +10535,7 @@
     "rare"
    ],
    "held": false,
-   "score": -0.611,
+   "score": -0.642,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -10234,7 +10543,7 @@
     "trend": -0.2069,
     "long_momentum": -0.059,
     "accumulation": -0.0014,
-    "news_sentiment": 0.0125,
+    "news_sentiment": -0.0183,
     "catalyst_proximity": -0.0982,
     "trial_momentum": -0.0491,
     "reversion_penalty": -0.0294,
@@ -10248,7 +10557,7 @@
     "accumulation": 0.063,
     "news_sentiment": 0.1917,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.2048,
+    "trial_momentum": 0.2046,
     "reversion_penalty": 0.1758,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0458
@@ -10393,15 +10702,15 @@
     "neurology"
    ],
    "held": false,
-   "score": -0.645,
+   "score": -0.661,
    "bucket": "neutral",
    "override": null,
    "contributions": {
     "relative_strength": -0.3018,
     "trend": -0.1256,
     "long_momentum": -0.0059,
-    "accumulation": -0.1486,
-    "news_sentiment": -0.0749,
+    "accumulation": -0.1485,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": -0.0052,
     "reversion_penalty": -0.0399,
@@ -10415,7 +10724,7 @@
     "accumulation": -0.0929,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.3919,
+    "trial_momentum": 0.3916,
     "reversion_penalty": 0.1909,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -10534,7 +10843,7 @@
     "protac"
    ],
    "held": false,
-   "score": -0.671,
+   "score": -0.687,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -10542,7 +10851,7 @@
     "trend": -0.1468,
     "long_momentum": -0.1546,
     "accumulation": 0.113,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0737,
     "trial_momentum": 0.0249,
     "reversion_penalty": 0.0291,
@@ -10556,7 +10865,7 @@
     "accumulation": 0.1596,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.2117,
-    "trial_momentum": 0.5206,
+    "trial_momentum": 0.5202,
     "reversion_penalty": 0.0923,
     "dilution_risk": 1.0,
     "drawdown_risk": 0.1317
@@ -10580,7 +10889,7 @@
    "drawdown_52w": -0.33622557080131954,
    "gap_events": 1,
    "volume_z": -0.48278145154597407,
-   "market_cap": 592304640,
+   "market_cap": 600245248,
    "short_pct_float": 0.0722,
    "runway_months": 17.7,
    "cash": 567900000.0,
@@ -10632,7 +10941,7 @@
     "gene-editing"
    ],
    "held": false,
-   "score": -0.722,
+   "score": -0.738,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -10640,7 +10949,7 @@
     "trend": -0.0981,
     "long_momentum": -0.0954,
     "accumulation": 0.0094,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": 0.0145,
     "reversion_penalty": 0.0458,
@@ -10654,7 +10963,7 @@
     "accumulation": 0.0721,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.4762,
+    "trial_momentum": 0.4758,
     "reversion_penalty": 0.0685,
     "dilution_risk": 2.0,
     "drawdown_risk": 0.0
@@ -10743,7 +11052,7 @@
     "neurology"
    ],
    "held": false,
-   "score": -0.723,
+   "score": -0.739,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -10751,7 +11060,7 @@
     "trend": -0.2248,
     "long_momentum": -0.1546,
     "accumulation": 0.1297,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0583,
     "trial_momentum": 0.1066,
     "reversion_penalty": 0.0487,
@@ -10765,7 +11074,7 @@
     "accumulation": 0.1741,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.3457,
-    "trial_momentum": 0.869,
+    "trial_momentum": 0.8682,
     "reversion_penalty": 0.0643,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.172
@@ -10897,15 +11206,15 @@
     "neurology"
    ],
    "held": false,
-   "score": -0.737,
-   "bucket": "neutral",
+   "score": -0.753,
+   "bucket": "deteriorating",
    "override": null,
    "contributions": {
     "relative_strength": -0.3166,
     "trend": -0.1768,
     "long_momentum": 0.0133,
-    "accumulation": -0.1486,
-    "news_sentiment": -0.0749,
+    "accumulation": -0.1485,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0198,
     "trial_momentum": 0.0789,
     "reversion_penalty": -0.1106,
@@ -10919,7 +11228,7 @@
     "accumulation": -0.0627,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.6784,
-    "trial_momentum": 0.7508,
+    "trial_momentum": 0.7502,
     "reversion_penalty": 0.3665,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -10928,7 +11237,7 @@
     "Lagging XBI by 34 points over three months.",
     "Trading 13% below its 50-day average and 3% above its 200-day.",
     "RSI at 32 \u2014 stretched, so entry timing matters.",
-    "Pipeline activity net positive."
+    "Net negative news flow this month."
    ],
    "price": 199.02000427246094,
    "ret_1d": -0.03514810612222374,
@@ -11023,15 +11332,15 @@
     "respiratory"
    ],
    "held": false,
-   "score": -0.743,
-   "bucket": "neutral",
+   "score": -0.759,
+   "bucket": "deteriorating",
    "override": null,
    "contributions": {
     "relative_strength": 0.0441,
     "trend": -0.1974,
     "long_momentum": -0.1497,
     "accumulation": -0.0188,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": 0.01,
     "reversion_penalty": 0.0664,
@@ -11045,7 +11354,7 @@
     "accumulation": 0.0483,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.4568,
+    "trial_momentum": 0.4563,
     "reversion_penalty": 0.0391,
     "dilution_risk": 1.0,
     "drawdown_risk": 0.1684
@@ -11212,7 +11521,7 @@
     "oncology"
    ],
    "held": false,
-   "score": -0.801,
+   "score": -0.817,
    "bucket": "deteriorating",
    "override": null,
    "contributions": {
@@ -11220,7 +11529,7 @@
     "trend": -0.2018,
     "long_momentum": -0.1086,
     "accumulation": -0.102,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.0068,
     "trial_momentum": -0.0904,
     "reversion_penalty": 0.0157,
@@ -11234,7 +11543,7 @@
     "accumulation": -0.022,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.9078,
-    "trial_momentum": 0.0287,
+    "trial_momentum": 0.0286,
     "reversion_penalty": 0.1114,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0647
@@ -11244,7 +11553,7 @@
     "Lagging XBI by 19 points over three months.",
     "Down 10% over six months.",
     "Volume running -0.7 standard deviations from normal, on down days.",
-    "Pipeline activity net negative."
+    "Net negative news flow this month."
    ],
    "price": 19.540000915527344,
    "ret_1d": -0.030753915504833418,
@@ -11254,12 +11563,12 @@
    "ret_252d": 0.20172205660977816,
    "rs_63d": -0.19166195005804743,
    "rsi14": 44.42908405705731,
-   "vol_ann": 0.45812540600830437,
+   "vol_ann": 0.4581254060083043,
    "beta": 0.86301152348845,
    "drawdown_52w": -0.22306158203157733,
    "gap_events": 0,
    "volume_z": -0.7103440198704115,
-   "market_cap": 1744865152,
+   "market_cap": 1731440000,
    "short_pct_float": 0.2609,
    "runway_months": 22.5,
    "cash": 547860000.0,
@@ -11316,7 +11625,7 @@
     "cardiology"
    ],
    "held": false,
-   "score": -0.829,
+   "score": -0.844,
    "bucket": "deteriorating",
    "override": null,
    "contributions": {
@@ -11324,7 +11633,7 @@
     "trend": -0.2248,
     "long_momentum": -0.1546,
     "accumulation": 0.0355,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": 0.0692,
     "reversion_penalty": 0.0548,
@@ -11338,7 +11647,7 @@
     "accumulation": 0.0942,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.7095,
+    "trial_momentum": 0.7088,
     "reversion_penalty": 0.0556,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.2728
@@ -11466,15 +11775,15 @@
     "respiratory"
    ],
    "held": false,
-   "score": -0.841,
+   "score": -0.857,
    "bucket": "deteriorating",
    "override": null,
    "contributions": {
     "relative_strength": -0.3166,
     "trend": -0.2248,
     "long_momentum": -0.1546,
-    "accumulation": -0.1486,
-    "news_sentiment": -0.0749,
+    "accumulation": -0.1485,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.0979,
     "trial_momentum": 0.0903,
     "reversion_penalty": 0.0298,
@@ -11488,7 +11797,7 @@
     "accumulation": -0.1081,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.6954,
-    "trial_momentum": 0.7992,
+    "trial_momentum": 0.7984,
     "reversion_penalty": 0.0914,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.1139
@@ -11715,7 +12024,7 @@
     "metabolic"
    ],
    "held": false,
-   "score": -0.871,
+   "score": -0.887,
    "bucket": "deteriorating",
    "override": null,
    "contributions": {
@@ -11723,7 +12032,7 @@
     "trend": -0.2089,
     "long_momentum": -0.0891,
     "accumulation": -0.0518,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": 0.0024,
     "reversion_penalty": -0.0295,
@@ -11737,7 +12046,7 @@
     "accumulation": 0.0204,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.4243,
+    "trial_momentum": 0.4239,
     "reversion_penalty": 0.176,
     "dilution_risk": 0.5,
     "drawdown_risk": 0.0442
@@ -11746,8 +12055,8 @@
     "Lagging XBI by 21 points over three months.",
     "Trading 9% below its 50-day average and 4% below its 200-day.",
     "Phase 3 readout window opens in 306 days (NCT07104383).",
-    "Down 5% over six months.",
-    "Filed a shelf registration in the last quarter."
+    "Net negative news flow this month.",
+    "Down 5% over six months."
    ],
    "price": 32.15999984741211,
    "ret_1d": -0.05020675523613949,
@@ -11830,15 +12139,15 @@
     "ai-discovery"
    ],
    "held": false,
-   "score": -0.969,
+   "score": -0.985,
    "bucket": "deteriorating",
    "override": null,
    "contributions": {
     "relative_strength": -0.1911,
     "trend": -0.1654,
     "long_momentum": -0.1047,
-    "accumulation": -0.0228,
-    "news_sentiment": -0.0749,
+    "accumulation": -0.0229,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": -0.1455,
     "reversion_penalty": 0.0777,
@@ -11849,10 +12158,10 @@
     "relative_strength": -0.1589,
     "trend": -0.1583,
     "long_momentum": -0.0899,
-    "accumulation": 0.0449,
+    "accumulation": 0.0448,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": -0.8365,
+    "trial_momentum": -0.8358,
     "reversion_penalty": 0.0229,
     "dilution_risk": 1.0,
     "drawdown_risk": 0.09
@@ -11876,7 +12185,7 @@
    "beta": 1.3585718671480984,
    "drawdown_52w": -0.5081001571526066,
    "gap_events": 2,
-   "volume_z": -0.7205248709353447,
+   "volume_z": -0.7193011271448299,
    "market_cap": 1791145344,
    "short_pct_float": 0.3479,
    "runway_months": 14.9,
@@ -11992,7 +12301,7 @@
     "trend": 0.1597,
     "long_momentum": 0.0138,
     "accumulation": 0.0671,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": 0.0316,
     "trial_momentum": -0.0046,
     "reversion_penalty": -0.0821,
@@ -12004,9 +12313,9 @@
     "trend": 0.6731,
     "long_momentum": 0.2157,
     "accumulation": 0.1208,
-    "news_sentiment": -1.4429,
+    "news_sentiment": -1.4151,
     "catalyst_proximity": 1.1226,
-    "trial_momentum": 0.3948,
+    "trial_momentum": 0.3944,
     "reversion_penalty": 0.2511,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -12016,18 +12325,18 @@
     "Outperforming XBI by 7 points over three months.",
     "Trading 13% above its 50-day average and 28% above its 200-day.",
     "Operations are cash generative.",
-    "RSI at 63 \u2014 stretched, so entry timing matters."
+    "Negative coverage: BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine"
    ],
    "price": 148.35000610351562,
    "ret_1d": -0.007957651705522317,
    "ret_5d": -0.02753193617975347,
    "ret_21d": 0.14300033729461492,
    "ret_63d": 0.25856482227627264,
-   "ret_252d": 0.8235949891711769,
+   "ret_252d": 0.8235948181463164,
    "rs_63d": 0.06945515586657125,
-   "rsi14": 62.5553626194561,
+   "rsi14": 62.555362618623974,
    "vol_ann": 0.3722635559302933,
-   "beta": 0.40183076363270037,
+   "beta": 0.4018308306895373,
    "drawdown_52w": -0.051773672117144565,
    "gap_events": 0,
    "volume_z": 0.00988641719861469,
@@ -12240,8 +12549,8 @@
     "relative_strength": 0.4487,
     "trend": 0.2327,
     "long_momentum": 0.2337,
-    "accumulation": 0.0828,
-    "news_sentiment": -0.0749,
+    "accumulation": 0.0827,
+    "news_sentiment": 0.143,
     "catalyst_proximity": -0.0982,
     "trial_momentum": -0.0971,
     "reversion_penalty": -0.0959,
@@ -12252,8 +12561,8 @@
     "relative_strength": 1.5864,
     "trend": 0.9999,
     "long_momentum": 1.5759,
-    "accumulation": 0.1341,
-    "news_sentiment": -1.2988,
+    "accumulation": 0.134,
+    "news_sentiment": 0.6202,
     "catalyst_proximity": 0.0,
     "trial_momentum": 0.0,
     "reversion_penalty": 0.2708,
@@ -12279,7 +12588,7 @@
    "beta": 3.5625048422062022,
    "drawdown_52w": -0.208682178980918,
    "gap_events": 5,
-   "volume_z": 0.5472125869112465,
+   "volume_z": 0.5476125861544912,
    "market_cap": 55090565120,
    "short_pct_float": 0.1616,
    "runway_months": 13.9,
@@ -12312,6 +12621,13 @@
     }
    ],
    "headlines": [
+    {
+     "title": "Moderna Receives U.S. FDA Approval for Updated 2026-2027 Spikevax and mNEXSPIKE COVID-19 Vaccines",
+     "url": "https://www.drugs.com/newdrugs/moderna-receives-u-s-fda-approval-updated-2026-2027-spikevax-mnexspike-covid-19-vaccines-6871.html",
+     "source": "Drugs.com New Approvals",
+     "published": "2026-08-27",
+     "score": 3.0
+    },
     {
      "title": "BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine",
      "url": "https://endpoints.news/biontech-genentech-terminate-phase-2-of-personalized-mrna-cancer-vaccine/",
@@ -12367,7 +12683,7 @@
     "trend": -0.0146,
     "long_momentum": -0.0985,
     "accumulation": -0.0459,
-    "news_sentiment": -0.0749,
+    "news_sentiment": 0.0666,
     "catalyst_proximity": 0.1167,
     "trial_momentum": 0.1457,
     "reversion_penalty": 0.0688,
@@ -12379,9 +12695,9 @@
     "trend": 0.2274,
     "long_momentum": -0.074,
     "accumulation": 0.0254,
-    "news_sentiment": -1.467,
+    "news_sentiment": 0.4173,
     "catalyst_proximity": 1.8583,
-    "trial_momentum": 1.3073,
+    "trial_momentum": 1.3062,
     "reversion_penalty": 0.0356,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -12391,7 +12707,7 @@
     "Pipeline activity net positive.",
     "Phase 3 readout window opens in -36 days (NCT07222384).",
     "Down 7% over six months.",
-    "Negative coverage: BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine"
+    "RSI at 52 \u2014 stretched, so entry timing matters."
    ],
    "price": 102.07499694824219,
    "ret_1d": -0.08370740080708583,
@@ -12536,6 +12852,13 @@
    ],
    "headlines": [
     {
+     "title": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-Adapted Comirnaty COVID-19 Vaccine",
+     "url": "https://www.drugs.com/newdrugs/pfizer-biontech-receive-u-s-fda-approval-xfg-adapted-comirnaty-covid-19-vaccine-6869.html",
+     "source": "Drugs.com New Approvals",
+     "published": "2026-08-27",
+     "score": 3.0
+    },
+    {
      "title": "BioNTech, Genentech terminate Phase 2 of personalized mRNA cancer vaccine",
      "url": "https://endpoints.news/biontech-genentech-terminate-phase-2-of-personalized-mrna-cancer-vaccine/",
      "source": "Endpoints News",
@@ -12561,7 +12884,7 @@
     "oncology"
    ],
    "held": false,
-   "score": -1.329,
+   "score": -1.344,
    "bucket": "deteriorating",
    "override": null,
    "contributions": {
@@ -12569,7 +12892,7 @@
     "trend": -0.2248,
     "long_momentum": -0.0518,
     "accumulation": 0.0164,
-    "news_sentiment": -0.0749,
+    "news_sentiment": -0.0905,
     "catalyst_proximity": -0.0982,
     "trial_momentum": -0.1455,
     "reversion_penalty": -0.0398,
@@ -12583,7 +12906,7 @@
     "accumulation": 0.078,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": -0.2645,
+    "trial_momentum": -0.2642,
     "reversion_penalty": 0.1908,
     "dilution_risk": 1.5,
     "drawdown_risk": 0.1494
@@ -12721,7 +13044,7 @@
    "ret_1d": -0.02723466489945081,
    "ret_5d": -0.021586442512890214,
    "ret_63d": 0.21372631587904034,
-   "ret_252d": 0.511521674797841,
+   "ret_252d": 0.5115215079554478,
    "price": 208.9499969482422
   },
   "SPY": {
