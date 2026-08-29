@@ -1,6 +1,39 @@
 {
- "as_of": "2026-08-29T03:15:15Z",
+ "as_of": "2026-08-29T14:59:47Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Landmark approval for pancreatic cancer; Reactions to Lilly\u2019s Phase 1 secrecy; and more",
+   "url": "https://endpoints.news/landmark-approval-for-pancreatic-cancer-reactions-to-lillys-phase-1-secrecy-and-more/",
+   "published_iso": "2026-08-29",
+   "raw_score": 0.0,
+   "tickers": [
+    "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "#ESC26: Novartis pushes ahead with its IL-6 inhibitor despite Novo's failure",
+   "url": "https://endpoints.news/esc26-novartis-pushes-ahead-with-its-il-6-inhibitor-despite-novos-failure/",
+   "published_iso": "2026-08-29",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
+   "url": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
+   "published_iso": "2026-08-29",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Mounjaro scores FDA approval to reduce CV risk; Teva to buy an approved drug",
@@ -240,17 +273,6 @@
    "raw_score": 0.0,
    "tickers": [
     "BMY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "FDA approves Revolution Medicines' pancreatic cancer drug",
-   "url": "https://endpoints.news/fda-approves-revolution-medicines-pancreatic-cancer-drug/",
-   "published_iso": "2026-08-26",
-   "raw_score": 3.0,
-   "tickers": [
-    "RVMD"
    ],
    "hard": false
   },
