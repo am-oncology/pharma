@@ -1,6 +1,63 @@
 {
- "as_of": "2026-08-29T14:59:47Z",
+ "as_of": "2026-08-31T15:02:15Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Sanofi-backed Electra files for IPO to fund Phase 2/3 immunology drug",
+   "url": "https://endpoints.news/sanofi-backed-electra-files-for-ipo-to-fund-phase-2-3-immunology-drug/",
+   "published_iso": "2026-08-31",
+   "raw_score": 0.0,
+   "tickers": [
+    "SNY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Lilly to buy TED startup Merida Biosciences in its 13th acquisition of 2026",
+   "url": "https://endpoints.news/lilly-to-buy-ted-startup-merida-biosciences-in-its-13th-acquisition-of-2026/",
+   "published_iso": "2026-08-31",
+   "raw_score": 2.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "#ESC26: Arrowhead claims safety edge over Ionis as triglyceride battle draws closer",
+   "url": "https://endpoints.news/esc26-arrowhead-claims-safety-edge-over-ionis-as-triglyceride-battle-draws-closer/",
+   "published_iso": "2026-08-30",
+   "raw_score": 0.0,
+   "tickers": [
+    "IONS",
+    "ARWR"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "#ESC26: AstraZeneca's relaxin pill shows promise in mid-stage heart failure trial",
+   "url": "https://endpoints.news/esc26-astrazenecas-relaxin-pill-shows-promise-in-mid-stage-heart-failure-trial/",
+   "published_iso": "2026-08-30",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca\u2019s Wainua",
+   "url": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
+   "published_iso": "2026-08-30",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "ALNY"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Landmark approval for pancreatic cancer; Reactions to Lilly\u2019s Phase 1 secrecy; and more",
@@ -220,29 +277,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "What\u2019s in Merck and Moderna\u2019s cancer vaccine algorithm?",
-   "url": "https://www.statnews.com/2026/08/27/biotech-news-whats-in-merck-and-modernas-cancer-vaccine-algorithm/?utm_campaign=rss",
-   "published_iso": "2026-08-27",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about a pancreatic cancer drug approval, a Trump deal with biotechs, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/08/27/pancreatic-cancer-drug-approved-trump-deal-with-biotechs/?utm_campaign=rss",
-   "published_iso": "2026-08-27",
-   "raw_score": 0.0,
-   "tickers": [
-    "RVMD"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "Moderna Receives U.S. FDA Approval for Updated 2026-2027 Spikevax and mNEXSPIKE COVID-19 Vaccines",
    "url": "https://www.drugs.com/newdrugs/moderna-receives-u-s-fda-approval-updated-2026-2027-spikevax-mnexspike-covid-19-vaccines-6871.html",
@@ -262,17 +296,6 @@
    "tickers": [
     "PFE",
     "BNTX"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Cellares rebukes Bristol Myers' criticism of its cell therapy technology",
-   "url": "https://endpoints.news/cellares-rebukes-bristol-myers-criticism-of-its-cell-therapy-technology/",
-   "published_iso": "2026-08-26",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY"
    ],
    "hard": false
   },
@@ -398,14 +421,13 @@
    "hard": false
   },
   {
-   "source": "Drugs.com New Approvals",
-   "title": "FDA Approves Lipfendra (enlicitide) Oral PCSK9 Inhibitor to Reduce LDL-C in Adults with Hypercholesterolemia",
-   "url": "https://www.drugs.com/newdrugs/fda-approves-lipfendra-enlicitide-oral-pcsk9-inhibitor-reduce-ldl-c-adults-hypercholesterolemia-6840.html",
-   "published_iso": "2026-07-16",
-   "raw_score": 3.0,
+   "source": "FierceBiotech",
+   "title": "Eli Lilly inks $2.88B Merida buyout for autoimmune drugs against rogue antibodies",
+   "url": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-29b-merida-buyout-autoimmune-drugs-against-rogue-antibodies",
+   "published_iso": "",
+   "raw_score": 2.5,
    "tickers": [
-    "MRK",
-    "UTHR"
+    "LLY"
    ],
    "hard": false
   },
@@ -452,6 +474,29 @@
    "raw_score": 0.0,
    "tickers": [
     "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Jazz\u2019s Ziihera secures 2nd survival win to solidify its HER2-positive stomach cancer status",
+   "url": "https://www.fiercepharma.com/pharma/jazz-ziihera-secures-2nd-survival-win-solidify-her2-positive-stomach-cancer-status",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "JAZZ"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "ESC: AZ, Ionis' Wainua post-mortem throws water on silencer-plus-stabilizer approach in ATTR-CM",
+   "url": "https://www.fiercepharma.com/pharma/esc-az-ionis-wainua-post-mortem-throws-water-silencer-plus-stabilizer-approach-attr-cm",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "IONS"
    ],
    "hard": false
   },
@@ -567,28 +612,6 @@
     "SNY",
     "AMGN",
     "REGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "AbbVie's patient support extends to the classroom with immunology scholarship program",
-   "url": "https://www.fiercepharma.com/marketing/abbvies-patient-support-extends-classroom-immunology-scholarship-program",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "ABBV"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "FDA greenlights Revolution Medicines' pancreatic cancer gamechanger",
-   "url": "https://www.fiercepharma.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "RVMD"
    ],
    "hard": false
   },
