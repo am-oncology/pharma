@@ -1,5 +1,5 @@
 {
- "as_of": "2026-08-31T15:02:15Z",
+ "as_of": "2026-08-31T18:23:03Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -20,6 +20,17 @@
    "raw_score": 2.0,
    "tickers": [
     "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Can buying a drug patent application be seen as a bid to prolong a monopoly?",
+   "url": "https://www.statnews.com/pharmalot/2026/08/31/pending-drug-patent-applications-amgen-carefirst/?utm_campaign=rss",
+   "published_iso": "2026-08-31",
+   "raw_score": 0.0,
+   "tickers": [
+    "AMGN"
    ],
    "hard": false
   },
@@ -422,6 +433,28 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "\u2018A neuroscience revolution\u2019: The GLP-like race to keep us awake and make billions doing it",
+   "url": "https://www.fiercebiotech.com/biotech/neuroscience-revolution-glp-race-keep-us-awake-and-make-billions-doing-it",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "ESC26: AstraZeneca's heart failure drug shows promise in ph. 2 trial",
+   "url": "https://www.fiercebiotech.com/biotech/esc26-astrazenecas-heart-failure-drug-shows-promise-ph-2-trial",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Eli Lilly inks $2.88B Merida buyout for autoimmune drugs against rogue antibodies",
    "url": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-29b-merida-buyout-autoimmune-drugs-against-rogue-antibodies",
    "published_iso": "",
@@ -474,6 +507,17 @@
    "raw_score": 0.0,
    "tickers": [
     "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Ascendis to pay 20% Yuviwell royalties in patent settlement with BioMarin",
+   "url": "https://www.fiercepharma.com/pharma/biomarin-wins-20-royalties-ascendis-yuviwel-until-2030-end-global-patent-disputes",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMRN"
    ],
    "hard": false
   },
