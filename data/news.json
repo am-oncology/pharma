@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-01T00:41:41Z",
+ "as_of": "2026-09-01T12:32:45Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Novartis' Rhapsido safer than rivals, Phase 3 multiple sclerosis data suggest",
+   "url": "https://endpoints.news/novartis-rhapsido-safer-than-rivals-phase-3-multiple-sclerosis-data-suggest/",
+   "published_iso": "2026-09-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Three deaths in CAR-T trials prompt halt by Novartis; Bristol Myers programs also paused",
@@ -10,6 +21,17 @@
    "tickers": [
     "BMY",
     "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Nature Biotechnology",
+   "title": "A pervasive RT\u2013qPCR artifact inflates RNA knockdown by RNA-targeting CRISPR",
+   "url": "https://www.nature.com/articles/s41587-026-03291-1",
+   "published_iso": "2026-09-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "CRSP"
    ],
    "hard": false
   },
@@ -185,42 +207,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: AstraZeneca and Ionis detail surprise failure of heart disease drug, with Alnylam closely watching",
-   "url": "https://www.statnews.com/2026/08/28/biotech-news-astrazeneca-ionis-detail-surprise-failure-of-heart-disease-drug/?utm_campaign=rss",
-   "published_iso": "2026-08-28",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN",
-    "ALNY",
-    "IONS",
-    "CYTK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about an AstraZeneca trial failure, a \u2018monstrous\u2019 conflict of interest, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/08/28/astrazeneca-trial-failure-monstrous-conflict-of-interest/?utm_campaign=rss",
-   "published_iso": "2026-08-28",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Cytokinetics details trial win for what could be its next approval",
-   "url": "https://www.statnews.com/2026/08/28/cytokinetics-myqorzo-aficamten-nhcm-acacia-trial-success/?utm_campaign=rss",
-   "published_iso": "2026-08-28",
-   "raw_score": 0.0,
-   "tickers": [
-    "CYTK"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Bixlenvo (bictegravir and lenacapavir) for the Treatment of HIV in Adults Who Are Virologically Suppressed",
    "url": "https://www.drugs.com/newdrugs/fda-approves-bixlenvo-bictegravir-lenacapavir-hiv-adults-virologically-suppressed-6868.html",
@@ -250,30 +236,6 @@
    "raw_score": 0.0,
    "tickers": [
     "GILD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Lilly's move to hide Phase 1 pipeline draws mixed reviews",
-   "url": "https://endpoints.news/lillys-move-to-hide-phase-1-pipeline-draws-mixed-reviews/",
-   "published_iso": "2026-08-27",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Moderna's $2B offering; AstraZeneca-Amgen and Biokin chalk up Phase 3 wins",
-   "url": "https://endpoints.news/modernas-2b-offering-astrazeneca-amgen-and-biokin-chalk-up-phase-3-wins/",
-   "published_iso": "2026-08-27",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN",
-    "AMGN",
-    "MRNA"
    ],
    "hard": false
   },
@@ -412,7 +374,18 @@
   },
   {
    "source": "FierceBiotech",
-   "title": "Novartis, Bristol Myers halt autoimmune CAR-T trials due to adverse events",
+   "title": "GSK catches phase 3 fever after mRNA flu vaccine beats standard shots",
+   "url": "https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "UPDATED: Novartis halts autoimmune CAR-T trials after 3 deaths, as BMS also pauses studies",
    "url": "https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events",
    "published_iso": "",
    "raw_score": 0.0,
@@ -622,28 +595,6 @@
    "raw_score": 0.0,
    "tickers": [
     "GILD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "BMS splashes out $173M to build 2nd radiopharmaceutical plant in Indiana",
-   "url": "https://www.fiercepharma.com/manufacturing/bms-build-2nd-radiopharmaceutical-plant-indiana-173m",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "As RevMed preps for \u2018historic\u2019 pancreatic cancer launch, questions linger on the ground",
-   "url": "https://www.fiercepharma.com/pharma/revmed-preps-historic-pancreatic-cancer-launch-questions-linger-ground",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "RVMD"
    ],
    "hard": false
   },
