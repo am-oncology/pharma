@@ -1,6 +1,28 @@
 {
- "as_of": "2026-09-01T12:32:45Z",
+ "as_of": "2026-09-01T15:43:30Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Lilly\u2019s 2026 dealmaking spreads the wealth among biotech venture investors",
+   "url": "https://endpoints.news/lillys-2026-dealmaking-spreads-the-wealth-among-biotech-venture-investors/",
+   "published_iso": "2026-09-01",
+   "raw_score": 2.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "GSK to launch Phase 3 test of mRNA flu vaccine with newer formulation",
+   "url": "https://endpoints.news/gsk-to-launch-phase-3-test-of-mrna-flu-vaccine-with-newer-formulation/",
+   "published_iso": "2026-09-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Novartis' Rhapsido safer than rivals, Phase 3 multiple sclerosis data suggest",
@@ -16,6 +38,30 @@
    "source": "Endpoints News",
    "title": "Three deaths in CAR-T trials prompt halt by Novartis; Bristol Myers programs also paused",
    "url": "https://endpoints.news/three-deaths-in-car-t-trials-prompt-halt-by-novartis-bristol-myers-programs-also-paused/",
+   "published_iso": "2026-09-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMY",
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Novartis gets multiple sclerosis win with BTK inhibitor",
+   "url": "https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/?utm_campaign=rss",
+   "published_iso": "2026-09-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS",
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about Novartis and Bristol pausing cell therapy trials, a $480K cancer drug, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/09/01/novartis-bristol-trials-paused-pancreatic-cancer-drug-price-pharmalittle-newsletter/?utm_campaign=rss",
    "published_iso": "2026-09-01",
    "raw_score": 0.0,
    "tickers": [
@@ -92,18 +138,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca\u2019s Wainua",
-   "url": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
-   "published_iso": "2026-08-30",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN",
-    "ALNY"
-   ],
-   "hard": false
-  },
-  {
    "source": "Endpoints News",
    "title": "Landmark approval for pancreatic cancer; Reactions to Lilly\u2019s Phase 1 secrecy; and more",
    "url": "https://endpoints.news/landmark-approval-for-pancreatic-cancer-reactions-to-lillys-phase-1-secrecy-and-more/",
@@ -118,17 +152,6 @@
    "source": "Endpoints News",
    "title": "#ESC26: Novartis pushes ahead with its IL-6 inhibitor despite Novo's failure",
    "url": "https://endpoints.news/esc26-novartis-pushes-ahead-with-its-il-6-inhibitor-despite-novos-failure/",
-   "published_iso": "2026-08-29",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
-   "url": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
    "published_iso": "2026-08-29",
    "raw_score": 0.0,
    "tickers": [
@@ -225,17 +248,6 @@
    "raw_score": 3.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Gilead gets another HIV treatment approval, extending lenacapavir's dominance",
-   "url": "https://endpoints.news/gilead-gets-another-hiv-treatment-approval-extending-lenacapavirs-dominance/",
-   "published_iso": "2026-08-27",
-   "raw_score": 0.0,
-   "tickers": [
-    "GILD"
    ],
    "hard": false
   },
@@ -464,26 +476,15 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Roche nabs expanded FDA approval for diagnostic tied to Jazz\u2019s cancer drug",
-   "url": "https://www.fiercebiotech.com/medtech/roches-nabs-expanded-fda-approval-diagnostic-aimed-jazzs-cancer-drug",
+   "source": "FiercePharma",
+   "title": "Novartis claims MS win as Rhapsido clears phase 3 with \u2018no liver safety signal\u2019",
+   "url": "https://www.fiercepharma.com/pharma/novartis-claims-ms-win-rhapsido-remibrutinib-clears-phase-3-no-liver-safety-signal",
    "published_iso": "",
-   "raw_score": 3.0,
+   "raw_score": -2.2,
    "tickers": [
-    "JAZZ"
+    "NVS"
    ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "FDA greenlights Revolution Medicines' pancreatic cancer gamechanger",
-   "url": "https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "RVMD"
-   ],
-   "hard": false
+   "hard": true
   },
   {
    "source": "FiercePharma",
@@ -573,28 +574,6 @@
    "raw_score": 1.2,
    "tickers": [
     "CYTK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Priovant pushes ex-Pfizer asset across FDA finish line in rare skin and muscle disease",
-   "url": "https://www.fiercepharma.com/pharma/priovant-pushes-ex-pfizer-asset-across-fda-finish-line-rare-skin-and-muscle-disease",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "PFE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Gilead christens Bixlenvo with FDA nod for new HIV treatment combo tablet",
-   "url": "https://www.fiercepharma.com/pharma/gilead-christens-bixlenvo-fda-nod-new-hiv-treatment-combo-pill",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "GILD"
    ],
    "hard": false
   },
