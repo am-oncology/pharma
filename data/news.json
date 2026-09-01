@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-01T15:43:30Z",
+ "as_of": "2026-09-01T23:22:10Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -195,41 +195,6 @@
    "hard": false
   },
   {
-   "source": "Endpoints News",
-   "title": "Daiichi Sankyo to give commercial team a makeover; Novo Nordisk's GPCR partner finds CMO",
-   "url": "https://endpoints.news/daiichi-sankyos-commercial-team-to-get-a-makeover-novo-nordisks-gpcr-partner-finds-cmo/",
-   "published_iso": "2026-08-28",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVO"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "#ESC26: Data in hand, Cytokinetics looks to expanded Myqorzo approval",
-   "url": "https://endpoints.news/esc26-data-in-hand-cytokinetics-looks-to-expanded-myqorzo-approval/",
-   "published_iso": "2026-08-28",
-   "raw_score": 0.0,
-   "tickers": [
-    "CYTK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "#ESC26: Trial failure clouds future of AstraZeneca\u2019s heart disease gene silencer",
-   "url": "https://endpoints.news/esc26-trial-failure-clouds-future-of-astrazenecas-heart-disease-gene-silencer/",
-   "published_iso": "2026-08-28",
-   "raw_score": 0.0,
-   "tickers": [
-    "PFE",
-    "AZN",
-    "IONS"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Bixlenvo (bictegravir and lenacapavir) for the Treatment of HIV in Adults Who Are Virologically Suppressed",
    "url": "https://www.drugs.com/newdrugs/fda-approves-bixlenvo-bictegravir-lenacapavir-hiv-adults-virologically-suppressed-6868.html",
@@ -386,6 +351,19 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "ESC: Alnylam's next-gen silencer sees silver linings after fallout of AZ, Ionis trial in ATTR-CM",
+   "url": "https://www.fiercebiotech.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "ALNY",
+    "IONS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "GSK catches phase 3 fever after mRNA flu vaccine beats standard shots",
    "url": "https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots",
    "published_iso": "",
@@ -477,6 +455,19 @@
   },
   {
    "source": "FiercePharma",
+   "title": "ESC: Alnylam's next-gen silencer sees silver linings after fallout of AZ, Ionis trial in ATTR-CM",
+   "url": "https://www.fiercepharma.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "ALNY",
+    "IONS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "Novartis claims MS win as Rhapsido clears phase 3 with \u2018no liver safety signal\u2019",
    "url": "https://www.fiercepharma.com/pharma/novartis-claims-ms-win-rhapsido-remibrutinib-clears-phase-3-no-liver-safety-signal",
    "published_iso": "",
@@ -563,17 +554,6 @@
    "raw_score": 2.5,
    "tickers": [
     "PTCT"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "ESC: Cytokinetics delves deeper on \u2018huge\u2019 Myqorzo readout, fueling cardiomyopathy expansion bid",
-   "url": "https://www.fiercepharma.com/pharma/esc-2026-cytokinetics-delves-deeper-huge-myqorzo-readout-fueling-cardiomyopathy-expansion",
-   "published_iso": "",
-   "raw_score": 1.2,
-   "tickers": [
-    "CYTK"
    ],
    "hard": false
   },

@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-01T15:43:30Z",
+ "as_of": "2026-09-01T23:22:10Z",
  "events": [
   {
    "date": "2026-09-03",
@@ -792,6 +792,18 @@
    "nct_id": "NCT07030517",
    "estimated": true,
    "weight": 0.35
+  },
+  {
+   "date": "2026-11-02",
+   "days_out": 62,
+   "kind": "earnings",
+   "ticker": "VRTX",
+   "name": "Vertex Pharmaceuticals",
+   "label": "Earnings",
+   "detail": "Vertex Pharmaceuticals quarterly results",
+   "nct_id": "",
+   "estimated": true,
+   "weight": 0.3
   },
   {
    "date": "2026-11-03",
@@ -2628,18 +2640,6 @@
    "nct_id": "NCT06318273",
    "estimated": true,
    "weight": 0.25
-  },
-  {
-   "date": "2027-05-01",
-   "days_out": 241,
-   "kind": "readout",
-   "ticker": "ALKS",
-   "name": "Alkermes",
-   "label": "Phase 3",
-   "detail": "A Study to Evaluate the Efficacy and Safety of ALKS 2680 in Adults With Narcolepsy Type 1",
-   "nct_id": "NCT07455383",
-   "estimated": true,
-   "weight": 1.0
   }
  ]
 }
