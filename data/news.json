@@ -1,6 +1,18 @@
 {
- "as_of": "2026-08-31T18:23:03Z",
+ "as_of": "2026-09-01T00:41:41Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Three deaths in CAR-T trials prompt halt by Novartis; Bristol Myers programs also paused",
+   "url": "https://endpoints.news/three-deaths-in-car-t-trials-prompt-halt-by-novartis-bristol-myers-programs-also-paused/",
+   "published_iso": "2026-09-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMY",
+    "NVS"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Sanofi-backed Electra files for IPO to fund Phase 2/3 immunology drug",
@@ -209,17 +221,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: In autopsy of failed heart disease study, AstraZeneca raises broader questions about silencer drugs",
-   "url": "https://www.statnews.com/2026/08/28/astrazeneca-ionis-wainua-eplontersen-attr-cm-study-failure-bridgebio-alnylam/?utm_campaign=rss",
-   "published_iso": "2026-08-28",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Bixlenvo (bictegravir and lenacapavir) for the Treatment of HIV in Adults Who Are Virologically Suppressed",
    "url": "https://www.drugs.com/newdrugs/fda-approves-bixlenvo-bictegravir-lenacapavir-hiv-adults-virologically-suppressed-6868.html",
@@ -273,17 +274,6 @@
     "AZN",
     "AMGN",
     "MRNA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "RayzeBio's $173M radiopharma plan; Lonza creates commercial chief position",
-   "url": "https://endpoints.news/lonza-creates-commercial-chief-position-wuxi-biologics-reports-revenue-jump/",
-   "published_iso": "2026-08-27",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY"
    ],
    "hard": false
   },
@@ -421,13 +411,25 @@
    "hard": false
   },
   {
-   "source": "Drugs.com New Approvals",
-   "title": "Novartis Fabhalta (iptacopan) Receives FDA Traditional Approval as First and Only Complement Inhibitor to Significantly Slow Kidney Function Decline in Primary IgAN",
-   "url": "https://www.drugs.com/newdrugs/novartis-fabhalta-iptacopan-receives-fda-traditional-approval-first-only-complement-inhibitor-6841.html",
-   "published_iso": "2026-07-17",
+   "source": "FierceBiotech",
+   "title": "Novartis, Bristol Myers halt autoimmune CAR-T trials due to adverse events",
+   "url": "https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events",
+   "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
+    "BMY",
     "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Natera teams with Angiex on cancer drug trial monitoring",
+   "url": "https://www.fiercebiotech.com/medtech/natera-teams-angiex-advance-its-signatera-cancer-dx-tool",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NTRA"
    ],
    "hard": false
   },
@@ -512,7 +514,7 @@
   },
   {
    "source": "FiercePharma",
-   "title": "Ascendis to pay 20% Yuviwell royalties in patent settlement with BioMarin",
+   "title": "Ascendis to pay 20% Yuviwel royalties in patent settlement with BioMarin",
    "url": "https://www.fiercepharma.com/pharma/biomarin-wins-20-royalties-ascendis-yuviwel-until-2030-end-global-patent-disputes",
    "published_iso": "",
    "raw_score": 0.0,
@@ -642,20 +644,6 @@
    "raw_score": 0.0,
    "tickers": [
     "RVMD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Amgen, AZ\u2019s Tezspire lands phase 3 eosinophilic esophagitis win, turning up heat on Dupixent",
-   "url": "https://www.fiercepharma.com/pharma/amgen-az-tezspire-phase-3-eosinophilic-esophagitis-turning-heat-dupixent",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN",
-    "SNY",
-    "AMGN",
-    "REGN"
    ],
    "hard": false
   },
