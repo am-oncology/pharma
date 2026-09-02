@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-01T23:22:10Z",
+ "as_of": "2026-09-02T12:05:39Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Typewriter raises $56M for jumping gene technology and in vivo CAR-T therapies",
+   "url": "https://endpoints.news/typewriter-raises-56m-for-jumping-gene-technology-and-in-vivo-car-t-therapies/",
+   "published_iso": "2026-09-02",
+   "raw_score": 0.0,
+   "tickers": [
+    "CRSP"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Lilly\u2019s 2026 dealmaking spreads the wealth among biotech venture investors",
@@ -182,17 +193,6 @@
     "BNTX"
    ],
    "hard": true
-  },
-  {
-   "source": "Endpoints News",
-   "title": "#ESC26: CRISPR Therapeutics to pursue highest dose of its lipid lowering gene editing therapy",
-   "url": "https://endpoints.news/esc26-crispr-therapeutics-to-pursue-highest-dose-of-its-lipid-lowering-gene-editing-therapy/",
-   "published_iso": "2026-08-28",
-   "raw_score": 0.0,
-   "tickers": [
-    "CRSP"
-   ],
-   "hard": false
   },
   {
    "source": "Drugs.com New Approvals",
