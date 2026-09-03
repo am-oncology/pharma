@@ -1,6 +1,39 @@
 {
- "as_of": "2026-09-02T23:23:49Z",
+ "as_of": "2026-09-03T12:05:17Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Superluminal secures $60M for Phase 1 of genetic obesity drug",
+   "url": "https://endpoints.news/superluminal-secures-60m-for-phase-1-of-genetic-obesity-drug/",
+   "published_iso": "2026-09-03",
+   "raw_score": 0.0,
+   "tickers": [
+    "RYTM"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "GSK to license Hutchmed\u2019s KRAS-EGFR cancer drug for $110M upfront",
+   "url": "https://endpoints.news/gsk-to-license-hutchmeds-kras-egfr-cancer-drug-for-110m-upfront/",
+   "published_iso": "2026-09-03",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Ultragenyx\u2019s Angelman therapy fails Phase 3 trial in setback for company and patients",
+   "url": "https://endpoints.news/ultragenyxs-angelman-therapy-fails-phase-3-trial-in-setback-for/",
+   "published_iso": "2026-09-03",
+   "raw_score": 0.0,
+   "tickers": [
+    "RARE"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Novartis CAR-T deaths raise questions over acceptable autoimmune risk",
@@ -116,30 +149,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: Novartis gets multiple sclerosis win with BTK inhibitor",
-   "url": "https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/?utm_campaign=rss",
-   "published_iso": "2026-09-01",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS",
-    "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about Novartis and Bristol pausing cell therapy trials, a $480K cancer drug, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/09/01/novartis-bristol-trials-paused-pancreatic-cancer-drug-price-pharmalittle-newsletter/?utm_campaign=rss",
-   "published_iso": "2026-09-01",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY",
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
    "source": "Nature Biotechnology",
    "title": "A pervasive RT\u2013qPCR artifact inflates RNA knockdown by RNA-targeting CRISPR",
    "url": "https://www.nature.com/articles/s41587-026-03291-1",
@@ -147,40 +156,6 @@
    "raw_score": 0.0,
    "tickers": [
     "CRSP"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Sanofi-backed Electra files for IPO to fund Phase 2/3 immunology drug",
-   "url": "https://endpoints.news/sanofi-backed-electra-files-for-ipo-to-fund-phase-2-3-immunology-drug/",
-   "published_iso": "2026-08-31",
-   "raw_score": 0.0,
-   "tickers": [
-    "SNY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Lilly to buy TED startup Merida Biosciences in its 13th acquisition of 2026",
-   "url": "https://endpoints.news/lilly-to-buy-ted-startup-merida-biosciences-in-its-13th-acquisition-of-2026/",
-   "published_iso": "2026-08-31",
-   "raw_score": 2.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "#ESC26: Arrowhead claims safety edge over Ionis as triglyceride battle draws closer",
-   "url": "https://endpoints.news/esc26-arrowhead-claims-safety-edge-over-ionis-as-triglyceride-battle-draws-closer/",
-   "published_iso": "2026-08-30",
-   "raw_score": 0.0,
-   "tickers": [
-    "IONS",
-    "ARWR"
    ],
    "hard": false
   },
@@ -341,6 +316,28 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "GSK pens $1.3B Hutchmed deal for early-stage KRAS-EGFR cancer asset",
+   "url": "https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Ultragenyx fails phase 3 Angelman test, plots \u2018significant expense reductions\u2019",
+   "url": "https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction",
+   "published_iso": "",
+   "raw_score": 3.0,
+   "tickers": [
+    "RARE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Novartis telegraphs 130 job cuts amid biologics rethink in Switzerland",
    "url": "https://www.fiercebiotech.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland",
    "published_iso": "",
@@ -440,19 +437,6 @@
    "raw_score": 2.5,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "BioNTech-Genentech cancer vax records more deaths than control in scrapped ph. 2 test",
-   "url": "https://www.fiercebiotech.com/biotech/biontech-genentech-personalized-cancer-vaccine-posts-worse-patient-survival-terminated-ph-2",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "MRNA",
-    "BNTX"
    ],
    "hard": false
   },
