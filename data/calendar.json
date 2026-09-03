@@ -1,6 +1,30 @@
 {
- "as_of": "2026-09-03T12:05:17Z",
+ "as_of": "2026-09-03T15:25:53Z",
  "events": [
+  {
+   "date": "2026-09-07",
+   "days_out": 3,
+   "kind": "readout",
+   "ticker": "AZN",
+   "name": "AstraZeneca",
+   "label": "Phase 1",
+   "detail": "A Phase I, Cross-over Study Comparing the Relative Bioavailability of Laroprovstat Plus Ezetimibe Fixed Combination Drug Products ",
+   "nct_id": "NCT07622433",
+   "estimated": true,
+   "weight": 0.25
+  },
+  {
+   "date": "2026-09-12",
+   "days_out": 8,
+   "kind": "readout",
+   "ticker": "NVO",
+   "name": "Novo Nordisk",
+   "label": "Phase 1",
+   "detail": "A Study to See the Effect of NNC0194-0499 Alone or in Combination With Semaglutide on Blood Sugar Control in People Living With Ty",
+   "nct_id": "NCT07087795",
+   "estimated": true,
+   "weight": 0.25
+  },
   {
    "date": "2026-09-17",
    "days_out": 13,
@@ -26,42 +50,6 @@
    "weight": 0.25
   },
   {
-   "date": "2026-09-23",
-   "days_out": 19,
-   "kind": "readout",
-   "ticker": "AZN",
-   "name": "AstraZeneca",
-   "label": "Phase 1",
-   "detail": "A Study to Investigate Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Immunogenicity of AZD1613 in Healthy Participa",
-   "nct_id": "NCT06995820",
-   "estimated": true,
-   "weight": 0.25
-  },
-  {
-   "date": "2026-09-27",
-   "days_out": 23,
-   "kind": "readout",
-   "ticker": "BIIB",
-   "name": "Biogen",
-   "label": "Phase 3",
-   "detail": "A Study to Learn About the Safety of Litifilimab (BIIB059) Injections and Whether They Can Improve Symptoms of Adult Participants ",
-   "nct_id": "NCT04961567",
-   "estimated": true,
-   "weight": 1.0
-  },
-  {
-   "date": "2026-09-28",
-   "days_out": 24,
-   "kind": "readout",
-   "ticker": "SNY",
-   "name": "Sanofi",
-   "label": "Phase 1",
-   "detail": "Study to Compare the Plasma Concentration of Belumosudil Given as an Oral Suspension and as a Tablet to Healthy Adult Male Partici",
-   "nct_id": "NCT07726914",
-   "estimated": true,
-   "weight": 0.25
-  },
-  {
    "date": "2026-09-28",
    "days_out": 24,
    "kind": "readout",
@@ -77,18 +65,6 @@
    "date": "2026-09-30",
    "days_out": 26,
    "kind": "readout",
-   "ticker": "AZN",
-   "name": "AstraZeneca",
-   "label": "Phase 3",
-   "detail": "A Global Study to Assess the Effects of Durvalumab With Oleclumab or Durvalumab With Monalizumab Following Concurrent Chemoradiati",
-   "nct_id": "NCT05221840",
-   "estimated": true,
-   "weight": 1.0
-  },
-  {
-   "date": "2026-09-30",
-   "days_out": 26,
-   "kind": "readout",
    "ticker": "SNY",
    "name": "Sanofi",
    "label": "Phase 4",
@@ -96,6 +72,18 @@
    "nct_id": "NCT05164055",
    "estimated": true,
    "weight": 0.35
+  },
+  {
+   "date": "2026-09-30",
+   "days_out": 26,
+   "kind": "readout",
+   "ticker": "BIIB",
+   "name": "Biogen",
+   "label": "Phase 3",
+   "detail": "A Study to Learn About the Safety of Litifilimab (BIIB059) Injections and Whether They Can Improve Symptoms of Adult Participants ",
+   "nct_id": "NCT04895241",
+   "estimated": true,
+   "weight": 1.0
   },
   {
    "date": "2026-09-30",
@@ -152,10 +140,34 @@
    "ticker": "LLY",
    "name": "Eli Lilly",
    "label": "Phase 3",
-   "detail": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Ina",
-   "nct_id": "NCT06297603",
+   "detail": "A Study of Baricitinib (LY3009104) in Participants From 1 Year to Less Than 18 Years Old With Systemic Juvenile Idiopathic Arthrit",
+   "nct_id": "NCT04088396",
    "estimated": true,
    "weight": 1.0
+  },
+  {
+   "date": "2026-10-01",
+   "days_out": 27,
+   "kind": "readout",
+   "ticker": "LLY",
+   "name": "Eli Lilly",
+   "label": "Phase 1",
+   "detail": "A Study of Eloralintide (LY3841136) in Healthy Participants",
+   "nct_id": "NCT07701083",
+   "estimated": true,
+   "weight": 0.25
+  },
+  {
+   "date": "2026-10-01",
+   "days_out": 27,
+   "kind": "readout",
+   "ticker": "ABBV",
+   "name": "AbbVie",
+   "label": "Phase 1",
+   "detail": "Study to Assess How Different Oral Formulations of Ubrogepant Move Through the Body in Healthy Adult Participants",
+   "nct_id": "NCT07680686",
+   "estimated": true,
+   "weight": 0.25
   },
   {
    "date": "2026-10-01",
@@ -173,13 +185,13 @@
    "date": "2026-10-01",
    "days_out": 27,
    "kind": "readout",
-   "ticker": "GILD",
-   "name": "Gilead Sciences",
-   "label": "Phase 2",
-   "detail": "Study of Sacituzumab Govitecan in Patients With Solid Tumor",
-   "nct_id": "NCT05119907",
+   "ticker": "AMGN",
+   "name": "Amgen",
+   "label": "Phase 1",
+   "detail": "Single and Multiple Ascending Dose Study of AMG 513 in Participants With Obesity",
+   "nct_id": "NCT06585462",
    "estimated": true,
-   "weight": 0.6
+   "weight": 0.25
   },
   {
    "date": "2026-10-01",
@@ -254,18 +266,6 @@
    "weight": 0.25
   },
   {
-   "date": "2026-10-06",
-   "days_out": 32,
-   "kind": "readout",
-   "ticker": "BMY",
-   "name": "Bristol Myers Squibb",
-   "label": "Phase 3",
-   "detail": "A Study to Evaluate the Efficacy, Safety, and Tolerability of BMS-986278 in Participants With Idiopathic Pulmonary Fibrosis",
-   "nct_id": "NCT06003426",
-   "estimated": true,
-   "weight": 1.0
-  },
-  {
    "date": "2026-10-07",
    "days_out": 33,
    "kind": "readout",
@@ -284,8 +284,8 @@
    "ticker": "INCY",
    "name": "Incyte",
    "label": "Phase 3",
-   "detail": "Study to Evaluate the Efficacy and Safety of Ruxolitinib Cream in Participants With Hidradenitis Suppurativa (TRuE-HS2)",
-   "nct_id": "NCT06958211",
+   "detail": "Study to Evaluate the Efficacy and Safety of Ruxolitinib Cream in Participants With Hidradenitis Suppurativa (TRuE-HS1)",
+   "nct_id": "NCT06959225",
    "estimated": true,
    "weight": 1.0
   },
@@ -296,8 +296,8 @@
    "ticker": "INCY",
    "name": "Incyte",
    "label": "Phase 3",
-   "detail": "Study to Evaluate the Efficacy and Safety of Ruxolitinib Cream in Participants With Hidradenitis Suppurativa (TRuE-HS1)",
-   "nct_id": "NCT06959225",
+   "detail": "Study to Evaluate the Efficacy and Safety of Ruxolitinib Cream in Participants With Hidradenitis Suppurativa (TRuE-HS2)",
+   "nct_id": "NCT06958211",
    "estimated": true,
    "weight": 1.0
   },
@@ -341,23 +341,11 @@
    "date": "2026-10-19",
    "days_out": 45,
    "kind": "readout",
-   "ticker": "AZN",
-   "name": "AstraZeneca",
-   "label": "Phase 4",
-   "detail": "Benralizumab Airway Remodeling Study in Severe Eosinophilic Asthmatics",
-   "nct_id": "NCT03953300",
-   "estimated": true,
-   "weight": 0.35
-  },
-  {
-   "date": "2026-10-19",
-   "days_out": 45,
-   "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
    "label": "Phase 3",
-   "detail": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN2)",
-   "nct_id": "NCT06516965",
+   "detail": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN1)",
+   "nct_id": "NCT06516952",
    "estimated": true,
    "weight": 1.0
   },
@@ -368,8 +356,8 @@
    "ticker": "INCY",
    "name": "Incyte",
    "label": "Phase 3",
-   "detail": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN1)",
-   "nct_id": "NCT06516952",
+   "detail": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN2)",
+   "nct_id": "NCT06516965",
    "estimated": true,
    "weight": 1.0
   },
@@ -398,16 +386,16 @@
    "weight": 1.0
   },
   {
-   "date": "2026-10-23",
-   "days_out": 49,
+   "date": "2026-10-22",
+   "days_out": 48,
    "kind": "readout",
-   "ticker": "AZN",
-   "name": "AstraZeneca",
-   "label": "Phase 2",
-   "detail": "A Study to Investigate the Efficacy of Durvalumab Plus Tremelimumab in Combination With Chemotherapy Compared With Pembrolizumab i",
-   "nct_id": "NCT06008093",
+   "ticker": "AMGN",
+   "name": "Amgen",
+   "label": "Phase 3",
+   "detail": "A Safety and Efficacy Study of Dazodalibep in Participants With Sj\u00f6gren's Syndrome (SS) With Moderate-to-Severe Symptom State",
+   "nct_id": "NCT06245408",
    "estimated": true,
-   "weight": 0.6
+   "weight": 1.0
   },
   {
    "date": "2026-10-22",
@@ -437,13 +425,13 @@
    "date": "2026-10-30",
    "days_out": 56,
    "kind": "readout",
-   "ticker": "NVS",
-   "name": "Novartis",
-   "label": "Phase 1",
-   "detail": "Study of Safety and Efficacy of DKY709 Alone or in Combination With PDR001 in Patients With Advanced Solid Tumors.",
-   "nct_id": "NCT03891953",
+   "ticker": "PFE",
+   "name": "Pfizer",
+   "label": "Phase 3",
+   "detail": "A Clinical Trial of Three Study Medicines (Encorafenib, Binimetinib, and Pembrolizumab) in Patients With Advanced or Metastatic Me",
+   "nct_id": "NCT04657991",
    "estimated": true,
-   "weight": 0.25
+   "weight": 1.0
   },
   {
    "date": "2026-10-30",
@@ -521,37 +509,13 @@
    "date": "2026-10-31",
    "days_out": 57,
    "kind": "readout",
-   "ticker": "BMY",
-   "name": "Bristol Myers Squibb",
-   "label": "Phase 1",
-   "detail": "A Rollover Study of CC-122",
-   "nct_id": "NCT05688475",
-   "estimated": true,
-   "weight": 0.25
-  },
-  {
-   "date": "2026-10-31",
-   "days_out": 57,
-   "kind": "readout",
-   "ticker": "AZN",
-   "name": "AstraZeneca",
-   "label": "Phase 4",
-   "detail": "Phase 4 Study to Assess the Safety of Trastuzumab Deruxtecan, in Indian Patients",
-   "nct_id": "NCT06429761",
-   "estimated": true,
-   "weight": 0.35
-  },
-  {
-   "date": "2026-10-31",
-   "days_out": 57,
-   "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
-   "label": "Phase 1",
-   "detail": "A Study Evaluating Anvumetostat in Combination With Other Therapies in Participants With Advanced Gastrointestinal, Biliary Tract,",
-   "nct_id": "NCT06360354",
+   "label": "Phase 2",
+   "detail": "A Phase 2 Study of Anvumetostat in Participants With MTAP-deleted Advanced NSCLC (MTAPESTRY 201)",
+   "nct_id": "NCT06593522",
    "estimated": true,
-   "weight": 0.25
+   "weight": 0.6
   },
   {
    "date": "2026-10-31",
@@ -631,21 +595,9 @@
    "kind": "readout",
    "ticker": "LLY",
    "name": "Eli Lilly",
-   "label": "Phase 2",
-   "detail": "A Study of LY4515100 in Participants With Pain Following Third Molar Removal",
-   "nct_id": "NCT07511816",
-   "estimated": true,
-   "weight": 0.6
-  },
-  {
-   "date": "2026-11-01",
-   "days_out": 58,
-   "kind": "readout",
-   "ticker": "LLY",
-   "name": "Eli Lilly",
    "label": "Phase 3",
-   "detail": "A Study of Retatrutide (LY3437943) Compared to Tirzepatide (LY3298176) in Adults Who Have Obesity",
-   "nct_id": "NCT06662383",
+   "detail": "A Long-Term Study of Tirzepatide (LY3298176) in Adults With Type 1 Diabetes and Obesity or Overweight",
+   "nct_id": "NCT06962280",
    "estimated": true,
    "weight": 1.0
   },
@@ -667,9 +619,33 @@
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
+   "label": "Phase 1",
+   "detail": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Immunogenicity of Single Ascending Subcutaneous or Intravenous",
+   "nct_id": "NCT06895343",
+   "estimated": true,
+   "weight": 0.25
+  },
+  {
+   "date": "2026-11-01",
+   "days_out": 58,
+   "kind": "readout",
+   "ticker": "ABBV",
+   "name": "AbbVie",
    "label": "Phase 2",
-   "detail": "Study to Assess Change in Disease Activity and Adverse Events of Oral Venetoclax With Intravenous (IV) Obinutuzumab in Adult Parti",
-   "nct_id": "NCT04895436",
+   "detail": "Study to Assess Adverse Events and Change in Disease Activity When Oral ABBV-932 is Added to Antidepressant Therapies in Adult Par",
+   "nct_id": "NCT06846320",
+   "estimated": true,
+   "weight": 0.6
+  },
+  {
+   "date": "2026-11-01",
+   "days_out": 58,
+   "kind": "readout",
+   "ticker": "BNTX",
+   "name": "BioNTech",
+   "label": "Phase 2",
+   "detail": "A Phase II Clinical Trial Comparing the Efficacy of RO7198457 Versus Watchful Waiting in Patients With ctDNA-positive, Resected St",
+   "nct_id": "NCT04486378",
    "estimated": true,
    "weight": 0.6
   },
@@ -684,18 +660,6 @@
    "nct_id": "NCT07392372",
    "estimated": true,
    "weight": 0.25
-  },
-  {
-   "date": "2026-11-01",
-   "days_out": 58,
-   "kind": "readout",
-   "ticker": "BNTX",
-   "name": "BioNTech",
-   "label": "Phase 2",
-   "detail": "A Phase II Clinical Trial Comparing the Efficacy of RO7198457 Versus Watchful Waiting in Patients With ctDNA-positive, Resected St",
-   "nct_id": "NCT04486378",
-   "estimated": true,
-   "weight": 0.6
   },
   {
    "date": "2026-11-01",
@@ -761,11 +725,11 @@
    "date": "2026-11-02",
    "days_out": 59,
    "kind": "readout",
-   "ticker": "BMY",
-   "name": "Bristol Myers Squibb",
+   "ticker": "AZN",
+   "name": "AstraZeneca",
    "label": "Phase 3",
-   "detail": "A Study to Evaluate the Efficacy and Safety of KarXT for the Treatment of Manic Episodes in Bipolar-I Disorder (BALSAM-2)",
-   "nct_id": "NCT06951711",
+   "detail": "A Phase III Study to Investigate the Efficacy and Safety of Anifrolumab in Adults With Chronic and/or Subacute Cutaneous Lupus Ery",
+   "nct_id": "NCT06015737",
    "estimated": true,
    "weight": 1.0
   },
@@ -780,18 +744,6 @@
    "nct_id": "NCT06190951",
    "estimated": true,
    "weight": 0.6
-  },
-  {
-   "date": "2026-11-03",
-   "days_out": 60,
-   "kind": "readout",
-   "ticker": "JNJ",
-   "name": "Johnson & Johnson",
-   "label": "Phase 4",
-   "detail": "A Study to Assess Safety of Teclistamab in Indian Participants With Relapsed and Refractory Multiple Myeloma",
-   "nct_id": "NCT07030517",
-   "estimated": true,
-   "weight": 0.35
   },
   {
    "date": "2026-11-02",
@@ -821,23 +773,35 @@
    "date": "2026-11-05",
    "days_out": 62,
    "kind": "readout",
-   "ticker": "NVS",
-   "name": "Novartis",
-   "label": "Phase 4",
-   "detail": "Pediatric Long-Term Follow-up and Rollover Study",
-   "nct_id": "NCT03975829",
-   "estimated": true,
-   "weight": 0.35
-  },
-  {
-   "date": "2026-11-05",
-   "days_out": 62,
-   "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
    "label": "Phase 2",
    "detail": "Rollover Study to Provide Continued Treatment for Participants With B-Cell Malignancies Previously Enrolled in Studies of Parsacli",
    "nct_id": "NCT04509700",
+   "estimated": true,
+   "weight": 0.6
+  },
+  {
+   "date": "2026-11-06",
+   "days_out": 63,
+   "kind": "readout",
+   "ticker": "SNY",
+   "name": "Sanofi",
+   "label": "Phase 3",
+   "detail": "A Phase 3 Study to Assess the Efficacy, Safety, and Tolerability of Itepekimab (Anti-IL-33 mAb) in Participants With Inadequately-",
+   "nct_id": "NCT06834360",
+   "estimated": true,
+   "weight": 1.0
+  },
+  {
+   "date": "2026-11-13",
+   "days_out": 70,
+   "kind": "readout",
+   "ticker": "REGN",
+   "name": "Regeneron",
+   "label": "Phase 2",
+   "detail": "Study of Olatorepatide in Adult Participants Living With Overweight or Obesity in the US",
+   "nct_id": "NCT07431086",
    "estimated": true,
    "weight": 0.6
   },
@@ -854,26 +818,14 @@
    "weight": 0.6
   },
   {
-   "date": "2026-11-13",
-   "days_out": 70,
+   "date": "2026-11-15",
+   "days_out": 72,
    "kind": "readout",
-   "ticker": "REGN",
-   "name": "Regeneron",
-   "label": "Phase 2",
-   "detail": "Study of Olatorepatide in Adult Participants Living With Overweight or Obesity in the US",
-   "nct_id": "NCT07431086",
-   "estimated": true,
-   "weight": 0.6
-  },
-  {
-   "date": "2026-11-16",
-   "days_out": 73,
-   "kind": "readout",
-   "ticker": "NVS",
-   "name": "Novartis",
+   "ticker": "AMGN",
+   "name": "Amgen",
    "label": "Phase 1",
-   "detail": "Study of Pelabresib add-on to Ruxolitinib in Japanese Adult Patients With Myelofibrosis",
-   "nct_id": "NCT07340138",
+   "detail": "A Study to Evaluate the Effect of Maridebart Cafraglutide on Insulin Sensitivity and \u03b2-cell Function in Participants With Type 2 D",
+   "nct_id": "NCT07160257",
    "estimated": true,
    "weight": 0.25
   },
@@ -881,25 +833,25 @@
    "date": "2026-11-17",
    "days_out": 74,
    "kind": "readout",
-   "ticker": "BMY",
-   "name": "Bristol Myers Squibb",
-   "label": "Phase 1",
-   "detail": "A Study to Evaluate the Safety, Tolerability, and Drug Levels of BMS-986521 in Healthy Participants.",
-   "nct_id": "NCT07283263",
+   "ticker": "AZN",
+   "name": "AstraZeneca",
+   "label": "Phase 2",
+   "detail": "AZD0901 in Participants With Advanced Solid Tumours Expressing Claudin18.2",
+   "nct_id": "NCT06219941",
    "estimated": true,
-   "weight": 0.25
+   "weight": 0.6
   },
   {
    "date": "2026-11-18",
    "days_out": 75,
    "kind": "readout",
-   "ticker": "AMGN",
-   "name": "Amgen",
-   "label": "Phase 1",
-   "detail": "Effect of Maridebart Cafraglutide on How Oral Contraceptives Are Absorbed and Processed in the Body in Postmenopausal Female Parti",
-   "nct_id": "NCT07523711",
+   "ticker": "BMY",
+   "name": "Bristol Myers Squibb",
+   "label": "Phase 3",
+   "detail": "A Study to Evaluate the Efficacy and Safety of Deucravacitinib in Adults With Active Sj\u00f6gren's Syndrome",
+   "nct_id": "NCT05946941",
    "estimated": true,
-   "weight": 0.25
+   "weight": 1.0
   },
   {
    "date": "2026-11-19",
@@ -953,6 +905,30 @@
    "date": "2026-11-30",
    "days_out": 87,
    "kind": "readout",
+   "ticker": "BMY",
+   "name": "Bristol Myers Squibb",
+   "label": "Phase 4",
+   "detail": "Study to Assess Safety and Tolerability of KarXT With Administration of Antiemetics in Healthy Volunteers",
+   "nct_id": "NCT07681076",
+   "estimated": true,
+   "weight": 0.35
+  },
+  {
+   "date": "2026-11-30",
+   "days_out": 87,
+   "kind": "readout",
+   "ticker": "AMGN",
+   "name": "Amgen",
+   "label": "Phase 1/Phase 2",
+   "detail": "A Study of Anvumetostat in Participants With Advanced MTAP-null Solid Tumors (MTAPESTRY 101)",
+   "nct_id": "NCT05094336",
+   "estimated": true,
+   "weight": 0.6
+  },
+  {
+   "date": "2026-11-30",
+   "days_out": 87,
+   "kind": "readout",
    "ticker": "ARVN",
    "name": "Arvinas",
    "label": "Phase 1/Phase 2",
@@ -968,20 +944,8 @@
    "ticker": "LLY",
    "name": "Eli Lilly",
    "label": "Phase 1",
-   "detail": "A Study of LOXO-783 in Patients With Breast Cancer/Other Solid Tumors",
-   "nct_id": "NCT05307705",
-   "estimated": true,
-   "weight": 0.25
-  },
-  {
-   "date": "2026-12-01",
-   "days_out": 88,
-   "kind": "readout",
-   "ticker": "LLY",
-   "name": "Eli Lilly",
-   "label": "Phase 1",
-   "detail": "A Study of LY4167586 in Participants With Obesity or Overweight Who Are Otherwise Healthy",
-   "nct_id": "NCT07225556",
+   "detail": "A Study of Eloralintide (LY3841136) in Participants With Obesity or Overweight",
+   "nct_id": "NCT07738614",
    "estimated": true,
    "weight": 0.25
   },
@@ -996,6 +960,30 @@
    "nct_id": "NCT05270525",
    "estimated": true,
    "weight": 0.6
+  },
+  {
+   "date": "2026-12-01",
+   "days_out": 88,
+   "kind": "readout",
+   "ticker": "ABBV",
+   "name": "AbbVie",
+   "label": "Phase 2",
+   "detail": "Study to Explore the Therapeutic Effect of Eluxadoline in Treating Irritable Bowel Syndrome With Diarrhea in Children",
+   "nct_id": "NCT03339128",
+   "estimated": true,
+   "weight": 0.6
+  },
+  {
+   "date": "2026-12-01",
+   "days_out": 88,
+   "kind": "readout",
+   "ticker": "ABBV",
+   "name": "AbbVie",
+   "label": "Phase 3",
+   "detail": "A Study to Assess Disease Activity and Safety of Lutikizumab in Adult and Adolescent Participants With Moderate to Severe Hidraden",
+   "nct_id": "NCT06468228",
+   "estimated": true,
+   "weight": 1.0
   },
   {
    "date": "2026-12-01",
@@ -1020,6 +1008,18 @@
    "nct_id": "NCT06082960",
    "estimated": true,
    "weight": 0.25
+  },
+  {
+   "date": "2026-12-01",
+   "days_out": 88,
+   "kind": "readout",
+   "ticker": "BIIB",
+   "name": "Biogen",
+   "label": "Phase 3",
+   "detail": "A Study to Learn More About the Effects and Safety of Felzartamab Infusions in Adults With Kidney Transplants Who Have Antibody-Me",
+   "nct_id": "NCT06685757",
+   "estimated": true,
+   "weight": 1.0
   },
   {
    "date": "2026-12-01",
@@ -1064,8 +1064,8 @@
    "ticker": "AXSM",
    "name": "Axsome Therapeutics",
    "label": "Phase 3",
-   "detail": "Studying Solriamfetol Modulation of TAAR-1, Dopamine, and Norepinephrine in Shift Work Disorder (SUSTAIN)",
-   "nct_id": "NCT06568367",
+   "detail": "Elucidating TAAR-1, Dopamine, and Norepinephrine in Binge Eating Disorder Using Solriamfetol",
+   "nct_id": "NCT06413433",
    "estimated": true,
    "weight": 1.0
   },
@@ -1076,8 +1076,8 @@
    "ticker": "AXSM",
    "name": "Axsome Therapeutics",
    "label": "Phase 3",
-   "detail": "Elucidating TAAR-1, Dopamine, and Norepinephrine in Binge Eating Disorder Using Solriamfetol",
-   "nct_id": "NCT06413433",
+   "detail": "Studying Solriamfetol Modulation of TAAR-1, Dopamine, and Norepinephrine in Shift Work Disorder (SUSTAIN)",
+   "nct_id": "NCT06568367",
    "estimated": true,
    "weight": 1.0
   },
@@ -1090,18 +1090,6 @@
    "label": "Phase 3",
    "detail": "A Phase 3 Study to Evaluate the Effect of Resmetirom on Clinical Outcomes in Patients With Well-compensated NASH Cirrhosis (MAESTR",
    "nct_id": "NCT05500222",
-   "estimated": true,
-   "weight": 1.0
-  },
-  {
-   "date": "2026-12-01",
-   "days_out": 88,
-   "kind": "readout",
-   "ticker": "KRYS",
-   "name": "Krystal Biotech",
-   "label": "Phase 3",
-   "detail": "A Study Comparing KB803 and Matched Placebo in Patients With Dystrophic Epidermolysis Bullosa",
-   "nct_id": "NCT07016750",
    "estimated": true,
    "weight": 1.0
   },
@@ -1128,6 +1116,18 @@
    "nct_id": "NCT06999733",
    "estimated": true,
    "weight": 0.6
+  },
+  {
+   "date": "2026-12-01",
+   "days_out": 88,
+   "kind": "readout",
+   "ticker": "KRYS",
+   "name": "Krystal Biotech",
+   "label": "Phase 3",
+   "detail": "A Study Comparing KB803 and Matched Placebo in Patients With Dystrophic Epidermolysis Bullosa",
+   "nct_id": "NCT07016750",
+   "estimated": true,
+   "weight": 1.0
   },
   {
    "date": "2026-12-01",
@@ -1202,6 +1202,18 @@
    "weight": 0.25
   },
   {
+   "date": "2026-12-02",
+   "days_out": 89,
+   "kind": "readout",
+   "ticker": "PFE",
+   "name": "Pfizer",
+   "label": "Phase 3",
+   "detail": "A Study to Learn How PF-06821497 (Mevrometostat) Works in Men With Metastatic Castration-resistant Prostate Cancer.",
+   "nct_id": "NCT06629779",
+   "estimated": true,
+   "weight": 1.0
+  },
+  {
    "date": "2026-12-03",
    "days_out": 90,
    "kind": "readout",
@@ -1212,18 +1224,6 @@
    "nct_id": "NCT06421636",
    "estimated": true,
    "weight": 0.6
-  },
-  {
-   "date": "2026-12-04",
-   "days_out": 91,
-   "kind": "readout",
-   "ticker": "PFE",
-   "name": "Pfizer",
-   "label": "Phase 1",
-   "detail": "A Study to Learn How the Body Processes the Study Medicine Called Vepdegestrant in People With Loss of Liver Function",
-   "nct_id": "NCT07231991",
-   "estimated": true,
-   "weight": 0.25
   },
   {
    "date": "2026-12-04",
@@ -1265,6 +1265,18 @@
    "date": "2026-12-09",
    "days_out": 96,
    "kind": "readout",
+   "ticker": "BMY",
+   "name": "Bristol Myers Squibb",
+   "label": "Phase 3",
+   "detail": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-2)",
+   "nct_id": "NCT06126224",
+   "estimated": true,
+   "weight": 1.0
+  },
+  {
+   "date": "2026-12-09",
+   "days_out": 96,
+   "kind": "readout",
    "ticker": "NVO",
    "name": "Novo Nordisk",
    "label": "Phase 1",
@@ -1286,28 +1298,52 @@
    "weight": 0.25
   },
   {
-   "date": "2026-12-14",
-   "days_out": 101,
+   "date": "2026-12-11",
+   "days_out": 98,
+   "kind": "readout",
+   "ticker": "JNJ",
+   "name": "Johnson & Johnson",
+   "label": "NA",
+   "detail": "Comparison of ACUVUE\u00ae OASYS MAX 1-Day Multifocal and DAILIES\u00ae AquaComfort Plus\u00ae Multifocal",
+   "nct_id": "NCT07788521",
+   "estimated": true,
+   "weight": 0.35
+  },
+  {
+   "date": "2026-12-13",
+   "days_out": 100,
    "kind": "readout",
    "ticker": "NVO",
    "name": "Novo Nordisk",
-   "label": "Phase 3",
-   "detail": "ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a Heart Attack",
-   "nct_id": "NCT06118281",
+   "label": "Phase 1",
+   "detail": "Examination of How the Duration of Fasting and Temporary Stopping of GLP-1 Medications Affect the Amount of Food Left in the Stoma",
+   "nct_id": "NCT07225816",
    "estimated": true,
-   "weight": 1.0
+   "weight": 0.25
   },
   {
    "date": "2026-12-14",
    "days_out": 101,
    "kind": "readout",
-   "ticker": "NVO",
-   "name": "Novo Nordisk",
-   "label": "Phase 2",
-   "detail": "A Research Study on How Well Different Doses of the Medicine NNC0662-0419 Help People Living With Overweight or Obesity",
-   "nct_id": "NCT07184632",
+   "ticker": "BMY",
+   "name": "Bristol Myers Squibb",
+   "label": "Phase 1",
+   "detail": "A Study to Evaluate the Pharmacokinetics and Safety of Golcadomide in Participants With Severe Renal Impairment and End-Stage Rena",
+   "nct_id": "NCT07763418",
    "estimated": true,
-   "weight": 0.6
+   "weight": 0.25
+  },
+  {
+   "date": "2026-12-14",
+   "days_out": 101,
+   "kind": "readout",
+   "ticker": "AMGN",
+   "name": "Amgen",
+   "label": "Phase 3",
+   "detail": "Pharmacokinetic Similarity Between ABP 234 and Keytruda\u00ae (Pembrolizumab)",
+   "nct_id": "NCT06430866",
+   "estimated": true,
+   "weight": 1.0
   },
   {
    "date": "2026-12-15",
@@ -1325,25 +1361,13 @@
    "date": "2026-12-17",
    "days_out": 104,
    "kind": "readout",
-   "ticker": "SNY",
-   "name": "Sanofi",
-   "label": "Phase 2",
-   "detail": "A Study to Investigate Efficacy and Safety of SAR442970 in Patients With Crohn's Disease",
-   "nct_id": "NCT06958536",
+   "ticker": "BMY",
+   "name": "Bristol Myers Squibb",
+   "label": "Phase 1",
+   "detail": "A Study to Assess the Relative Bioavailability of BMS-986435 and Food Effect on the BMS-986435 in Healthy Adult Participants",
+   "nct_id": "NCT07226817",
    "estimated": true,
-   "weight": 0.6
-  },
-  {
-   "date": "2026-12-18",
-   "days_out": 105,
-   "kind": "readout",
-   "ticker": "ABBV",
-   "name": "AbbVie",
-   "label": "Phase 2",
-   "detail": "A Study to Investigate the Safety and Efficacy of MEDI0618 Compared to Placebo in Adult Participants With Episodic Migraine",
-   "nct_id": "NCT06602479",
-   "estimated": true,
-   "weight": 0.6
+   "weight": 0.25
   },
   {
    "date": "2026-12-26",
@@ -1382,16 +1406,16 @@
    "weight": 0.25
   },
   {
-   "date": "2026-12-31",
-   "days_out": 118,
+   "date": "2026-12-30",
+   "days_out": 117,
    "kind": "readout",
-   "ticker": "MRK",
-   "name": "Merck & Co",
-   "label": "Phase 1",
-   "detail": "A Trial to Evaluate the Effect of CD388/MK1406 on the Immunogenicity of Fluzone\u00ae HD Vaccine (CD388.SQ.1.08/MK-1406-007)",
-   "nct_id": "NCT07300085",
+   "ticker": "NVS",
+   "name": "Novartis",
+   "label": "Phase 4",
+   "detail": "Intravascular Imaging Study of the Effect of Inclisiran on Plaque in Patients With Acute Myocardial Infarction",
+   "nct_id": "NCT06372925",
    "estimated": true,
-   "weight": 0.25
+   "weight": 0.35
   },
   {
    "date": "2026-12-31",
@@ -1409,11 +1433,11 @@
    "date": "2026-12-31",
    "days_out": 118,
    "kind": "readout",
-   "ticker": "NVO",
-   "name": "Novo Nordisk",
+   "ticker": "MRK",
+   "name": "Merck & Co",
    "label": "Phase 1",
-   "detail": "A Study Understanding How Much CDR132L Enters the Bloodstream After Injection Under the Skin Compared to Injection Into a Vein in ",
-   "nct_id": "NCT07656454",
+   "detail": "A Trial to Evaluate the Effect of CD388/MK1406 on the Immunogenicity of Fluzone\u00ae HD Vaccine (CD388.SQ.1.08/MK-1406-007)",
+   "nct_id": "NCT07300085",
    "estimated": true,
    "weight": 0.25
   },
@@ -1510,18 +1534,6 @@
    "label": "Phase 1",
    "detail": "A Study to Assess How Intravenous and Subcutaneous Administrations of Risankizumab Moves Through the Body of Healthy Adult Partici",
    "nct_id": "NCT07466550",
-   "estimated": true,
-   "weight": 0.25
-  },
-  {
-   "date": "2027-01-01",
-   "days_out": 119,
-   "kind": "readout",
-   "ticker": "ABBV",
-   "name": "AbbVie",
-   "label": "Phase 1",
-   "detail": "A Study to Assess Adverse Events, Tolerability, and Pharmacokinetics of Subcutaneous Injections of ABBV-295 in Healthy Adult Japan",
-   "nct_id": "NCT07514260",
    "estimated": true,
    "weight": 0.25
   },
@@ -1649,6 +1661,30 @@
    "date": "2027-01-07",
    "days_out": 125,
    "kind": "readout",
+   "ticker": "NVS",
+   "name": "Novartis",
+   "label": "Phase 1",
+   "detail": "A Phase I Study of IAG933 in Patients With Advanced Mesothelioma and Other Solid Tumors",
+   "nct_id": "NCT04857372",
+   "estimated": true,
+   "weight": 0.25
+  },
+  {
+   "date": "2027-01-07",
+   "days_out": 125,
+   "kind": "readout",
+   "ticker": "SNY",
+   "name": "Sanofi",
+   "label": "Phase 3",
+   "detail": "Study of a Single Dose of a 21-valent Pneumococcal Conjugate Vaccine in Children and Adolescents With Sickle Cell Disease",
+   "nct_id": "NCT07247188",
+   "estimated": true,
+   "weight": 1.0
+  },
+  {
+   "date": "2027-01-07",
+   "days_out": 125,
+   "kind": "readout",
    "ticker": "IDYA",
    "name": "IDEAYA Biosciences",
    "label": "Phase 1",
@@ -1670,16 +1706,16 @@
    "weight": 0.5
   },
   {
-   "date": "2027-01-15",
-   "days_out": 133,
+   "date": "2027-01-14",
+   "days_out": 132,
    "kind": "readout",
    "ticker": "NVO",
    "name": "Novo Nordisk",
-   "label": "Phase 1",
-   "detail": "A Research Study on the Effects of NNC0537-1482 in Participants With Heart Failure",
-   "nct_id": "NCT07218627",
+   "label": "Phase 2",
+   "detail": "A Research Study on How Well Different Doses of the Medicine UBT251 Help People Living With Overweight or Obesity",
+   "nct_id": "NCT07395687",
    "estimated": true,
-   "weight": 0.25
+   "weight": 0.6
   },
   {
    "date": "2027-01-15",
@@ -1697,18 +1733,6 @@
    "date": "2027-01-18",
    "days_out": 136,
    "kind": "readout",
-   "ticker": "SNY",
-   "name": "Sanofi",
-   "label": "Phase 1/Phase 2",
-   "detail": "Study of a Human Metapneumovirus/Respiratory Syncytial Virus mRNA Vaccine Candidate Encapsulated in a Lipid Nanoparticle-based For",
-   "nct_id": "NCT06686654",
-   "estimated": true,
-   "weight": 0.6
-  },
-  {
-   "date": "2027-01-18",
-   "days_out": 136,
-   "kind": "readout",
    "ticker": "SWTX",
    "name": "SpringWorks Therapeutics",
    "label": "Phase 1",
@@ -1716,18 +1740,6 @@
    "nct_id": "NCT06251310",
    "estimated": true,
    "weight": 0.25
-  },
-  {
-   "date": "2027-01-21",
-   "days_out": 139,
-   "kind": "readout",
-   "ticker": "AMGN",
-   "name": "Amgen",
-   "label": "Phase 3",
-   "detail": "Efficacy and Safety of Maridebart Cafraglutide in Adult Participants With Type 2 Diabetes Mellitus Who Have Obesity or Are Overwei",
-   "nct_id": "NCT06858878",
-   "estimated": true,
-   "weight": 1.0
   },
   {
    "date": "2027-01-21",
@@ -1742,6 +1754,18 @@
    "weight": 1.0
   },
   {
+   "date": "2027-01-23",
+   "days_out": 141,
+   "kind": "readout",
+   "ticker": "AMGN",
+   "name": "Amgen",
+   "label": "Phase 4",
+   "detail": "Evaluation of Efficacy and Safety of Prolia in Subjects of Male Osteoporosis in Mainland China",
+   "nct_id": "NCT06332014",
+   "estimated": true,
+   "weight": 0.35
+  },
+  {
    "date": "2027-01-25",
    "days_out": 143,
    "kind": "readout",
@@ -1754,16 +1778,16 @@
    "weight": 1.0
   },
   {
-   "date": "2027-01-29",
-   "days_out": 147,
+   "date": "2027-01-27",
+   "days_out": 145,
    "kind": "readout",
    "ticker": "PFE",
    "name": "Pfizer",
-   "label": "Phase 3",
-   "detail": "Disitamab Vedotin With Pembrolizumab vs Chemotherapy in Previously Untreated Urothelial Cancer Expressing HER2",
-   "nct_id": "NCT05911295",
+   "label": "Phase 1",
+   "detail": "A Study to Learn About the Effect of Study Medicine Called PF-08653944 on How Quickly the Stomach Empties Its Content in Healthy A",
+   "nct_id": "NCT07508241",
    "estimated": true,
-   "weight": 1.0
+   "weight": 0.25
   },
   {
    "date": "2027-01-29",
@@ -1807,33 +1831,9 @@
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
-   "label": "Phase 2",
-   "detail": "A Study to Evaluate Different Targeted Therapies for Patients With Rheumatoid Arthritis",
-   "nct_id": "NCT06972446",
-   "estimated": true,
-   "weight": 0.6
-  },
-  {
-   "date": "2027-02-01",
-   "days_out": 150,
-   "kind": "readout",
-   "ticker": "ABBV",
-   "name": "AbbVie",
    "label": "Phase 1",
-   "detail": "A Study to Assess Adverse Events and How Oral ABBV-932 Moves Through the Body When Given With Oral Itraconazole in Adult Participa",
-   "nct_id": "NCT07071532",
-   "estimated": true,
-   "weight": 0.25
-  },
-  {
-   "date": "2027-02-01",
-   "days_out": 150,
-   "kind": "readout",
-   "ticker": "ABBV",
-   "name": "AbbVie",
-   "label": "Phase 1",
-   "detail": "A Study to Assess the Safety, Tolerability and How Single Ascending Doses of ABBV-859 Moves Through the Body of Healthy Adult Part",
-   "nct_id": "NCT07736638",
+   "detail": "A Study to Assess the Adverse Events and How Intravenously Infused Livmoniplimab in Combination With Budigalimab Moves Through the",
+   "nct_id": "NCT06487559",
    "estimated": true,
    "weight": 0.25
   },
@@ -1855,11 +1855,23 @@
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
-   "label": "Phase 2",
-   "detail": "A Study to Assess Molecular Changes in Adult Participants With Moderate to Severe Hidradenitis Suppurativa or With Moderate to Sev",
-   "nct_id": "NCT06524635",
+   "label": "Phase 1",
+   "detail": "Study of ABBV-383 Assessing Adverse Events and Clinical Activity With Subcutaneous (SC) Injection in Adult Participants With Relap",
+   "nct_id": "NCT06223516",
    "estimated": true,
-   "weight": 0.6
+   "weight": 0.25
+  },
+  {
+   "date": "2027-02-01",
+   "days_out": 150,
+   "kind": "readout",
+   "ticker": "GILD",
+   "name": "Gilead Sciences",
+   "label": "Phase 3",
+   "detail": "Study of Sacituzumab Govitecan-hziy and Pembrolizumab Versus Treatment of Physician's Choice and Pembrolizumab in Patients With Pr",
+   "nct_id": "NCT05382286",
+   "estimated": true,
+   "weight": 1.0
   },
   {
    "date": "2027-02-01",
@@ -1961,47 +1973,11 @@
    "date": "2027-02-02",
    "days_out": 151,
    "kind": "readout",
-   "ticker": "NVS",
-   "name": "Novartis",
-   "label": "Phase 2",
-   "detail": "Study of Efficacy and Safety of LXH254 Combinations in Patients With Previously Treated Unresectable or Metastatic Melanoma",
-   "nct_id": "NCT04417621",
-   "estimated": true,
-   "weight": 0.6
-  },
-  {
-   "date": "2027-02-02",
-   "days_out": 151,
-   "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
    "label": "Phase 1/Phase 2",
    "detail": "A Phase 1/2 Study of VX-670 in Adult Participants With Myotonic Dystrophy 1 (DM1)",
    "nct_id": "NCT06185764",
-   "estimated": true,
-   "weight": 0.6
-  },
-  {
-   "date": "2027-02-02",
-   "days_out": 151,
-   "kind": "readout",
-   "ticker": "BIIB",
-   "name": "Biogen",
-   "label": "Phase 1",
-   "detail": "A Study to Learn More About the Safety of BIIB145 and How it is Processed in the Body of Healthy Adult Participants",
-   "nct_id": "NCT07225517",
-   "estimated": true,
-   "weight": 0.25
-  },
-  {
-   "date": "2027-02-05",
-   "days_out": 154,
-   "kind": "readout",
-   "ticker": "BMY",
-   "name": "Bristol Myers Squibb",
-   "label": "Phase 2",
-   "detail": "A Study to Evaluate Two Dosing Regimens of Subcutaneous Nivolumab in Combination With Intravenous Ipilimumab and Chemotherapy in P",
-   "nct_id": "NCT06946797",
    "estimated": true,
    "weight": 0.6
   },
@@ -2042,42 +2018,6 @@
    "weight": 0.25
   },
   {
-   "date": "2027-02-09",
-   "days_out": 158,
-   "kind": "readout",
-   "ticker": "REGN",
-   "name": "Regeneron",
-   "label": "Phase 2",
-   "detail": "Safety in Adult Participants With Atrial Fibrillation Who Are Treated With Anticoagulation",
-   "nct_id": "NCT07175428",
-   "estimated": true,
-   "weight": 0.6
-  },
-  {
-   "date": "2027-02-17",
-   "days_out": 166,
-   "kind": "readout",
-   "ticker": "SNY",
-   "name": "Sanofi",
-   "label": "Phase 3",
-   "detail": "An Extension Study to Investigate the Long-term Safety and Tolerability of Itepekimab in Adult Participants With Inadequately Cont",
-   "nct_id": "NCT07424144",
-   "estimated": true,
-   "weight": 1.0
-  },
-  {
-   "date": "2027-02-17",
-   "days_out": 166,
-   "kind": "readout",
-   "ticker": "AMGN",
-   "name": "Amgen",
-   "label": "Phase 1",
-   "detail": "Evaluation of Neoadjuvant Xaluritamig in Localized Prostate Cancer",
-   "nct_id": "NCT06613100",
-   "estimated": true,
-   "weight": 0.25
-  },
-  {
    "date": "2027-02-20",
    "days_out": 169,
    "kind": "readout",
@@ -2102,6 +2042,18 @@
    "weight": 0.25
   },
   {
+   "date": "2027-02-23",
+   "days_out": 172,
+   "kind": "readout",
+   "ticker": "AZN",
+   "name": "AstraZeneca",
+   "label": "Phase 3",
+   "detail": "Phase 3 Study of Anifrolumab in Adult Patients With Active Proliferative Lupus Nephritis",
+   "nct_id": "NCT05138133",
+   "estimated": true,
+   "weight": 1.0
+  },
+  {
    "date": "2027-02-26",
    "days_out": 175,
    "kind": "readout",
@@ -2110,6 +2062,18 @@
    "label": "Phase 2",
    "detail": "A Trial of Belzutifan (PT2977, MK-6482) in Combination With Cabozantinib in Patients With Clear Cell Renal Cell Carcinoma (ccRCC) ",
    "nct_id": "NCT03634540",
+   "estimated": true,
+   "weight": 0.6
+  },
+  {
+   "date": "2027-02-26",
+   "days_out": 175,
+   "kind": "readout",
+   "ticker": "NVS",
+   "name": "Novartis",
+   "label": "Phase 1/Phase 2",
+   "detail": "Study of LEE011, BYL719 and Letrozole in Advanced ER+ Breast Cancer",
+   "nct_id": "NCT01872260",
    "estimated": true,
    "weight": 0.6
   },
@@ -2126,26 +2090,14 @@
    "weight": 0.25
   },
   {
-   "date": "2027-02-28",
-   "days_out": 177,
-   "kind": "readout",
-   "ticker": "NVS",
-   "name": "Novartis",
-   "label": "Phase 4",
-   "detail": "Comparative Assessment of Inclisiran on Top of Standard of Care Versus Standard of Care Alone for LDL-C Evaluation in Acute Corona",
-   "nct_id": "NCT07684469",
-   "estimated": true,
-   "weight": 0.35
-  },
-  {
    "date": "2027-03-01",
    "days_out": 178,
    "kind": "readout",
-   "ticker": "ABBV",
-   "name": "AbbVie",
+   "ticker": "LLY",
+   "name": "Eli Lilly",
    "label": "Phase 1",
-   "detail": "A Study to Evaluate Sequential Administration of Injections of AGN-151586 Followed by BOTOX in Adult Participants for Treatment of",
-   "nct_id": "NCT07756580",
+   "detail": "A Study of LY4101174 in Participants With Recurrent, Advanced or Metastatic Solid Tumors",
+   "nct_id": "NCT06238479",
    "estimated": true,
    "weight": 0.25
   },
@@ -2165,13 +2117,37 @@
    "date": "2027-03-01",
    "days_out": 178,
    "kind": "readout",
-   "ticker": "NVO",
-   "name": "Novo Nordisk",
+   "ticker": "ABBV",
+   "name": "AbbVie",
    "label": "Phase 3",
-   "detail": "A Research Study to Look at How Well CagriSema Helps People Living With Obesity Lose Weight and Maintain Weight Loss in the Long-t",
-   "nct_id": "NCT07011667",
+   "detail": "A Study to Assess Change in Disease Activity and Adverse Events (AEs) With Cariprazine in the Treatment of Depressive Episodes in ",
+   "nct_id": "NCT04777357",
    "estimated": true,
    "weight": 1.0
+  },
+  {
+   "date": "2027-03-01",
+   "days_out": 178,
+   "kind": "readout",
+   "ticker": "ABBV",
+   "name": "AbbVie",
+   "label": "Phase 3",
+   "detail": "Program to Assess Adverse Events and Change in Disease Activity of Oral Upadacitinib in Adult Participants With Moderate to Severe",
+   "nct_id": "NCT05843643",
+   "estimated": true,
+   "weight": 1.0
+  },
+  {
+   "date": "2027-03-01",
+   "days_out": 178,
+   "kind": "readout",
+   "ticker": "ABBV",
+   "name": "AbbVie",
+   "label": "Phase 1",
+   "detail": "A Study to Determine the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of ABBV-927 With ABBV-368, Budigalimab (",
+   "nct_id": "NCT03893955",
+   "estimated": true,
+   "weight": 0.25
   },
   {
    "date": "2027-03-01",
@@ -2180,8 +2156,8 @@
    "ticker": "GILD",
    "name": "Gilead Sciences",
    "label": "Phase 2",
-   "detail": "Evaluation of Long-Acting Lenacapavir for the Treatment of HIV-1 in Treatment-experienced Adolescents and Children",
-   "nct_id": "NCT06749054",
+   "detail": "Study of Novel Treatment Combination Therapies in Participants With Head and Neck Squamous Cell Carcinoma Regardless of PD-L1 Expr",
+   "nct_id": "NCT06727565",
    "estimated": true,
    "weight": 0.6
   },
@@ -2285,6 +2261,18 @@
    "date": "2027-03-11",
    "days_out": 188,
    "kind": "readout",
+   "ticker": "BMY",
+   "name": "Bristol Myers Squibb",
+   "label": "Phase 3",
+   "detail": "A Study of Nivolumab Combined With Ipilimumab Versus Nivolumab Alone in Participants With Advanced Kidney Cancer",
+   "nct_id": "NCT03873402",
+   "estimated": true,
+   "weight": 1.0
+  },
+  {
+   "date": "2027-03-11",
+   "days_out": 188,
+   "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
    "label": "Phase 1",
@@ -2316,18 +2304,6 @@
    "nct_id": "NCT06760546",
    "estimated": true,
    "weight": 1.0
-  },
-  {
-   "date": "2027-03-16",
-   "days_out": 193,
-   "kind": "readout",
-   "ticker": "SNY",
-   "name": "Sanofi",
-   "label": "Phase 4",
-   "detail": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moder",
-   "nct_id": "NCT05097287",
-   "estimated": true,
-   "weight": 0.35
   },
   {
    "date": "2027-03-22",
@@ -2366,18 +2342,6 @@
    "weight": 0.25
   },
   {
-   "date": "2027-03-24",
-   "days_out": 201,
-   "kind": "readout",
-   "ticker": "PFE",
-   "name": "Pfizer",
-   "label": "Phase 1/Phase 2",
-   "detail": "TACTIVE-U: A Study to Learn About the Study Medicine (Vepdegestrant) When Given With Other Medicines in People With Advanced or Me",
-   "nct_id": "NCT05548127",
-   "estimated": true,
-   "weight": 0.6
-  },
-  {
    "date": "2027-03-25",
    "days_out": 202,
    "kind": "readout",
@@ -2395,23 +2359,23 @@
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
+   "label": "Phase 1",
+   "detail": "Study of 3 Monoclonal Antibodies (REGN9933, REGN7508, and REGN9533) in Adult Participants With End-Stage Kidney Disease on Hemodia",
+   "nct_id": "NCT07759167",
+   "estimated": true,
+   "weight": 0.25
+  },
+  {
+   "date": "2027-03-25",
+   "days_out": 202,
+   "kind": "readout",
+   "ticker": "REGN",
+   "name": "Regeneron",
    "label": "Phase 1/Phase 2",
    "detail": "A Study to Find Out How Safe REGN5668 is and How Well it Works In Adult Women When Given With Either Cemiplimab, or Cemiplimab + F",
    "nct_id": "NCT04590326",
    "estimated": true,
    "weight": 0.6
-  },
-  {
-   "date": "2027-03-26",
-   "days_out": 203,
-   "kind": "readout",
-   "ticker": "NVS",
-   "name": "Novartis",
-   "label": "Phase 3",
-   "detail": "Phase 3 Study to Evaluate Two Regimens of Ianalumab on Top of Standard-of-care Therapy in Patients With Systemic Lupus Erythematos",
-   "nct_id": "NCT05639114",
-   "estimated": true,
-   "weight": 1.0
   },
   {
    "date": "2027-03-27",
@@ -2426,16 +2390,28 @@
    "weight": 0.25
   },
   {
+   "date": "2027-03-30",
+   "days_out": 207,
+   "kind": "readout",
+   "ticker": "PFE",
+   "name": "Pfizer",
+   "label": "Phase 1",
+   "detail": "A Study to Learn How Different Amounts of the Study Medicine Called PF-08103402 Are Tolerated and Act in the Body in Healthy Adult",
+   "nct_id": "NCT07660731",
+   "estimated": true,
+   "weight": 0.25
+  },
+  {
    "date": "2027-03-31",
    "days_out": 208,
    "kind": "readout",
-   "ticker": "AMGN",
-   "name": "Amgen",
-   "label": "Phase 1",
-   "detail": "A Phase 1 Trial of AMG 691 in Healthy Chinese and Japanese Volunteers",
-   "nct_id": "NCT07745907",
+   "ticker": "NVS",
+   "name": "Novartis",
+   "label": "Phase 3",
+   "detail": "Study of Out of Specification for Tisagenlecleucel",
+   "nct_id": "NCT04094311",
    "estimated": true,
-   "weight": 0.25
+   "weight": 1.0
   },
   {
    "date": "2027-03-31",
@@ -2455,21 +2431,9 @@
    "kind": "readout",
    "ticker": "LLY",
    "name": "Eli Lilly",
-   "label": "Phase 1",
-   "detail": "A Study of LY4152199 in Participants With Previously Treated B-cell Malignancies (BAF_FRontier-1 )",
-   "nct_id": "NCT07101328",
-   "estimated": true,
-   "weight": 0.25
-  },
-  {
-   "date": "2027-04-01",
-   "days_out": 209,
-   "kind": "readout",
-   "ticker": "ABBV",
-   "name": "AbbVie",
-   "label": "Phase 2",
-   "detail": "Study to Assess the Adverse Events of Oral ABBV-932 in Adult Participants With Depressive Episodes Associated With Bipolar I or II",
-   "nct_id": "NCT07220460",
+   "label": "Phase 1/Phase 2",
+   "detail": "Study of LY3537982 in Cancer Patients With a Specific Genetic Mutation (KRAS G12C)",
+   "nct_id": "NCT04956640",
    "estimated": true,
    "weight": 0.6
   },
@@ -2482,6 +2446,18 @@
    "label": "Phase 3",
    "detail": "A Study to Evaluate XEN1101 as Adjunctive Therapy in Primary Generalized Tonic-Clonic Seizures",
    "nct_id": "NCT05667142",
+   "estimated": true,
+   "weight": 1.0
+  },
+  {
+   "date": "2027-04-06",
+   "days_out": 214,
+   "kind": "readout",
+   "ticker": "AZN",
+   "name": "AstraZeneca",
+   "label": "Phase 3",
+   "detail": "Roll Over StudY for Patients Who Have Completed a Previous Oncology Study With Olaparib",
+   "nct_id": "NCT04421963",
    "estimated": true,
    "weight": 1.0
   },
@@ -2510,14 +2486,26 @@
    "weight": 1.0
   },
   {
-   "date": "2027-04-08",
-   "days_out": 216,
+   "date": "2027-04-07",
+   "days_out": 215,
    "kind": "readout",
    "ticker": "NVO",
    "name": "Novo Nordisk",
    "label": "Phase 1",
-   "detail": "A Research Study Looking Into How NNC0662-0419 Works With Birth Control Pills and Emptying of the Stomach in Women Not Able to Bec",
-   "nct_id": "NCT07525791",
+   "detail": "A Research Study on How UBT251 Affects Levels of Midazolam, Caffeine and Warfarin in the Blood of Participants With Excess Body We",
+   "nct_id": "NCT07710768",
+   "estimated": true,
+   "weight": 0.25
+  },
+  {
+   "date": "2027-04-09",
+   "days_out": 217,
+   "kind": "readout",
+   "ticker": "NVS",
+   "name": "Novartis",
+   "label": "Phase 1",
+   "detail": "Study of Safety and Efficacy of Ceritinib in Combination With Nivolumab in Patients With ALK-positive Non-small Cell Lung Cancer",
+   "nct_id": "NCT02393625",
    "estimated": true,
    "weight": 0.25
   },
@@ -2530,18 +2518,6 @@
    "label": "Phase 1",
    "detail": "A Phase 1, Randomized, Double-blind, Placebo-controlled Study Evaluating AMG 691 in Healthy Participants and Participants With Mil",
    "nct_id": "NCT06637371",
-   "estimated": true,
-   "weight": 0.25
-  },
-  {
-   "date": "2027-04-13",
-   "days_out": 221,
-   "kind": "readout",
-   "ticker": "NVO",
-   "name": "Novo Nordisk",
-   "label": "Phase 1",
-   "detail": "A Research Study Looking Into How Cagrilintide Influences Food Intake and Appetite in People With Overweight or Obesity",
-   "nct_id": "NCT07557953",
    "estimated": true,
    "weight": 0.25
   },
@@ -2582,16 +2558,16 @@
    "weight": 0.5
   },
   {
-   "date": "2027-04-20",
-   "days_out": 228,
+   "date": "2027-04-19",
+   "days_out": 227,
    "kind": "readout",
-   "ticker": "AZN",
-   "name": "AstraZeneca",
-   "label": "Phase 2",
-   "detail": "Prevention of Recurrent C. Difficile Infection Study With AZD5148 Monoclonal Antibody",
-   "nct_id": "NCT07285213",
+   "ticker": "AMGN",
+   "name": "Amgen",
+   "label": "Phase 3",
+   "detail": "Comparison Between ABP 692 and Ocrevus\u00ae (Ocrelizumab)",
+   "nct_id": "NCT06700343",
    "estimated": true,
-   "weight": 0.6
+   "weight": 1.0
   },
   {
    "date": "2027-04-20",
@@ -2621,18 +2597,6 @@
    "date": "2027-04-27",
    "days_out": 235,
    "kind": "readout",
-   "ticker": "NVO",
-   "name": "Novo Nordisk",
-   "label": "Phase 1",
-   "detail": "A Research Study Looking Into How UBT251 Works With Birth Control Tablets and Emptying of the Stomach in Women With Excess Body We",
-   "nct_id": "NCT07710729",
-   "estimated": true,
-   "weight": 0.25
-  },
-  {
-   "date": "2027-04-27",
-   "days_out": 235,
-   "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
    "label": "Phase 4",
@@ -2640,6 +2604,42 @@
    "nct_id": "NCT06588153",
    "estimated": true,
    "weight": 0.35
+  },
+  {
+   "date": "2027-04-27",
+   "days_out": 235,
+   "kind": "readout",
+   "ticker": "ALNY",
+   "name": "Alnylam",
+   "label": "Phase 1/Phase 2",
+   "detail": "A Study to Evaluate ALN-2232 in Participants With Obesity",
+   "nct_id": "NCT07463846",
+   "estimated": true,
+   "weight": 0.6
+  },
+  {
+   "date": "2027-04-27",
+   "days_out": 235,
+   "kind": "readout",
+   "ticker": "INCY",
+   "name": "Incyte",
+   "label": "Phase 2",
+   "detail": "A Study of INCB123667 in Participants With Platinum-Resistant Ovarian Cancer With Cyclin E1 Overexpression",
+   "nct_id": "NCT07023627",
+   "estimated": true,
+   "weight": 0.6
+  },
+  {
+   "date": "2027-04-28",
+   "days_out": 236,
+   "kind": "readout",
+   "ticker": "SNY",
+   "name": "Sanofi",
+   "label": "Phase 2",
+   "detail": "Frexalimab in Preservation of Endogenous Insulin Secretion Compared to Placebo in Adults, Adolescents and Children on Top of Insul",
+   "nct_id": "NCT06111586",
+   "estimated": true,
+   "weight": 0.6
   }
  ]
 }

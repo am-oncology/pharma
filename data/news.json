@@ -1,6 +1,29 @@
 {
- "as_of": "2026-09-03T12:05:17Z",
+ "as_of": "2026-09-03T15:25:53Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Pfizer shares ADC rights with Medicus; RevMed updates lung cancer data",
+   "url": "https://endpoints.news/pfizer-shares-adc-rights-with-medicus-revmed-updates-lung-cancer-data/",
+   "published_iso": "2026-09-03",
+   "raw_score": 0.0,
+   "tickers": [
+    "PFE",
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "AbbVie claims Phase 3 win for multiple myeloma drug etentamig",
+   "url": "https://endpoints.news/abbvie-claims-phase-3-win-for-multiple-myeloma-drug-etentamig/",
+   "published_iso": "2026-09-03",
+   "raw_score": 0.0,
+   "tickers": [
+    "ABBV"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Superluminal secures $60M for Phase 1 of genetic obesity drug",
@@ -27,6 +50,28 @@
    "source": "Endpoints News",
    "title": "Ultragenyx\u2019s Angelman therapy fails Phase 3 trial in setback for company and patients",
    "url": "https://endpoints.news/ultragenyxs-angelman-therapy-fails-phase-3-trial-in-setback-for/",
+   "published_iso": "2026-09-03",
+   "raw_score": 0.0,
+   "tickers": [
+    "RARE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Seattle scientists launch $95 million AI biology effort",
+   "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
+   "published_iso": "2026-09-03",
+   "raw_score": 0.0,
+   "tickers": [
+    "RARE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: We\u2019re reading about an Ultragenyx failure, RevMed for lung cancer, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/09/03/pharmalittle-ultrangenyx-gene-therapy-failure-rev-med-lung-cancer/?utm_campaign=rss",
    "published_iso": "2026-09-03",
    "raw_score": 0.0,
    "tickers": [
@@ -132,18 +177,6 @@
    "published_iso": "2026-09-01",
    "raw_score": 0.0,
    "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Three deaths in CAR-T trials prompt halt by Novartis; Bristol Myers programs also paused",
-   "url": "https://endpoints.news/three-deaths-in-car-t-trials-prompt-halt-by-novartis-bristol-myers-programs-also-paused/",
-   "published_iso": "2026-09-01",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY",
     "NVS"
    ],
    "hard": false
@@ -316,6 +349,28 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "AbbVie\u2019s bispecific T-cell engager shows promise in ph. 3 multiple myeloma trial",
+   "url": "https://www.fiercebiotech.com/biotech/abbvies-bispecific-t-cell-engager-shows-promise-ph-3-multiple-myeloma-trial",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "ABBV"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Fierce Biotech Layoff Tracker 2026: Novartis nixes Swiss site; TScan telegraphs 75% headcount drop",
+   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+   "published_iso": "",
+   "raw_score": -1.2,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "GSK pens $1.3B Hutchmed deal for early-stage KRAS-EGFR cancer asset",
    "url": "https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset",
    "published_iso": "",
@@ -419,24 +474,13 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "ESC26: AstraZeneca's heart failure drug shows promise in ph. 2 trial",
-   "url": "https://www.fiercebiotech.com/biotech/esc26-astrazenecas-heart-failure-drug-shows-promise-ph-2-trial",
+   "source": "FiercePharma",
+   "title": "ESC: Amgen CMO flags Repatha 'inflection' amid new data on mortality benefit",
+   "url": "https://www.fiercepharma.com/pharma/esc-amgen-cmo-flags-repatha-inflection-mortality-data-headline-cardiology-conference-outing",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Eli Lilly inks $2.88B Merida buyout for autoimmune drugs against rogue antibodies",
-   "url": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-29b-merida-buyout-autoimmune-drugs-against-rogue-antibodies",
-   "published_iso": "",
-   "raw_score": 2.5,
-   "tickers": [
-    "LLY"
+    "AMGN"
    ],
    "hard": false
   },
@@ -528,18 +572,6 @@
    "raw_score": 0.0,
    "tickers": [
     "JAZZ"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "ESC: AZ, Ionis' Wainua post-mortem throws water on silencer-plus-stabilizer approach in ATTR-CM",
-   "url": "https://www.fiercepharma.com/pharma/esc-az-ionis-wainua-post-mortem-throws-water-silencer-plus-stabilizer-approach-attr-cm",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN",
-    "IONS"
    ],
    "hard": false
   },
