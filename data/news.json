@@ -1,6 +1,28 @@
 {
- "as_of": "2026-09-03T15:25:53Z",
+ "as_of": "2026-09-03T23:20:40Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Merck's top dealmaker signals more M&A as Keytruda's patent cliff nears",
+   "url": "https://endpoints.news/mercks-top-dealmaker-signals-more-ma-as-keytrudas-patent-cliff-nears/",
+   "published_iso": "2026-09-03",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Novartis' drug delivery deal with Alteogen; More worker cuts at Cellares",
+   "url": "https://endpoints.news/novartis-drug-delivery-deal-with-alteogen-further-worker-cuts-at-cellares/",
+   "published_iso": "2026-09-03",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Pfizer shares ADC rights with Medicus; RevMed updates lung cancer data",
@@ -54,6 +76,17 @@
    "raw_score": 0.0,
    "tickers": [
     "RARE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder",
+   "url": "https://www.statnews.com/2026/09/03/ionis-fda-approval-zanvastro-alexander-disease/?utm_campaign=rss",
+   "published_iso": "2026-09-03",
+   "raw_score": 3.0,
+   "tickers": [
+    "IONS"
    ],
    "hard": false
   },
@@ -167,17 +200,6 @@
    "raw_score": 0.0,
    "tickers": [
     "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Novartis' Rhapsido safer than rivals, Phase 3 multiple sclerosis data suggest",
-   "url": "https://endpoints.news/novartis-rhapsido-safer-than-rivals-phase-3-multiple-sclerosis-data-suggest/",
-   "published_iso": "2026-09-01",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
    ],
    "hard": false
   },
@@ -349,6 +371,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Pfizer offloads scrapped Seagen ADC to Medicus Pharma in up to $1B+ deal",
+   "url": "https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "PFE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "AbbVie\u2019s bispecific T-cell engager shows promise in ph. 3 multiple myeloma trial",
    "url": "https://www.fiercebiotech.com/biotech/abbvies-bispecific-t-cell-engager-shows-promise-ph-3-multiple-myeloma-trial",
    "published_iso": "",
@@ -463,13 +496,13 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "\u2018A neuroscience revolution\u2019: The GLP-like race to keep us awake and make billions doing it",
-   "url": "https://www.fiercebiotech.com/biotech/neuroscience-revolution-glp-race-keep-us-awake-and-make-billions-doing-it",
+   "source": "FiercePharma",
+   "title": "Novartis puts MS advocacy on the podium through social media partnership with British Olympian",
+   "url": "https://www.fiercepharma.com/marketing/novartis-puts-ms-advocacy-podium-through-social-media-partnership-british-olympian",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "RVMD"
+    "NVS"
    ],
    "hard": false
   },
