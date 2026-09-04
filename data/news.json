@@ -1,6 +1,39 @@
 {
- "as_of": "2026-09-04T12:07:09Z",
+ "as_of": "2026-09-04T15:20:56Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Ionis wins FDA approval of Alexander disease drug zilganersen",
+   "url": "https://endpoints.news/ionis-wins-fda-approval-of-alexander-disease-drug-zilganersen/",
+   "published_iso": "2026-09-04",
+   "raw_score": 3.0,
+   "tickers": [
+    "IONS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: FDA takes another look at botanical drugs",
+   "url": "https://www.statnews.com/2026/09/04/biotech-news-fda-takes-another-look-at-botanical-drugs/?utm_campaign=rss",
+   "published_iso": "2026-09-04",
+   "raw_score": 0.0,
+   "tickers": [
+    "IONS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: We\u2019re reading about a Bristol CAR-T trial pause, Pfizer offloading a shelved candidate, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss",
+   "published_iso": "2026-09-04",
+   "raw_score": 0.0,
+   "tickers": [
+    "PFE"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Merck's top dealmaker signals more M&A as Keytruda's patent cliff nears",
@@ -156,39 +189,6 @@
    "raw_score": 0.0,
    "tickers": [
     "CRSP"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Ultragenyx drug to treat Angelman syndrome, a rare disease, fails late-stage trial",
-   "url": "https://www.statnews.com/2026/09/02/ultragenyx-drug-angelman-syndrome-clinical-trial/?utm_campaign=rss",
-   "published_iso": "2026-09-02",
-   "raw_score": 0.0,
-   "tickers": [
-    "RARE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Lilly\u2019s 2026 dealmaking spreads the wealth among biotech venture investors",
-   "url": "https://endpoints.news/lillys-2026-dealmaking-spreads-the-wealth-among-biotech-venture-investors/",
-   "published_iso": "2026-09-01",
-   "raw_score": 2.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "GSK to launch Phase 3 test of mRNA flu vaccine with newer formulation",
-   "url": "https://endpoints.news/gsk-to-launch-phase-3-test-of-mrna-flu-vaccine-with-newer-formulation/",
-   "published_iso": "2026-09-01",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
    ],
    "hard": false
   },
@@ -451,36 +451,37 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "GSK catches phase 3 fever after mRNA flu vaccine beats standard shots",
-   "url": "https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots",
+   "source": "FiercePharma",
+   "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill, Lilly's Foundayo grow scripts",
+   "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
+    "LLY",
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "UCB\u2019s Bimzelx comes from out of the blue to claim August\u2019s top pharma ad spending spot",
+   "url": "https://www.fiercepharma.com/marketing/ucbs-bimzelx-comes-out-blue-claim-augusts-top-pharma-ad-spending-spot",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "ABBV"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Fierce Pharma Asia\u2014Roche, GSK, Novartis billion-dollar deals; More MFN sign-ups; Akeso\u2019s OS win",
+   "url": "https://www.fiercepharma.com/pharma/roche-gsk-novartis-billion-dollar-deals-more-mfn-sign-ups-akeso-os-win",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS",
     "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "UPDATED: Novartis halts autoimmune CAR-T trials after 3 deaths, as BMS also pauses studies",
-   "url": "https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY",
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Natera teams with Angiex on cancer drug trial monitoring",
-   "url": "https://www.fiercebiotech.com/medtech/natera-teams-angiex-advance-its-signatera-cancer-dx-tool",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NTRA"
    ],
    "hard": false
   },
@@ -574,28 +575,6 @@
     "NVS"
    ],
    "hard": true
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Ascendis to pay 20% Yuviwel royalties in patent settlement with BioMarin",
-   "url": "https://www.fiercepharma.com/pharma/biomarin-wins-20-royalties-ascendis-yuviwel-until-2030-end-global-patent-disputes",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMRN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Jazz\u2019s Ziihera secures 2nd survival win to solidify its HER2-positive stomach cancer status",
-   "url": "https://www.fiercepharma.com/pharma/jazz-ziihera-secures-2nd-survival-win-solidify-her2-positive-stomach-cancer-status",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "JAZZ"
-   ],
-   "hard": false
   },
   {
    "source": "FDA Press Releases",
