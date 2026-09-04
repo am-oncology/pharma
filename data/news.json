@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-03T23:20:40Z",
+ "as_of": "2026-09-04T12:07:09Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -167,17 +167,6 @@
    "raw_score": 0.0,
    "tickers": [
     "RARE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about a Huntington\u2019s gene therapy, Novo\u2019s challenges, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/09/02/uniqure-huntingtons-fda-novo-nordisk-investors-pharmalittle-newsletter/?utm_campaign=rss",
-   "published_iso": "2026-09-02",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVO"
    ],
    "hard": false
   },

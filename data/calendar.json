@@ -1,9 +1,9 @@
 {
- "as_of": "2026-09-03T23:20:40Z",
+ "as_of": "2026-09-04T12:07:09Z",
  "events": [
   {
    "date": "2026-09-07",
-   "days_out": 3,
+   "days_out": 2,
    "kind": "readout",
    "ticker": "AZN",
    "name": "AstraZeneca",
@@ -15,7 +15,7 @@
   },
   {
    "date": "2026-09-12",
-   "days_out": 8,
+   "days_out": 7,
    "kind": "readout",
    "ticker": "NVO",
    "name": "Novo Nordisk",
@@ -27,7 +27,7 @@
   },
   {
    "date": "2026-09-17",
-   "days_out": 13,
+   "days_out": 12,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -39,7 +39,7 @@
   },
   {
    "date": "2026-09-18",
-   "days_out": 14,
+   "days_out": 13,
    "kind": "readout",
    "ticker": "ARGX",
    "name": "argenx",
@@ -51,7 +51,7 @@
   },
   {
    "date": "2026-09-28",
-   "days_out": 24,
+   "days_out": 23,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -63,7 +63,7 @@
   },
   {
    "date": "2026-09-30",
-   "days_out": 26,
+   "days_out": 25,
    "kind": "readout",
    "ticker": "SNY",
    "name": "Sanofi",
@@ -75,7 +75,7 @@
   },
   {
    "date": "2026-09-30",
-   "days_out": 26,
+   "days_out": 25,
    "kind": "readout",
    "ticker": "BIIB",
    "name": "Biogen",
@@ -87,7 +87,7 @@
   },
   {
    "date": "2026-09-30",
-   "days_out": 26,
+   "days_out": 25,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -99,7 +99,7 @@
   },
   {
    "date": "2026-09-30",
-   "days_out": 26,
+   "days_out": 25,
    "kind": "readout",
    "ticker": "JAZZ",
    "name": "Jazz Pharmaceuticals",
@@ -111,7 +111,7 @@
   },
   {
    "date": "2026-09-30",
-   "days_out": 26,
+   "days_out": 25,
    "kind": "readout",
    "ticker": "ARGX",
    "name": "argenx",
@@ -123,7 +123,7 @@
   },
   {
    "date": "2026-09-30",
-   "days_out": 26,
+   "days_out": 25,
    "kind": "readout",
    "ticker": "ARWR",
    "name": "Arrowhead Pharmaceuticals",
@@ -135,7 +135,7 @@
   },
   {
    "date": "2026-10-01",
-   "days_out": 27,
+   "days_out": 26,
    "kind": "readout",
    "ticker": "LLY",
    "name": "Eli Lilly",
@@ -147,7 +147,7 @@
   },
   {
    "date": "2026-10-01",
-   "days_out": 27,
+   "days_out": 26,
    "kind": "readout",
    "ticker": "LLY",
    "name": "Eli Lilly",
@@ -159,7 +159,7 @@
   },
   {
    "date": "2026-10-01",
-   "days_out": 27,
+   "days_out": 26,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -171,7 +171,7 @@
   },
   {
    "date": "2026-10-01",
-   "days_out": 27,
+   "days_out": 26,
    "kind": "readout",
    "ticker": "NVO",
    "name": "Novo Nordisk",
@@ -183,7 +183,7 @@
   },
   {
    "date": "2026-10-01",
-   "days_out": 27,
+   "days_out": 26,
    "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
@@ -195,7 +195,7 @@
   },
   {
    "date": "2026-10-01",
-   "days_out": 27,
+   "days_out": 26,
    "kind": "readout",
    "ticker": "BNTX",
    "name": "BioNTech",
@@ -207,7 +207,7 @@
   },
   {
    "date": "2026-10-01",
-   "days_out": 27,
+   "days_out": 26,
    "kind": "readout",
    "ticker": "ARGX",
    "name": "argenx",
@@ -219,7 +219,7 @@
   },
   {
    "date": "2026-10-01",
-   "days_out": 27,
+   "days_out": 26,
    "kind": "readout",
    "ticker": "XENE",
    "name": "Xenon Pharmaceuticals",
@@ -231,7 +231,7 @@
   },
   {
    "date": "2026-10-01",
-   "days_out": 27,
+   "days_out": 26,
    "kind": "readout",
    "ticker": "IMVT",
    "name": "Immunovant",
@@ -243,7 +243,7 @@
   },
   {
    "date": "2026-10-01",
-   "days_out": 27,
+   "days_out": 26,
    "kind": "readout",
    "ticker": "IDYA",
    "name": "IDEAYA Biosciences",
@@ -255,7 +255,7 @@
   },
   {
    "date": "2026-10-01",
-   "days_out": 27,
+   "days_out": 26,
    "kind": "readout",
    "ticker": "VERV",
    "name": "Verve Therapeutics",
@@ -267,7 +267,7 @@
   },
   {
    "date": "2026-10-07",
-   "days_out": 33,
+   "days_out": 32,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -279,7 +279,7 @@
   },
   {
    "date": "2026-10-09",
-   "days_out": 35,
+   "days_out": 34,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -291,7 +291,7 @@
   },
   {
    "date": "2026-10-09",
-   "days_out": 35,
+   "days_out": 34,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -303,7 +303,7 @@
   },
   {
    "date": "2026-10-12",
-   "days_out": 38,
+   "days_out": 37,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -315,7 +315,7 @@
   },
   {
    "date": "2026-10-13",
-   "days_out": 40,
+   "days_out": 39,
    "kind": "earnings",
    "ticker": "JNJ",
    "name": "Johnson & Johnson",
@@ -327,7 +327,7 @@
   },
   {
    "date": "2026-10-16",
-   "days_out": 42,
+   "days_out": 41,
    "kind": "conference",
    "ticker": "",
    "name": "ESMO Congress",
@@ -339,7 +339,7 @@
   },
   {
    "date": "2026-10-19",
-   "days_out": 45,
+   "days_out": 44,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -351,7 +351,7 @@
   },
   {
    "date": "2026-10-19",
-   "days_out": 45,
+   "days_out": 44,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -363,7 +363,7 @@
   },
   {
    "date": "2026-10-19",
-   "days_out": 45,
+   "days_out": 44,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -375,7 +375,7 @@
   },
   {
    "date": "2026-10-20",
-   "days_out": 46,
+   "days_out": 45,
    "kind": "readout",
    "ticker": "BIIB",
    "name": "Biogen",
@@ -387,7 +387,7 @@
   },
   {
    "date": "2026-10-22",
-   "days_out": 48,
+   "days_out": 47,
    "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
@@ -399,7 +399,7 @@
   },
   {
    "date": "2026-10-22",
-   "days_out": 49,
+   "days_out": 48,
    "kind": "earnings",
    "ticker": "ARGX",
    "name": "argenx",
@@ -411,7 +411,7 @@
   },
   {
    "date": "2026-10-27",
-   "days_out": 54,
+   "days_out": 53,
    "kind": "earnings",
    "ticker": "NVS",
    "name": "Novartis",
@@ -423,7 +423,7 @@
   },
   {
    "date": "2026-10-30",
-   "days_out": 56,
+   "days_out": 55,
    "kind": "readout",
    "ticker": "PFE",
    "name": "Pfizer",
@@ -435,7 +435,7 @@
   },
   {
    "date": "2026-10-30",
-   "days_out": 56,
+   "days_out": 55,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -447,7 +447,7 @@
   },
   {
    "date": "2026-10-30",
-   "days_out": 56,
+   "days_out": 55,
    "kind": "readout",
    "ticker": "ILMN",
    "name": "Illumina",
@@ -459,7 +459,7 @@
   },
   {
    "date": "2026-10-30",
-   "days_out": 56,
+   "days_out": 55,
    "kind": "readout",
    "ticker": "ILMN",
    "name": "Illumina",
@@ -471,7 +471,7 @@
   },
   {
    "date": "2026-10-29",
-   "days_out": 56,
+   "days_out": 55,
    "kind": "earnings",
    "ticker": "LLY",
    "name": "Eli Lilly",
@@ -483,7 +483,7 @@
   },
   {
    "date": "2026-10-29",
-   "days_out": 56,
+   "days_out": 55,
    "kind": "earnings",
    "ticker": "MRK",
    "name": "Merck & Co",
@@ -495,7 +495,7 @@
   },
   {
    "date": "2026-10-29",
-   "days_out": 56,
+   "days_out": 55,
    "kind": "earnings",
    "ticker": "BMY",
    "name": "Bristol Myers Squibb",
@@ -507,7 +507,7 @@
   },
   {
    "date": "2026-10-31",
-   "days_out": 57,
+   "days_out": 56,
    "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
@@ -519,7 +519,7 @@
   },
   {
    "date": "2026-10-31",
-   "days_out": 57,
+   "days_out": 56,
    "kind": "readout",
    "ticker": "SRPT",
    "name": "Sarepta Therapeutics",
@@ -531,7 +531,7 @@
   },
   {
    "date": "2026-10-31",
-   "days_out": 57,
+   "days_out": 56,
    "kind": "readout",
    "ticker": "RYTM",
    "name": "Rhythm Pharmaceuticals",
@@ -543,7 +543,7 @@
   },
   {
    "date": "2026-10-31",
-   "days_out": 57,
+   "days_out": 56,
    "kind": "readout",
    "ticker": "SWTX",
    "name": "SpringWorks Therapeutics",
@@ -555,7 +555,7 @@
   },
   {
    "date": "2026-10-31",
-   "days_out": 57,
+   "days_out": 56,
    "kind": "readout",
    "ticker": "TGTX",
    "name": "TG Therapeutics",
@@ -567,7 +567,7 @@
   },
   {
    "date": "2026-10-30",
-   "days_out": 57,
+   "days_out": 56,
    "kind": "earnings",
    "ticker": "AZN",
    "name": "AstraZeneca",
@@ -579,7 +579,7 @@
   },
   {
    "date": "2026-10-30",
-   "days_out": 57,
+   "days_out": 56,
    "kind": "earnings",
    "ticker": "SNY",
    "name": "Sanofi",
@@ -591,7 +591,7 @@
   },
   {
    "date": "2026-11-01",
-   "days_out": 58,
+   "days_out": 57,
    "kind": "readout",
    "ticker": "LLY",
    "name": "Eli Lilly",
@@ -603,7 +603,7 @@
   },
   {
    "date": "2026-11-01",
-   "days_out": 58,
+   "days_out": 57,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -615,7 +615,7 @@
   },
   {
    "date": "2026-11-01",
-   "days_out": 58,
+   "days_out": 57,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -627,7 +627,7 @@
   },
   {
    "date": "2026-11-01",
-   "days_out": 58,
+   "days_out": 57,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -639,7 +639,7 @@
   },
   {
    "date": "2026-11-01",
-   "days_out": 58,
+   "days_out": 57,
    "kind": "readout",
    "ticker": "BNTX",
    "name": "BioNTech",
@@ -651,7 +651,7 @@
   },
   {
    "date": "2026-11-01",
-   "days_out": 58,
+   "days_out": 57,
    "kind": "readout",
    "ticker": "BNTX",
    "name": "BioNTech",
@@ -663,7 +663,7 @@
   },
   {
    "date": "2026-11-01",
-   "days_out": 58,
+   "days_out": 57,
    "kind": "readout",
    "ticker": "ARGX",
    "name": "argenx",
@@ -675,7 +675,7 @@
   },
   {
    "date": "2026-11-01",
-   "days_out": 58,
+   "days_out": 57,
    "kind": "readout",
    "ticker": "ALKS",
    "name": "Alkermes",
@@ -687,7 +687,7 @@
   },
   {
    "date": "2026-11-01",
-   "days_out": 58,
+   "days_out": 57,
    "kind": "readout",
    "ticker": "KRYS",
    "name": "Krystal Biotech",
@@ -699,7 +699,7 @@
   },
   {
    "date": "2026-11-01",
-   "days_out": 58,
+   "days_out": 57,
    "kind": "readout",
    "ticker": "ERAS",
    "name": "Erasca",
@@ -711,7 +711,7 @@
   },
   {
    "date": "2026-11-01",
-   "days_out": 58,
+   "days_out": 57,
    "kind": "readout",
    "ticker": "RCUS",
    "name": "Arcus Biosciences",
@@ -723,7 +723,7 @@
   },
   {
    "date": "2026-11-02",
-   "days_out": 59,
+   "days_out": 58,
    "kind": "readout",
    "ticker": "AZN",
    "name": "AstraZeneca",
@@ -735,7 +735,7 @@
   },
   {
    "date": "2026-11-02",
-   "days_out": 59,
+   "days_out": 58,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -747,7 +747,7 @@
   },
   {
    "date": "2026-11-02",
-   "days_out": 60,
+   "days_out": 59,
    "kind": "earnings",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -759,7 +759,7 @@
   },
   {
    "date": "2026-11-03",
-   "days_out": 61,
+   "days_out": 60,
    "kind": "earnings",
    "ticker": "BNTX",
    "name": "BioNTech",
@@ -771,7 +771,7 @@
   },
   {
    "date": "2026-11-05",
-   "days_out": 62,
+   "days_out": 61,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -783,7 +783,7 @@
   },
   {
    "date": "2026-11-06",
-   "days_out": 63,
+   "days_out": 62,
    "kind": "readout",
    "ticker": "SNY",
    "name": "Sanofi",
@@ -795,7 +795,7 @@
   },
   {
    "date": "2026-11-13",
-   "days_out": 70,
+   "days_out": 69,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -807,7 +807,7 @@
   },
   {
    "date": "2026-11-13",
-   "days_out": 70,
+   "days_out": 69,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -819,7 +819,7 @@
   },
   {
    "date": "2026-11-15",
-   "days_out": 72,
+   "days_out": 71,
    "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
@@ -831,7 +831,7 @@
   },
   {
    "date": "2026-11-17",
-   "days_out": 74,
+   "days_out": 73,
    "kind": "readout",
    "ticker": "AZN",
    "name": "AstraZeneca",
@@ -843,7 +843,7 @@
   },
   {
    "date": "2026-11-18",
-   "days_out": 75,
+   "days_out": 74,
    "kind": "readout",
    "ticker": "BMY",
    "name": "Bristol Myers Squibb",
@@ -855,7 +855,7 @@
   },
   {
    "date": "2026-11-19",
-   "days_out": 76,
+   "days_out": 75,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -867,7 +867,7 @@
   },
   {
    "date": "2026-11-19",
-   "days_out": 76,
+   "days_out": 75,
    "kind": "conference",
    "ticker": "",
    "name": "SNO Annual Meeting",
@@ -879,7 +879,7 @@
   },
   {
    "date": "2026-11-20",
-   "days_out": 77,
+   "days_out": 76,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -891,7 +891,7 @@
   },
   {
    "date": "2026-11-23",
-   "days_out": 80,
+   "days_out": 79,
    "kind": "readout",
    "ticker": "EXEL",
    "name": "Exelixis",
@@ -903,7 +903,7 @@
   },
   {
    "date": "2026-11-30",
-   "days_out": 87,
+   "days_out": 86,
    "kind": "readout",
    "ticker": "BMY",
    "name": "Bristol Myers Squibb",
@@ -915,7 +915,7 @@
   },
   {
    "date": "2026-11-30",
-   "days_out": 87,
+   "days_out": 86,
    "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
@@ -927,7 +927,7 @@
   },
   {
    "date": "2026-11-30",
-   "days_out": 87,
+   "days_out": 86,
    "kind": "readout",
    "ticker": "ARVN",
    "name": "Arvinas",
@@ -939,7 +939,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "LLY",
    "name": "Eli Lilly",
@@ -951,7 +951,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "MRK",
    "name": "Merck & Co",
@@ -963,7 +963,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -975,7 +975,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -987,7 +987,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "GILD",
    "name": "Gilead Sciences",
@@ -999,7 +999,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "GILD",
    "name": "Gilead Sciences",
@@ -1011,7 +1011,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "BIIB",
    "name": "Biogen",
@@ -1023,7 +1023,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "IONS",
    "name": "Ionis Pharmaceuticals",
@@ -1035,7 +1035,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "UTHR",
    "name": "United Therapeutics",
@@ -1047,7 +1047,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "ARGX",
    "name": "argenx",
@@ -1059,7 +1059,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "AXSM",
    "name": "Axsome Therapeutics",
@@ -1071,7 +1071,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "AXSM",
    "name": "Axsome Therapeutics",
@@ -1083,7 +1083,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "MDGL",
    "name": "Madrigal Pharmaceuticals",
@@ -1095,7 +1095,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "KRYS",
    "name": "Krystal Biotech",
@@ -1107,7 +1107,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "KRYS",
    "name": "Krystal Biotech",
@@ -1119,7 +1119,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "KRYS",
    "name": "Krystal Biotech",
@@ -1131,7 +1131,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "DNLI",
    "name": "Denali Therapeutics",
@@ -1143,7 +1143,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "KURA",
    "name": "Kura Oncology",
@@ -1155,7 +1155,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "RCUS",
    "name": "Arcus Biosciences",
@@ -1167,7 +1167,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "KYMR",
    "name": "Kymera Therapeutics",
@@ -1179,7 +1179,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "BEAM",
    "name": "Beam Therapeutics",
@@ -1191,7 +1191,7 @@
   },
   {
    "date": "2026-12-01",
-   "days_out": 88,
+   "days_out": 87,
    "kind": "readout",
    "ticker": "ARWR",
    "name": "Arrowhead Pharmaceuticals",
@@ -1203,7 +1203,7 @@
   },
   {
    "date": "2026-12-02",
-   "days_out": 89,
+   "days_out": 88,
    "kind": "readout",
    "ticker": "PFE",
    "name": "Pfizer",
@@ -1215,7 +1215,7 @@
   },
   {
    "date": "2026-12-03",
-   "days_out": 90,
+   "days_out": 89,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -1227,7 +1227,7 @@
   },
   {
    "date": "2026-12-04",
-   "days_out": 91,
+   "days_out": 90,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -1239,7 +1239,7 @@
   },
   {
    "date": "2026-12-05",
-   "days_out": 92,
+   "days_out": 91,
    "kind": "conference",
    "ticker": "",
    "name": "ASH Annual Meeting",
@@ -1251,7 +1251,7 @@
   },
   {
    "date": "2026-12-08",
-   "days_out": 95,
+   "days_out": 94,
    "kind": "conference",
    "ticker": "",
    "name": "SABCS",
@@ -1263,7 +1263,7 @@
   },
   {
    "date": "2026-12-09",
-   "days_out": 96,
+   "days_out": 95,
    "kind": "readout",
    "ticker": "BMY",
    "name": "Bristol Myers Squibb",
@@ -1275,7 +1275,7 @@
   },
   {
    "date": "2026-12-09",
-   "days_out": 96,
+   "days_out": 95,
    "kind": "readout",
    "ticker": "NVO",
    "name": "Novo Nordisk",
@@ -1287,7 +1287,7 @@
   },
   {
    "date": "2026-12-09",
-   "days_out": 96,
+   "days_out": 95,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -1299,7 +1299,7 @@
   },
   {
    "date": "2026-12-11",
-   "days_out": 98,
+   "days_out": 97,
    "kind": "readout",
    "ticker": "JNJ",
    "name": "Johnson & Johnson",
@@ -1311,7 +1311,7 @@
   },
   {
    "date": "2026-12-13",
-   "days_out": 100,
+   "days_out": 99,
    "kind": "readout",
    "ticker": "NVO",
    "name": "Novo Nordisk",
@@ -1323,7 +1323,7 @@
   },
   {
    "date": "2026-12-14",
-   "days_out": 101,
+   "days_out": 100,
    "kind": "readout",
    "ticker": "BMY",
    "name": "Bristol Myers Squibb",
@@ -1335,7 +1335,7 @@
   },
   {
    "date": "2026-12-14",
-   "days_out": 101,
+   "days_out": 100,
    "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
@@ -1347,7 +1347,7 @@
   },
   {
    "date": "2026-12-15",
-   "days_out": 102,
+   "days_out": 101,
    "kind": "readout",
    "ticker": "EXEL",
    "name": "Exelixis",
@@ -1359,7 +1359,7 @@
   },
   {
    "date": "2026-12-17",
-   "days_out": 104,
+   "days_out": 103,
    "kind": "readout",
    "ticker": "BMY",
    "name": "Bristol Myers Squibb",
@@ -1371,7 +1371,7 @@
   },
   {
    "date": "2026-12-26",
-   "days_out": 113,
+   "days_out": 112,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -1383,7 +1383,7 @@
   },
   {
    "date": "2026-12-29",
-   "days_out": 116,
+   "days_out": 115,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -1395,7 +1395,7 @@
   },
   {
    "date": "2026-12-29",
-   "days_out": 116,
+   "days_out": 115,
    "kind": "readout",
    "ticker": "ALNY",
    "name": "Alnylam",
@@ -1407,7 +1407,7 @@
   },
   {
    "date": "2026-12-30",
-   "days_out": 117,
+   "days_out": 116,
    "kind": "readout",
    "ticker": "NVS",
    "name": "Novartis",
@@ -1419,7 +1419,7 @@
   },
   {
    "date": "2026-12-31",
-   "days_out": 118,
+   "days_out": 117,
    "kind": "readout",
    "ticker": "MRK",
    "name": "Merck & Co",
@@ -1431,7 +1431,7 @@
   },
   {
    "date": "2026-12-31",
-   "days_out": 118,
+   "days_out": 117,
    "kind": "readout",
    "ticker": "MRK",
    "name": "Merck & Co",
@@ -1443,7 +1443,7 @@
   },
   {
    "date": "2026-12-31",
-   "days_out": 118,
+   "days_out": 117,
    "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
@@ -1455,7 +1455,7 @@
   },
   {
    "date": "2026-12-31",
-   "days_out": 118,
+   "days_out": 117,
    "kind": "readout",
    "ticker": "SRPT",
    "name": "Sarepta Therapeutics",
@@ -1467,7 +1467,7 @@
   },
   {
    "date": "2026-12-31",
-   "days_out": 118,
+   "days_out": 117,
    "kind": "readout",
    "ticker": "JAZZ",
    "name": "Jazz Pharmaceuticals",
@@ -1479,7 +1479,7 @@
   },
   {
    "date": "2026-12-31",
-   "days_out": 118,
+   "days_out": 117,
    "kind": "readout",
    "ticker": "ARGX",
    "name": "argenx",
@@ -1491,7 +1491,7 @@
   },
   {
    "date": "2026-12-31",
-   "days_out": 118,
+   "days_out": 117,
    "kind": "readout",
    "ticker": "FOLD",
    "name": "Amicus Therapeutics",
@@ -1503,7 +1503,7 @@
   },
   {
    "date": "2026-12-31",
-   "days_out": 118,
+   "days_out": 117,
    "kind": "readout",
    "ticker": "INSM",
    "name": "Insmed",
@@ -1515,7 +1515,7 @@
   },
   {
    "date": "2026-12-31",
-   "days_out": 118,
+   "days_out": 117,
    "kind": "readout",
    "ticker": "RVMD",
    "name": "Revolution Medicines",
@@ -1527,7 +1527,7 @@
   },
   {
    "date": "2027-01-01",
-   "days_out": 119,
+   "days_out": 118,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -1539,7 +1539,7 @@
   },
   {
    "date": "2027-01-01",
-   "days_out": 119,
+   "days_out": 118,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -1551,7 +1551,7 @@
   },
   {
    "date": "2027-01-01",
-   "days_out": 119,
+   "days_out": 118,
    "kind": "readout",
    "ticker": "NBIX",
    "name": "Neurocrine Biosciences",
@@ -1563,7 +1563,7 @@
   },
   {
    "date": "2027-01-01",
-   "days_out": 119,
+   "days_out": 118,
    "kind": "readout",
    "ticker": "RARE",
    "name": "Ultragenyx",
@@ -1575,7 +1575,7 @@
   },
   {
    "date": "2027-01-01",
-   "days_out": 119,
+   "days_out": 118,
    "kind": "readout",
    "ticker": "XENE",
    "name": "Xenon Pharmaceuticals",
@@ -1587,7 +1587,7 @@
   },
   {
    "date": "2027-01-01",
-   "days_out": 119,
+   "days_out": 118,
    "kind": "readout",
    "ticker": "KURA",
    "name": "Kura Oncology",
@@ -1599,7 +1599,7 @@
   },
   {
    "date": "2027-01-01",
-   "days_out": 119,
+   "days_out": 118,
    "kind": "readout",
    "ticker": "RCUS",
    "name": "Arcus Biosciences",
@@ -1611,7 +1611,7 @@
   },
   {
    "date": "2027-01-01",
-   "days_out": 119,
+   "days_out": 118,
    "kind": "readout",
    "ticker": "NUVL",
    "name": "Nuvalent",
@@ -1623,7 +1623,7 @@
   },
   {
    "date": "2027-01-04",
-   "days_out": 122,
+   "days_out": 121,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -1635,7 +1635,7 @@
   },
   {
    "date": "2027-01-06",
-   "days_out": 124,
+   "days_out": 123,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -1647,7 +1647,7 @@
   },
   {
    "date": "2027-01-06",
-   "days_out": 124,
+   "days_out": 123,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -1659,7 +1659,7 @@
   },
   {
    "date": "2027-01-07",
-   "days_out": 125,
+   "days_out": 124,
    "kind": "readout",
    "ticker": "NVS",
    "name": "Novartis",
@@ -1671,7 +1671,7 @@
   },
   {
    "date": "2027-01-07",
-   "days_out": 125,
+   "days_out": 124,
    "kind": "readout",
    "ticker": "SNY",
    "name": "Sanofi",
@@ -1683,7 +1683,7 @@
   },
   {
    "date": "2027-01-07",
-   "days_out": 125,
+   "days_out": 124,
    "kind": "readout",
    "ticker": "IDYA",
    "name": "IDEAYA Biosciences",
@@ -1695,7 +1695,7 @@
   },
   {
    "date": "2027-01-11",
-   "days_out": 129,
+   "days_out": 128,
    "kind": "conference",
    "ticker": "",
    "name": "JP Morgan Healthcare",
@@ -1707,7 +1707,7 @@
   },
   {
    "date": "2027-01-14",
-   "days_out": 132,
+   "days_out": 131,
    "kind": "readout",
    "ticker": "NVO",
    "name": "Novo Nordisk",
@@ -1719,7 +1719,7 @@
   },
   {
    "date": "2027-01-15",
-   "days_out": 133,
+   "days_out": 132,
    "kind": "readout",
    "ticker": "IDYA",
    "name": "IDEAYA Biosciences",
@@ -1731,7 +1731,7 @@
   },
   {
    "date": "2027-01-18",
-   "days_out": 136,
+   "days_out": 135,
    "kind": "readout",
    "ticker": "SWTX",
    "name": "SpringWorks Therapeutics",
@@ -1743,7 +1743,7 @@
   },
   {
    "date": "2027-01-21",
-   "days_out": 139,
+   "days_out": 138,
    "kind": "readout",
    "ticker": "TGTX",
    "name": "TG Therapeutics",
@@ -1755,7 +1755,7 @@
   },
   {
    "date": "2027-01-23",
-   "days_out": 141,
+   "days_out": 140,
    "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
@@ -1767,7 +1767,7 @@
   },
   {
    "date": "2027-01-25",
-   "days_out": 143,
+   "days_out": 142,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -1779,7 +1779,7 @@
   },
   {
    "date": "2027-01-27",
-   "days_out": 145,
+   "days_out": 144,
    "kind": "readout",
    "ticker": "PFE",
    "name": "Pfizer",
@@ -1791,7 +1791,7 @@
   },
   {
    "date": "2027-01-29",
-   "days_out": 147,
+   "days_out": 146,
    "kind": "readout",
    "ticker": "IDYA",
    "name": "IDEAYA Biosciences",
@@ -1803,7 +1803,7 @@
   },
   {
    "date": "2027-01-30",
-   "days_out": 148,
+   "days_out": 147,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -1815,7 +1815,7 @@
   },
   {
    "date": "2027-01-31",
-   "days_out": 149,
+   "days_out": 148,
    "kind": "readout",
    "ticker": "EXEL",
    "name": "Exelixis",
@@ -1827,7 +1827,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -1839,7 +1839,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -1851,7 +1851,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -1863,7 +1863,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "GILD",
    "name": "Gilead Sciences",
@@ -1875,7 +1875,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "NBIX",
    "name": "Neurocrine Biosciences",
@@ -1887,7 +1887,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "IONS",
    "name": "Ionis Pharmaceuticals",
@@ -1899,7 +1899,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "ARGX",
    "name": "argenx",
@@ -1911,7 +1911,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "KRYS",
    "name": "Krystal Biotech",
@@ -1923,7 +1923,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "DNLI",
    "name": "Denali Therapeutics",
@@ -1935,7 +1935,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "SNDX",
    "name": "Syndax Pharmaceuticals",
@@ -1947,7 +1947,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "ARWR",
    "name": "Arrowhead Pharmaceuticals",
@@ -1959,7 +1959,7 @@
   },
   {
    "date": "2027-02-01",
-   "days_out": 150,
+   "days_out": 149,
    "kind": "readout",
    "ticker": "NTRA",
    "name": "Natera",
@@ -1971,7 +1971,7 @@
   },
   {
    "date": "2027-02-02",
-   "days_out": 151,
+   "days_out": 150,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -1983,7 +1983,7 @@
   },
   {
    "date": "2027-02-05",
-   "days_out": 154,
+   "days_out": 153,
    "kind": "readout",
    "ticker": "NVO",
    "name": "Novo Nordisk",
@@ -1995,7 +1995,7 @@
   },
   {
    "date": "2027-02-07",
-   "days_out": 156,
+   "days_out": 155,
    "kind": "readout",
    "ticker": "INSM",
    "name": "Insmed",
@@ -2007,7 +2007,7 @@
   },
   {
    "date": "2027-02-08",
-   "days_out": 157,
+   "days_out": 156,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -2019,7 +2019,7 @@
   },
   {
    "date": "2027-02-20",
-   "days_out": 169,
+   "days_out": 168,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -2031,7 +2031,7 @@
   },
   {
    "date": "2027-02-22",
-   "days_out": 171,
+   "days_out": 170,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -2043,7 +2043,7 @@
   },
   {
    "date": "2027-02-23",
-   "days_out": 172,
+   "days_out": 171,
    "kind": "readout",
    "ticker": "AZN",
    "name": "AstraZeneca",
@@ -2055,7 +2055,7 @@
   },
   {
    "date": "2027-02-26",
-   "days_out": 175,
+   "days_out": 174,
    "kind": "readout",
    "ticker": "MRK",
    "name": "Merck & Co",
@@ -2067,7 +2067,7 @@
   },
   {
    "date": "2027-02-26",
-   "days_out": 175,
+   "days_out": 174,
    "kind": "readout",
    "ticker": "NVS",
    "name": "Novartis",
@@ -2079,7 +2079,7 @@
   },
   {
    "date": "2027-02-26",
-   "days_out": 175,
+   "days_out": 174,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -2091,7 +2091,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "LLY",
    "name": "Eli Lilly",
@@ -2103,7 +2103,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -2115,7 +2115,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -2127,7 +2127,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -2139,7 +2139,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "ABBV",
    "name": "AbbVie",
@@ -2151,7 +2151,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "GILD",
    "name": "Gilead Sciences",
@@ -2163,7 +2163,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "BMRN",
    "name": "BioMarin",
@@ -2175,7 +2175,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "IONS",
    "name": "Ionis Pharmaceuticals",
@@ -2187,7 +2187,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "ARGX",
    "name": "argenx",
@@ -2199,7 +2199,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "ARGX",
    "name": "argenx",
@@ -2211,7 +2211,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "MDGL",
    "name": "Madrigal Pharmaceuticals",
@@ -2223,7 +2223,7 @@
   },
   {
    "date": "2027-03-01",
-   "days_out": 178,
+   "days_out": 177,
    "kind": "readout",
    "ticker": "DNLI",
    "name": "Denali Therapeutics",
@@ -2235,7 +2235,7 @@
   },
   {
    "date": "2027-03-05",
-   "days_out": 182,
+   "days_out": 181,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -2247,7 +2247,7 @@
   },
   {
    "date": "2027-03-10",
-   "days_out": 187,
+   "days_out": 186,
    "kind": "readout",
    "ticker": "GSK",
    "name": "GSK",
@@ -2259,7 +2259,7 @@
   },
   {
    "date": "2027-03-11",
-   "days_out": 188,
+   "days_out": 187,
    "kind": "readout",
    "ticker": "BMY",
    "name": "Bristol Myers Squibb",
@@ -2271,7 +2271,7 @@
   },
   {
    "date": "2027-03-11",
-   "days_out": 188,
+   "days_out": 187,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -2283,7 +2283,7 @@
   },
   {
    "date": "2027-03-12",
-   "days_out": 189,
+   "days_out": 188,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -2295,7 +2295,7 @@
   },
   {
    "date": "2027-03-13",
-   "days_out": 190,
+   "days_out": 189,
    "kind": "readout",
    "ticker": "RYTM",
    "name": "Rhythm Pharmaceuticals",
@@ -2307,7 +2307,7 @@
   },
   {
    "date": "2027-03-22",
-   "days_out": 199,
+   "days_out": 198,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -2319,7 +2319,7 @@
   },
   {
    "date": "2027-03-22",
-   "days_out": 199,
+   "days_out": 198,
    "kind": "readout",
    "ticker": "INSM",
    "name": "Insmed",
@@ -2331,7 +2331,7 @@
   },
   {
    "date": "2027-03-23",
-   "days_out": 200,
+   "days_out": 199,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -2343,7 +2343,7 @@
   },
   {
    "date": "2027-03-25",
-   "days_out": 202,
+   "days_out": 201,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -2355,7 +2355,7 @@
   },
   {
    "date": "2027-03-25",
-   "days_out": 202,
+   "days_out": 201,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -2367,7 +2367,7 @@
   },
   {
    "date": "2027-03-25",
-   "days_out": 202,
+   "days_out": 201,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -2379,7 +2379,7 @@
   },
   {
    "date": "2027-03-27",
-   "days_out": 204,
+   "days_out": 203,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -2391,7 +2391,7 @@
   },
   {
    "date": "2027-03-30",
-   "days_out": 207,
+   "days_out": 206,
    "kind": "readout",
    "ticker": "PFE",
    "name": "Pfizer",
@@ -2403,7 +2403,7 @@
   },
   {
    "date": "2027-03-31",
-   "days_out": 208,
+   "days_out": 207,
    "kind": "readout",
    "ticker": "NVS",
    "name": "Novartis",
@@ -2415,7 +2415,7 @@
   },
   {
    "date": "2027-03-31",
-   "days_out": 208,
+   "days_out": 207,
    "kind": "readout",
    "ticker": "RVMD",
    "name": "Revolution Medicines",
@@ -2427,7 +2427,7 @@
   },
   {
    "date": "2027-04-01",
-   "days_out": 209,
+   "days_out": 208,
    "kind": "readout",
    "ticker": "LLY",
    "name": "Eli Lilly",
@@ -2439,7 +2439,7 @@
   },
   {
    "date": "2027-04-01",
-   "days_out": 209,
+   "days_out": 208,
    "kind": "readout",
    "ticker": "XENE",
    "name": "Xenon Pharmaceuticals",
@@ -2451,7 +2451,7 @@
   },
   {
    "date": "2027-04-06",
-   "days_out": 214,
+   "days_out": 213,
    "kind": "readout",
    "ticker": "AZN",
    "name": "AstraZeneca",
@@ -2463,7 +2463,7 @@
   },
   {
    "date": "2027-04-06",
-   "days_out": 214,
+   "days_out": 213,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -2475,7 +2475,7 @@
   },
   {
    "date": "2027-04-06",
-   "days_out": 214,
+   "days_out": 213,
    "kind": "readout",
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals",
@@ -2487,7 +2487,7 @@
   },
   {
    "date": "2027-04-07",
-   "days_out": 215,
+   "days_out": 214,
    "kind": "readout",
    "ticker": "NVO",
    "name": "Novo Nordisk",
@@ -2499,7 +2499,7 @@
   },
   {
    "date": "2027-04-09",
-   "days_out": 217,
+   "days_out": 216,
    "kind": "readout",
    "ticker": "NVS",
    "name": "Novartis",
@@ -2511,7 +2511,7 @@
   },
   {
    "date": "2027-04-10",
-   "days_out": 218,
+   "days_out": 217,
    "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
@@ -2523,7 +2523,7 @@
   },
   {
    "date": "2027-04-13",
-   "days_out": 221,
+   "days_out": 220,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -2535,7 +2535,7 @@
   },
   {
    "date": "2027-04-14",
-   "days_out": 222,
+   "days_out": 221,
    "kind": "readout",
    "ticker": "BMRN",
    "name": "BioMarin",
@@ -2547,7 +2547,7 @@
   },
   {
    "date": "2027-04-16",
-   "days_out": 224,
+   "days_out": 223,
    "kind": "conference",
    "ticker": "",
    "name": "AACR Annual Meeting",
@@ -2559,7 +2559,7 @@
   },
   {
    "date": "2027-04-19",
-   "days_out": 227,
+   "days_out": 226,
    "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
@@ -2571,7 +2571,7 @@
   },
   {
    "date": "2027-04-20",
-   "days_out": 228,
+   "days_out": 227,
    "kind": "readout",
    "ticker": "BNTX",
    "name": "BioNTech",
@@ -2583,7 +2583,7 @@
   },
   {
    "date": "2027-04-24",
-   "days_out": 232,
+   "days_out": 231,
    "kind": "readout",
    "ticker": "REGN",
    "name": "Regeneron",
@@ -2595,7 +2595,7 @@
   },
   {
    "date": "2027-04-27",
-   "days_out": 235,
+   "days_out": 234,
    "kind": "readout",
    "ticker": "AMGN",
    "name": "Amgen",
@@ -2607,7 +2607,7 @@
   },
   {
    "date": "2027-04-27",
-   "days_out": 235,
+   "days_out": 234,
    "kind": "readout",
    "ticker": "ALNY",
    "name": "Alnylam",
@@ -2619,7 +2619,7 @@
   },
   {
    "date": "2027-04-27",
-   "days_out": 235,
+   "days_out": 234,
    "kind": "readout",
    "ticker": "INCY",
    "name": "Incyte",
@@ -2631,7 +2631,7 @@
   },
   {
    "date": "2027-04-28",
-   "days_out": 236,
+   "days_out": 235,
    "kind": "readout",
    "ticker": "SNY",
    "name": "Sanofi",
