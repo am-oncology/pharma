@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-04T15:20:56Z",
+ "as_of": "2026-09-04T23:07:18Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -9,6 +9,17 @@
    "raw_score": 3.0,
    "tickers": [
     "IONS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Novartis\u2019 experimental cardiovascular drug fails a pivotal study",
+   "url": "https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss",
+   "published_iso": "2026-09-04",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
    ],
    "hard": false
   },
@@ -360,6 +371,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Ionis\u2019 \u2018breakthrough\u2019 Alexander disease approval establishes pillar of rare disease pipeline",
+   "url": "https://www.fiercebiotech.com/pharma/ionis-breakthrough-alexander-disease-approval-establishes-pillar-rare-disease-pipeline",
+   "published_iso": "",
+   "raw_score": -1.8,
+   "tickers": [
+    "IONS"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Pfizer offloads scrapped Seagen ADC to Medicus Pharma in up to $1B+ deal",
    "url": "https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal",
    "published_iso": "",
@@ -449,6 +471,17 @@
     "IONS"
    ],
    "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Ionis\u2019 \u2018breakthrough\u2019 Alexander disease approval establishes pillar of rare disease pipeline",
+   "url": "https://www.fiercepharma.com/pharma/ionis-breakthrough-alexander-disease-approval-establishes-pillar-rare-disease-pipeline",
+   "published_iso": "",
+   "raw_score": -1.8,
+   "tickers": [
+    "IONS"
+   ],
+   "hard": true
   },
   {
    "source": "FiercePharma",
