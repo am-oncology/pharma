@@ -1,6 +1,29 @@
 {
- "as_of": "2026-09-04T23:07:18Z",
+ "as_of": "2026-09-05T13:18:18Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "CAR-T deaths prompt halt by Novartis; Eli Lilly\u2019s 13th acquisition of 2026; and more",
+   "url": "https://endpoints.news/car-t-deaths-prompt-halt-by-novartis-eli-lillys-13th-acquisition-of-2026-and-more/",
+   "published_iso": "2026-09-05",
+   "raw_score": 2.0,
+   "tickers": [
+    "LLY",
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "AbbVie-allied ADARx aims for IPO with 3 drugs in the clinic",
+   "url": "https://endpoints.news/abbvie-allied-adarx-aims-for-ipo-with-3-drugs-in-the-clinic/",
+   "published_iso": "2026-09-05",
+   "raw_score": 0.0,
+   "tickers": [
+    "ABBV"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Ionis wins FDA approval of Alexander disease drug zilganersen",
@@ -366,6 +389,18 @@
    "raw_score": 3.0,
    "tickers": [
     "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Novartis Lp(a) drug fails to lower cardiovascular risk in closely watched ph. 3 trial",
+   "url": "https://www.fiercebiotech.com/biotech/novartis-lpa-drug-fails-lower-cardiovascular-risk-closely-watched-ph-3-trial",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS",
+    "IONS"
    ],
    "hard": false
   },
