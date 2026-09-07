@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-07T16:49:30Z",
+ "as_of": "2026-09-07T23:33:41Z",
  "demo": false,
  "universe_size": 70,
  "ranked": 62,
@@ -64,9 +64,9 @@
      "trend": 0.8532,
      "long_momentum": 1.1343,
      "accumulation": 0.0194,
-     "news_sentiment": 0.6916,
+     "news_sentiment": 0.6731,
      "catalyst_proximity": 0.0623,
-     "trial_momentum": 0.745,
+     "trial_momentum": 0.7442,
      "reversion_penalty": 0.1147,
      "dilution_risk": -0.5,
      "drawdown_risk": 0.0
@@ -93,7 +93,7 @@
     "volume_z": -0.609759763494984,
     "market_cap": 45014933504,
     "short_pct_float": 0.0479,
-    "runway_months": 59.0,
+    "runway_months": 58.9,
     "cash": 3937969000.0,
     "catalysts": [
      {
@@ -277,7 +277,7 @@
      "trend": 0.2392,
      "long_momentum": 0.2425,
      "accumulation": 0.0698,
-     "news_sentiment": 0.3873,
+     "news_sentiment": 0.3878,
      "catalyst_proximity": -0.0978,
      "trial_momentum": -0.0967,
      "reversion_penalty": -0.0609,
@@ -289,7 +289,7 @@
      "trend": 0.9998,
      "long_momentum": 1.7713,
      "accumulation": 0.104,
-     "news_sentiment": 0.8298,
+     "news_sentiment": 0.8083,
      "catalyst_proximity": 0.0,
      "trial_momentum": 0.0,
      "reversion_penalty": 0.2638,
@@ -419,7 +419,7 @@
      "rare"
     ],
     "held": false,
-    "score": -1.25,
+    "score": -1.248,
     "bucket": "deteriorating",
     "override": null,
     "contributions": {
@@ -427,7 +427,7 @@
      "trend": -0.2312,
      "long_momentum": -0.1447,
      "accumulation": -0.1021,
-     "news_sentiment": 0.1163,
+     "news_sentiment": 0.1178,
      "catalyst_proximity": -0.0647,
      "trial_momentum": 0.0948,
      "reversion_penalty": -0.1147,
@@ -439,9 +439,9 @@
      "trend": -0.9377,
      "long_momentum": -0.28,
      "accumulation": -0.0705,
-     "news_sentiment": 0.3708,
+     "news_sentiment": 0.3635,
      "catalyst_proximity": 0.2444,
-     "trial_momentum": 0.7599,
+     "trial_momentum": 0.7591,
      "reversion_penalty": 0.5772,
      "dilution_risk": 3.0,
      "drawdown_risk": 0.4115
@@ -642,7 +642,7 @@
      "accumulation": 0.0417,
      "news_sentiment": 0.0,
      "catalyst_proximity": 0.0,
-     "trial_momentum": -0.2151,
+     "trial_momentum": -0.2148,
      "reversion_penalty": 0.0044,
      "dilution_risk": 1.5,
      "drawdown_risk": 0.0698
@@ -753,7 +753,7 @@
      "accumulation": -0.1882,
      "news_sentiment": 0.0,
      "catalyst_proximity": 0.4073,
-     "trial_momentum": -0.1231,
+     "trial_momentum": -0.123,
      "reversion_penalty": 0.308,
      "dilution_risk": -1.0,
      "drawdown_risk": 0.0685
@@ -921,7 +921,7 @@
      "accumulation": -0.0714,
      "news_sentiment": 0.0,
      "catalyst_proximity": 0.0,
-     "trial_momentum": 0.1972,
+     "trial_momentum": 0.197,
      "reversion_penalty": 0.1849,
      "dilution_risk": -1.0,
      "drawdown_risk": 0.0552
@@ -1043,6 +1043,127 @@
     "headlines": []
    },
    {
+    "ticker": "NTLA",
+    "name": "Intellia Therapeutics",
+    "tier": "small",
+    "tags": [
+     "biotech",
+     "gene-editing"
+    ],
+    "held": false,
+    "score": -0.815,
+    "bucket": "deteriorating",
+    "override": null,
+    "contributions": {
+     "relative_strength": -0.1912,
+     "trend": -0.1142,
+     "long_momentum": -0.1023,
+     "accumulation": -0.0435,
+     "news_sentiment": -0.1028,
+     "catalyst_proximity": -0.0978,
+     "trial_momentum": 0.0189,
+     "reversion_penalty": 0.0725,
+     "dilution_risk": -0.2795,
+     "drawdown_risk": 0.0254
+    },
+    "raw": {
+     "relative_strength": -0.1911,
+     "trend": 0.0022,
+     "long_momentum": -0.0521,
+     "accumulation": -0.011,
+     "news_sentiment": 0.0,
+     "catalyst_proximity": 0.0,
+     "trial_momentum": 0.4581,
+     "reversion_penalty": 0.043,
+     "dilution_risk": 2.0,
+     "drawdown_risk": 0.0
+    },
+    "reasons": [
+     "Roughly 8 months of cash \u2014 a raise is likely.",
+     "Lagging XBI by 33 points over three months.",
+     "Trading 1% below its 50-day average and 2% above its 200-day.",
+     "Net negative news flow this month.",
+     "Down 5% over six months."
+    ],
+    "price": 12.739999771118164,
+    "ret_1d": 0.004731818966746459,
+    "ret_5d": -0.010101019082897289,
+    "ret_21d": 0.1334519600128763,
+    "ret_63d": -0.05908420923107438,
+    "ret_252d": 0.09638553326932287,
+    "rs_63d": -0.3334357328746713,
+    "rsi14": 52.14761082435215,
+    "vol_ann": 0.7622927725276709,
+    "beta": 1.5824117688412485,
+    "drawdown_52w": -0.5446747684221045,
+    "gap_events": 5,
+    "volume_z": -0.6783615318184173,
+    "market_cap": 1785213952,
+    "short_pct_float": 0.4035,
+    "runway_months": 8.3,
+    "cash": 437759000.0,
+    "catalysts": [
+     {
+      "ticker": "NTLA",
+      "nct_id": "NCT06672237",
+      "title": "A Phase 3 Study of NTLA-2001 in ATTRv-PN",
+      "phases": [
+       "Phase 3"
+      ],
+      "phase_weight": 1.0,
+      "status": "RECRUITING",
+      "enrollment": 60,
+      "conditions": [
+       "Neuromuscular Disease",
+       "Neuromuscular Diseases (NMD)",
+       "Neurodegenerative Disease"
+      ],
+      "date": "2027-07-01",
+      "days_out": 296,
+      "estimated": true,
+      "kind": "readout"
+     }
+    ],
+    "hard_flags": [],
+    "trial_changes": [],
+    "filings": [
+     {
+      "form": "8-K",
+      "label": "material event",
+      "filed": "2026-09-04",
+      "days_ago": 4,
+      "description": "8-K",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526383645/d110798d8k.htm"
+     },
+     {
+      "form": "4",
+      "label": "filing",
+      "filed": "2026-08-24",
+      "days_ago": 15,
+      "description": "4",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526363567/xslF345X06/ownership.xml"
+     },
+     {
+      "form": "144",
+      "label": "filing",
+      "filed": "2026-08-20",
+      "days_ago": 19,
+      "description": "filing",
+      "weight": 0.0,
+      "dilutive": false,
+      "deal": false,
+      "url": "https://www.sec.gov/Archives/edgar/data/1652130/000196922326000938/xsl144X01/primary_doc.xml"
+     }
+    ],
+    "headlines": []
+   },
+   {
     "ticker": "DNLI",
     "name": "Denali Therapeutics",
     "tier": "small",
@@ -1073,7 +1194,7 @@
      "accumulation": -0.2006,
      "news_sentiment": 0.0,
      "catalyst_proximity": 0.2458,
-     "trial_momentum": 0.3366,
+     "trial_momentum": 0.3362,
      "reversion_penalty": 0.2921,
      "dilution_risk": 1.0,
      "drawdown_risk": 0.0
@@ -1237,127 +1358,6 @@
      }
     ],
     "headlines": []
-   },
-   {
-    "ticker": "NTLA",
-    "name": "Intellia Therapeutics",
-    "tier": "small",
-    "tags": [
-     "biotech",
-     "gene-editing"
-    ],
-    "held": false,
-    "score": -0.814,
-    "bucket": "deteriorating",
-    "override": null,
-    "contributions": {
-     "relative_strength": -0.1912,
-     "trend": -0.1142,
-     "long_momentum": -0.1023,
-     "accumulation": -0.0435,
-     "news_sentiment": -0.1028,
-     "catalyst_proximity": -0.0978,
-     "trial_momentum": 0.0189,
-     "reversion_penalty": 0.0725,
-     "dilution_risk": -0.2795,
-     "drawdown_risk": 0.0254
-    },
-    "raw": {
-     "relative_strength": -0.1911,
-     "trend": 0.0022,
-     "long_momentum": -0.0521,
-     "accumulation": -0.011,
-     "news_sentiment": 0.0,
-     "catalyst_proximity": 0.0,
-     "trial_momentum": 0.4586,
-     "reversion_penalty": 0.043,
-     "dilution_risk": 2.0,
-     "drawdown_risk": 0.0
-    },
-    "reasons": [
-     "Roughly 8 months of cash \u2014 a raise is likely.",
-     "Lagging XBI by 33 points over three months.",
-     "Trading 1% below its 50-day average and 2% above its 200-day.",
-     "Net negative news flow this month.",
-     "Down 5% over six months."
-    ],
-    "price": 12.739999771118164,
-    "ret_1d": 0.004731818966746459,
-    "ret_5d": -0.010101019082897289,
-    "ret_21d": 0.1334519600128763,
-    "ret_63d": -0.05908420923107438,
-    "ret_252d": 0.09638553326932287,
-    "rs_63d": -0.3334357328746713,
-    "rsi14": 52.14761082435215,
-    "vol_ann": 0.7622927725276709,
-    "beta": 1.5824117688412485,
-    "drawdown_52w": -0.5446747684221045,
-    "gap_events": 5,
-    "volume_z": -0.6783615318184173,
-    "market_cap": 1785213952,
-    "short_pct_float": 0.4035,
-    "runway_months": 8.3,
-    "cash": 437759000.0,
-    "catalysts": [
-     {
-      "ticker": "NTLA",
-      "nct_id": "NCT06672237",
-      "title": "A Phase 3 Study of NTLA-2001 in ATTRv-PN",
-      "phases": [
-       "Phase 3"
-      ],
-      "phase_weight": 1.0,
-      "status": "RECRUITING",
-      "enrollment": 60,
-      "conditions": [
-       "Neuromuscular Disease",
-       "Neuromuscular Diseases (NMD)",
-       "Neurodegenerative Disease"
-      ],
-      "date": "2027-07-01",
-      "days_out": 296,
-      "estimated": true,
-      "kind": "readout"
-     }
-    ],
-    "hard_flags": [],
-    "trial_changes": [],
-    "filings": [
-     {
-      "form": "8-K",
-      "label": "material event",
-      "filed": "2026-09-04",
-      "days_ago": 4,
-      "description": "8-K",
-      "weight": 0.0,
-      "dilutive": false,
-      "deal": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526383645/d110798d8k.htm"
-     },
-     {
-      "form": "4",
-      "label": "filing",
-      "filed": "2026-08-24",
-      "days_ago": 15,
-      "description": "4",
-      "weight": 0.0,
-      "dilutive": false,
-      "deal": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526363567/xslF345X06/ownership.xml"
-     },
-     {
-      "form": "144",
-      "label": "filing",
-      "filed": "2026-08-20",
-      "days_ago": 19,
-      "description": "filing",
-      "weight": 0.0,
-      "dilutive": false,
-      "deal": false,
-      "url": "https://www.sec.gov/Archives/edgar/data/1652130/000196922326000938/xsl144X01/primary_doc.xml"
-     }
-    ],
-    "headlines": []
    }
   ]
  },
@@ -1392,9 +1392,9 @@
     "trend": 0.8532,
     "long_momentum": 1.1343,
     "accumulation": 0.0194,
-    "news_sentiment": 0.6916,
+    "news_sentiment": 0.6731,
     "catalyst_proximity": 0.0623,
-    "trial_momentum": 0.745,
+    "trial_momentum": 0.7442,
     "reversion_penalty": 0.1147,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -1421,7 +1421,7 @@
    "volume_z": -0.609759763494984,
    "market_cap": 45014933504,
    "short_pct_float": 0.0479,
-   "runway_months": 59.0,
+   "runway_months": 58.9,
    "cash": 3937969000.0,
    "catalysts": [
     {
@@ -1605,7 +1605,7 @@
     "trend": 0.2392,
     "long_momentum": 0.2425,
     "accumulation": 0.0698,
-    "news_sentiment": 0.3873,
+    "news_sentiment": 0.3878,
     "catalyst_proximity": -0.0978,
     "trial_momentum": -0.0967,
     "reversion_penalty": -0.0609,
@@ -1617,7 +1617,7 @@
     "trend": 0.9998,
     "long_momentum": 1.7713,
     "accumulation": 0.104,
-    "news_sentiment": 0.8298,
+    "news_sentiment": 0.8083,
     "catalyst_proximity": 0.0,
     "trial_momentum": 0.0,
     "reversion_penalty": 0.2638,
@@ -1746,7 +1746,7 @@
     "oncology"
    ],
    "held": false,
-   "score": 0.739,
+   "score": 0.74,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -1754,7 +1754,7 @@
     "trend": 0.0692,
     "long_momentum": -0.0612,
     "accumulation": 0.1047,
-    "news_sentiment": 0.3869,
+    "news_sentiment": 0.3874,
     "catalyst_proximity": 0.2122,
     "trial_momentum": 0.0097,
     "reversion_penalty": -0.1147,
@@ -1766,9 +1766,9 @@
     "trend": 0.4423,
     "long_momentum": 0.062,
     "accumulation": 0.1394,
-    "news_sentiment": 0.8291,
+    "news_sentiment": 0.8076,
     "catalyst_proximity": 2.2883,
-    "trial_momentum": 0.4222,
+    "trial_momentum": 0.4217,
     "reversion_penalty": 0.3542,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -1785,11 +1785,11 @@
    "ret_5d": 0.03651844859752784,
    "ret_21d": 0.15390493119144377,
    "ret_63d": 0.17677593415815207,
-   "ret_252d": 0.3738907697017364,
+   "ret_252d": 0.37389067433047907,
    "rs_63d": -0.09757558948544487,
-   "rsi14": 67.7105802087191,
+   "rsi14": 67.71058020469374,
    "vol_ann": 0.2964637870904733,
-   "beta": 0.346241201956834,
+   "beta": 0.3462413042464339,
    "drawdown_52w": -0.018898811884329292,
    "gap_events": 0,
    "volume_z": -0.6376590839958738,
@@ -1969,7 +1969,7 @@
     "trend": 0.0813,
     "long_momentum": -0.0503,
     "accumulation": 0.0449,
-    "news_sentiment": 0.1014,
+    "news_sentiment": 0.1016,
     "catalyst_proximity": 0.2122,
     "trial_momentum": 0.088,
     "reversion_penalty": -0.0289,
@@ -1981,9 +1981,9 @@
     "trend": 0.4714,
     "long_momentum": 0.0922,
     "accumulation": 0.0787,
-    "news_sentiment": 0.3457,
+    "news_sentiment": 0.3368,
     "catalyst_proximity": 2.339,
-    "trial_momentum": 0.7331,
+    "trial_momentum": 0.7323,
     "reversion_penalty": 0.2107,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -2002,9 +2002,9 @@
    "ret_63d": 0.30409392378356914,
    "ret_252d": 0.46674019819118073,
    "rs_63d": 0.029742400139972203,
-   "rsi14": 60.537351215678015,
+   "rsi14": 60.53735125037825,
    "vol_ann": 0.3001023615674268,
-   "beta": 0.5039527943730242,
+   "beta": 0.5039526865322209,
    "drawdown_52w": -0.02853192699535667,
    "gap_events": 0,
    "volume_z": -0.49546260864473524,
@@ -2205,7 +2205,7 @@
     "accumulation": 0.0802,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.6721,
-    "trial_momentum": 0.361,
+    "trial_momentum": 0.3606,
     "reversion_penalty": 0.1738,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -2326,7 +2326,7 @@
     "accumulation": 0.2998,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.1638,
-    "trial_momentum": 0.3105,
+    "trial_momentum": 0.3101,
     "reversion_penalty": 0.3257,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -2489,7 +2489,7 @@
     "accumulation": 0.1374,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.1027,
-    "trial_momentum": 0.2998,
+    "trial_momentum": 0.2995,
     "reversion_penalty": 0.0355,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -2626,7 +2626,7 @@
     "accumulation": -0.0182,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.0997,
+    "trial_momentum": 0.0996,
     "reversion_penalty": 0.2413,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -2779,7 +2779,7 @@
     "accumulation": 0.143,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.7959,
-    "trial_momentum": 0.8971,
+    "trial_momentum": 0.8961,
     "reversion_penalty": 0.1871,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -2950,8 +2950,8 @@
     "trend": -0.074,
     "long_momentum": -0.0244,
     "accumulation": -0.0968,
-    "news_sentiment": 0.5216,
-    "catalyst_proximity": 0.2108,
+    "news_sentiment": 0.5212,
+    "catalyst_proximity": 0.2109,
     "trial_momentum": 0.0742,
     "reversion_penalty": -0.0052,
     "dilution_risk": 0.1279,
@@ -2962,9 +2962,9 @@
     "trend": 0.0986,
     "long_momentum": 0.1642,
     "accumulation": -0.0651,
-    "news_sentiment": 1.7351,
+    "news_sentiment": 1.6988,
     "catalyst_proximity": 2.2782,
-    "trial_momentum": 0.6782,
+    "trial_momentum": 0.6774,
     "reversion_penalty": 0.1715,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -2982,7 +2982,7 @@
    "ret_63d": 0.017311862461954375,
    "ret_252d": 0.5568627211060728,
    "rs_63d": -0.25703966118164256,
-   "rsi14": 41.42705996486253,
+   "rsi14": 41.42705996478584,
    "vol_ann": 0.3291681374017876,
    "beta": 0.45318013026863746,
    "drawdown_52w": -0.10230093878607571,
@@ -3201,8 +3201,8 @@
     "long_momentum": 0.4393,
     "accumulation": 0.1207,
     "news_sentiment": 0.0,
-    "catalyst_proximity": 2.4083,
-    "trial_momentum": 0.87,
+    "catalyst_proximity": 2.4084,
+    "trial_momentum": 0.8691,
     "reversion_penalty": 0.2241,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -3499,7 +3499,7 @@
     "accumulation": 0.1264,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.8104,
-    "trial_momentum": 0.4007,
+    "trial_momentum": 0.4003,
     "reversion_penalty": 0.1721,
     "dilution_risk": 0.5,
     "drawdown_risk": 0.0
@@ -3690,7 +3690,7 @@
     "accumulation": 0.1167,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.707,
-    "trial_momentum": 0.9073,
+    "trial_momentum": 0.9063,
     "reversion_penalty": 0.0307,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -3838,7 +3838,7 @@
     "trend": -0.0033,
     "long_momentum": -0.0755,
     "accumulation": -0.0207,
-    "news_sentiment": 0.3428,
+    "news_sentiment": 0.3432,
     "catalyst_proximity": 0.0143,
     "trial_momentum": 0.1318,
     "reversion_penalty": 0.0506,
@@ -3850,9 +3850,9 @@
     "trend": 0.2683,
     "long_momentum": 0.0223,
     "accumulation": 0.0121,
-    "news_sentiment": 0.7545,
+    "news_sentiment": 0.7348,
     "catalyst_proximity": 0.8276,
-    "trial_momentum": 1.2873,
+    "trial_momentum": 1.286,
     "reversion_penalty": 0.0791,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -4047,7 +4047,7 @@
     "accumulation": 0.077,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.2485,
-    "trial_momentum": 0.4068,
+    "trial_momentum": 0.4063,
     "reversion_penalty": 0.2459,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -4066,9 +4066,9 @@
    "ret_63d": 0.25350656750013223,
    "ret_252d": 0.8483737329401828,
    "rs_63d": -0.02084495614346471,
-   "rsi14": 62.29666213650927,
+   "rsi14": 62.29666213717728,
    "vol_ann": 0.357300610550149,
-   "beta": 0.3887167081616011,
+   "beta": 0.38871672585341,
    "drawdown_52w": -0.03911789860380854,
    "gap_events": 0,
    "volume_z": -0.4995812375934795,
@@ -4228,9 +4228,9 @@
     "trend": 0.4289,
     "long_momentum": 0.1324,
     "accumulation": 0.1567,
-    "news_sentiment": 0.1416,
+    "news_sentiment": 0.1379,
     "catalyst_proximity": 1.3619,
-    "trial_momentum": 0.6242,
+    "trial_momentum": 0.6235,
     "reversion_penalty": 0.1314,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -4249,9 +4249,9 @@
    "ret_63d": 0.17992459351740275,
    "ret_252d": 0.4998343598399546,
    "rs_63d": -0.09442693012619419,
-   "rsi14": 56.57200070093254,
+   "rsi14": 56.57200070072133,
    "vol_ann": 0.2866171520680389,
-   "beta": 0.2839467557652188,
+   "beta": 0.28394668021144487,
    "drawdown_52w": -0.018651736104730587,
    "gap_events": 0,
    "volume_z": -0.679182079295833,
@@ -4407,7 +4407,7 @@
     "trend": 0.0379,
     "long_momentum": 0.0448,
     "accumulation": 0.0226,
-    "news_sentiment": 0.2669,
+    "news_sentiment": 0.2666,
     "catalyst_proximity": 0.0645,
     "trial_momentum": -0.0451,
     "reversion_penalty": 0.0665,
@@ -4419,9 +4419,9 @@
     "trend": 0.3673,
     "long_momentum": 0.356,
     "accumulation": 0.056,
-    "news_sentiment": 0.6259,
+    "news_sentiment": 0.6087,
     "catalyst_proximity": 1.1978,
-    "trial_momentum": 0.2049,
+    "trial_momentum": 0.2047,
     "reversion_penalty": 0.0528,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -4742,7 +4742,7 @@
     "vaccines"
    ],
    "held": false,
-   "score": 0.416,
+   "score": 0.417,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -4750,7 +4750,7 @@
     "trend": 0.057,
     "long_momentum": -0.0519,
     "accumulation": 0.0347,
-    "news_sentiment": 0.3428,
+    "news_sentiment": 0.3432,
     "catalyst_proximity": 0.0708,
     "trial_momentum": -0.0787,
     "reversion_penalty": -0.061,
@@ -4762,9 +4762,9 @@
     "trend": 0.413,
     "long_momentum": 0.0878,
     "accumulation": 0.0683,
-    "news_sentiment": 0.7545,
+    "news_sentiment": 0.7348,
     "catalyst_proximity": 1.2444,
-    "trial_momentum": 0.0715,
+    "trial_momentum": 0.0714,
     "reversion_penalty": 0.2639,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -4783,9 +4783,9 @@
    "ret_63d": 0.11166291826837194,
    "ret_252d": 0.24063815205059713,
    "rs_63d": -0.162688605375225,
-   "rsi14": 63.196610707170194,
+   "rsi14": 63.19661069700564,
    "vol_ann": 0.22173189640869154,
-   "beta": 0.2113512058730002,
+   "beta": 0.2113513590903694,
    "drawdown_52w": -0.01964161563862854,
    "gap_events": 0,
    "volume_z": -0.4265389221822169,
@@ -4969,7 +4969,7 @@
     "accumulation": -0.0078,
     "news_sentiment": 0.0,
     "catalyst_proximity": 2.4987,
-    "trial_momentum": 0.7331,
+    "trial_momentum": 0.7323,
     "reversion_penalty": 0.1248,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -5140,8 +5140,8 @@
     "trend": 0.067,
     "long_momentum": -0.0269,
     "accumulation": 0.0852,
-    "news_sentiment": 0.238,
-    "catalyst_proximity": -0.0807,
+    "news_sentiment": 0.2382,
+    "catalyst_proximity": -0.0805,
     "trial_momentum": -0.0747,
     "reversion_penalty": -0.0372,
     "dilution_risk": 0.1279,
@@ -5152,9 +5152,9 @@
     "trend": 0.4371,
     "long_momentum": 0.1571,
     "accumulation": 0.1196,
-    "news_sentiment": 0.577,
-    "catalyst_proximity": 0.1261,
-    "trial_momentum": 0.0871,
+    "news_sentiment": 0.5618,
+    "catalyst_proximity": 0.1273,
+    "trial_momentum": 0.087,
     "reversion_penalty": 0.2244,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -5173,7 +5173,7 @@
    "ret_63d": 0.18824338606144186,
    "ret_252d": 0.5743597245427303,
    "rs_63d": -0.08610813758215508,
-   "rsi14": 61.2204322818114,
+   "rsi14": 61.220432281263534,
    "vol_ann": 0.2517125193136896,
    "beta": 0.1434197537241501,
    "drawdown_52w": -0.01149294894095465,
@@ -5293,7 +5293,7 @@
     "accumulation": 0.1285,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.8891,
-    "trial_momentum": 0.1491,
+    "trial_momentum": 0.1489,
     "reversion_penalty": 0.0974,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -5482,7 +5482,7 @@
     "accumulation": 0.0841,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.2828,
-    "trial_momentum": 0.5369,
+    "trial_momentum": 0.5363,
     "reversion_penalty": 0.1549,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -5629,7 +5629,7 @@
     "radioligand"
    ],
    "held": false,
-   "score": 0.315,
+   "score": 0.314,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -5637,7 +5637,7 @@
     "trend": -0.0261,
     "long_momentum": -0.0729,
     "accumulation": 0.0313,
-    "news_sentiment": 0.5216,
+    "news_sentiment": 0.5212,
     "catalyst_proximity": -0.0586,
     "trial_momentum": -0.0192,
     "reversion_penalty": 0.0359,
@@ -5649,9 +5649,9 @@
     "trend": 0.2135,
     "long_momentum": 0.0296,
     "accumulation": 0.0649,
-    "news_sentiment": 1.0692,
+    "news_sentiment": 1.0396,
     "catalyst_proximity": 0.2895,
-    "trial_momentum": 0.3076,
+    "trial_momentum": 0.3073,
     "reversion_penalty": 0.1034,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -5843,7 +5843,7 @@
     "long_momentum": -0.0118,
     "accumulation": 0.0307,
     "news_sentiment": -0.1028,
-    "catalyst_proximity": -0.0363,
+    "catalyst_proximity": -0.0364,
     "trial_momentum": 0.0359,
     "reversion_penalty": -0.0528,
     "dilution_risk": 0.1279,
@@ -5856,7 +5856,7 @@
     "accumulation": 0.0643,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.4535,
-    "trial_momentum": 0.5263,
+    "trial_momentum": 0.5257,
     "reversion_penalty": 0.2503,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -5873,11 +5873,11 @@
    "ret_5d": 0.011123438807712827,
    "ret_21d": 0.0862916716960922,
    "ret_63d": 0.2580388676910583,
-   "ret_252d": 0.6042802371178579,
+   "ret_252d": 0.6042800574789031,
    "rs_63d": -0.016312655952538613,
-   "rsi14": 62.51462135710443,
+   "rsi14": 62.51462138836218,
    "vol_ann": 0.26484461144975335,
-   "beta": 0.32717832337124847,
+   "beta": 0.32717807486409084,
    "drawdown_52w": -0.015513789531230948,
    "gap_events": 0,
    "volume_z": -0.5395867333524342,
@@ -6024,7 +6024,7 @@
     "accumulation": 0.0665,
     "news_sentiment": 0.0,
     "catalyst_proximity": 2.2575,
-    "trial_momentum": 1.2096,
+    "trial_momentum": 1.2083,
     "reversion_penalty": 0.0068,
     "dilution_risk": 0.5,
     "drawdown_risk": 0.0
@@ -6043,9 +6043,9 @@
    "ret_63d": 0.13666962499637347,
    "ret_252d": 0.24139020595465954,
    "rs_63d": -0.13768189864722347,
-   "rsi14": 50.33803865708933,
+   "rsi14": 50.3380386554425,
    "vol_ann": 0.28378595728798905,
-   "beta": 0.2586055545908984,
+   "beta": 0.2586056037748568,
    "drawdown_52w": -0.03575594887384892,
    "gap_events": 0,
    "volume_z": -0.38545100181767955,
@@ -6257,7 +6257,7 @@
     "accumulation": 0.097,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.8272,
-    "trial_momentum": 0.3198,
+    "trial_momentum": 0.3195,
     "reversion_penalty": 0.2898,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -6442,7 +6442,7 @@
    "volume_z": -0.07366396120944776,
    "market_cap": 2376608000,
    "short_pct_float": 0.3069,
-   "runway_months": 5.4,
+   "runway_months": 5.3,
    "cash": 788489000.0,
    "catalysts": [
     {
@@ -6555,7 +6555,7 @@
     "accumulation": 0.006,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.77,
-    "trial_momentum": 0.3172,
+    "trial_momentum": 0.3169,
     "reversion_penalty": 0.0307,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -6582,7 +6582,7 @@
    "volume_z": -0.288069731599959,
    "market_cap": 12195909632,
    "short_pct_float": 0.0907,
-   "runway_months": 56.7,
+   "runway_months": 56.6,
    "cash": 1601960000.0,
    "catalysts": [
     {
@@ -6731,7 +6731,7 @@
     "long_momentum": -0.0516,
     "accumulation": 0.0285,
     "news_sentiment": -0.1028,
-    "catalyst_proximity": -0.0418,
+    "catalyst_proximity": -0.0419,
     "trial_momentum": 0.0331,
     "reversion_penalty": 0.022,
     "dilution_risk": 0.1279,
@@ -6744,7 +6744,7 @@
     "accumulation": 0.062,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.4129,
-    "trial_momentum": 0.5152,
+    "trial_momentum": 0.5146,
     "reversion_penalty": 0.1264,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -6948,7 +6948,7 @@
     "accumulation": 0.0513,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.8839,
-    "trial_momentum": 0.4,
+    "trial_momentum": 0.3996,
     "reversion_penalty": 0.1596,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -7108,7 +7108,7 @@
     "accumulation": 0.1277,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": -0.3466,
+    "trial_momentum": -0.3462,
     "reversion_penalty": 0.0581,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -7171,7 +7171,7 @@
     "metabolic"
    ],
    "held": false,
-   "score": 0.043,
+   "score": 0.042,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -7193,7 +7193,7 @@
     "accumulation": 0.0082,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.5665,
-    "trial_momentum": 1.0957,
+    "trial_momentum": 1.0945,
     "reversion_penalty": 0.0007,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -7212,9 +7212,9 @@
    "ret_63d": 0.09859099450916298,
    "ret_252d": -0.1284938177609788,
    "rs_63d": -0.17576052913443396,
-   "rsi14": 50.03298743556551,
+   "rsi14": 50.03298743476643,
    "vol_ann": 0.3812615090583498,
-   "beta": 0.4558664042010719,
+   "beta": 0.4558665821271137,
    "drawdown_52w": -0.2352867198259826,
    "gap_events": 1,
    "volume_z": -0.4629055236694778,
@@ -7411,7 +7411,7 @@
     "accumulation": 0.0144,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.2559,
-    "trial_momentum": 0.4407,
+    "trial_momentum": 0.4402,
     "reversion_penalty": 0.1579,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -7584,7 +7584,7 @@
     "accumulation": -0.0488,
     "news_sentiment": 0.0,
     "catalyst_proximity": 1.7002,
-    "trial_momentum": 0.2995,
+    "trial_momentum": 0.2992,
     "reversion_penalty": 0.2833,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.0
@@ -7769,7 +7769,7 @@
     "accumulation": -0.0243,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.6652,
-    "trial_momentum": -0.0993,
+    "trial_momentum": -0.0992,
     "reversion_penalty": 0.2192,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -7924,7 +7924,7 @@
     "accumulation": 0.0708,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.4073,
-    "trial_momentum": 0.6161,
+    "trial_momentum": 0.6154,
     "reversion_penalty": 0.0998,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -8052,7 +8052,7 @@
     "respiratory"
    ],
    "held": false,
-   "score": -0.258,
+   "score": -0.259,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -8060,7 +8060,7 @@
     "trend": -0.2312,
     "long_momentum": -0.142,
     "accumulation": -0.0909,
-    "news_sentiment": 0.5216,
+    "news_sentiment": 0.5212,
     "catalyst_proximity": 0.0943,
     "trial_momentum": 0.0319,
     "reversion_penalty": 0.055,
@@ -8072,15 +8072,15 @@
     "trend": -0.2917,
     "long_momentum": -0.1623,
     "accumulation": -0.0592,
-    "news_sentiment": 1.1851,
+    "news_sentiment": 2.7959,
     "catalyst_proximity": 1.4176,
-    "trial_momentum": 0.5104,
+    "trial_momentum": 0.5099,
     "reversion_penalty": 0.0718,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.1124
    },
    "reasons": [
-    "Positive coverage: FDA Grants Accelerated Approval to Etcamah (camizestrant) in Combination with a CDK4/6 Inhibitor for the Treatment of Advanced HR-Positive Breast Canc",
+    "Positive coverage: FDA approves AstraZeneca\u2019s oral SERD for breast cancer despite negative adcomm vote",
     "Lagging XBI by 40 points over three months.",
     "Trading 4% below its 50-day average and 11% below its 200-day.",
     "22% below its 52-week high.",
@@ -8249,6 +8249,13 @@
    ],
    "headlines": [
     {
+     "title": "FDA approves AstraZeneca\u2019s oral SERD for breast cancer despite negative adcomm vote",
+     "url": "https://endpoints.news/fda-approves-astrazenecas-oral-serd-for-breast-cancer-despite-negative-adcomm-vote/",
+     "source": "Endpoints News",
+     "published": "2026-09-07",
+     "score": 5.2
+    },
+    {
      "title": "FDA Grants Accelerated Approval to Etcamah (camizestrant) in Combination with a CDK4/6 Inhibitor for the Treatment of Advanced HR-Positive Breast Cancer",
      "url": "https://www.drugs.com/newdrugs/fda-grants-accelerated-approval-etcamah-camizestrant-combination-cdk4-6-inhibitor-advanced-hr-6877.html",
      "source": "Drugs.com New Approvals",
@@ -8316,7 +8323,7 @@
     "accumulation": 0.0113,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.4086,
+    "trial_momentum": 0.4082,
     "reversion_penalty": 0.0858,
     "dilution_risk": 0.5,
     "drawdown_risk": 0.0
@@ -8343,7 +8350,7 @@
    "volume_z": -0.6339660932901982,
    "market_cap": 4067687680,
    "short_pct_float": 0.2019,
-   "runway_months": 28.3,
+   "runway_months": 28.2,
    "cash": 501663000.0,
    "catalysts": [
     {
@@ -8526,7 +8533,7 @@
     "accumulation": 0.126,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": -0.2023,
+    "trial_momentum": -0.202,
     "reversion_penalty": 0.2677,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -8625,7 +8632,7 @@
     "immunology"
    ],
    "held": false,
-   "score": -0.414,
+   "score": -0.415,
    "bucket": "neutral",
    "override": null,
    "contributions": {
@@ -8647,7 +8654,7 @@
     "accumulation": 0.0675,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.4073,
-    "trial_momentum": 0.3414,
+    "trial_momentum": 0.341,
     "reversion_penalty": 0.0377,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0021
@@ -8780,7 +8787,7 @@
     "accumulation": 0.0255,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.2458,
-    "trial_momentum": 0.179,
+    "trial_momentum": 0.1788,
     "reversion_penalty": 0.085,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -8855,7 +8862,7 @@
     "trend": -0.2312,
     "long_momentum": -0.1447,
     "accumulation": -0.022,
-    "news_sentiment": 0.5216,
+    "news_sentiment": 0.5212,
     "catalyst_proximity": -0.0426,
     "trial_momentum": 0.1175,
     "reversion_penalty": 0.0357,
@@ -8867,9 +8874,9 @@
     "trend": -0.4779,
     "long_momentum": -0.2154,
     "accumulation": 0.0108,
-    "news_sentiment": 2.7331,
+    "news_sentiment": 2.7101,
     "catalyst_proximity": 0.4073,
-    "trial_momentum": 0.8501,
+    "trial_momentum": 0.8492,
     "reversion_penalty": 0.1038,
     "dilution_risk": 1.0,
     "drawdown_risk": 0.2088
@@ -9119,7 +9126,7 @@
     "accumulation": -0.0326,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0858,
-    "trial_momentum": 0.3774,
+    "trial_momentum": 0.377,
     "reversion_penalty": 0.1189,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0
@@ -9272,7 +9279,7 @@
     "accumulation": -0.0063,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.9499,
-    "trial_momentum": 0.4881,
+    "trial_momentum": 0.4875,
     "reversion_penalty": 0.173,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -9458,9 +9465,9 @@
     "trend": -0.1162,
     "long_momentum": -0.0681,
     "accumulation": -0.0373,
-    "news_sentiment": 0.6381,
+    "news_sentiment": 0.6209,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.1677,
+    "trial_momentum": 0.1675,
     "reversion_penalty": 0.1331,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0301
@@ -9477,12 +9484,12 @@
    "ret_5d": -0.01829988805117011,
    "ret_21d": -0.035057969798701016,
    "ret_63d": -0.02288388861963364,
-   "ret_252d": 0.30414150628439507,
+   "ret_252d": 0.3041417663758572,
    "rs_63d": -0.2972354122632306,
-   "rsi14": 43.34463355532336,
+   "rsi14": 43.34463359582102,
    "vol_ann": 0.26254275504791036,
-   "beta": 0.30867046540835336,
-   "drawdown_52w": -0.1629685258556678,
+   "beta": 0.308670502727127,
+   "drawdown_52w": -0.16296857942671406,
    "gap_events": 0,
    "volume_z": -0.7801169668209936,
    "market_cap": 99919970304,
@@ -9651,7 +9658,7 @@
     "accumulation": -0.1305,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.4097,
-    "trial_momentum": 0.7268,
+    "trial_momentum": 0.7261,
     "reversion_penalty": 0.242,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -9812,7 +9819,7 @@
     "accumulation": -0.1207,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.403,
-    "trial_momentum": 0.445,
+    "trial_momentum": 0.4445,
     "reversion_penalty": 0.2387,
     "dilution_risk": 1.5,
     "drawdown_risk": 0.0
@@ -10045,7 +10052,7 @@
     "accumulation": -0.1008,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.7936,
-    "trial_momentum": 0.7353,
+    "trial_momentum": 0.7345,
     "reversion_penalty": 0.1346,
     "dilution_risk": 0.0,
     "drawdown_risk": 0.0
@@ -10172,7 +10179,7 @@
     "accumulation": 0.0887,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.2499,
-    "trial_momentum": 0.5023,
+    "trial_momentum": 0.5018,
     "reversion_penalty": 0.1315,
     "dilution_risk": 1.0,
     "drawdown_risk": 0.1091
@@ -10282,14 +10289,14 @@
     "accumulation": 0.0735,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": -0.8056,
+    "trial_momentum": -0.8047,
     "reversion_penalty": 0.1934,
     "dilution_risk": 1.0,
     "drawdown_risk": 0.0045
    },
    "reasons": [
     "Pipeline activity net negative.",
-    "15 months of cash.",
+    "14 months of cash.",
     "Net negative news flow this month.",
     "Phase 1/Phase 2 readout window opens in 266 days (NCT05552755).",
     "Up 5% over six months."
@@ -10309,7 +10316,7 @@
    "volume_z": -0.4064904588594315,
    "market_cap": 1946664064,
    "short_pct_float": 0.3479,
-   "runway_months": 14.6,
+   "runway_months": 14.5,
    "cash": 545683000.0,
    "catalysts": [
     {
@@ -10435,7 +10442,7 @@
     "accumulation": -0.0283,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.2485,
-    "trial_momentum": 0.454,
+    "trial_momentum": 0.4535,
     "reversion_penalty": 0.1541,
     "dilution_risk": 1.0,
     "drawdown_risk": 0.1032
@@ -10581,7 +10588,7 @@
     "accumulation": 0.1783,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0644,
-    "trial_momentum": 0.7248,
+    "trial_momentum": 0.724,
     "reversion_penalty": 0.2437,
     "dilution_risk": -0.5,
     "drawdown_risk": 0.1713
@@ -10736,7 +10743,7 @@
     "accumulation": -0.2006,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.2458,
-    "trial_momentum": 0.3366,
+    "trial_momentum": 0.3362,
     "reversion_penalty": 0.2921,
     "dilution_risk": 1.0,
     "drawdown_risk": 0.0
@@ -10910,7 +10917,7 @@
     "gene-editing"
    ],
    "held": false,
-   "score": -0.814,
+   "score": -0.815,
    "bucket": "deteriorating",
    "override": null,
    "contributions": {
@@ -10932,7 +10939,7 @@
     "accumulation": -0.011,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.4586,
+    "trial_momentum": 0.4581,
     "reversion_penalty": 0.043,
     "dilution_risk": 2.0,
     "drawdown_risk": 0.0
@@ -11053,7 +11060,7 @@
     "accumulation": -0.0714,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": 0.1972,
+    "trial_momentum": 0.197,
     "reversion_penalty": 0.1849,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0552
@@ -11205,7 +11212,7 @@
     "accumulation": -0.1882,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.4073,
-    "trial_momentum": -0.1231,
+    "trial_momentum": -0.123,
     "reversion_penalty": 0.308,
     "dilution_risk": -1.0,
     "drawdown_risk": 0.0685
@@ -11374,7 +11381,7 @@
     "accumulation": 0.0417,
     "news_sentiment": 0.0,
     "catalyst_proximity": 0.0,
-    "trial_momentum": -0.2151,
+    "trial_momentum": -0.2148,
     "reversion_penalty": 0.0044,
     "dilution_risk": 1.5,
     "drawdown_risk": 0.0698
@@ -11463,7 +11470,7 @@
     "rare"
    ],
    "held": false,
-   "score": -1.25,
+   "score": -1.248,
    "bucket": "deteriorating",
    "override": null,
    "contributions": {
@@ -11471,7 +11478,7 @@
     "trend": -0.2312,
     "long_momentum": -0.1447,
     "accumulation": -0.1021,
-    "news_sentiment": 0.1163,
+    "news_sentiment": 0.1178,
     "catalyst_proximity": -0.0647,
     "trial_momentum": 0.0948,
     "reversion_penalty": -0.1147,
@@ -11483,9 +11490,9 @@
     "trend": -0.9377,
     "long_momentum": -0.28,
     "accumulation": -0.0705,
-    "news_sentiment": 0.3708,
+    "news_sentiment": 0.3635,
     "catalyst_proximity": 0.2444,
-    "trial_momentum": 0.7599,
+    "trial_momentum": 0.7591,
     "reversion_penalty": 0.5772,
     "dilution_risk": 3.0,
     "drawdown_risk": 0.4115
@@ -11708,7 +11715,7 @@
    "ret_1d": -0.0038542371465761782,
    "ret_5d": 0.0010918657075786875,
    "ret_63d": 0.04694486868296677,
-   "ret_252d": 0.19966092552140569,
+   "ret_252d": 0.1996610395724463,
    "price": 770.1900024414062
   }
  }

@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-07T16:49:30Z",
+ "as_of": "2026-09-07T23:33:41Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves AstraZeneca\u2019s oral SERD for breast cancer despite negative adcomm vote",
+   "url": "https://endpoints.news/fda-approves-astrazenecas-oral-serd-for-breast-cancer-despite-negative-adcomm-vote/",
+   "published_iso": "2026-09-07",
+   "raw_score": 5.2,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Novartis' Phase 3 pelacarsen study miss raises the stakes for Amgen, Lilly",
