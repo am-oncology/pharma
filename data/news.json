@@ -1,6 +1,20 @@
 {
- "as_of": "2026-09-07T13:27:52Z",
+ "as_of": "2026-09-07T16:49:30Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Novartis' Phase 3 pelacarsen study miss raises the stakes for Amgen, Lilly",
+   "url": "https://endpoints.news/novartis-phase-3-pelacarsen-study-miss-raises-the-stakes-for-amgen-lilly/",
+   "published_iso": "2026-09-07",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "NVS",
+    "NVO",
+    "AMGN"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Updated: Novo Nordisk cans 2 more trials of IL-6 heart drug for futility",
@@ -245,17 +259,6 @@
     "REGN",
     "BMRN",
     "JAZZ"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "China deaths reignite debate about using viruses to deliver CRISPR therapies",
-   "url": "https://endpoints.news/china-deaths-reignite-debate-about-using-viruses-to-deliver-crispr-therapies/",
-   "published_iso": "2026-09-02",
-   "raw_score": 0.0,
-   "tickers": [
-    "CRSP"
    ],
    "hard": false
   },
