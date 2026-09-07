@@ -1,6 +1,28 @@
 {
- "as_of": "2026-09-05T13:18:18Z",
+ "as_of": "2026-09-07T13:27:52Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Updated: Novo Nordisk cans 2 more trials of IL-6 heart drug for futility",
+   "url": "https://endpoints.news/novo-nordisk-cans-two-more-trials-of-il-6-heart-drug-for-futility/",
+   "published_iso": "2026-09-07",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
+   "url": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
+   "published_iso": "2026-09-07",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVO"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "CAR-T deaths prompt halt by Novartis; Eli Lilly\u2019s 13th acquisition of 2026; and more",
@@ -65,6 +87,17 @@
    "raw_score": 0.0,
    "tickers": [
     "PFE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Grants Accelerated Approval to Etcamah (camizestrant) in Combination with a CDK4/6 Inhibitor for the Treatment of Advanced HR-Positive Breast Cancer",
+   "url": "https://www.drugs.com/newdrugs/fda-grants-accelerated-approval-etcamah-camizestrant-combination-cdk4-6-inhibitor-advanced-hr-6877.html",
+   "published_iso": "2026-09-04",
+   "raw_score": 2.2,
+   "tickers": [
+    "AZN"
    ],
    "hard": false
   },
@@ -180,6 +213,17 @@
    "hard": false
   },
   {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Zanvastro (zilganersen) for the Treatment of Alexander Disease",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-zanvastro-zilganersen-alexander-6876.html",
+   "published_iso": "2026-09-03",
+   "raw_score": 3.0,
+   "tickers": [
+    "IONS"
+   ],
+   "hard": false
+  },
+  {
    "source": "Endpoints News",
    "title": "Novartis CAR-T deaths raise questions over acceptable autoimmune risk",
    "url": "https://endpoints.news/novartis-car-t-deaths-raise-questions-over-acceptable-autoimmune-risk/",
@@ -208,17 +252,6 @@
    "source": "Endpoints News",
    "title": "China deaths reignite debate about using viruses to deliver CRISPR therapies",
    "url": "https://endpoints.news/china-deaths-reignite-debate-about-using-viruses-to-deliver-crispr-therapies/",
-   "published_iso": "2026-09-02",
-   "raw_score": 0.0,
-   "tickers": [
-    "CRSP"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Typewriter raises $56M for jumping gene technology and in vivo CAR-T therapies",
-   "url": "https://endpoints.news/typewriter-raises-56m-for-jumping-gene-technology-and-in-vivo-car-t-therapies/",
    "published_iso": "2026-09-02",
    "raw_score": 0.0,
    "tickers": [
@@ -382,13 +415,24 @@
    "hard": false
   },
   {
-   "source": "Drugs.com New Approvals",
-   "title": "FDA Approves Jideytro (zidesamtinib) for Previously Treated ROS1-Positive Non-Small Cell Lung Cancer",
-   "url": "https://www.drugs.com/newdrugs/fda-approves-jideytro-zidesamtinib-previously-treated-ros1-positive-non-small-cell-lung-cancer-6844.html",
-   "published_iso": "2026-07-22",
-   "raw_score": 3.0,
+   "source": "FierceBiotech",
+   "title": "Novo\u2019s blockbuster hopes for CKD program dwindle after more phase 3 trials scrapped",
+   "url": "https://www.fiercebiotech.com/biotech/novos-blockbuster-hopes-ckd-program-dwindle-after-more-phase-3-trials-scrapped",
+   "published_iso": "",
+   "raw_score": 0.0,
    "tickers": [
-    "GSK"
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "AbbVie-backed ADARx plans IPO to bankroll array of clinical-stage siRNA therapies",
+   "url": "https://www.fiercebiotech.com/biotech/abbvie-backed-adarx-plans-ipo-fund-array-clinical-stage-sirna-therapies",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "ABBV"
    ],
    "hard": false
   },
