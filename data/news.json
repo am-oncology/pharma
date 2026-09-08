@@ -1,6 +1,30 @@
 {
- "as_of": "2026-09-08T15:33:53Z",
+ "as_of": "2026-09-08T23:28:17Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Amgen\u2019s T-cell engager notches major new lung cancer victory",
+   "url": "https://endpoints.news/amgens-t-cell-engager-notches-major-new-lung-cancer-victory/",
+   "published_iso": "2026-09-08",
+   "raw_score": 0.0,
+   "tickers": [
+    "AMGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Sanofi spells out asthma data, AstraZeneca details COPD win at #ERS26",
+   "url": "https://endpoints.news/sanofi-spells-out-asthma-data-astrazeneca-details-copd-win-at-ers26/",
+   "published_iso": "2026-09-08",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "GSK",
+    "SNY"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Bristol Myers claims Phase 2 success for GPRC5D-directed CAR-T",
@@ -184,28 +208,6 @@
    "hard": false
   },
   {
-   "source": "Endpoints News",
-   "title": "Ionis wins FDA approval of Alexander disease drug zilganersen",
-   "url": "https://endpoints.news/ionis-wins-fda-approval-of-alexander-disease-drug-zilganersen/",
-   "published_iso": "2026-09-04",
-   "raw_score": 3.0,
-   "tickers": [
-    "IONS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Novartis\u2019 experimental cardiovascular drug fails a pivotal study",
-   "url": "https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss",
-   "published_iso": "2026-09-04",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Grants Accelerated Approval to Etcamah (camizestrant) in Combination with a CDK4/6 Inhibitor for the Treatment of Advanced HR-Positive Breast Cancer",
    "url": "https://www.drugs.com/newdrugs/fda-grants-accelerated-approval-etcamah-camizestrant-combination-cdk4-6-inhibitor-advanced-hr-6877.html",
@@ -213,28 +215,6 @@
    "raw_score": 2.2,
    "tickers": [
     "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Merck's top dealmaker signals more M&A as Keytruda's patent cliff nears",
-   "url": "https://endpoints.news/mercks-top-dealmaker-signals-more-ma-as-keytrudas-patent-cliff-nears/",
-   "published_iso": "2026-09-03",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Novartis' drug delivery deal with Alteogen; More worker cuts at Cellares",
-   "url": "https://endpoints.news/novartis-drug-delivery-deal-with-alteogen-further-worker-cuts-at-cellares/",
-   "published_iso": "2026-09-03",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
    ],
    "hard": false
   },
@@ -406,6 +386,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "AZ's R&D chief Barr touts internal 'science success story' after IL-33 antibody's stellar showing in COPD",
+   "url": "https://www.fiercebiotech.com/biotech/az-rd-chief-barr-touts-internal-science-success-story-after-il-33-antibodys-stellar-showing",
+   "published_iso": "",
+   "raw_score": 1.8,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "FDA approves AstraZeneca\u2019s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer",
    "url": "https://www.fiercebiotech.com/pharma/fda-approves-astrazeneca-etcamah-opening-ctdna-guided-treatment-shift-breast-cancer",
    "published_iso": "",
@@ -516,24 +507,14 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Fierce Biotech Layoff Tracker 2026: Novartis nixes Swiss site; TScan telegraphs 75% headcount drop",
-   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-   "published_iso": "",
-   "raw_score": -1.2,
-   "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "GSK pens $1.3B Hutchmed deal for early-stage KRAS-EGFR cancer asset",
-   "url": "https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset",
+   "source": "FiercePharma",
+   "title": "Amgen\u2019s DLL3-targeted Imdelltra scores overall survival win in first-line small cell lung cancer",
+   "url": "https://www.fiercepharma.com/pharma/amgen-dll3-targeted-imdelltra-scores-overall-survival-win-first-line-small-cell-lung-cancer",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "GSK"
+    "AMGN",
+    "RVMD"
    ],
    "hard": false
   },
@@ -639,40 +620,6 @@
    "hard": false
   },
   {
-   "source": "FiercePharma",
-   "title": "Novartis telegraphs 130 job cuts amid biologics rethink in Switzerland",
-   "url": "https://www.fiercepharma.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Cellares downsizes New Jersey operations after losing BMS cell therapy contract",
-   "url": "https://www.fiercepharma.com/pharma/cellares-restructuring-rolls-new-jersey-amid-cell-therapy-client-loss",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Trump GLP-1 update teases blockbuster annual sales for Lilly from Medicare program: analyst",
-   "url": "https://www.fiercepharma.com/pharma/trump-glp-1-update-suggests-blockbuster-annual-sales-lilly-medicare-program-analyst",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "hard": false
-  },
-  {
    "source": "FDA Press Releases",
    "title": "FDA Licenses First-Ever Freeze-Dried Plasma Product in the U.S.",
    "url": "http://www.fda.gov/news-events/press-announcements/fda-licenses-first-ever-freeze-dried-plasma-product-us",
@@ -682,6 +629,17 @@
     "UTHR"
    ],
    "hard": false
+  },
+  {
+   "source": "FDA Drug Safety",
+   "title": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect",
+   "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-firmware-g3-20076-due-firmware-defect",
+   "published_iso": "",
+   "raw_score": -1.8,
+   "tickers": [
+    "UTHR"
+   ],
+   "hard": true
   },
   {
    "source": "JCO Latest",
