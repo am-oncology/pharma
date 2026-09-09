@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-09T12:18:22Z",
+ "as_of": "2026-09-09T15:29:50Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -37,8 +37,19 @@
    "hard": false
   },
   {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about an AstraZeneca COPD win, the FDA filling key jobs, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/09/09/astrazeneca-copd-win-fda-filling-key-jobs/?utm_campaign=rss",
+   "published_iso": "2026-09-09",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
    "source": "Endpoints News",
-   "title": "Amgen\u2019s T cell engager notches major new lung cancer victory",
+   "title": "Amgen\u2019s T cell engager notches new major lung cancer victory",
    "url": "https://endpoints.news/amgens-t-cell-engager-notches-major-new-lung-cancer-victory/",
    "published_iso": "2026-09-08",
    "raw_score": 0.0,
@@ -147,17 +158,6 @@
    "raw_score": 0.0,
    "tickers": [
     "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: UnitedHealth executives shower high-ranking Democrat with donations ahead of midterms",
-   "url": "https://www.statnews.com/2026/09/08/uhg-political-donations-katherine-clark-democratic-whip-medicare-for-all/?utm_campaign=rss",
-   "published_iso": "2026-09-08",
-   "raw_score": 0.0,
-   "tickers": [
-    "UTHR"
    ],
    "hard": false
   },
@@ -351,6 +351,29 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Kura creates Lilly-backed spinout armed with $50M to advance next-gen diabetes therapy",
+   "url": "https://www.fiercebiotech.com/biotech/kura-creates-lilly-backed-spinout-take-forward-next-gen-diabetes-therapy",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "KURA"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Fierce Biotech Layoff Tracker 2026: Merck trims more NJ jobs; Novartis nixes Swiss site",
+   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+   "published_iso": "",
+   "raw_score": -1.2,
+   "tickers": [
+    "MRK",
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "AZ's R&D chief Barr touts internal 'science success story' after IL-33 antibody's stellar showing in COPD",
    "url": "https://www.fiercebiotech.com/biotech/az-rd-chief-barr-touts-internal-science-success-story-after-il-33-antibodys-stellar-showing",
    "published_iso": "",
@@ -405,49 +428,26 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Guardant wins FDA nod for diagnostic guiding use of AstraZeneca\u2019s Etcamah",
-   "url": "https://www.fiercebiotech.com/medtech/guardant-nabs-fda-approval-diagnostic-seeking-out-patients-astrazenecas-new-cancer-med",
+   "source": "FiercePharma",
+   "title": "Merck trims another 54 jobs in New Jersey amid multiyear cost-cutting initiative",
+   "url": "https://www.fiercepharma.com/pharma/merck-cuts-another-54-new-jersey-meet-2027-cost-cutting-deadline",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "AZN"
+    "MRK"
    ],
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "AbbVie-backed ADARx plans IPO to bankroll array of clinical-stage siRNA therapies",
-   "url": "https://www.fiercebiotech.com/biotech/abbvie-backed-adarx-plans-ipo-fund-array-clinical-stage-sirna-therapies",
+   "source": "FiercePharma",
+   "title": "BioMarin pads case for Voxzogo expansion as achondroplasia competition field shifts",
+   "url": "https://www.fiercepharma.com/pharma/biomarin-pads-case-voxzogo-expansion-achondroplasia-competition-field-shifts",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "ABBV"
+    "BMRN"
    ],
    "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Novartis Lp(a) drug fails to lower cardiovascular risk in closely watched ph. 3 trial",
-   "url": "https://www.fiercebiotech.com/biotech/novartis-lpa-drug-fails-lower-cardiovascular-risk-closely-watched-ph-3-trial",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS",
-    "IONS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Ionis\u2019 \u2018breakthrough\u2019 Alexander disease approval establishes pillar of rare disease pipeline",
-   "url": "https://www.fiercebiotech.com/pharma/ionis-breakthrough-alexander-disease-approval-establishes-pillar-rare-disease-pipeline",
-   "published_iso": "",
-   "raw_score": -1.8,
-   "tickers": [
-    "IONS"
-   ],
-   "hard": true
   },
   {
    "source": "FiercePharma",
@@ -548,17 +548,6 @@
    "raw_score": 0.0,
    "tickers": [
     "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "ESC: Amgen CMO flags Repatha 'inflection' amid new data on mortality benefit",
-   "url": "https://www.fiercepharma.com/pharma/esc-amgen-cmo-flags-repatha-inflection-mortality-data-headline-cardiology-conference-outing",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AMGN"
    ],
    "hard": false
   },
