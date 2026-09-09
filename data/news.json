@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-09T15:29:50Z",
+ "as_of": "2026-09-09T23:18:50Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Compass posts positive psilocybin data; Solstice makes $225M debut",
+   "url": "https://endpoints.news/compass-posts-positive-psilocybin-data-solstice-makes-225m-debut/",
+   "published_iso": "2026-09-09",
+   "raw_score": 0.0,
+   "tickers": [
+    "GILD"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Cancer biotech TwoStep gets $62.5M to take twist on ADCs into clinic",
@@ -83,40 +94,6 @@
    "hard": true
   },
   {
-   "source": "Endpoints News",
-   "title": "Diabetes cell therapy biotechs Sernova and Seraxis to merge",
-   "url": "https://endpoints.news/diabetes-cell-therapy-biotechs-sernova-and-seraxis-to-merge/",
-   "published_iso": "2026-09-08",
-   "raw_score": 0.0,
-   "tickers": [
-    "VRTX",
-    "CRSP"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "#ERS26: Beam says AATD base editing data hold up after one year",
-   "url": "https://endpoints.news/ers26-beam-says-aatd-base-editing-data-hold-up-after-one-year/",
-   "published_iso": "2026-09-08",
-   "raw_score": 0.0,
-   "tickers": [
-    "BEAM"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Updated: Novartis sinks after second disastrous trial failure, this time of Avidity-acquired drug",
-   "url": "https://endpoints.news/novartis-sinks-after-second-disastrous-trial-failure-this-time-of-avidity-acquired-drug/",
-   "published_iso": "2026-09-08",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
    "source": "STAT News",
    "title": "STAT+: UnitedHealth\u2019s Democrat investment, and surprise billing bloat debate",
    "url": "https://www.statnews.com/2026/09/08/unitedhealth-campaign-donations-katherine-clark-no-surprises-act-debate/?utm_campaign=rss",
@@ -156,17 +133,6 @@
    "url": "https://www.statnews.com/2026/09/08/astrazeneca-tozorakimab-copd-exacerbations-titania-oberon/?utm_campaign=rss",
    "published_iso": "2026-09-08",
    "raw_score": 0.0,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "FDA approves AstraZeneca\u2019s oral SERD for breast cancer despite negative adcomm vote",
-   "url": "https://endpoints.news/fda-approves-astrazenecas-oral-serd-for-breast-cancer-despite-negative-adcomm-vote/",
-   "published_iso": "2026-09-07",
-   "raw_score": 5.2,
    "tickers": [
     "AZN"
    ],
@@ -417,17 +383,6 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Novo\u2019s blockbuster hopes for CKD program dwindle after more phase 3 trials scrapped",
-   "url": "https://www.fiercebiotech.com/biotech/novos-blockbuster-hopes-ckd-program-dwindle-after-more-phase-3-trials-scrapped",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVO"
-   ],
-   "hard": false
-  },
-  {
    "source": "FiercePharma",
    "title": "Merck trims another 54 jobs in New Jersey amid multiyear cost-cutting initiative",
    "url": "https://www.fiercepharma.com/pharma/merck-cuts-another-54-new-jersey-meet-2027-cost-cutting-deadline",
@@ -537,17 +492,6 @@
    "tickers": [
     "NVS",
     "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Novartis puts MS advocacy on the podium through social media partnership with British Olympian",
-   "url": "https://www.fiercepharma.com/marketing/novartis-puts-ms-advocacy-podium-through-social-media-partnership-british-olympian",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
    ],
    "hard": false
   },
