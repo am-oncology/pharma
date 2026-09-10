@@ -1,6 +1,18 @@
 {
- "as_of": "2026-09-10T12:12:43Z",
+ "as_of": "2026-09-10T15:24:50Z",
  "articles": [
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about a Novartis investor seeking a shake-up, a Gilead setback, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/09/10/novartis-investor-seeking-shake-up-gilead-uk-hiv-setback/?utm_campaign=rss",
+   "published_iso": "2026-09-10",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS",
+    "GILD"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Compass posts positive psilocybin data; Solstice makes $225M debut",
@@ -79,28 +91,6 @@
     "AZN",
     "GSK",
     "SNY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Bristol Myers claims Phase 2 success for GPRC5D-directed CAR-T",
-   "url": "https://endpoints.news/bristol-myers-claims-phase-2-success-for-gprc5d-directed-car-t/",
-   "published_iso": "2026-09-08",
-   "raw_score": -3.0,
-   "tickers": [
-    "RVMD"
-   ],
-   "hard": true
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: UnitedHealth\u2019s Democrat investment, and surprise billing bloat debate",
-   "url": "https://www.statnews.com/2026/09/08/unitedhealth-campaign-donations-katherine-clark-no-surprises-act-debate/?utm_campaign=rss",
-   "published_iso": "2026-09-08",
-   "raw_score": 0.0,
-   "tickers": [
-    "UTHR"
    ],
    "hard": false
   },
@@ -283,6 +273,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Novartis shareholder calls for board overhaul following costly deal setbacks: Reuters",
+   "url": "https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Kura creates Lilly-backed spinout armed with $50M to advance next-gen diabetes therapy",
    "url": "https://www.fiercebiotech.com/biotech/kura-creates-lilly-backed-spinout-take-forward-next-gen-diabetes-therapy",
    "published_iso": "",
@@ -327,13 +328,57 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Bristol Myers\u2019 pivotal CAR-T multiple myeloma trial hits primary endpoint",
-   "url": "https://www.fiercebiotech.com/biotech/bristol-myers-pivotal-car-t-multiple-myeloma-trial-hits-primary-endpoint",
+   "source": "FiercePharma",
+   "title": "AbbVie lines up Qulipta expansion with phase 3 win in untapped menstrual migraine indication",
+   "url": "https://www.fiercepharma.com/pharma/abbvie-lines-qulipta-expansion-phase-3-win-untapped-menstrual-migraine-indication",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "BMY"
+    "ABBV"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Novartis shareholder calls for board overhaul following costly deal setbacks: Reuters",
+   "url": "https://www.fiercepharma.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "In draft guidance, NICE rebuffs Gilead's twice-a-year PrEP med for national coverage",
+   "url": "https://www.fiercepharma.com/pharma/draft-guidance-uk-cost-arbiter-nice-rebuffs-gileads-twice-year-prep-med-national-coverage",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GILD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Precision Medicine Has a Commercialization Problem",
+   "url": "https://www.fiercepharma.com/sponsored/precision-medicine-has-commercialization-problem",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Sanofi hits the pickleball court in education push for COVID vax Nuvaxovid",
+   "url": "https://www.fiercepharma.com/marketing/sanofi-bounces-usa-pickleball-partnership-promote-nuvaxovid-covid-vaccine-older-adults",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "SNY"
    ],
    "hard": false
   },
@@ -414,41 +459,6 @@
     "IONS"
    ],
    "hard": true
-  },
-  {
-   "source": "FiercePharma",
-   "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill, Lilly's Foundayo grow scripts",
-   "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "UCB\u2019s Bimzelx comes from out of the blue to claim August\u2019s top pharma ad spending spot",
-   "url": "https://www.fiercepharma.com/marketing/ucbs-bimzelx-comes-out-blue-claim-augusts-top-pharma-ad-spending-spot",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "ABBV"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Fierce Pharma Asia\u2014Roche, GSK, Novartis billion-dollar deals; More MFN sign-ups; Akeso\u2019s OS win",
-   "url": "https://www.fiercepharma.com/pharma/roche-gsk-novartis-billion-dollar-deals-more-mfn-sign-ups-akeso-os-win",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS",
-    "GSK"
-   ],
-   "hard": false
   },
   {
    "source": "FDA Press Releases",
