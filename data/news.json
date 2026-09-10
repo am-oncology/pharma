@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-10T15:24:50Z",
+ "as_of": "2026-09-10T23:14:30Z",
  "articles": [
   {
    "source": "STAT News",
@@ -10,6 +10,17 @@
    "tickers": [
     "NVS",
     "GILD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Nature Biotechnology",
+   "title": "Moderna flu vaccine wins FDA approval",
+   "url": "https://www.nature.com/articles/s41587-026-03313-y",
+   "published_iso": "2026-09-10",
+   "raw_score": 3.0,
+   "tickers": [
+    "MRNA"
    ],
    "hard": false
   },
@@ -82,19 +93,6 @@
    "hard": false
   },
   {
-   "source": "Endpoints News",
-   "title": "Sanofi spells out asthma data, AstraZeneca details COPD win at #ERS26",
-   "url": "https://endpoints.news/sanofi-spells-out-asthma-data-astrazeneca-details-copd-win-at-ers26/",
-   "published_iso": "2026-09-08",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN",
-    "GSK",
-    "SNY"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Grants Accelerated Approval to Etcamah (camizestrant) in Combination with a CDK4/6 Inhibitor for the Treatment of Advanced HR-Positive Breast Cancer",
    "url": "https://www.drugs.com/newdrugs/fda-grants-accelerated-approval-etcamah-camizestrant-combination-cdk4-6-inhibitor-advanced-hr-6877.html",
@@ -113,17 +111,6 @@
    "raw_score": 3.0,
    "tickers": [
     "IONS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Nature Biotechnology",
-   "title": "A pervasive RT\u2013qPCR artifact inflates RNA knockdown by RNA-targeting CRISPR",
-   "url": "https://www.nature.com/articles/s41587-026-03291-1",
-   "published_iso": "2026-09-01",
-   "raw_score": 0.0,
-   "tickers": [
-    "CRSP"
    ],
    "hard": false
   },
