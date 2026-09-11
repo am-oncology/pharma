@@ -1,6 +1,30 @@
 {
- "as_of": "2026-09-10T23:14:30Z",
+ "as_of": "2026-09-11T12:10:19Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Takeda's R&D chief Andy Plump to retire; Novo Nordisk appoints global research head",
+   "url": "https://endpoints.news/takedas-r-novo-nordisk-appoints-global-research-head/",
+   "published_iso": "2026-09-11",
+   "raw_score": 3.0,
+   "tickers": [
+    "SNY",
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Novartis, Novo Nordisk drug failures will likely \u2018pop a hole in the balloon\u2019 of the field",
+   "url": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss",
+   "published_iso": "2026-09-11",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS",
+    "NVO"
+   ],
+   "hard": false
+  },
   {
    "source": "STAT News",
    "title": "STAT+: Pharmalittle: We\u2019re reading about a Novartis investor seeking a shake-up, a Gilead setback, and more",
@@ -67,17 +91,6 @@
    "raw_score": 0.0,
    "tickers": [
     "BMY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about an AstraZeneca COPD win, the FDA filling key jobs, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/09/09/astrazeneca-copd-win-fda-filling-key-jobs/?utm_campaign=rss",
-   "published_iso": "2026-09-09",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
    ],
    "hard": false
   },
@@ -435,17 +448,6 @@
     "SNY"
    ],
    "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Ionis\u2019 \u2018breakthrough\u2019 Alexander disease approval establishes pillar of rare disease pipeline",
-   "url": "https://www.fiercepharma.com/pharma/ionis-breakthrough-alexander-disease-approval-establishes-pillar-rare-disease-pipeline",
-   "published_iso": "",
-   "raw_score": -1.8,
-   "tickers": [
-    "IONS"
-   ],
-   "hard": true
   },
   {
    "source": "FDA Press Releases",
