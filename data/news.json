@@ -1,6 +1,28 @@
 {
- "as_of": "2026-09-11T15:26:59Z",
+ "as_of": "2026-09-11T23:20:15Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "FDA extends review of Exelixis' colorectal cancer drug candidate",
+   "url": "https://endpoints.news/fda-extends-review-of-exelixis-colorectal-cancer-drug-candidate/",
+   "published_iso": "2026-09-11",
+   "raw_score": 0.0,
+   "tickers": [
+    "EXEL"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Yarrow brings in more cash; AbbVie drug succeeds in menstrual migraine trial",
+   "url": "https://endpoints.news/yarrow-brings-in-more-cash-abbvie-drug-succeeds-in-menstrual-migraine-trial/",
+   "published_iso": "2026-09-11",
+   "raw_score": 0.0,
+   "tickers": [
+    "ABBV"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Takeda's R&D chief Andy Plump to retire; Novo Nordisk appoints global research head",
@@ -342,6 +364,17 @@
   },
   {
    "source": "FiercePharma",
+   "title": "After FDA nod for novel Cabometyx formulation, analysts predict limited threat to Exelixis",
+   "url": "https://www.fiercepharma.com/pharma/after-fda-nod-novel-cabometyx-formulation-analyst-predicts-limited-threat-exelixis",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "EXEL"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill, Lilly's Foundayo continue prescription climb",
    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
    "published_iso": "",
@@ -387,23 +420,23 @@
   },
   {
    "source": "FiercePharma",
-   "title": "Sanofi hits the pickleball court in education push for COVID vax Nuvaxovid",
-   "url": "https://www.fiercepharma.com/marketing/sanofi-bounces-usa-pickleball-partnership-promote-nuvaxovid-covid-vaccine-older-adults",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "SNY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
    "title": "Precision Medicine Has a Commercialization Problem",
    "url": "https://www.fiercepharma.com/sponsored/precision-medicine-has-commercialization-problem",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
     "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Sanofi hits the pickleball court in education push for COVID vax Nuvaxovid",
+   "url": "https://www.fiercepharma.com/marketing/sanofi-bounces-usa-pickleball-partnership-promote-nuvaxovid-covid-vaccine-older-adults",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "SNY"
    ],
    "hard": false
   },
@@ -460,17 +493,6 @@
    "raw_score": 5.2,
    "tickers": [
     "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Sanofi enlists another celeb mom in actress Keke Palmer to spread the Beyfortus word",
-   "url": "https://www.fiercepharma.com/marketing/sanofi-enlists-celeb-mom-actress-keke-palmer-spread-beyfortus-word-ahead-rsv-season",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "SNY"
    ],
    "hard": false
   },
