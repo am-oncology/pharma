@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-11T12:10:19Z",
+ "as_of": "2026-09-11T15:26:59Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -10,6 +10,17 @@
    "tickers": [
     "SNY",
     "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about anxious Novartis investors, patent expirations for biologics, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss",
+   "published_iso": "2026-09-11",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
    ],
    "hard": false
   },
@@ -91,17 +102,6 @@
    "raw_score": 0.0,
    "tickers": [
     "BMY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Amgen\u2019s T cell engager notches new major lung cancer victory",
-   "url": "https://endpoints.news/amgens-t-cell-engager-notches-major-new-lung-cancer-victory/",
-   "published_iso": "2026-09-08",
-   "raw_score": 0.0,
-   "tickers": [
-    "AMGN"
    ],
    "hard": false
   },
@@ -273,6 +273,41 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "FDA delays approval decision for Exelixis' tyrosine kinase inhibitor in colorectal cancer",
+   "url": "https://www.fiercebiotech.com/biotech/fda-delays-approval-exelixis-tyrosine-kinase-inhibitor-colorectal-cancer-analysts-believe",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "EXEL"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "The future of RAS inhibitors",
+   "url": "https://www.fiercebiotech.com/biotech/future-ras-inhibitors",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Is Moderna, Merck's mRNA cancer vaccine win the start of a 'personalized medicine revolution'?",
+   "url": "https://www.fiercebiotech.com/biotech/moderna-merck-re-invigorating-mrna-cancer-vaccine-therapy",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK",
+    "MRNA",
+    "RVMD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Novartis shareholder calls for board overhaul following costly deal setbacks: Reuters",
    "url": "https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
    "published_iso": "",
@@ -306,24 +341,14 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "AZ's R&D chief Barr touts internal 'science success story' after IL-33 antibody's stellar showing in COPD",
-   "url": "https://www.fiercebiotech.com/biotech/az-rd-chief-barr-touts-internal-science-success-story-after-il-33-antibodys-stellar-showing",
+   "source": "FiercePharma",
+   "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill, Lilly's Foundayo continue prescription climb",
+   "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
    "published_iso": "",
-   "raw_score": 1.8,
+   "raw_score": 0.0,
    "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "FDA approves AstraZeneca\u2019s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer",
-   "url": "https://www.fiercebiotech.com/pharma/fda-approves-astrazeneca-etcamah-opening-ctdna-guided-treatment-shift-breast-cancer",
-   "published_iso": "",
-   "raw_score": 5.2,
-   "tickers": [
-    "AZN"
+    "LLY",
+    "NVO"
    ],
    "hard": false
   },
@@ -362,23 +387,23 @@
   },
   {
    "source": "FiercePharma",
-   "title": "Precision Medicine Has a Commercialization Problem",
-   "url": "https://www.fiercepharma.com/sponsored/precision-medicine-has-commercialization-problem",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "RVMD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
    "title": "Sanofi hits the pickleball court in education push for COVID vax Nuvaxovid",
    "url": "https://www.fiercepharma.com/marketing/sanofi-bounces-usa-pickleball-partnership-promote-nuvaxovid-covid-vaccine-older-adults",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
     "SNY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Precision Medicine Has a Commercialization Problem",
+   "url": "https://www.fiercepharma.com/sponsored/precision-medicine-has-commercialization-problem",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "RVMD"
    ],
    "hard": false
   },
