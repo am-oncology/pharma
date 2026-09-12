@@ -1,6 +1,28 @@
 {
- "as_of": "2026-09-11T23:20:15Z",
+ "as_of": "2026-09-12T13:24:37Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Setbacks for Novartis; Anthropic looks for a dealmaker; and more",
+   "url": "https://endpoints.news/setbacks-for-novartis-anthropic-looks-for-a-dealmaker-and-more/",
+   "published_iso": "2026-09-12",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Breast cancer pill from AstraZeneca misses mark in pivotal trial",
+   "url": "https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss",
+   "published_iso": "2026-09-12",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "FDA extends review of Exelixis' colorectal cancer drug candidate",
