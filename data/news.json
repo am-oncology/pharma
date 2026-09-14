@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-14T17:12:32Z",
+ "as_of": "2026-09-14T23:57:07Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "BioNTech says CTLA-4 drug nearly doubled survival times for lung cancer",
+   "url": "https://endpoints.news/biontech-says-ctla-4-drug-nearly-doubled-survival-times-for-lung-cancer/",
+   "published_iso": "2026-09-14",
+   "raw_score": 0.0,
+   "tickers": [
+    "BNTX"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "GSK to wind down German vaccine factory due to lack of demand",
@@ -144,17 +155,6 @@
    "tickers": [
     "SNY",
     "NVO"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about anxious Novartis investors, patent expirations for biologics, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss",
-   "published_iso": "2026-09-11",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
    ],
    "hard": false
   },
@@ -321,17 +321,6 @@
    "raw_score": 3.0,
    "tickers": [
     "MRNA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Drugs.com New Approvals",
-   "title": "FDA Approves Pluvicto for PSMA+ Metastatic Hormone-Sensitive Prostate Cancer (mHSPC)",
-   "url": "https://www.drugs.com/newdrugs/fda-approves-pluvicto-psma-metastatic-hormone-sensitive-prostate-cancer-mhspc-6852.html",
-   "published_iso": "2026-07-31",
-   "raw_score": 3.0,
-   "tickers": [
-    "NVS"
    ],
    "hard": false
   },
