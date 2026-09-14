@@ -1,6 +1,40 @@
 {
- "as_of": "2026-09-14T13:51:31Z",
+ "as_of": "2026-09-14T17:12:32Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "GSK to wind down German vaccine factory due to lack of demand",
+   "url": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
+   "published_iso": "2026-09-14",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "GSK heads to FDA with recently acquired drug from Nuvalent",
+   "url": "https://endpoints.news/gsk-heads-to-fda-with-recently-acquired-drug-from-nuvalent/",
+   "published_iso": "2026-09-14",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK",
+    "NUVL"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Electra aims for nearly $300M IPO; Enhertu's Phase 3 lung cancer success",
+   "url": "https://endpoints.news/electra-aims-for-nearly-300m-ipo-enhertus-phase-3-lung-cancer-success/",
+   "published_iso": "2026-09-14",
+   "raw_score": 0.0,
+   "tickers": [
+    "SNY"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Novo Nordisk shortens its name in brand and culture reboot",
@@ -121,18 +155,6 @@
    "raw_score": 0.0,
    "tickers": [
     "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Novartis, Novo Nordisk drug failures will likely \u2018pop a hole in the balloon\u2019 of the field",
-   "url": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss",
-   "published_iso": "2026-09-11",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS",
-    "NVO"
    ],
    "hard": false
   },
@@ -315,6 +337,29 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Lilly cans early experimental obesity drug after \u2018high bar\u2019 not met",
+   "url": "https://www.fiercebiotech.com/biotech/lilly-cans-early-experimental-obesity-drug-after-high-bar-not-met",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Corbus posts phase 1 obesity data for drug mechanism that defeated Novo, Sanofi",
+   "url": "https://www.fiercebiotech.com/biotech/corbus-posts-phase-1-obesity-data-area-where-novo-and-sanofi-stumbled",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "SNY",
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "No more Nordisk as Novo goes it alone amid rebranding push",
    "url": "https://www.fiercebiotech.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push",
    "published_iso": "",
@@ -407,13 +452,13 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Kura creates Lilly-backed spinout armed with $50M to advance next-gen diabetes therapy",
-   "url": "https://www.fiercebiotech.com/biotech/kura-creates-lilly-backed-spinout-take-forward-next-gen-diabetes-therapy",
+   "source": "FiercePharma",
+   "title": "GSK makes \u2018difficult decision\u2019 to shutter German flu vaccine manufacturing site",
+   "url": "https://www.fiercepharma.com/manufacturing/gsk-makes-difficult-decision-shutter-german-flu-vaccine-manufacturing-site",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "KURA"
+    "GSK"
    ],
    "hard": false
   },
