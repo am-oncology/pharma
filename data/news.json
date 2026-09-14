@@ -1,6 +1,62 @@
 {
- "as_of": "2026-09-12T13:24:37Z",
+ "as_of": "2026-09-14T13:51:31Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Novo Nordisk shortens its name in brand and culture reboot",
+   "url": "https://endpoints.news/novo-nordisk-shortens-its-name-in-brand-and-culture-reboot/",
+   "published_iso": "2026-09-14",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "AstraZeneca\u2019s next-gen SERD Etcamah disappoints in untreated advanced breast cancer",
+   "url": "https://endpoints.news/astrazenecas-next-gen-serd-etcamah-disappoints-in-untreated-advanced-breast-cancer/",
+   "published_iso": "2026-09-14",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: GSK touts lung cancer data from two drugs",
+   "url": "https://www.statnews.com/2026/09/14/biotech-news-gsk-touts-lung-cancer-data-from-two-drugs/?utm_campaign=rss",
+   "published_iso": "2026-09-14",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about another AstraZeneca trial failure, a Novo name change, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/09/14/another-astrazeneca-trial-failure-novo-name-change/?utm_campaign=rss",
+   "published_iso": "2026-09-14",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: What\u2019s in a name? Novo looks to a rebrand",
+   "url": "https://www.statnews.com/2026/09/14/novo-nordisk-company-rebrand-obesity-diabetes/?utm_campaign=rss",
+   "published_iso": "2026-09-14",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVO"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Setbacks for Novartis; Anthropic looks for a dealmaker; and more",
@@ -81,18 +137,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about a Novartis investor seeking a shake-up, a Gilead setback, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/09/10/novartis-investor-seeking-shake-up-gilead-uk-hiv-setback/?utm_campaign=rss",
-   "published_iso": "2026-09-10",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS",
-    "GILD"
-   ],
-   "hard": false
-  },
-  {
    "source": "Nature Biotechnology",
    "title": "Moderna flu vaccine wins FDA approval",
    "url": "https://www.nature.com/articles/s41587-026-03313-y",
@@ -100,52 +144,6 @@
    "raw_score": 3.0,
    "tickers": [
     "MRNA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Compass posts positive psilocybin data; Solstice makes $225M debut",
-   "url": "https://endpoints.news/compass-posts-positive-psilocybin-data-solstice-makes-225m-debut/",
-   "published_iso": "2026-09-09",
-   "raw_score": 0.0,
-   "tickers": [
-    "GILD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Cancer biotech TwoStep gets $62.5M to take twist on ADCs into clinic",
-   "url": "https://endpoints.news/cancer-biotech-twostep-gets-62-5m-to-take-twist-on-adcs-into-clinic/",
-   "published_iso": "2026-09-09",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "PFE",
-    "TWST"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Kura Oncology spins out diabetes pipeline with $50M and Lilly's help",
-   "url": "https://endpoints.news/kura-oncology-spins-out-diabetes-pipeline-with-50m-and-lillys-help/",
-   "published_iso": "2026-09-09",
-   "raw_score": 0.0,
-   "tickers": [
-    "KURA"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Beeline Medicines reports promising Phase 2 lupus data",
-   "url": "https://endpoints.news/beeline-medicines-reports-promising-phase-2-lupus-data/",
-   "published_iso": "2026-09-09",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY"
    ],
    "hard": false
   },
@@ -317,6 +315,53 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "No more Nordisk as Novo goes it alone amid rebranding push",
+   "url": "https://www.fiercebiotech.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY",
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Roche, MediLink notch phase 3 lung cancer win but trail GSK on cross-trial survival",
+   "url": "https://www.fiercebiotech.com/biotech/roche-and-medilink-notch-phase-3-lung-cancer-win-trail-gsk-cross-trial-survival",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "BioNTech sets survival standard in hard-to-treat cancer ahead of pivotal readout",
+   "url": "https://www.fiercebiotech.com/biotech/biontech-sets-survival-standard-hard-treat-cancer-ahead-pivotal-readout",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "BNTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "GSK\u2019s Hansoh-partnered ADC lays down marker for lung cancer scrap with Merck",
+   "url": "https://www.fiercebiotech.com/biotech/gsks-adc-lays-down-marker-lung-cancer-scrap-merck-co",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK",
+    "GSK",
+    "AMGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "FDA delays approval decision for Exelixis' tyrosine kinase inhibitor in colorectal cancer",
    "url": "https://www.fiercebiotech.com/biotech/fda-delays-approval-exelixis-tyrosine-kinase-inhibitor-colorectal-cancer-analysts-believe",
    "published_iso": "",
@@ -373,14 +418,59 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Fierce Biotech Layoff Tracker 2026: Merck trims more NJ jobs; Novartis nixes Swiss site",
-   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+   "source": "FiercePharma",
+   "title": "No more Nordisk as Novo goes it alone amid rebranding push",
+   "url": "https://www.fiercepharma.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push",
    "published_iso": "",
-   "raw_score": -1.2,
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY",
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Increased deaths shadow AstraZeneca, Daiichi\u2019s Enhertu first-line lung cancer data",
+   "url": "https://www.fiercepharma.com/pharma/higher-death-risk-shadows-astrazeneca-daiichi-enhertu-first-line-lung-cancer-data",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "GSK prepares frontline FDA bid for Jideytro, its first lung cancer drug",
+   "url": "https://www.fiercepharma.com/pharma/gsk-prepares-frontline-fda-bid-jideytro-its-first-lung-cancer-drug",
+   "published_iso": "",
+   "raw_score": 3.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Merck, Gilead\u2019s failed Trodelvy lung cancer trial shows better China results",
+   "url": "https://www.fiercepharma.com/pharma/merck-gileads-failed-trodelvy-trial-first-line-lung-cancer-shows-better-china-results",
+   "published_iso": "",
+   "raw_score": 0.0,
    "tickers": [
     "MRK",
-    "NVS"
+    "GILD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "AstraZeneca\u2019s Etcamah flunks first-line breast cancer trial, adding to oral SERDs\u2019 failure record",
+   "url": "https://www.fiercepharma.com/pharma/astrazeneca-etcamah-flunks-first-line-breast-cancer-trial-adding-oral-serds-failure-record",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
    ],
    "hard": false
   },
@@ -463,62 +553,6 @@
    "hard": false
   },
   {
-   "source": "FiercePharma",
-   "title": "Merck trims another 54 jobs in New Jersey amid multiyear cost-cutting initiative",
-   "url": "https://www.fiercepharma.com/pharma/merck-cuts-another-54-new-jersey-meet-2027-cost-cutting-deadline",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "BioMarin pads case for Voxzogo expansion as achondroplasia competition field shifts",
-   "url": "https://www.fiercepharma.com/pharma/biomarin-pads-case-voxzogo-expansion-achondroplasia-competition-field-shifts",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMRN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Amgen\u2019s DLL3-targeted Imdelltra scores overall survival win in first-line small cell lung cancer",
-   "url": "https://www.fiercepharma.com/pharma/amgen-dll3-targeted-imdelltra-scores-overall-survival-win-first-line-small-cell-lung-cancer",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AMGN",
-    "RVMD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Novo Nordisk\u2019s Wegovy helps free 40% of kids from obesity in phase 3 trial",
-   "url": "https://www.fiercepharma.com/pharma/novo-nordisks-wegovy-helps-free-40-kids-obesity-phase-3-trial",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVO"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "FDA approves AstraZeneca\u2019s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer",
-   "url": "https://www.fiercepharma.com/pharma/fda-approves-astrazeneca-etcamah-opening-ctdna-guided-treatment-shift-breast-cancer",
-   "published_iso": "",
-   "raw_score": 5.2,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
    "source": "FDA Press Releases",
    "title": "FDA Licenses First-Ever Freeze-Dried Plasma Product in the U.S.",
    "url": "http://www.fda.gov/news-events/press-announcements/fda-licenses-first-ever-freeze-dried-plasma-product-us",
@@ -559,17 +593,6 @@
    "raw_score": 0.0,
    "tickers": [
     "SAGE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "The oncologist",
-   "title": "Real-world efficacy and toxicity of tebentafusp in metastatic uveal melanoma patients treated on the United Kingdom expanded access programme.",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42640561/",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "UTHR"
    ],
    "hard": false
   }
