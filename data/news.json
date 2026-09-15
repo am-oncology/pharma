@@ -1,6 +1,28 @@
 {
- "as_of": "2026-09-15T15:52:29Z",
+ "as_of": "2026-09-15T23:36:21Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Klomp, Warren spar over MFN deal contracts",
+   "url": "https://endpoints.news/klomp-warren-spar-over-mfn-deal-contracts/",
+   "published_iso": "2026-09-15",
+   "raw_score": 0.0,
+   "tickers": [
+    "EXAS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves first radioligand generic, setting up rivalry with Novartis",
+   "url": "https://endpoints.news/fda-approves-first-radioligand-generic-setting-up-rivalry-with-novartis/",
+   "published_iso": "2026-09-15",
+   "raw_score": 3.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Rocket's Danon plans; Novo leaves Ascendis; Lilly's latest deal",
@@ -133,39 +155,6 @@
    "raw_score": 3.0,
    "tickers": [
     "UTHR"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Setbacks for Novartis; Anthropic looks for a dealmaker; and more",
-   "url": "https://endpoints.news/setbacks-for-novartis-anthropic-looks-for-a-dealmaker-and-more/",
-   "published_iso": "2026-09-12",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "FDA extends review of Exelixis' colorectal cancer drug candidate",
-   "url": "https://endpoints.news/fda-extends-review-of-exelixis-colorectal-cancer-drug-candidate/",
-   "published_iso": "2026-09-11",
-   "raw_score": 0.0,
-   "tickers": [
-    "EXEL"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Yarrow brings in more cash; AbbVie drug succeeds in menstrual migraine trial",
-   "url": "https://endpoints.news/yarrow-brings-in-more-cash-abbvie-drug-succeeds-in-menstrual-migraine-trial/",
-   "published_iso": "2026-09-11",
-   "raw_score": 0.0,
-   "tickers": [
-    "ABBV"
    ],
    "hard": false
   },
@@ -426,17 +415,15 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "GSK\u2019s Hansoh-partnered ADC lays down marker for lung cancer scrap with Merck",
-   "url": "https://www.fiercebiotech.com/biotech/gsks-adc-lays-down-marker-lung-cancer-scrap-merck-co",
+   "source": "FiercePharma",
+   "title": "BioMarin drops Voxzogo development for Noonan syndrome as treatment landscape shifts",
+   "url": "https://www.fiercepharma.com/pharma/biomarin-cuts-voxzogo-studies-children-noonan-syndrome-amid-growing-competition",
    "published_iso": "",
-   "raw_score": 0.0,
+   "raw_score": -2.2,
    "tickers": [
-    "MRK",
-    "GSK",
-    "AMGN"
+    "BMRN"
    ],
-   "hard": false
+   "hard": true
   },
   {
    "source": "FiercePharma",
