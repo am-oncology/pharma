@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-14T23:57:07Z",
+ "as_of": "2026-09-15T12:37:24Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "GSK strikes deal for Chimagen\u2019s T cell engager for blood cancer",
+   "url": "https://endpoints.news/gsk-strikes-deal-for-chimagens-t-cell-engager-for-blood-cancer/",
+   "published_iso": "2026-09-15",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "BioNTech says CTLA-4 drug nearly doubled survival times for lung cancer",
@@ -99,6 +110,17 @@
    "raw_score": 0.0,
    "tickers": [
     "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Pixclara (floretyrosine F 18) FET-PET Imaging Agent for Glioma",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-pixclara-floretyrosine-f-18-fet-pet-imaging-agent-glioma-6882.html",
+   "published_iso": "2026-09-14",
+   "raw_score": 3.0,
+   "tickers": [
+    "UTHR"
    ],
    "hard": false
   },
@@ -326,6 +348,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "GSK doubles down on Chimagen with $750M multiple myeloma wager",
+   "url": "https://www.fiercebiotech.com/biotech/gsk-doubles-down-chimagen-750m-multiple-myeloma-wager",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Lilly cans early experimental obesity drug after \u2018high bar\u2019 not met",
    "url": "https://www.fiercebiotech.com/biotech/lilly-cans-early-experimental-obesity-drug-after-high-bar-not-met",
    "published_iso": "",
@@ -426,17 +459,6 @@
     "MRK",
     "MRNA",
     "RVMD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Novartis shareholder calls for board overhaul following costly deal setbacks: Reuters",
-   "url": "https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
    ],
    "hard": false
   },
@@ -561,28 +583,6 @@
    "raw_score": 0.0,
    "tickers": [
     "GILD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Precision Medicine Has a Commercialization Problem",
-   "url": "https://www.fiercepharma.com/sponsored/precision-medicine-has-commercialization-problem",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "RVMD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Sanofi hits the pickleball court in education push for COVID vax Nuvaxovid",
-   "url": "https://www.fiercepharma.com/marketing/sanofi-bounces-usa-pickleball-partnership-promote-nuvaxovid-covid-vaccine-older-adults",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "SNY"
    ],
    "hard": false
   },
