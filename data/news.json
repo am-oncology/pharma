@@ -1,10 +1,44 @@
 {
- "as_of": "2026-09-15T12:37:24Z",
+ "as_of": "2026-09-15T15:52:29Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Rocket's Danon plans; Novo leaves Ascendis; Lilly's latest deal",
+   "url": "https://endpoints.news/rockets-danon-plans-novo-leaves-ascendis-lillys-latest-deal/",
+   "published_iso": "2026-09-15",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMRN",
+    "ARWR"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "GSK to wind down German vaccine factory due to lack of demand",
+   "url": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
+   "published_iso": "2026-09-15",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "GSK strikes deal for Chimagen\u2019s T cell engager for blood cancer",
    "url": "https://endpoints.news/gsk-strikes-deal-for-chimagens-t-cell-engager-for-blood-cancer/",
+   "published_iso": "2026-09-15",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about a GSK deal for a drug from China, job losses in the U.S., and more",
+   "url": "https://www.statnews.com/pharmalot/2026/09/15/gsk-china-drug-licensing-deal-job-losses/?utm_campaign=rss",
    "published_iso": "2026-09-15",
    "raw_score": 0.0,
    "tickers": [
@@ -20,17 +54,6 @@
    "raw_score": 0.0,
    "tickers": [
     "BNTX"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "GSK to wind down German vaccine factory due to lack of demand",
-   "url": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
-   "published_iso": "2026-09-14",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
    ],
    "hard": false
   },
@@ -103,17 +126,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: What\u2019s in a name? Novo looks to a rebrand",
-   "url": "https://www.statnews.com/2026/09/14/novo-nordisk-company-rebrand-obesity-diabetes/?utm_campaign=rss",
-   "published_iso": "2026-09-14",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVO"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Pixclara (floretyrosine F 18) FET-PET Imaging Agent for Glioma",
    "url": "https://www.drugs.com/newdrugs/fda-approves-pixclara-floretyrosine-f-18-fet-pet-imaging-agent-glioma-6882.html",
@@ -136,17 +148,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: Breast cancer pill from AstraZeneca misses mark in pivotal trial",
-   "url": "https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss",
-   "published_iso": "2026-09-12",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
    "source": "Endpoints News",
    "title": "FDA extends review of Exelixis' colorectal cancer drug candidate",
    "url": "https://endpoints.news/fda-extends-review-of-exelixis-colorectal-cancer-drug-candidate/",
@@ -165,18 +166,6 @@
    "raw_score": 0.0,
    "tickers": [
     "ABBV"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Takeda's R&D chief Andy Plump to retire; Novo Nordisk appoints global research head",
-   "url": "https://endpoints.news/takedas-r-novo-nordisk-appoints-global-research-head/",
-   "published_iso": "2026-09-11",
-   "raw_score": 3.0,
-   "tickers": [
-    "SNY",
-    "NVO"
    ],
    "hard": false
   },
@@ -348,6 +337,28 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Fierce Biotech Layoff Tracker 2026: Sionna halves staff; Merck trims more NJ jobs",
+   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+   "published_iso": "",
+   "raw_score": -1.2,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Lilly pledges up to $237M per program in CNS genetic med collab with Canadian biotech",
+   "url": "https://www.fiercebiotech.com/biotech/lilly-pledges-237m-program-cns-genetic-med-collab-canadian-biotech",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "GSK doubles down on Chimagen with $750M multiple myeloma wager",
    "url": "https://www.fiercebiotech.com/biotech/gsk-doubles-down-chimagen-750m-multiple-myeloma-wager",
    "published_iso": "",
@@ -428,37 +439,46 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "FDA delays approval decision for Exelixis' tyrosine kinase inhibitor in colorectal cancer",
-   "url": "https://www.fiercebiotech.com/biotech/fda-delays-approval-exelixis-tyrosine-kinase-inhibitor-colorectal-cancer-analysts-believe",
+   "source": "FiercePharma",
+   "title": "Sanofi strikes Cheplapharm deal to divest 20 older medicines as CEO pushes for innovation",
+   "url": "https://www.fiercepharma.com/pharma/sanofi-strikes-deal-cheplapharm-divest-20-older-medicines-new-ceos-push-innovation",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "EXEL"
+    "SNY"
    ],
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "The future of RAS inhibitors",
-   "url": "https://www.fiercebiotech.com/biotech/future-ras-inhibitors",
+   "source": "FiercePharma",
+   "title": "AbbVie chips in for neurology advocacy through PGA Tour birdie campaign",
+   "url": "https://www.fiercepharma.com/marketing/abbvie-chips-neurology-advocacy-through-pga-tour-birdie-campaign",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "RVMD"
+    "ABBV"
    ],
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Is Moderna, Merck's mRNA cancer vaccine win the start of a 'personalized medicine revolution'?",
-   "url": "https://www.fiercebiotech.com/biotech/moderna-merck-re-invigorating-mrna-cancer-vaccine-therapy",
+   "source": "FiercePharma",
+   "title": "FDA approves first radioligand equivalent, Curium\u2019s copycat of Novartis\u2019 Lutathera",
+   "url": "https://www.fiercepharma.com/pharma/fda-approves-first-radioligand-equivalent-curiums-copycat-novartis-lutathera",
+   "published_iso": "",
+   "raw_score": 3.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Olympic skier Lindsey Vonn joins up with Vertex for pain campaign",
+   "url": "https://www.fiercepharma.com/marketing/olympic-skier-lindsey-vonn-joins-vertex-pain-campaign",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "MRK",
-    "MRNA",
-    "RVMD"
+    "VRTX"
    ],
    "hard": false
   },
@@ -487,23 +507,23 @@
   },
   {
    "source": "FiercePharma",
-   "title": "Increased deaths shadow AstraZeneca, Daiichi\u2019s Enhertu first-line lung cancer data",
-   "url": "https://www.fiercepharma.com/pharma/higher-death-risk-shadows-astrazeneca-daiichi-enhertu-first-line-lung-cancer-data",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
    "title": "GSK prepares frontline FDA bid for Jideytro, its first lung cancer drug",
    "url": "https://www.fiercepharma.com/pharma/gsk-prepares-frontline-fda-bid-jideytro-its-first-lung-cancer-drug",
    "published_iso": "",
    "raw_score": 3.0,
    "tickers": [
     "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Increased deaths shadow AstraZeneca, Daiichi\u2019s Enhertu first-line lung cancer data",
+   "url": "https://www.fiercepharma.com/pharma/higher-death-risk-shadows-astrazeneca-daiichi-enhertu-first-line-lung-cancer-data",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
    ],
    "hard": false
   },
@@ -550,39 +570,6 @@
    "tickers": [
     "LLY",
     "NVO"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "AbbVie lines up Qulipta expansion with phase 3 win in untapped menstrual migraine indication",
-   "url": "https://www.fiercepharma.com/pharma/abbvie-lines-qulipta-expansion-phase-3-win-untapped-menstrual-migraine-indication",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "ABBV"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Novartis shareholder calls for board overhaul following costly deal setbacks: Reuters",
-   "url": "https://www.fiercepharma.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "In draft guidance, NICE rebuffs Gilead's twice-a-year PrEP med for national coverage",
-   "url": "https://www.fiercepharma.com/pharma/draft-guidance-uk-cost-arbiter-nice-rebuffs-gileads-twice-year-prep-med-national-coverage",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "GILD"
    ],
    "hard": false
   },
