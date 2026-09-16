@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-15T23:36:21Z",
+ "as_of": "2026-09-16T12:34:57Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Novartis' TREM2 drug fails Phase 2 ALS trial",
+   "url": "https://endpoints.news/novartis-trem2-drug-fails-phase-2-als-trial/",
+   "published_iso": "2026-09-16",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Klomp, Warren spar over MFN deal contracts",
@@ -114,36 +125,13 @@
    "hard": false
   },
   {
-   "source": "Endpoints News",
-   "title": "AstraZeneca\u2019s next-gen SERD Etcamah disappoints in untreated advanced breast cancer",
-   "url": "https://endpoints.news/astrazenecas-next-gen-serd-etcamah-disappoints-in-untreated-advanced-breast-cancer/",
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Reduced Monitoring Time for First Two Doses of Imdelltra",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-reduced-monitoring-time-first-two-doses-imdelltra-6885.html",
    "published_iso": "2026-09-14",
-   "raw_score": 0.0,
+   "raw_score": 3.0,
    "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: GSK touts lung cancer data from two drugs",
-   "url": "https://www.statnews.com/2026/09/14/biotech-news-gsk-touts-lung-cancer-data-from-two-drugs/?utm_campaign=rss",
-   "published_iso": "2026-09-14",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN",
-    "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about another AstraZeneca trial failure, a Novo name change, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/09/14/another-astrazeneca-trial-failure-novo-name-change/?utm_campaign=rss",
-   "published_iso": "2026-09-14",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
+    "AMGN"
    ],
    "hard": false
   },
@@ -326,6 +314,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "CEO O\u2019Day tells Fierce how Gilead\u2019s cancer, inflammation expansion has reached \u2018critical mass\u2019",
+   "url": "https://www.fiercebiotech.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GILD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Fierce Biotech Layoff Tracker 2026: Sionna halves staff; Merck trims more NJ jobs",
    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
    "published_iso": "",
@@ -404,17 +403,6 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "BioNTech sets survival standard in hard-to-treat cancer ahead of pivotal readout",
-   "url": "https://www.fiercebiotech.com/biotech/biontech-sets-survival-standard-hard-treat-cancer-ahead-pivotal-readout",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "BNTX"
-   ],
-   "hard": false
-  },
-  {
    "source": "FiercePharma",
    "title": "BioMarin drops Voxzogo development for Noonan syndrome as treatment landscape shifts",
    "url": "https://www.fiercepharma.com/pharma/biomarin-cuts-voxzogo-studies-children-noonan-syndrome-amid-growing-competition",
@@ -424,6 +412,19 @@
     "BMRN"
    ],
    "hard": true
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Standout pharma marketing takes the stage at the 2026 Fierce Pharma Marketing Awards",
+   "url": "https://www.fiercepharma.com/marketing/gsk-novartis-ucb-and-more-snag-wins-2026-fierce-pharma-marketing-awards",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS",
+    "GSK",
+    "ARGX"
+   ],
+   "hard": false
   },
   {
    "source": "FiercePharma",
