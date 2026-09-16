@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-16T15:44:05Z",
+ "as_of": "2026-09-16T23:43:45Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -98,18 +98,6 @@
    "raw_score": 0.0,
    "tickers": [
     "BNTX"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "GSK heads to FDA with recently acquired drug from Nuvalent",
-   "url": "https://endpoints.news/gsk-heads-to-fda-with-recently-acquired-drug-from-nuvalent/",
-   "published_iso": "2026-09-14",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK",
-    "NUVL"
    ],
    "hard": false
   },
@@ -392,6 +380,17 @@
   },
   {
    "source": "FiercePharma",
+   "title": "AZ, Daiichi's Enhertu scores long-awaited NICE blessing in HER2-low breast cancer",
+   "url": "https://www.fiercepharma.com/pharma/az-daiichis-enhertu-wins-long-awaited-nice-blessing",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "BMS, Ono take Amgen to task as FDA's Opdivo biosimilar decision looms",
    "url": "https://www.fiercepharma.com/pharma/bms-ono-take-amgen-task-fdas-opdivo-biosimilar-decision-looms",
    "published_iso": "",
@@ -410,6 +409,19 @@
    "tickers": [
     "NVS",
     "LEGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Standout pharma marketing takes the stage at the 2026 Fierce Pharma Marketing Awards",
+   "url": "https://www.fiercepharma.com/marketing/gsk-novartis-ucb-and-more-snag-wins-2026-fierce-pharma-marketing-awards",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS",
+    "GSK",
+    "ARGX"
    ],
    "hard": false
   },
@@ -434,19 +446,6 @@
     "BMRN"
    ],
    "hard": true
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Standout pharma marketing takes the stage at the 2026 Fierce Pharma Marketing Awards",
-   "url": "https://www.fiercepharma.com/marketing/gsk-novartis-ucb-and-more-snag-wins-2026-fierce-pharma-marketing-awards",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS",
-    "GSK",
-    "ARGX"
-   ],
-   "hard": false
   },
   {
    "source": "FiercePharma",
@@ -500,40 +499,6 @@
    "raw_score": 0.0,
    "tickers": [
     "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "No more Nordisk as Novo goes it alone amid rebranding push",
-   "url": "https://www.fiercepharma.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "GSK prepares frontline FDA bid for Jideytro, its first lung cancer drug",
-   "url": "https://www.fiercepharma.com/pharma/gsk-prepares-frontline-fda-bid-jideytro-its-first-lung-cancer-drug",
-   "published_iso": "",
-   "raw_score": 3.0,
-   "tickers": [
-    "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Increased deaths shadow AstraZeneca, Daiichi\u2019s Enhertu first-line lung cancer data",
-   "url": "https://www.fiercepharma.com/pharma/higher-death-risk-shadows-astrazeneca-daiichi-enhertu-first-line-lung-cancer-data",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
    ],
    "hard": false
   },
