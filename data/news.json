@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-16T12:34:57Z",
+ "as_of": "2026-09-16T15:44:05Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Gilead reaches HIV PrEP agreements; Hong Kong investigates Cloudbreak IPO",
+   "url": "https://endpoints.news/gilead-reaches-hiv-prep-agreements-hong-kong-investigates-cloudbreak-ipo/",
+   "published_iso": "2026-09-16",
+   "raw_score": 0.0,
+   "tickers": [
+    "GILD"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Novartis' TREM2 drug fails Phase 2 ALS trial",
@@ -99,28 +110,6 @@
    "tickers": [
     "GSK",
     "NUVL"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Electra aims for nearly $300M IPO; Enhertu's Phase 3 lung cancer success",
-   "url": "https://endpoints.news/electra-aims-for-nearly-300m-ipo-enhertus-phase-3-lung-cancer-success/",
-   "published_iso": "2026-09-14",
-   "raw_score": 0.0,
-   "tickers": [
-    "SNY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Novo Nordisk shortens its name in brand and culture reboot",
-   "url": "https://endpoints.news/novo-nordisk-shortens-its-name-in-brand-and-culture-reboot/",
-   "published_iso": "2026-09-14",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVO"
    ],
    "hard": false
   },
@@ -314,6 +303,28 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Novartis ends ALS program after phase 2 flop, adding to R&D woes",
+   "url": "https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Novartis pays Sironax $125M to acquire platform for crossing the blood-brain barrier",
+   "url": "https://www.fiercebiotech.com/biotech/novartis-pays-sironax-125m-acquire-platform-crossing-blood-brain-barrier",
+   "published_iso": "",
+   "raw_score": 2.5,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "CEO O\u2019Day tells Fierce how Gilead\u2019s cancer, inflammation expansion has reached \u2018critical mass\u2019",
    "url": "https://www.fiercebiotech.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter",
    "published_iso": "",
@@ -380,25 +391,36 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "No more Nordisk as Novo goes it alone amid rebranding push",
-   "url": "https://www.fiercebiotech.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push",
+   "source": "FiercePharma",
+   "title": "BMS, Ono take Amgen to task as FDA's Opdivo biosimilar decision looms",
+   "url": "https://www.fiercepharma.com/pharma/bms-ono-take-amgen-task-fdas-opdivo-biosimilar-decision-looms",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "LLY",
-    "NVO"
+    "AMGN"
    ],
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Roche, MediLink notch phase 3 lung cancer win but trail GSK on cross-trial survival",
-   "url": "https://www.fiercebiotech.com/biotech/roche-and-medilink-notch-phase-3-lung-cancer-win-trail-gsk-cross-trial-survival",
+   "source": "FiercePharma",
+   "title": "Legend Biotech names Novartis veteran Ingrid Zhang as new CEO",
+   "url": "https://www.fiercepharma.com/pharma/legend-biotech-names-novartis-veteran-ingrid-zhang-new-ceo",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "GSK"
+    "NVS",
+    "LEGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "CEO O\u2019Day tells Fierce how Gilead\u2019s cancer, inflammation expansion has reached \u2018critical mass\u2019",
+   "url": "https://www.fiercepharma.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GILD"
    ],
    "hard": false
   },
@@ -512,52 +534,6 @@
    "raw_score": 0.0,
    "tickers": [
     "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Merck, Gilead\u2019s failed Trodelvy lung cancer trial shows better China results",
-   "url": "https://www.fiercepharma.com/pharma/merck-gileads-failed-trodelvy-trial-first-line-lung-cancer-shows-better-china-results",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "GILD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "AstraZeneca\u2019s Etcamah flunks first-line breast cancer trial, adding to oral SERDs\u2019 failure record",
-   "url": "https://www.fiercepharma.com/pharma/astrazeneca-etcamah-flunks-first-line-breast-cancer-trial-adding-oral-serds-failure-record",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "After FDA nod for novel Cabometyx formulation, analysts predict limited threat to Exelixis",
-   "url": "https://www.fiercepharma.com/pharma/after-fda-nod-novel-cabometyx-formulation-analyst-predicts-limited-threat-exelixis",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "EXEL"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill, Lilly's Foundayo continue prescription climb",
-   "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY",
-    "NVO"
    ],
    "hard": false
   },
