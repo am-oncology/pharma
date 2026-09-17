@@ -1,6 +1,41 @@
 {
- "as_of": "2026-09-16T23:43:45Z",
+ "as_of": "2026-09-17T12:34:28Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Bavarian Nordic names Tarja Stenvall as new CEO",
+   "url": "https://endpoints.news/bavarian-nordic-names-tarja-stenvall-as-new-ceo/",
+   "published_iso": "2026-09-17",
+   "raw_score": 0.0,
+   "tickers": [
+    "PFE",
+    "AZN",
+    "SNY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: England to cover AstraZeneca breast cancer drug, a result of U.K.-U.S. drug pricing deal",
+   "url": "https://www.statnews.com/2026/09/17/astrazeneca-enhertu-breast-cancer-england-nice-pricing-agreement-us-trade-deal/?utm_campaign=rss",
+   "published_iso": "2026-09-17",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Nature Biotechnology",
+   "title": "Gene editing using large insertions",
+   "url": "https://www.nature.com/articles/s41587-026-03319-6",
+   "published_iso": "2026-09-17",
+   "raw_score": 0.0,
+   "tickers": [
+    "CRSP"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Gilead reaches HIV PrEP agreements; Hong Kong investigates Cloudbreak IPO",
@@ -76,28 +111,6 @@
    "raw_score": 0.0,
    "tickers": [
     "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about a GSK deal for a drug from China, job losses in the U.S., and more",
-   "url": "https://www.statnews.com/pharmalot/2026/09/15/gsk-china-drug-licensing-deal-job-losses/?utm_campaign=rss",
-   "published_iso": "2026-09-15",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "BioNTech says CTLA-4 drug nearly doubled survival times for lung cancer",
-   "url": "https://endpoints.news/biontech-says-ctla-4-drug-nearly-doubled-survival-times-for-lung-cancer/",
-   "published_iso": "2026-09-14",
-   "raw_score": 0.0,
-   "tickers": [
-    "BNTX"
    ],
    "hard": false
   },
