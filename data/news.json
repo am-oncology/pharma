@@ -1,6 +1,29 @@
 {
- "as_of": "2026-09-17T15:50:20Z",
+ "as_of": "2026-09-17T23:38:13Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Bristol Myers scraps $100M Orum-partnered cancer drug",
+   "url": "https://endpoints.news/bristol-myers-scraps-orum-partnered-cancer-drug/",
+   "published_iso": "2026-09-17",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMY",
+    "TWST"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves Ultragenyx's gene therapy for Sanfilippo syndrome type A",
+   "url": "https://endpoints.news/fda-approves-ultragenyxs-gene-therapy-for-sanfilippo-syndrome-type-a/",
+   "published_iso": "2026-09-17",
+   "raw_score": 3.0,
+   "tickers": [
+    "RARE"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "A Parkinson's biotech debut, fundraising campaign and licensing deal",
@@ -33,6 +56,17 @@
    "raw_score": 0.0,
    "tickers": [
     "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Fayuvi (rebisufligene etisparvovec-hopf) Gene Therapy for the Treatment for Sanfilippo Syndrome Type A (MPS IIIA)",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-fayuvi-rebisufligene-etisparvovec-hopf-gene-therapy-sanfilippo-syndrome-type-mps-iiia-6890.html",
+   "published_iso": "2026-09-17",
+   "raw_score": 3.0,
+   "tickers": [
+    "RARE"
    ],
    "hard": false
   },
@@ -77,40 +111,6 @@
    "raw_score": 0.0,
    "tickers": [
     "EXAS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "FDA approves first radioligand generic, setting up rivalry with Novartis",
-   "url": "https://endpoints.news/fda-approves-first-radioligand-generic-setting-up-rivalry-with-novartis/",
-   "published_iso": "2026-09-15",
-   "raw_score": 3.0,
-   "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Rocket's Danon plans; Novo leaves Ascendis; Lilly's latest deal",
-   "url": "https://endpoints.news/rockets-danon-plans-novo-leaves-ascendis-lillys-latest-deal/",
-   "published_iso": "2026-09-15",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMRN",
-    "ARWR"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "GSK to wind down German vaccine factory due to lack of demand",
-   "url": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
-   "published_iso": "2026-09-15",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
    ],
    "hard": false
   },
@@ -381,6 +381,17 @@
   },
   {
    "source": "FiercePharma",
+   "title": "FDA approves Ultragenyx\u2019s gene therapy Fayuvi for rare neurodegenerative disorder",
+   "url": "https://www.fiercepharma.com/pharma/fda-approves-ultragenyx-gene-therapy-fayuvi-rare-neurodegenerative-disorder",
+   "published_iso": "",
+   "raw_score": 6.0,
+   "tickers": [
+    "RARE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "Bavarian Nordic secures Sanofi, AZ vet to fill shoes of longtime CEO Paul Chaplin",
    "url": "https://www.fiercepharma.com/pharma/bavarian-nordic-secures-sanofi-az-vet-fill-shoes-longtime-ceo-paul-chaplin",
    "published_iso": "",
@@ -389,6 +400,17 @@
     "PFE",
     "AZN",
     "SNY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Eli Lilly dishes out fresh produce to cultivate Alzheimer\u2019s awareness",
+   "url": "https://www.fiercepharma.com/marketing/eli-lilly-dishes-out-fresh-produce-cultivate-alzheimers-awareness",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
    ],
    "hard": false
   },
@@ -491,28 +513,6 @@
    "raw_score": 0.0,
    "tickers": [
     "ABBV"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "FDA approves first radioligand equivalent, Curium\u2019s copycat of Novartis\u2019 Lutathera",
-   "url": "https://www.fiercepharma.com/pharma/fda-approves-first-radioligand-equivalent-curiums-copycat-novartis-lutathera",
-   "published_iso": "",
-   "raw_score": 3.0,
-   "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Olympic skier Lindsey Vonn joins up with Vertex for pain campaign",
-   "url": "https://www.fiercepharma.com/marketing/olympic-skier-lindsey-vonn-joins-vertex-pain-campaign",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "VRTX"
    ],
    "hard": false
   },
