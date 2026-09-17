@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-17T12:34:28Z",
+ "as_of": "2026-09-17T15:50:20Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "A Parkinson's biotech debut, fundraising campaign and licensing deal",
+   "url": "https://endpoints.news/a-parkinsons-biotech-debut-fundraising-campaign-and-licensing-deal/",
+   "published_iso": "2026-09-17",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Bavarian Nordic names Tarja Stenvall as new CEO",
@@ -96,17 +107,6 @@
    "source": "Endpoints News",
    "title": "GSK to wind down German vaccine factory due to lack of demand",
    "url": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
-   "published_iso": "2026-09-15",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "GSK strikes deal for Chimagen\u2019s T cell engager for blood cancer",
-   "url": "https://endpoints.news/gsk-strikes-deal-for-chimagens-t-cell-engager-for-blood-cancer/",
    "published_iso": "2026-09-15",
    "raw_score": 0.0,
    "tickers": [
@@ -304,6 +304,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "'Still a bull': Novo's CEO on honoring heritage and planning for the future amid corporate rebrand",
+   "url": "https://www.fiercebiotech.com/pharma/still-bull-novos-ceo-honoring-heritage-and-planning-future-amid-corporate-rebrand",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Novartis ends ALS program after phase 2 flop, adding to R&D woes",
    "url": "https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes",
    "published_iso": "",
@@ -369,25 +380,26 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Lilly cans early experimental obesity drug after \u2018high bar\u2019 not met",
-   "url": "https://www.fiercebiotech.com/biotech/lilly-cans-early-experimental-obesity-drug-after-high-bar-not-met",
+   "source": "FiercePharma",
+   "title": "Bavarian Nordic secures Sanofi, AZ vet to fill shoes of longtime CEO Paul Chaplin",
+   "url": "https://www.fiercepharma.com/pharma/bavarian-nordic-secures-sanofi-az-vet-fill-shoes-longtime-ceo-paul-chaplin",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "LLY"
+    "PFE",
+    "AZN",
+    "SNY"
    ],
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Corbus posts phase 1 obesity data for drug mechanism that defeated Novo, Sanofi",
-   "url": "https://www.fiercebiotech.com/biotech/corbus-posts-phase-1-obesity-data-area-where-novo-and-sanofi-stumbled",
+   "source": "FiercePharma",
+   "title": "'Still a bull': Novo's CEO on honoring heritage and planning for the future amid corporate rebrand",
+   "url": "https://www.fiercepharma.com/pharma/still-bull-novos-ceo-honoring-heritage-and-planning-future-amid-corporate-rebrand",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "SNY",
-    "NVO"
+    "LLY"
    ],
    "hard": false
   },
@@ -427,6 +439,17 @@
   },
   {
    "source": "FiercePharma",
+   "title": "CEO O\u2019Day tells Fierce how Gilead\u2019s cancer, inflammation expansion has reached \u2018critical mass\u2019",
+   "url": "https://www.fiercepharma.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GILD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "Standout pharma marketing takes the stage at the 2026 Fierce Pharma Marketing Awards",
    "url": "https://www.fiercepharma.com/marketing/gsk-novartis-ucb-and-more-snag-wins-2026-fierce-pharma-marketing-awards",
    "published_iso": "",
@@ -435,17 +458,6 @@
     "NVS",
     "GSK",
     "ARGX"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "CEO O\u2019Day tells Fierce how Gilead\u2019s cancer, inflammation expansion has reached \u2018critical mass\u2019",
-   "url": "https://www.fiercepharma.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "GILD"
    ],
    "hard": false
   },
@@ -501,17 +513,6 @@
    "raw_score": 0.0,
    "tickers": [
     "VRTX"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "GSK makes \u2018difficult decision\u2019 to shutter German flu vaccine manufacturing site",
-   "url": "https://www.fiercepharma.com/manufacturing/gsk-makes-difficult-decision-shutter-german-flu-vaccine-manufacturing-site",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
    ],
    "hard": false
   },
