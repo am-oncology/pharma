@@ -1,6 +1,19 @@
 {
- "as_of": "2026-09-17T23:38:13Z",
+ "as_of": "2026-09-18T12:13:24Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Legend names new CEO as Carvykti competition grows; Vertex makes a flurry of moves",
+   "url": "https://endpoints.news/legend-names-new-ceo-as-carvykti-competition-grows-vertex-makes-a-flurry-of-moves/",
+   "published_iso": "2026-09-18",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS",
+    "VRTX",
+    "LEGN"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Bristol Myers scraps $100M Orum-partnered cancer drug",
@@ -100,17 +113,6 @@
    "raw_score": 0.0,
    "tickers": [
     "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Klomp, Warren spar over MFN deal contracts",
-   "url": "https://endpoints.news/klomp-warren-spar-over-mfn-deal-contracts/",
-   "published_iso": "2026-09-15",
-   "raw_score": 0.0,
-   "tickers": [
-    "EXAS"
    ],
    "hard": false
   },
@@ -304,6 +306,28 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Xenon pauses phase 3 depression trials after psychosis events",
+   "url": "https://www.fiercebiotech.com/biotech/xenon-pauses-phase-3-depression-trials-after-psychosis-events",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "XENE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "BMS dumps $100M Orum degrader-antibody conjugate after glimpsing phase 1 data",
+   "url": "https://www.fiercebiotech.com/biotech/bristol-myers-dumps-100m-orum-degrader-antibody-conjugate-after-phase-1-look",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "'Still a bull': Novo's CEO on honoring heritage and planning for the future amid corporate rebrand",
    "url": "https://www.fiercebiotech.com/pharma/still-bull-novos-ceo-honoring-heritage-and-planning-future-amid-corporate-rebrand",
    "published_iso": "",
@@ -365,17 +389,6 @@
    "raw_score": 0.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "GSK doubles down on Chimagen with $750M multiple myeloma wager",
-   "url": "https://www.fiercebiotech.com/biotech/gsk-doubles-down-chimagen-750m-multiple-myeloma-wager",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
    ],
    "hard": false
   },
