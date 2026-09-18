@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-18T12:13:24Z",
+ "as_of": "2026-09-18T23:21:59Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves Lilly's oral SERD combo for second-line breast cancer therapy",
+   "url": "https://endpoints.news/fda-approves-lillys-oral-serd-combo-for-second-line-breast-cancer-therapy/",
+   "published_iso": "2026-09-18",
+   "raw_score": 3.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Legend names new CEO as Carvykti competition grows; Vertex makes a flurry of moves",
@@ -11,6 +22,17 @@
     "NVS",
     "VRTX",
     "LEGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Roche expands its Boston footprint with new research center",
+   "url": "https://www.statnews.com/2026/09/18/biotech-news-roche-expands-it-boston-footprint-with-research-center/?utm_campaign=rss",
+   "published_iso": "2026-09-18",
+   "raw_score": 0.0,
+   "tickers": [
+    "XENE"
    ],
    "hard": false
   },
@@ -62,17 +84,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: England to cover AstraZeneca breast cancer drug, a result of U.K.-U.S. drug pricing deal",
-   "url": "https://www.statnews.com/2026/09/17/astrazeneca-enhertu-breast-cancer-england-nice-pricing-agreement-us-trade-deal/?utm_campaign=rss",
-   "published_iso": "2026-09-17",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Fayuvi (rebisufligene etisparvovec-hopf) Gene Therapy for the Treatment for Sanfilippo Syndrome Type A (MPS IIIA)",
    "url": "https://www.drugs.com/newdrugs/fda-approves-fayuvi-rebisufligene-etisparvovec-hopf-gene-therapy-sanfilippo-syndrome-type-mps-iiia-6890.html",
@@ -91,28 +102,6 @@
    "raw_score": 0.0,
    "tickers": [
     "CRSP"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Gilead reaches HIV PrEP agreements; Hong Kong investigates Cloudbreak IPO",
-   "url": "https://endpoints.news/gilead-reaches-hiv-prep-agreements-hong-kong-investigates-cloudbreak-ipo/",
-   "published_iso": "2026-09-16",
-   "raw_score": 0.0,
-   "tickers": [
-    "GILD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Novartis' TREM2 drug fails Phase 2 ALS trial",
-   "url": "https://endpoints.news/novartis-trem2-drug-fails-phase-2-als-trial/",
-   "published_iso": "2026-09-16",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
    ],
    "hard": false
   },
@@ -306,6 +295,29 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Artelo\u2019s ex-AstraZeneca cannabinoid agonist holds its own against GLP-1 drug semaglutide in obese mice",
+   "url": "https://www.fiercebiotech.com/research/artelos-ex-astrazeneca-cannabinoid-agonist-holds-its-own-against-glp1s-obese-mice",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Chutes & Ladders\u2014Legend poaches Novartis vet to boost commercial potential",
+   "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-legend-poaches-novartis-vet-boost-commercial-potential",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS",
+    "LEGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Xenon pauses phase 3 depression trials after psychosis events",
    "url": "https://www.fiercebiotech.com/biotech/xenon-pauses-phase-3-depression-trials-after-psychosis-events",
    "published_iso": "",
@@ -371,24 +383,36 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Fierce Biotech Layoff Tracker 2026: Sionna halves staff; Merck trims more NJ jobs",
-   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+   "source": "FiercePharma",
+   "title": "Eli Lilly escalates oral SERD battle with FDA approval for Inluriyo, Verzenio combo",
+   "url": "https://www.fiercepharma.com/pharma/eli-lilly-escalates-oral-serd-battle-fda-approval-inluriyo-verzenio-combo",
    "published_iso": "",
-   "raw_score": -1.2,
+   "raw_score": 3.0,
    "tickers": [
-    "MRK"
+    "LLY"
    ],
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Lilly pledges up to $237M per program in CNS genetic med collab with Canadian biotech",
-   "url": "https://www.fiercebiotech.com/biotech/lilly-pledges-237m-program-cns-genetic-med-collab-canadian-biotech",
+   "source": "FiercePharma",
+   "title": "The Oral GLP-1 Tracker: Holiday takes toll on prescriptions",
+   "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Fierce Pharma Asia\u2014China deals safe from COINS?; Key WCLC data; Legend\u2019s new CEO",
+   "url": "https://www.fiercepharma.com/pharma/china-deals-safe-coins-act-key-wclc-data-legend-new-ceo",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LEGN"
    ],
    "hard": false
   },
@@ -480,52 +504,6 @@
    "raw_score": 0.0,
    "tickers": [
     "GILD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Standout pharma marketing takes the stage at the 2026 Fierce Pharma Marketing Awards",
-   "url": "https://www.fiercepharma.com/marketing/gsk-novartis-ucb-and-more-snag-wins-2026-fierce-pharma-marketing-awards",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS",
-    "GSK",
-    "ARGX"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "BioMarin drops Voxzogo development for Noonan syndrome as treatment landscape shifts",
-   "url": "https://www.fiercepharma.com/pharma/biomarin-cuts-voxzogo-studies-children-noonan-syndrome-amid-growing-competition",
-   "published_iso": "",
-   "raw_score": -2.2,
-   "tickers": [
-    "BMRN"
-   ],
-   "hard": true
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Sanofi strikes Cheplapharm deal to divest 20 older medicines as CEO pushes for innovation",
-   "url": "https://www.fiercepharma.com/pharma/sanofi-strikes-deal-cheplapharm-divest-20-older-medicines-new-ceos-push-innovation",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "SNY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "AbbVie chips in for neurology advocacy through PGA Tour birdie campaign",
-   "url": "https://www.fiercepharma.com/marketing/abbvie-chips-neurology-advocacy-through-pga-tour-birdie-campaign",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "ABBV"
    ],
    "hard": false
   },
