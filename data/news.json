@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-18T23:21:59Z",
+ "as_of": "2026-09-19T13:44:39Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Another Novartis failure; Novo drops the \u2018Nordisk\u2019; and more",
+   "url": "https://endpoints.news/another-novartis-failure-novo-drops-the-nordisk-and-more/",
+   "published_iso": "2026-09-19",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "FDA approves Lilly's oral SERD combo for second-line breast cancer therapy",
@@ -279,17 +290,6 @@
    "raw_score": 2.2,
    "tickers": [
     "BMY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Drugs.com New Approvals",
-   "title": "FDA Approves mFLUSIVA (influenza vaccine, mRNA) for the Prevention of Seasonal Influenza",
-   "url": "https://www.drugs.com/newdrugs/fda-approves-mflusiva-influenza-vaccine-mrna-prevention-seasonal-influenza-6855.html",
-   "published_iso": "2026-08-05",
-   "raw_score": 3.0,
-   "tickers": [
-    "MRNA"
    ],
    "hard": false
   },
