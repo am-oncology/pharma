@@ -1,6 +1,52 @@
 {
- "as_of": "2026-09-21T13:51:35Z",
+ "as_of": "2026-09-21T17:21:59Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Pfizer, Lilly 'most favored nation' deals to give US share of raised foreign prices",
+   "url": "https://endpoints.news/pfizer-lilly-most-favored-nation-deals-to-give-us-share-of-raised-foreign-prices/",
+   "published_iso": "2026-09-21",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY",
+    "PFE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves ataxia-telangiectasia drug; Alkermes reports ADHD data",
+   "url": "https://endpoints.news/fda-approves-ataxia-telangiectasia-drug-alkermes-reports-adhd-data/",
+   "published_iso": "2026-09-21",
+   "raw_score": 3.0,
+   "tickers": [
+    "BMY",
+    "ALKS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Novo offers low-dose CagriSema data as approval decision looms",
+   "url": "https://endpoints.news/novo-offers-low-dose-cagrisema-data-as-approval-decision-looms/",
+   "published_iso": "2026-09-21",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Iambic signs AbbVie deal, releases next generation of Enchant model",
+   "url": "https://endpoints.news/iambic-signs-abbvie-deal-releases-next-generation-of-enchant-model/",
+   "published_iso": "2026-09-21",
+   "raw_score": 0.0,
+   "tickers": [
+    "ABBV"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Beacon says gene therapy succeeds in key trial of rare eye disease XLRP",
@@ -100,17 +146,6 @@
    "raw_score": 3.0,
    "tickers": [
     "RARE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "A Parkinson's biotech debut, fundraising campaign and licensing deal",
-   "url": "https://endpoints.news/a-parkinsons-biotech-debut-fundraising-campaign-and-licensing-deal/",
-   "published_iso": "2026-09-17",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
    ],
    "hard": false
   },
@@ -405,6 +440,28 @@
   },
   {
    "source": "FiercePharma",
+   "title": "Bayer offloads cancer drug Stivarga to Gr\u00fcnenthal for up to $431M as new competition looms",
+   "url": "https://www.fiercepharma.com/pharma/bayer-offloads-cancer-drug-stivarga-grunenthal-431m-new-competition-looms",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "EXEL"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "New MFN deal details reignite concerns that Trump's pricing policy favors pharma",
+   "url": "https://www.fiercepharma.com/pharma/new-mfn-deal-details-reignite-concerns-trumps-pricing-policy-favors-pharma",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "EXAS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "Eli Lilly escalates oral SERD battle with FDA approval for Inluriyo, Verzenio combo",
    "url": "https://www.fiercepharma.com/pharma/eli-lilly-escalates-oral-serd-battle-fda-approval-inluriyo-verzenio-combo",
    "published_iso": "",
@@ -491,29 +548,6 @@
    "raw_score": 0.0,
    "tickers": [
     "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "BMS, Ono take Amgen to task as FDA's Opdivo biosimilar decision looms",
-   "url": "https://www.fiercepharma.com/pharma/bms-ono-take-amgen-task-fdas-opdivo-biosimilar-decision-looms",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AMGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Legend Biotech names Novartis veteran Ingrid Zhang as new CEO",
-   "url": "https://www.fiercepharma.com/pharma/legend-biotech-names-novartis-veteran-ingrid-zhang-new-ceo",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS",
-    "LEGN"
    ],
    "hard": false
   },
