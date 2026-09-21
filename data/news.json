@@ -1,6 +1,39 @@
 {
- "as_of": "2026-09-19T13:44:39Z",
+ "as_of": "2026-09-21T13:51:35Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Beacon says gene therapy succeeds in key trial of rare eye disease XLRP",
+   "url": "https://endpoints.news/beacon-says-gene-therapy-succeeds-in-key-trial-of-rare-eye-disease-xlrp/",
+   "published_iso": "2026-09-21",
+   "raw_score": 0.0,
+   "tickers": [
+    "BIIB"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about Novo plans to expand its pipeline, early Alkermes ADHD data, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/09/21/novo-to-expand-pipeline-alkermes-releases-adhd-data/?utm_campaign=rss",
+   "published_iso": "2026-09-21",
+   "raw_score": 0.0,
+   "tickers": [
+    "ALKS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Alkermes\u2019 orexin agonist shows potential to treat ADHD in early-stage trial",
+   "url": "https://www.statnews.com/2026/09/21/alkermes-orexin-agonist-adhd-study/?utm_campaign=rss",
+   "published_iso": "2026-09-21",
+   "raw_score": 0.0,
+   "tickers": [
+    "ALKS"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Another Novartis failure; Novo drops the \u2018Nordisk\u2019; and more",
@@ -78,19 +111,6 @@
    "raw_score": 0.0,
    "tickers": [
     "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Bavarian Nordic names Tarja Stenvall as new CEO",
-   "url": "https://endpoints.news/bavarian-nordic-names-tarja-stenvall-as-new-ceo/",
-   "published_iso": "2026-09-17",
-   "raw_score": 0.0,
-   "tickers": [
-    "PFE",
-    "AZN",
-    "SNY"
    ],
    "hard": false
   },
@@ -295,6 +315,40 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "With pioneering ADHD data, Alkermes eyes orexin agonist as potential \u2018company changer\u2019",
+   "url": "https://www.fiercebiotech.com/biotech/pioneering-adhd-data-alkermes-eyes-orexin-agonist-potential-company-changer",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "ALKS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Analysts \u2018extremely bullish\u2019 as Telix beams into Novartis\u2019 territory with $1.6B ITM acquisition",
+   "url": "https://www.fiercebiotech.com/biotech/analysts-extremely-bullish-telix-beams-novartis-territory-165b-itm-acquisition",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS",
+    "BEAM"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Retension and Lilly-backed TRex Bio both set out plans to join biotech IPO stampede",
+   "url": "https://www.fiercebiotech.com/biotech/retension-and-lilly-backed-trex-bio-both-set-out-plans-join-biotech-ipo-stampede",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Artelo\u2019s ex-AstraZeneca cannabinoid agonist holds its own against GLP-1 drug semaglutide in obese mice",
    "url": "https://www.fiercebiotech.com/research/artelos-ex-astrazeneca-cannabinoid-agonist-holds-its-own-against-glp1s-obese-mice",
    "published_iso": "",
@@ -346,39 +400,6 @@
    "raw_score": 0.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Novartis ends ALS program after phase 2 flop, adding to R&D woes",
-   "url": "https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Novartis pays Sironax $125M to acquire platform for crossing the blood-brain barrier",
-   "url": "https://www.fiercebiotech.com/biotech/novartis-pays-sironax-125m-acquire-platform-crossing-blood-brain-barrier",
-   "published_iso": "",
-   "raw_score": 2.5,
-   "tickers": [
-    "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "CEO O\u2019Day tells Fierce how Gilead\u2019s cancer, inflammation expansion has reached \u2018critical mass\u2019",
-   "url": "https://www.fiercebiotech.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "GILD"
    ],
    "hard": false
   },
@@ -493,28 +514,6 @@
    "tickers": [
     "NVS",
     "LEGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "CEO O\u2019Day tells Fierce how Gilead\u2019s cancer, inflammation expansion has reached \u2018critical mass\u2019",
-   "url": "https://www.fiercepharma.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "GILD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FDA Press Releases",
-   "title": "FDA Licenses First-Ever Freeze-Dried Plasma Product in the U.S.",
-   "url": "http://www.fda.gov/news-events/press-announcements/fda-licenses-first-ever-freeze-dried-plasma-product-us",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "UTHR"
    ],
    "hard": false
   },
