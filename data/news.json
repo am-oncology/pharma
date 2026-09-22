@@ -1,6 +1,44 @@
 {
- "as_of": "2026-09-22T12:33:42Z",
+ "as_of": "2026-09-22T15:55:40Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Amgen's Phase 3 Sj\u00f6gren's win; Novartis' $900M radioligand deal",
+   "url": "https://endpoints.news/amgens-phase-3-sjogrens-win-novartis-900m-radioligand-deal/",
+   "published_iso": "2026-09-22",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK",
+    "NVS",
+    "AMGN",
+    "IONS",
+    "SAGE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Viking touts once-a-month weight loss maintenance data",
+   "url": "https://endpoints.news/viking-touts-once-a-month-weight-loss-maintenance-data/",
+   "published_iso": "2026-09-22",
+   "raw_score": 0.0,
+   "tickers": [
+    "VKTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Novo may be getting a better deal than expected with Medicare\u2019s Bridge program",
+   "url": "https://www.statnews.com/2026/09/22/biotech-news-novo-may-be-getting-a-better-deal-than-expected-with-medicare-bridge/?utm_campaign=rss",
+   "published_iso": "2026-09-22",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY",
+    "NVO"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Pfizer, Lilly 'most favored nation' deals to give US share of raised foreign prices",
@@ -99,42 +137,6 @@
    "raw_score": 3.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Legend names new CEO as Carvykti competition grows; Vertex makes a flurry of moves",
-   "url": "https://endpoints.news/legend-names-new-ceo-as-carvykti-competition-grows-vertex-makes-a-flurry-of-moves/",
-   "published_iso": "2026-09-18",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS",
-    "VRTX",
-    "LEGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Bristol Myers scraps $100M Orum-partnered cancer drug",
-   "url": "https://endpoints.news/bristol-myers-scraps-orum-partnered-cancer-drug/",
-   "published_iso": "2026-09-17",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY",
-    "TWST"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "FDA approves Ultragenyx's gene therapy for Sanfilippo syndrome type A",
-   "url": "https://endpoints.news/fda-approves-ultragenyxs-gene-therapy-for-sanfilippo-syndrome-type-a/",
-   "published_iso": "2026-09-17",
-   "raw_score": 3.0,
-   "tickers": [
-    "RARE"
    ],
    "hard": false
   },
@@ -328,6 +330,39 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Amgen\u2019s Horizon-acquired fusion protein eases Sj\u00f6gren's severity in ph. 3 win",
+   "url": "https://www.fiercebiotech.com/biotech/amgens-horizon-acquired-fusion-protein-eases-sjogrens-severity-ph-3-win",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AMGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Vertex\u2019s midstage data amplify kidney disease market opportunity",
+   "url": "https://www.fiercebiotech.com/biotech/vertexs-midstage-data-amplify-kidney-disease-market-opportunity",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "VRTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Otsuka heads to FDA as Ionis-partnered ALS drug hits primary phase 3 endpoint",
+   "url": "https://www.fiercebiotech.com/biotech/otsuka-heads-fda-ionis-partnered-als-drug-hits-primary-phase-3-endpoint",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "IONS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Boehringer, Envisagenics sign $1B multi-target oncology collaboration",
    "url": "https://www.fiercebiotech.com/biotech/boehringer-envisagenics-sign-1b-multi-target-oncology-collaboration",
    "published_iso": "",
@@ -383,36 +418,13 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Chutes & Ladders\u2014Legend poaches Novartis vet to boost commercial potential",
-   "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-legend-poaches-novartis-vet-boost-commercial-potential",
+   "source": "FiercePharma",
+   "title": "Travere CEO Eric Dube to step down after transforming the rare disease biotech",
+   "url": "https://www.fiercepharma.com/pharma/travere-ceo-eric-dube-step-down-after-transforming-rare-disease-biotech",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "NVS",
-    "LEGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Xenon pauses phase 3 depression trials after psychosis events",
-   "url": "https://www.fiercebiotech.com/biotech/xenon-pauses-phase-3-depression-trials-after-psychosis-events",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "XENE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "BMS dumps $100M Orum degrader-antibody conjugate after glimpsing phase 1 data",
-   "url": "https://www.fiercebiotech.com/biotech/bristol-myers-dumps-100m-orum-degrader-antibody-conjugate-after-phase-1-look",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY"
+    "FOLD"
    ],
    "hard": false
   },
@@ -500,17 +512,6 @@
    "source": "FiercePharma",
    "title": "Eli Lilly dishes out fresh produce to cultivate Alzheimer\u2019s awareness",
    "url": "https://www.fiercepharma.com/marketing/eli-lilly-dishes-out-fresh-produce-cultivate-alzheimers-awareness",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "'Still a bull': Novo's CEO on honoring heritage and planning for the future amid corporate rebrand",
-   "url": "https://www.fiercepharma.com/pharma/still-bull-novos-ceo-honoring-heritage-and-planning-future-amid-corporate-rebrand",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
