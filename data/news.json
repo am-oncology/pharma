@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-21T17:21:59Z",
+ "as_of": "2026-09-22T00:10:36Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -537,17 +537,6 @@
    "raw_score": 0.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "AZ, Daiichi's Enhertu scores long-awaited NICE blessing in HER2-low breast cancer",
-   "url": "https://www.fiercepharma.com/pharma/az-daiichis-enhertu-wins-long-awaited-nice-blessing",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
    ],
    "hard": false
   },
