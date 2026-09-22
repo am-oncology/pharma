@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-22T15:55:40Z",
+ "as_of": "2026-09-22T23:41:03Z",
  "events": [
   {
    "date": "2026-09-24",
@@ -765,6 +765,18 @@
    "name": "Vertex Pharmaceuticals",
    "label": "Earnings",
    "detail": "Vertex Pharmaceuticals quarterly results",
+   "nct_id": "",
+   "estimated": true,
+   "weight": 0.3
+  },
+  {
+   "date": "2026-11-03",
+   "days_out": 42,
+   "kind": "earnings",
+   "ticker": "PFE",
+   "name": "Pfizer",
+   "label": "Earnings",
+   "detail": "Pfizer quarterly results",
    "nct_id": "",
    "estimated": true,
    "weight": 0.3
@@ -2628,18 +2640,6 @@
    "nct_id": "NCT06572228",
    "estimated": true,
    "weight": 0.35
-  },
-  {
-   "date": "2027-04-27",
-   "days_out": 216,
-   "kind": "readout",
-   "ticker": "NVO",
-   "name": "Novo Nordisk",
-   "label": "Phase 1",
-   "detail": "A Research Study Looking Into How UBT251 Works With Birth Control Tablets and Emptying of the Stomach in Women With Excess Body We",
-   "nct_id": "NCT07710729",
-   "estimated": true,
-   "weight": 0.25
   }
  ]
 }

@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-22T15:55:40Z",
+ "as_of": "2026-09-22T23:41:03Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Vertex aims for broad kidney disease label ahead of key readout next year",
+   "url": "https://endpoints.news/vertex-aims-for-broad-kidney-disease-label-ahead-of-key-readout-next-year/",
+   "published_iso": "2026-09-22",
+   "raw_score": 0.0,
+   "tickers": [
+    "VRTX"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Amgen's Phase 3 Sj\u00f6gren's win; Novartis' $900M radioligand deal",
@@ -126,17 +137,6 @@
    "raw_score": 0.0,
    "tickers": [
     "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "FDA approves Lilly's oral SERD combo for second-line breast cancer therapy",
-   "url": "https://endpoints.news/fda-approves-lillys-oral-serd-combo-for-second-line-breast-cancer-therapy/",
-   "published_iso": "2026-09-18",
-   "raw_score": 3.0,
-   "tickers": [
-    "LLY"
    ],
    "hard": false
   },
@@ -330,6 +330,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Novartis secures new radioligand in $900M deal as competition strengthens",
+   "url": "https://www.fiercebiotech.com/biotech/novartis-secures-new-radioligand-900m-deal-competition-strengthens",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Amgen\u2019s Horizon-acquired fusion protein eases Sj\u00f6gren's severity in ph. 3 win",
    "url": "https://www.fiercebiotech.com/biotech/amgens-horizon-acquired-fusion-protein-eases-sjogrens-severity-ph-3-win",
    "published_iso": "",
@@ -414,6 +425,28 @@
    "raw_score": 0.0,
    "tickers": [
     "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Bristol Myers cuts another 265 jobs tied to New Jersey headquarters",
+   "url": "https://www.fiercepharma.com/pharma/bristol-myers-cuts-another-265-jobs-tied-new-jersey-headquarters",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Regulatory tracker: FDA updates for Merck's Winrevair, Nuvation's Ibtrozi lead regulatory deluge",
+   "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK"
    ],
    "hard": false
   },
@@ -505,17 +538,6 @@
     "PFE",
     "AZN",
     "SNY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Eli Lilly dishes out fresh produce to cultivate Alzheimer\u2019s awareness",
-   "url": "https://www.fiercepharma.com/marketing/eli-lilly-dishes-out-fresh-produce-cultivate-alzheimers-awareness",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
    ],
    "hard": false
   },
