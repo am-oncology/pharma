@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-23T15:44:39Z",
+ "as_of": "2026-09-23T23:46:07Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Chinese vaccine scandal leads to life sentence; Flagship wins defense contract",
+   "url": "https://endpoints.news/chinese-vaccine-scandal-leads-to-life-sentence-flagship-wins-defense-contract/",
+   "published_iso": "2026-09-23",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMY"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Roche kidney drug's Phase 3 win sets up path to accelerated approval",
@@ -103,17 +114,6 @@
    "raw_score": 0.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Iambic signs AbbVie deal, releases next generation of Enchant model",
-   "url": "https://endpoints.news/iambic-signs-abbvie-deal-releases-next-generation-of-enchant-model/",
-   "published_iso": "2026-09-21",
-   "raw_score": 0.0,
-   "tickers": [
-    "ABBV"
    ],
    "hard": false
   },
