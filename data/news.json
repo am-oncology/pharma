@@ -1,6 +1,28 @@
 {
- "as_of": "2026-09-22T23:41:03Z",
+ "as_of": "2026-09-23T12:44:37Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Roche kidney drug's Phase 3 win sets up path to accelerated approval",
+   "url": "https://endpoints.news/roche-kidney-drugs-phase-3-win-sets-up-path-to-accelerated-approval/",
+   "published_iso": "2026-09-23",
+   "raw_score": 2.2,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: UnitedHealth, CVS push back on Medicare plan to curb remote patient monitoring",
+   "url": "https://www.statnews.com/2026/09/23/unitedhealth-cvs-pushback-medicare-plan-rpm-abuse/?utm_campaign=rss",
+   "published_iso": "2026-09-23",
+   "raw_score": 0.0,
+   "tickers": [
+    "UTHR"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Vertex aims for broad kidney disease label ahead of key readout next year",
@@ -22,8 +44,7 @@
     "MRK",
     "NVS",
     "AMGN",
-    "IONS",
-    "SAGE"
+    "IONS"
    ],
    "hard": false
   },
@@ -119,17 +140,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: Alkermes\u2019 orexin agonist shows potential to treat ADHD in early-stage trial",
-   "url": "https://www.statnews.com/2026/09/21/alkermes-orexin-agonist-adhd-study/?utm_campaign=rss",
-   "published_iso": "2026-09-21",
-   "raw_score": 0.0,
-   "tickers": [
-    "ALKS"
-   ],
-   "hard": false
-  },
-  {
    "source": "Endpoints News",
    "title": "Another Novartis failure; Novo drops the \u2018Nordisk\u2019; and more",
    "url": "https://endpoints.news/another-novartis-failure-novo-drops-the-nordisk-and-more/",
@@ -137,6 +147,17 @@
    "raw_score": 0.0,
    "tickers": [
     "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Inluriyo (imlunestrant) in Combination with Verzenio (abemaciclib) for Adults with ER+, HER2-, ESR1-Mutated Advanced or Metastatic Breast Cancer",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-inluriyo-imlunestrant-combination-verzenio-abemaciclib-adults-er-her2-esr1-mutated-6892.html",
+   "published_iso": "2026-09-18",
+   "raw_score": 3.0,
+   "tickers": [
+    "LLY"
    ],
    "hard": false
   },
@@ -330,6 +351,29 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "GSK aiming to \u2018balance West and East\u2019 after Hansoh deal success showed China\u2019s potential",
+   "url": "https://www.fiercebiotech.com/biotech/gsk-trying-balance-east-and-west-hansoh-deal-success-showed-chinas-potential",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Roche\u2019s phase 3 win tees up fight with Novartis for blockbuster kidney disease market",
+   "url": "https://www.fiercebiotech.com/biotech/roches-phase-3-win-tees-fight-novartis-blockbuster-kidney-disease-market",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS",
+    "IONS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Novartis secures new radioligand in $900M deal as competition strengthens",
    "url": "https://www.fiercebiotech.com/biotech/novartis-secures-new-radioligand-900m-deal-competition-strengthens",
    "published_iso": "",
@@ -421,6 +465,17 @@
    "source": "FierceBiotech",
    "title": "Artelo\u2019s ex-AstraZeneca cannabinoid agonist holds its own against GLP-1 drug semaglutide in obese mice",
    "url": "https://www.fiercebiotech.com/research/artelos-ex-astrazeneca-cannabinoid-agonist-holds-its-own-against-glp1s-obese-mice",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "AstraZeneca recommits to youth health to dial funding past $100M",
+   "url": "https://www.fiercepharma.com/marketing/astrazeneca-recommits-youth-health-dial-funding-past-100m",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
@@ -525,19 +580,6 @@
    "raw_score": 6.0,
    "tickers": [
     "RARE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Bavarian Nordic secures Sanofi, AZ vet to fill shoes of longtime CEO Paul Chaplin",
-   "url": "https://www.fiercepharma.com/pharma/bavarian-nordic-secures-sanofi-az-vet-fill-shoes-longtime-ceo-paul-chaplin",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "PFE",
-    "AZN",
-    "SNY"
    ],
    "hard": false
   },
