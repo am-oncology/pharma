@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-23T12:44:37Z",
+ "as_of": "2026-09-23T15:44:39Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -114,39 +114,6 @@
    "raw_score": 0.0,
    "tickers": [
     "ABBV"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Beacon says gene therapy succeeds in key trial of rare eye disease XLRP",
-   "url": "https://endpoints.news/beacon-says-gene-therapy-succeeds-in-key-trial-of-rare-eye-disease-xlrp/",
-   "published_iso": "2026-09-21",
-   "raw_score": 0.0,
-   "tickers": [
-    "BIIB"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about Novo plans to expand its pipeline, early Alkermes ADHD data, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/09/21/novo-to-expand-pipeline-alkermes-releases-adhd-data/?utm_campaign=rss",
-   "published_iso": "2026-09-21",
-   "raw_score": 0.0,
-   "tickers": [
-    "ALKS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Another Novartis failure; Novo drops the \u2018Nordisk\u2019; and more",
-   "url": "https://endpoints.news/another-novartis-failure-novo-drops-the-nordisk-and-more/",
-   "published_iso": "2026-09-19",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS"
    ],
    "hard": false
   },
@@ -351,6 +318,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Immunovant ends cutaneous lupus program after phase 2 flop",
+   "url": "https://www.fiercebiotech.com/biotech/immunovant-ends-cutaneous-lupus-program-after-phase-2-flop",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "IMVT"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "GSK aiming to \u2018balance West and East\u2019 after Hansoh deal success showed China\u2019s potential",
    "url": "https://www.fiercebiotech.com/biotech/gsk-trying-balance-east-and-west-hansoh-deal-success-showed-chinas-potential",
    "published_iso": "",
@@ -451,24 +429,13 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Retension and Lilly-backed TRex Bio both set out plans to join biotech IPO stampede",
-   "url": "https://www.fiercebiotech.com/biotech/retension-and-lilly-backed-trex-bio-both-set-out-plans-join-biotech-ipo-stampede",
+   "source": "FiercePharma",
+   "title": "Eli Lilly CEO touts 70% share as Medicare GLP-1 program reaches 700K seniors",
+   "url": "https://www.fiercepharma.com/pharma/eli-lilly-ceo-touts-70-share-medicare-glp-1-program-reaches-700k-seniors",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Artelo\u2019s ex-AstraZeneca cannabinoid agonist holds its own against GLP-1 drug semaglutide in obese mice",
-   "url": "https://www.fiercebiotech.com/research/artelos-ex-astrazeneca-cannabinoid-agonist-holds-its-own-against-glp1s-obese-mice",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
    ],
    "hard": false
   },
@@ -558,28 +525,6 @@
    "tickers": [
     "LLY",
     "NVO"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Fierce Pharma Asia\u2014China deals safe from COINS?; Key WCLC data; Legend\u2019s new CEO",
-   "url": "https://www.fiercepharma.com/pharma/china-deals-safe-coins-act-key-wclc-data-legend-new-ceo",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LEGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "FDA approves Ultragenyx\u2019s gene therapy Fayuvi for rare neurodegenerative disorder",
-   "url": "https://www.fiercepharma.com/pharma/fda-approves-ultragenyx-gene-therapy-fayuvi-rare-neurodegenerative-disorder",
-   "published_iso": "",
-   "raw_score": 6.0,
-   "tickers": [
-    "RARE"
    ],
    "hard": false
   },
