@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-24T16:05:36Z",
+ "as_of": "2026-09-24T23:57:49Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "FDA approves Eli Lilly's once-weekly insulin pen, setting up rivalry with Novo",
+   "url": "https://endpoints.news/fda-approves-eli-lillys-once-weekly-insulin-pen-setting-up-rivalry-with-novo/",
+   "published_iso": "2026-09-24",
+   "raw_score": 3.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Sarepta to pay Regenxbio $39M to settle gene therapy claims; Vida eyes fourth fund",
@@ -80,6 +91,17 @@
    "hard": false
   },
   {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Onswik (insulin efsitora alfa-gobe) Once-Weekly Basal Insulin for Adults with Type 2 Diabetes",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-onswik-insulin-efsitora-alfa-gobe-once-weekly-basal-insulin-adults-type-2-diabetes-6896.html",
+   "published_iso": "2026-09-24",
+   "raw_score": 3.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
    "source": "Endpoints News",
    "title": "Chinese vaccine scandal leads to life sentence; Flagship wins defense contract",
    "url": "https://endpoints.news/chinese-vaccine-scandal-leads-to-life-sentence-flagship-wins-defense-contract/",
@@ -123,17 +145,6 @@
     "NVS",
     "AMGN",
     "IONS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Viking touts once-a-month weight loss maintenance data",
-   "url": "https://endpoints.news/viking-touts-once-a-month-weight-loss-maintenance-data/",
-   "published_iso": "2026-09-22",
-   "raw_score": 0.0,
-   "tickers": [
-    "VKTX"
    ],
    "hard": false
   },
@@ -444,17 +455,6 @@
    "raw_score": 0.0,
    "tickers": [
     "IONS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Boehringer, Envisagenics sign $1B multi-target oncology collaboration",
-   "url": "https://www.fiercebiotech.com/biotech/boehringer-envisagenics-sign-1b-multi-target-oncology-collaboration",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "SAGE"
    ],
    "hard": false
   },

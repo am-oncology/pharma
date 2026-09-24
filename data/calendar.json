@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-24T16:05:36Z",
+ "as_of": "2026-09-24T23:57:49Z",
  "events": [
   {
    "date": "2026-09-26",
@@ -609,6 +609,18 @@
    "name": "Sanofi",
    "label": "Earnings",
    "detail": "Sanofi quarterly results",
+   "nct_id": "",
+   "estimated": true,
+   "weight": 0.3
+  },
+  {
+   "date": "2026-10-30",
+   "days_out": 36,
+   "kind": "earnings",
+   "ticker": "REGN",
+   "name": "Regeneron",
+   "label": "Earnings",
+   "detail": "Regeneron quarterly results",
    "nct_id": "",
    "estimated": true,
    "weight": 0.3
@@ -2628,18 +2640,6 @@
    "nct_id": "NCT07838740",
    "estimated": true,
    "weight": 0.25
-  },
-  {
-   "date": "2027-05-01",
-   "days_out": 218,
-   "kind": "readout",
-   "ticker": "XENE",
-   "name": "Xenon Pharmaceuticals",
-   "label": "Phase 3",
-   "detail": "A Randomized Study of Azetukalner Versus Placebo in Major Depressive Disorder (X-NOVA3)",
-   "nct_id": "NCT07076407",
-   "estimated": true,
-   "weight": 1.0
   }
  ]
 }
