@@ -1,6 +1,29 @@
 {
- "as_of": "2026-09-24T12:42:29Z",
+ "as_of": "2026-09-24T16:05:36Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Sarepta to pay Regenxbio $39M to settle gene therapy claims; Vida eyes fourth fund",
+   "url": "https://endpoints.news/sarepta-to-pay-regenxbio-39m-to-settle-gene-therapy-claims-vida-eyes-4th-fund/",
+   "published_iso": "2026-09-24",
+   "raw_score": 0.0,
+   "tickers": [
+    "SRPT",
+    "VKTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Acadia drug fails mid-stage study in Alzheimer's psychosis, leading to modified Phase 3",
+   "url": "https://endpoints.news/acadia-drug-fails-mid-stage-study-in-alzheimers-psychosis-leading-to-modified-phase-3/",
+   "published_iso": "2026-09-24",
+   "raw_score": 0.0,
+   "tickers": [
+    "ACAD"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Merck\u2019s return to ophthalmology snags first success",
@@ -20,6 +43,17 @@
    "raw_score": 0.0,
    "tickers": [
     "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Indonesian ruling against \u2018patent evergreening\u2019 by pharma industry sends critical message, patient advocates say",
+   "url": "https://www.statnews.com/pharmalot/2026/09/24/indonesian-court-rules-against-patent-evergreening-boosting-access-medicines/?utm_campaign=rss",
+   "published_iso": "2026-09-24",
+   "raw_score": 0.0,
+   "tickers": [
+    "SAGE"
    ],
    "hard": false
   },
@@ -64,17 +98,6 @@
    "raw_score": 2.2,
    "tickers": [
     "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: UnitedHealth, CVS push back on Medicare plan to curb remote patient monitoring",
-   "url": "https://www.statnews.com/2026/09/23/unitedhealth-cvs-pushback-medicare-plan-rpm-abuse/?utm_campaign=rss",
-   "published_iso": "2026-09-23",
-   "raw_score": 0.0,
-   "tickers": [
-    "UTHR"
    ],
    "hard": false
   },
@@ -315,6 +338,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Acadia misses mark in Alzheimer\u2019s but concludes phase 3 \u2018absolutely worth\u2019 pursuing",
+   "url": "https://www.fiercebiotech.com/biotech/acadia-misses-mark-alzheimers-concludes-phase-3-absolutely-worth-pursuing",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "ACAD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Merck sees pivotal victory for $3B eye disease prospect",
    "url": "https://www.fiercebiotech.com/biotech/merck-co-uncorks-pivotal-victory-3b-eye-disease-prospect",
    "published_iso": "",
@@ -426,6 +460,17 @@
   },
   {
    "source": "FiercePharma",
+   "title": "GSK slammed for \u2018grossly misleading\u2019 and \u2018totally unacceptable\u2019 behavior",
+   "url": "https://www.fiercepharma.com/marketing/gsk-slammed-grossly-misleading-and-totally-unacceptable-behavior",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "Biogen springs social media kidney health campaign with Olympic gymnast Suni Lee",
    "url": "https://www.fiercepharma.com/marketing/biogen-springs-social-media-kidney-health-campaign-olympic-gymnast-suni-lee",
    "published_iso": "",
@@ -470,17 +515,6 @@
   },
   {
    "source": "FiercePharma",
-   "title": "Regulatory tracker: FDA updates for Merck's Winrevair, Nuvation's Ibtrozi lead regulatory deluge",
-   "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
    "title": "Travere CEO Eric Dube to step down after transforming the rare disease biotech",
    "url": "https://www.fiercepharma.com/pharma/travere-ceo-eric-dube-step-down-after-transforming-rare-disease-biotech",
    "published_iso": "",
@@ -498,28 +532,6 @@
    "raw_score": 0.0,
    "tickers": [
     "EXEL"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "New MFN deal details reignite concerns that Trump's pricing policy favors pharma",
-   "url": "https://www.fiercepharma.com/pharma/new-mfn-deal-details-reignite-concerns-trumps-pricing-policy-favors-pharma",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "EXAS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Eli Lilly escalates oral SERD battle with FDA approval for Inluriyo, Verzenio combo",
-   "url": "https://www.fiercepharma.com/pharma/eli-lilly-escalates-oral-serd-battle-fda-approval-inluriyo-verzenio-combo",
-   "published_iso": "",
-   "raw_score": 3.0,
-   "tickers": [
-    "LLY"
    ],
    "hard": false
   },

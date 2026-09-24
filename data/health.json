@@ -1,6 +1,6 @@
 {
- "as_of": "2026-09-24T12:42:29Z",
- "runtime_seconds": 287.2,
+ "as_of": "2026-09-24T16:05:36Z",
+ "runtime_seconds": 321.1,
  "demo": false,
  "price_coverage": "62/70",
  "missing_prices": [
@@ -17,7 +17,7 @@
  "trials_coverage": 70,
  "trials_matched_companies": 67,
  "trials_rejected_studies": 0,
- "news_articles": 50,
+ "news_articles": 51,
  "ineligible": [
   {
    "ticker": "FOLD",
