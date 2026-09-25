@@ -1,6 +1,40 @@
 {
- "as_of": "2026-09-25T12:43:58Z",
+ "as_of": "2026-09-25T16:05:36Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Legend's five-year data suggests Carvykti could be a cure; Addex, Indivior split",
+   "url": "https://endpoints.news/legends-five-year-data-suggests-carvykti-could-be-a-cure-addex-indivior-split/",
+   "published_iso": "2026-09-25",
+   "raw_score": 0.0,
+   "tickers": [
+    "LEGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Endpoints 11 2026 winner NewLimit searches for a new class of anti-aging drugs",
+   "url": "https://endpoints.news/endpoints-11-2026-winner-newlimit-searches-for-a-new-class-of-anti-aging-drugs/",
+   "published_iso": "2026-09-25",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Endpoints 11 2026 winner SonoThera has a new approach to non-viral gene therapy",
+   "url": "https://endpoints.news/endpoints-11-2026-winner-sonothera-has-a-new-approach-to-non-viral-gene-therapy/",
+   "published_iso": "2026-09-25",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY",
+    "ILMN"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Merck expands Welireg's use to broader set of kidney cancer patients",
@@ -14,7 +48,7 @@
   },
   {
    "source": "Endpoints News",
-   "title": "Alnylam alumni-led RNAi biotech City Therapeutics files for IPO",
+   "title": "Alnylam alumni lead RNAi biotech City Therapeutics to IPO filing",
    "url": "https://endpoints.news/alnylam-alumni-led-rnai-biotech-city-therapeutics-files-for-ipo/",
    "published_iso": "2026-09-25",
    "raw_score": 0.0,
@@ -31,6 +65,17 @@
    "raw_score": 0.0,
    "tickers": [
     "FOLD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Lilly wins approval for once-weekly insulin shot",
+   "url": "https://www.statnews.com/2026/09/25/biotech-news-lilly-wins-approval-for-weekly-insulin-shot/?utm_campaign=rss",
+   "published_iso": "2026-09-25",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
    ],
    "hard": false
   },
@@ -69,28 +114,6 @@
    "hard": false
   },
   {
-   "source": "Endpoints News",
-   "title": "Merck\u2019s return to ophthalmology snags first success",
-   "url": "https://endpoints.news/mercks-return-to-ophthalmology-snags-first-success/",
-   "published_iso": "2026-09-24",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "In another China pact, Lilly makes a deal with InnoCare worth up to $3.35B",
-   "url": "https://endpoints.news/in-another-china-pact-lilly-makes-a-deal-with-innocare-worth-up-to-3-35b/",
-   "published_iso": "2026-09-24",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
    "source": "STAT News",
    "title": "STAT+: Indonesian ruling against \u2018patent evergreening\u2019 by pharma industry sends critical message, patient advocates say",
    "url": "https://www.statnews.com/pharmalot/2026/09/24/indonesian-court-rules-against-patent-evergreening-boosting-access-medicines/?utm_campaign=rss",
@@ -120,28 +143,6 @@
    "raw_score": 3.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Chinese vaccine scandal leads to life sentence; Flagship wins defense contract",
-   "url": "https://endpoints.news/chinese-vaccine-scandal-leads-to-life-sentence-flagship-wins-defense-contract/",
-   "published_iso": "2026-09-23",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Roche kidney drug's Phase 3 win sets up path to accelerated approval",
-   "url": "https://endpoints.news/roche-kidney-drugs-phase-3-win-sets-up-path-to-accelerated-approval/",
-   "published_iso": "2026-09-23",
-   "raw_score": 2.2,
-   "tickers": [
-    "NVS"
    ],
    "hard": false
   },
@@ -423,13 +424,46 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Novartis secures new radioligand in $900M deal as competition strengthens",
-   "url": "https://www.fiercebiotech.com/biotech/novartis-secures-new-radioligand-900m-deal-competition-strengthens",
+   "source": "FiercePharma",
+   "title": "Merck, Eisai\u2019s Welireg-Lenvima combo lands FDA nod to jump the kidney cancer queue",
+   "url": "https://www.fiercepharma.com/pharma/merck-eisai-welireg-lenvima-combo-lands-fda-nod-jump-kidney-cancer-queue",
+   "published_iso": "",
+   "raw_score": 3.0,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Fierce Pharma Asia\u2014Lilly\u2019s $3.35B InnoCare deal; Korea\u2019s breakthrough; China\u2019s 5-year biotech plan",
+   "url": "https://www.fiercepharma.com/pharma/lilly-335b-innocare-deal-korea-breakthrough-china-5-year-biotech-plan",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "NVS"
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Eli Lilly blasted for \u2018promotional and emotive\u2019 language in GLP-1 press release",
+   "url": "https://www.fiercepharma.com/marketing/eli-lilly-blasted-promotional-and-emotive-language-glp-1-press-release",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Lilly brings more heat to Novo with FDA nod for once-weekly insulin Onswik",
+   "url": "https://www.fiercepharma.com/pharma/lilly-brings-more-heat-novo-fda-nod-once-weekly-insulin-onswik",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
    ],
    "hard": false
   },
@@ -496,17 +530,6 @@
    "raw_score": 0.0,
    "tickers": [
     "FOLD"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Bayer offloads cancer drug Stivarga to Gr\u00fcnenthal for up to $431M as new competition looms",
-   "url": "https://www.fiercepharma.com/pharma/bayer-offloads-cancer-drug-stivarga-grunenthal-431m-new-competition-looms",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "EXEL"
    ],
    "hard": false
   },
