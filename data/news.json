@@ -1,6 +1,39 @@
 {
- "as_of": "2026-09-24T23:57:49Z",
+ "as_of": "2026-09-25T12:43:58Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Merck expands Welireg's use to broader set of kidney cancer patients",
+   "url": "https://endpoints.news/merck-expands-weliregs-use-to-broader-set-of-kidney-cancer-patients/",
+   "published_iso": "2026-09-25",
+   "raw_score": 3.0,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Alnylam alumni-led RNAi biotech City Therapeutics files for IPO",
+   "url": "https://endpoints.news/alnylam-alumni-led-rnai-biotech-city-therapeutics-files-for-ipo/",
+   "published_iso": "2026-09-25",
+   "raw_score": 0.0,
+   "tickers": [
+    "ALNY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Travere CEO Eric Dube on deciding to leave; Roche tees up a board seat for ex-Takeda chief",
+   "url": "https://endpoints.news/travere-ceo-eric-dube-on-deciding-to-leave-roche-tees-up-ex-takeda-ceo-on-its-board/",
+   "published_iso": "2026-09-25",
+   "raw_score": 0.0,
+   "tickers": [
+    "FOLD"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "FDA approves Eli Lilly's once-weekly insulin pen, setting up rivalry with Novo",
@@ -80,17 +113,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "Opinion: STAT+: A moment of reckoning for preventive cardiology and the precision medicine revolution",
-   "url": "https://www.statnews.com/2026/09/24/lpa-horizon-zeus-results-pelacarsen-preventive-cardiology-precision-medicine-disappointment/?utm_campaign=rss",
-   "published_iso": "2026-09-24",
-   "raw_score": 0.0,
-   "tickers": [
-    "RVMD"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Onswik (insulin efsitora alfa-gobe) Once-Weekly Basal Insulin for Adults with Type 2 Diabetes",
    "url": "https://www.drugs.com/newdrugs/fda-approves-onswik-insulin-efsitora-alfa-gobe-once-weekly-basal-insulin-adults-type-2-diabetes-6896.html",
@@ -120,31 +142,6 @@
    "raw_score": 2.2,
    "tickers": [
     "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Vertex aims for broad kidney disease label ahead of key readout next year",
-   "url": "https://endpoints.news/vertex-aims-for-broad-kidney-disease-label-ahead-of-key-readout-next-year/",
-   "published_iso": "2026-09-22",
-   "raw_score": 0.0,
-   "tickers": [
-    "VRTX"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Amgen's Phase 3 Sj\u00f6gren's win; Novartis' $900M radioligand deal",
-   "url": "https://endpoints.news/amgens-phase-3-sjogrens-win-novartis-900m-radioligand-deal/",
-   "published_iso": "2026-09-22",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "NVS",
-    "AMGN",
-    "IONS"
    ],
    "hard": false
   },
@@ -349,6 +346,17 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Chutes & Ladders\u2014Travere chief makes way for former Amicus CEO",
+   "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-travere-chief-makes-way-former-amicus-ceo",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "FOLD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Acadia misses mark in Alzheimer\u2019s but concludes phase 3 \u2018absolutely worth\u2019 pursuing",
    "url": "https://www.fiercebiotech.com/biotech/acadia-misses-mark-alzheimers-concludes-phase-3-absolutely-worth-pursuing",
    "published_iso": "",
@@ -422,39 +430,6 @@
    "raw_score": 0.0,
    "tickers": [
     "NVS"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Amgen\u2019s Horizon-acquired fusion protein eases Sj\u00f6gren's severity in ph. 3 win",
-   "url": "https://www.fiercebiotech.com/biotech/amgens-horizon-acquired-fusion-protein-eases-sjogrens-severity-ph-3-win",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AMGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Vertex\u2019s midstage data amplify kidney disease market opportunity",
-   "url": "https://www.fiercebiotech.com/biotech/vertexs-midstage-data-amplify-kidney-disease-market-opportunity",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "VRTX"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Otsuka heads to FDA as Ionis-partnered ALS drug hits primary phase 3 endpoint",
-   "url": "https://www.fiercebiotech.com/biotech/otsuka-heads-fda-ionis-partnered-als-drug-hits-primary-phase-3-endpoint",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "IONS"
    ],
    "hard": false
   },
