@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-25T16:05:36Z",
+ "as_of": "2026-09-26T00:02:00Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Jury awards Nektar $90M in suit against Lilly",
+   "url": "https://endpoints.news/jury-awards-nektar-90m-in-suit-against-lilly/",
+   "published_iso": "2026-09-25",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Legend's five-year data suggests Carvykti could be a cure; Addex, Indivior split",
@@ -87,29 +98,6 @@
    "raw_score": 3.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Sarepta to pay Regenxbio $39M to settle gene therapy claims; Vida eyes fourth fund",
-   "url": "https://endpoints.news/sarepta-to-pay-regenxbio-39m-to-settle-gene-therapy-claims-vida-eyes-4th-fund/",
-   "published_iso": "2026-09-24",
-   "raw_score": 0.0,
-   "tickers": [
-    "SRPT",
-    "VKTX"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Acadia drug fails mid-stage study in Alzheimer's psychosis, leading to modified Phase 3",
-   "url": "https://endpoints.news/acadia-drug-fails-mid-stage-study-in-alzheimers-psychosis-leading-to-modified-phase-3/",
-   "published_iso": "2026-09-24",
-   "raw_score": 0.0,
-   "tickers": [
-    "ACAD"
    ],
    "hard": false
   },
@@ -425,6 +413,29 @@
   },
   {
    "source": "FiercePharma",
+   "title": "Mirum bags FDA approval for ultra-rare bone lesion disorder, heating up rivalry with Regeneron",
+   "url": "https://www.fiercepharma.com/pharma/mirum-bags-fda-approval-ultra-rare-bone-lesion-disorder-heating-rivalry-regeneronns-pasatru",
+   "published_iso": "",
+   "raw_score": 3.0,
+   "tickers": [
+    "REGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "The Oral GLP-1 Tracker: Prescriptions bounce back from holiday lull",
+   "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY",
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "Merck, Eisai\u2019s Welireg-Lenvima combo lands FDA nod to jump the kidney cancer queue",
    "url": "https://www.fiercepharma.com/pharma/merck-eisai-welireg-lenvima-combo-lands-fda-nod-jump-kidney-cancer-queue",
    "published_iso": "",
@@ -519,17 +530,6 @@
    "raw_score": 0.0,
    "tickers": [
     "BMY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Travere CEO Eric Dube to step down after transforming the rare disease biotech",
-   "url": "https://www.fiercepharma.com/pharma/travere-ceo-eric-dube-step-down-after-transforming-rare-disease-biotech",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "FOLD"
    ],
    "hard": false
   },
