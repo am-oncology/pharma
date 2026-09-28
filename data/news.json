@@ -1,6 +1,63 @@
 {
- "as_of": "2026-09-26T14:07:21Z",
+ "as_of": "2026-09-28T15:13:45Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Merck licenses a KRAS G12D inhibitor for $400M upfront",
+   "url": "https://endpoints.news/merck-licenses-a-kras-g12d-inhibitor-for-400m-upfront/",
+   "published_iso": "2026-09-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK",
+    "AZN",
+    "TWST"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Merck, Daiichi scrap FDA application for B7-H3 ADC in lung cancer",
+   "url": "https://endpoints.news/merck-daiichi-scrap-fda-application-for-b7-h3-adc-in-lung-cancer/",
+   "published_iso": "2026-09-28",
+   "raw_score": 2.2,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: AbbVie wins FDA nod for Parkinson\u2019s pill",
+   "url": "https://www.statnews.com/2026/09/28/biotech-news-abbvie-wins-fda-nod-for-parkinsons-pill/?utm_campaign=rss",
+   "published_iso": "2026-09-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "ABBV"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about GLP-1s becoming lifestyle drugs, a setback for Merck and Daiichi, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/09/28/glp1-lifestyle-drug-marketing-merck-daiichi-lung-cancer-setback/?utm_campaign=rss",
+   "published_iso": "2026-09-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "AbbVie's next-gen dopamine therapy for Parkinson's gets FDA approval",
+   "url": "https://endpoints.news/fda-approves-abbvie-next-gen-dopamine-therapy-for-parkinsons/",
+   "published_iso": "2026-09-26",
+   "raw_score": 3.0,
+   "tickers": [
+    "ABBV"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Jury awards Nektar $90M in suit against Lilly",
@@ -69,17 +126,6 @@
    "hard": false
   },
   {
-   "source": "Endpoints News",
-   "title": "Travere CEO Eric Dube on deciding to leave; Roche tees up a board seat for ex-Takeda chief",
-   "url": "https://endpoints.news/travere-ceo-eric-dube-on-deciding-to-leave-roche-tees-up-ex-takeda-ceo-on-its-board/",
-   "published_iso": "2026-09-25",
-   "raw_score": 0.0,
-   "tickers": [
-    "FOLD"
-   ],
-   "hard": false
-  },
-  {
    "source": "STAT News",
    "title": "STAT+: Lilly wins approval for once-weekly insulin shot",
    "url": "https://www.statnews.com/2026/09/25/biotech-news-lilly-wins-approval-for-weekly-insulin-shot/?utm_campaign=rss",
@@ -91,13 +137,25 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: Indonesian ruling against \u2018patent evergreening\u2019 by pharma industry sends critical message, patient advocates say",
-   "url": "https://www.statnews.com/pharmalot/2026/09/24/indonesian-court-rules-against-patent-evergreening-boosting-access-medicines/?utm_campaign=rss",
-   "published_iso": "2026-09-24",
-   "raw_score": 0.0,
+   "source": "Drugs.com New Approvals",
+   "title": "U.S. FDA Approves Welireg (belzutifan) Plus Lenvima (lenvatinib) for Certain Previously Treated Adult Patients With Advanced Renal Cell Carcinoma With a Clear Cell Component (ccRCC)",
+   "url": "https://www.drugs.com/newdrugs/u-s-fda-approves-welireg-belzutifan-plus-lenvima-lenvatinib-certain-previously-treated-adult-6898.html",
+   "published_iso": "2026-09-25",
+   "raw_score": 3.0,
    "tickers": [
-    "SAGE"
+    "MRK",
+    "UTHR"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Atebrioz (zilurgisertib) for Adult and Pediatric Patients with Fibrodysplasia Ossificans Progressiva",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-atebrioz-zilurgisertib-adult-pediatric-patients-fibrodysplasia-ossificans-progressiva-6897.html",
+   "published_iso": "2026-09-25",
+   "raw_score": 3.0,
+   "tickers": [
+    "INCY"
    ],
    "hard": false
   },
@@ -301,13 +359,35 @@
    "hard": false
   },
   {
-   "source": "Drugs.com New Approvals",
-   "title": "FDA Grants Accelerated Approval to Zenbexus (iberdomide) in Combination with Daratumumab and Hyaluronidase-fihj and Dexamethasone for the Treatment of Multiple Myeloma",
-   "url": "https://www.drugs.com/newdrugs/fda-grants-accelerated-approval-zenbexus-iberdomide-combination-daratumumab-hyaluronidase-fihj-6857.html",
-   "published_iso": "2026-08-13",
+   "source": "FierceBiotech",
+   "title": "Mirum posts phase 3 hepatitis win for \u2018commercially differentiated\u2019 challenger to Gilead, Vir",
+   "url": "https://www.fiercebiotech.com/biotech/mirum-posts-phase-3-hepatitis-win-commercially-differentiated-challenger-gilead-and-vir",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GILD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Merck pens $2.1B deal with China\u2019s SciBrunch to chase KRAS G12D",
+   "url": "https://www.fiercebiotech.com/biotech/merck-pens-21b-deal-chinas-scibrunch-chase-kras-g12d",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Merck, Daiichi pull lung cancer filing after FDA pushback deals another blow to $4B deal",
+   "url": "https://www.fiercebiotech.com/biotech/merck-co-and-daiichi-pull-lung-cancer-filing-after-fda-pushback-deals-another-blow-4b-deal",
+   "published_iso": "",
    "raw_score": 2.2,
    "tickers": [
-    "BMY"
+    "MRK"
    ],
    "hard": false
   },
@@ -345,9 +425,9 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Lilly puts up $100M, plus billions on the backend, to form 5-target deal with China's InnoCare",
-   "url": "https://www.fiercebiotech.com/biotech/eli-lilly-puts-100m-plus-billions-backend-form-5-target-deal-innocare",
+   "source": "FiercePharma",
+   "title": "Eli Lilly's new initiative will take GLP-1s to lower-income nations",
+   "url": "https://www.fiercepharma.com/pharma/lillys-new-initiative-will-take-glp-1s-lower-income-nations",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
@@ -356,36 +436,24 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Immunovant ends cutaneous lupus program after phase 2 flop",
-   "url": "https://www.fiercebiotech.com/biotech/immunovant-ends-cutaneous-lupus-program-after-phase-2-flop",
+   "source": "FiercePharma",
+   "title": "AbbVie's Cerevel buyout delivers as FDA gives go-ahead to 1st-in-class Juvmo in Parkinson's disease",
+   "url": "https://www.fiercepharma.com/pharma/abbvies-cerevel-buyout-delivers-fda-gives-go-ahead-1st-class-juvmo-parkinsons-disease",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "IMVT"
+    "ABBV"
    ],
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "GSK aiming to \u2018balance West and East\u2019 after Hansoh deal success showed China\u2019s potential",
-   "url": "https://www.fiercebiotech.com/biotech/gsk-trying-balance-east-and-west-hansoh-deal-success-showed-chinas-potential",
+   "source": "FiercePharma",
+   "title": "Merck's holistic HIV health hive buzzes with the help of actress Debbie Allen",
+   "url": "https://www.fiercepharma.com/marketing/mercks-holistic-hiv-health-hive-buzzes-help-actress-debbie-allen",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "GSK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Roche\u2019s phase 3 win tees up fight with Novartis for blockbuster kidney disease market",
-   "url": "https://www.fiercebiotech.com/biotech/roches-phase-3-win-tees-fight-novartis-blockbuster-kidney-disease-market",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "NVS",
-    "IONS"
+    "MRK"
    ],
    "hard": false
   },
@@ -486,28 +554,6 @@
    "raw_score": 0.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "AstraZeneca recommits to youth health to dial funding past $100M",
-   "url": "https://www.fiercepharma.com/marketing/astrazeneca-recommits-youth-health-dial-funding-past-100m",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Bristol Myers cuts another 265 jobs tied to New Jersey headquarters",
-   "url": "https://www.fiercepharma.com/pharma/bristol-myers-cuts-another-265-jobs-tied-new-jersey-headquarters",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "BMY"
    ],
    "hard": false
   },
