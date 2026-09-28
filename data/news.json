@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-28T15:13:45Z",
+ "as_of": "2026-09-28T18:55:12Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -100,28 +100,6 @@
    "tickers": [
     "LLY",
     "ILMN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Merck expands Welireg's use to broader set of kidney cancer patients",
-   "url": "https://endpoints.news/merck-expands-weliregs-use-to-broader-set-of-kidney-cancer-patients/",
-   "published_iso": "2026-09-25",
-   "raw_score": 3.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Alnylam alumni lead RNAi biotech City Therapeutics to IPO filing",
-   "url": "https://endpoints.news/alnylam-alumni-led-rnai-biotech-city-therapeutics-files-for-ipo/",
-   "published_iso": "2026-09-25",
-   "raw_score": 0.0,
-   "tickers": [
-    "ALNY"
    ],
    "hard": false
   },
@@ -421,6 +399,17 @@
    "raw_score": 2.5,
    "tickers": [
     "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "BioNTech to close 3 sites in Germany after failed buyer search",
+   "url": "https://www.fiercepharma.com/pharma/biontech-close-sites-germany-singapore-after-failed-buyer-search",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "BNTX"
    ],
    "hard": false
   },
