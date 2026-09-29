@@ -1,5 +1,5 @@
 {
- "as_of": "2026-09-29T13:57:37Z",
+ "as_of": "2026-09-29T17:12:41Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -132,17 +132,6 @@
    "raw_score": 3.0,
    "tickers": [
     "ABBV"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Jury awards Nektar $90M in suit against Lilly",
-   "url": "https://endpoints.news/jury-awards-nektar-90m-in-suit-against-lilly/",
-   "published_iso": "2026-09-25",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
    ],
    "hard": false
   },
@@ -436,13 +425,13 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Acadia misses mark in Alzheimer\u2019s but concludes phase 3 \u2018absolutely worth\u2019 pursuing",
-   "url": "https://www.fiercebiotech.com/biotech/acadia-misses-mark-alzheimers-concludes-phase-3-absolutely-worth-pursuing",
+   "source": "FiercePharma",
+   "title": "Novo, Lilly pit their GLP-1s against one another in diabetes and obesity as EASD kicks off in Milan",
+   "url": "https://www.fiercepharma.com/pharma/novo-lilly-pit-their-glp-1s-against-one-another-diabetes-and-obesity-easd-kicks-milan",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "ACAD"
+    "LLY"
    ],
    "hard": false
   },
