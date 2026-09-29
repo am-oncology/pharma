@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-28T18:55:12Z",
+ "as_of": "2026-09-29T01:03:23Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "AstraZeneca buys a $2B stake in Summit, taking equity in bet on cancer drug",
+   "url": "https://endpoints.news/astrazeneca-buys-a-2b-stake-in-summit-taking-equity-in-bet-on-cancer-drug/",
+   "published_iso": "2026-09-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Merck licenses a KRAS G12D inhibitor for $400M upfront",
@@ -27,6 +38,17 @@
   },
   {
    "source": "STAT News",
+   "title": "STAT+: Merck discontinues a crucial antibiotic despite concerns over superbug resistance",
+   "url": "https://www.statnews.com/pharmalot/2026/09/28/merck-discontinues-antibiotic-recarbrio-in-u-s-despite-superbug-concerns/?utm_campaign=rss",
+   "published_iso": "2026-09-28",
+   "raw_score": -2.2,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": true
+  },
+  {
+   "source": "STAT News",
    "title": "STAT+: AbbVie wins FDA nod for Parkinson\u2019s pill",
    "url": "https://www.statnews.com/2026/09/28/biotech-news-abbvie-wins-fda-nod-for-parkinsons-pill/?utm_campaign=rss",
    "published_iso": "2026-09-28",
@@ -44,6 +66,17 @@
    "raw_score": 0.0,
    "tickers": [
     "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Juvmo (tavapadon) for the Treatment of Parkinson's Disease",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-juvmo-tavapadon-parkinson-s-6900.html",
+   "published_iso": "2026-09-28",
+   "raw_score": 3.0,
+   "tickers": [
+    "ABBV"
    ],
    "hard": false
   },
@@ -92,23 +125,22 @@
    "hard": false
   },
   {
-   "source": "Endpoints News",
-   "title": "Endpoints 11 2026 winner SonoThera has a new approach to non-viral gene therapy",
-   "url": "https://endpoints.news/endpoints-11-2026-winner-sonothera-has-a-new-approach-to-non-viral-gene-therapy/",
-   "published_iso": "2026-09-25",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY",
-    "ILMN"
-   ],
-   "hard": false
-  },
-  {
    "source": "STAT News",
    "title": "STAT+: Lilly wins approval for once-weekly insulin shot",
    "url": "https://www.statnews.com/2026/09/25/biotech-news-lilly-wins-approval-for-weekly-insulin-shot/?utm_campaign=rss",
    "published_iso": "2026-09-25",
    "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "FDA Approves Lilly's Olumiant (baricitinib) for Pediatric Patients 12 Years of Age and Older with Severe Alopecia Areata",
+   "url": "https://www.drugs.com/newdrugs/fda-approves-lilly-s-olumiant-baricitinib-pediatric-patients-12-years-age-older-severe-alopecia-6899.html",
+   "published_iso": "2026-09-25",
+   "raw_score": 3.0,
    "tickers": [
     "LLY"
    ],
@@ -145,6 +177,18 @@
    "raw_score": 3.0,
    "tickers": [
     "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "U.S. FDA Approves Update to the Label for Winrevair (sotatercept-csrk) to Include Data from the Phase 3 HYPERION Trial",
+   "url": "https://www.drugs.com/newdrugs/u-s-fda-approves-update-label-winrevair-sotatercept-csrk-include-data-phase-3-hyperion-trial-6893.html",
+   "published_iso": "2026-09-22",
+   "raw_score": 3.0,
+   "tickers": [
+    "MRK",
+    "UTHR"
    ],
    "hard": false
   },
@@ -532,17 +576,6 @@
    "raw_score": 0.0,
    "tickers": [
     "BIIB"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Eli Lilly CEO touts 70% share as Medicare GLP-1 program reaches 700K seniors",
-   "url": "https://www.fiercepharma.com/pharma/eli-lilly-ceo-touts-70-share-medicare-glp-1-program-reaches-700k-seniors",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
    ],
    "hard": false
   },
