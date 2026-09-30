@@ -1,6 +1,18 @@
 {
- "as_of": "2026-09-29T17:12:41Z",
+ "as_of": "2026-09-30T00:30:33Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Beam sues YolTech and Serapha Bio for allegedly stealing its gene editing tech",
+   "url": "https://endpoints.news/beam-sues-yoltech-and-serapha-bio-for-allegedly-stealing-its-gene-editing-tech/",
+   "published_iso": "2026-09-29",
+   "raw_score": 0.0,
+   "tickers": [
+    "CRSP",
+    "BEAM"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Spark co-founder Steven Altschuler is back with an immune-resetting biotech",
@@ -20,6 +32,17 @@
    "raw_score": 0.0,
    "tickers": [
     "BNTX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Beam Therapeutics sues Chinese biotech, VC-backed startup, alleging theft of intellectual property",
+   "url": "https://www.statnews.com/2026/09/29/beam-therapeutics-yoltech-serapha-gene-editing-lawsuit/?utm_campaign=rss",
+   "published_iso": "2026-09-29",
+   "raw_score": 0.0,
+   "tickers": [
+    "BEAM"
    ],
    "hard": false
   },
@@ -57,30 +80,6 @@
    "hard": false
   },
   {
-   "source": "Endpoints News",
-   "title": "Merck licenses a KRAS G12D inhibitor for $400M upfront",
-   "url": "https://endpoints.news/merck-licenses-a-kras-g12d-inhibitor-for-400m-upfront/",
-   "published_iso": "2026-09-28",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK",
-    "AZN",
-    "TWST"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Merck, Daiichi scrap FDA application for B7-H3 ADC in lung cancer",
-   "url": "https://endpoints.news/merck-daiichi-scrap-fda-application-for-b7-h3-adc-in-lung-cancer/",
-   "published_iso": "2026-09-28",
-   "raw_score": 2.2,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
    "source": "STAT News",
    "title": "STAT+: Merck discontinues a crucial antibiotic despite concerns over superbug resistance",
    "url": "https://www.statnews.com/pharmalot/2026/09/28/merck-discontinues-antibiotic-recarbrio-in-u-s-despite-superbug-concerns/?utm_campaign=rss",
@@ -92,43 +91,10 @@
    "hard": true
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: AbbVie wins FDA nod for Parkinson\u2019s pill",
-   "url": "https://www.statnews.com/2026/09/28/biotech-news-abbvie-wins-fda-nod-for-parkinsons-pill/?utm_campaign=rss",
-   "published_iso": "2026-09-28",
-   "raw_score": 0.0,
-   "tickers": [
-    "ABBV"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about GLP-1s becoming lifestyle drugs, a setback for Merck and Daiichi, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/09/28/glp1-lifestyle-drug-marketing-merck-daiichi-lung-cancer-setback/?utm_campaign=rss",
-   "published_iso": "2026-09-28",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Juvmo (tavapadon) for the Treatment of Parkinson's Disease",
    "url": "https://www.drugs.com/newdrugs/fda-approves-juvmo-tavapadon-parkinson-s-6900.html",
    "published_iso": "2026-09-28",
-   "raw_score": 3.0,
-   "tickers": [
-    "ABBV"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "AbbVie's next-gen dopamine therapy for Parkinson's gets FDA approval",
-   "url": "https://endpoints.news/fda-approves-abbvie-next-gen-dopamine-therapy-for-parkinsons/",
-   "published_iso": "2026-09-26",
    "raw_score": 3.0,
    "tickers": [
     "ABBV"
@@ -348,28 +314,6 @@
    "hard": false
   },
   {
-   "source": "Drugs.com New Approvals",
-   "title": "FDA Approves Imaavy (nipocalimab-aahu) as First-Ever Treatment for Warm Autoimmune Hemolytic Anemia",
-   "url": "https://www.drugs.com/newdrugs/fda-approves-imaavy-nipocalimab-aahu-first-ever-warm-autoimmune-hemolytic-anemia-6862.html",
-   "published_iso": "2026-08-25",
-   "raw_score": 3.0,
-   "tickers": [
-    "JNJ"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Drugs.com New Approvals",
-   "title": "FDA Grants Accelerated Approval for Genglycos (pariglasgene brecaparvovec-opnr) Gene Therapy for the Treatment of Glycogen Storage Disease Type Ia",
-   "url": "https://www.drugs.com/newdrugs/fda-grants-accelerated-approval-genglycos-pariglasgene-brecaparvovec-opnr-gene-therapy-glycogen-6861.html",
-   "published_iso": "2026-08-19",
-   "raw_score": 2.2,
-   "tickers": [
-    "RARE"
-   ],
-   "hard": false
-  },
-  {
    "source": "FierceBiotech",
    "title": "AstraZeneca scales Summit\u2019s PD-1xVEGF strategy with $2B investment to fuel ADC combos",
    "url": "https://www.fiercebiotech.com/biotech/astrazeneca-scales-summits-pd-1xvegf-strategy-2b-investment-fuel-adc-combinations",
@@ -426,12 +370,34 @@
   },
   {
    "source": "FiercePharma",
+   "title": "PhRMA locks in former House Majority Leader Cantor as next CEO",
+   "url": "https://www.fiercepharma.com/pharma/phrma-locks-former-house-majority-leader-cantor-fill-trade-groups-ceo-shoes",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "UTHR"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "Novo, Lilly pit their GLP-1s against one another in diabetes and obesity as EASD kicks off in Milan",
    "url": "https://www.fiercepharma.com/pharma/novo-lilly-pit-their-glp-1s-against-one-another-diabetes-and-obesity-easd-kicks-milan",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
     "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Big Pharma's Big Brand: Regeneron's science-driven communications approach",
+   "url": "https://www.fiercepharma.com/marketing/big-pharmas-big-brand-regenerons-science-driven-communications-approach",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "REGN"
    ],
    "hard": false
   },
@@ -565,17 +531,6 @@
    "raw_score": 0.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "GSK slammed for \u2018grossly misleading\u2019 and \u2018totally unacceptable\u2019 behavior",
-   "url": "https://www.fiercepharma.com/marketing/gsk-slammed-grossly-misleading-and-totally-unacceptable-behavior",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "GSK"
    ],
    "hard": false
   },
