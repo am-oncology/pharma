@@ -1,6 +1,28 @@
 {
- "as_of": "2026-09-30T00:30:33Z",
+ "as_of": "2026-09-30T13:33:04Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "#EADV26: Merck shows off mid-stage win for Prometheus drug in skin condition",
+   "url": "https://endpoints.news/eadv26-merck-shows-off-mid-stage-win-for-prometheus-drug-in-skin-condition/",
+   "published_iso": "2026-09-30",
+   "raw_score": 1.8,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "#EASD26: Lilly's triple-G allows 60% of patients to drop below obesity threshold",
+   "url": "https://endpoints.news/easd26-lillys-triple-g-allows-60-of-patients-to-drop-below-obesity-threshold/",
+   "published_iso": "2026-09-29",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Beam sues YolTech and Serapha Bio for allegedly stealing its gene editing tech",
@@ -78,17 +100,6 @@
     "AZN"
    ],
    "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Merck discontinues a crucial antibiotic despite concerns over superbug resistance",
-   "url": "https://www.statnews.com/pharmalot/2026/09/28/merck-discontinues-antibiotic-recarbrio-in-u-s-despite-superbug-concerns/?utm_campaign=rss",
-   "published_iso": "2026-09-28",
-   "raw_score": -2.2,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": true
   },
   {
    "source": "Drugs.com New Approvals",
@@ -315,6 +326,39 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Highlight Therapeutics illuminates positive ph. 2 topline data in high-risk skin cancer",
+   "url": "https://www.fiercebiotech.com/biotech/highlight-therapeutics-illuminates-positive-ph-2-topline-data-high-risk-skin-cancer",
+   "published_iso": "",
+   "raw_score": 2.5,
+   "tickers": [
+    "ILMN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Amgen reveals 6-point drop in lupus severity behind phase 2 win for Horizon antibody",
+   "url": "https://www.fiercebiotech.com/biotech/amgen-reveals-6-point-drop-lupus-severity-behind-phase-2-win-horizon-antibody",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "AMGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Lilly sets up next-gen obesity battle with full phase 3 retatrutide data",
+   "url": "https://www.fiercebiotech.com/biotech/eli-lilly-sets-next-gen-obesity-battle-full-phase-3-retatrutide-data",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "AstraZeneca scales Summit\u2019s PD-1xVEGF strategy with $2B investment to fuel ADC combos",
    "url": "https://www.fiercebiotech.com/biotech/astrazeneca-scales-summits-pd-1xvegf-strategy-2b-investment-fuel-adc-combinations",
    "published_iso": "",
@@ -358,13 +402,13 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Chutes & Ladders\u2014Travere chief makes way for former Amicus CEO",
-   "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-travere-chief-makes-way-former-amicus-ceo",
+   "source": "FiercePharma",
+   "title": "Alnylam drafts football veteran Pete Shaw for heart disease education push",
+   "url": "https://www.fiercepharma.com/marketing/alnylam-drafts-football-veteran-pete-shaw-heart-disease-education-push",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "FOLD"
+    "ALNY"
    ],
    "hard": false
   },
@@ -516,17 +560,6 @@
    "source": "FiercePharma",
    "title": "Eli Lilly blasted for \u2018promotional and emotive\u2019 language in GLP-1 press release",
    "url": "https://www.fiercepharma.com/marketing/eli-lilly-blasted-promotional-and-emotive-language-glp-1-press-release",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Lilly brings more heat to Novo with FDA nod for once-weekly insulin Onswik",
-   "url": "https://www.fiercepharma.com/pharma/lilly-brings-more-heat-novo-fda-nod-once-weekly-insulin-onswik",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
