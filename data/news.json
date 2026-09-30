@@ -1,6 +1,20 @@
 {
- "as_of": "2026-09-30T13:33:04Z",
+ "as_of": "2026-09-30T17:10:15Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "AbbVie's eczema drug shows benefit in Phase 2; BioMarin lays off 117",
+   "url": "https://endpoints.news/abbvies-eczema-drug-shows-benefit-in-phase-2-biomarin-lays-off-117/",
+   "published_iso": "2026-09-30",
+   "raw_score": 1.8,
+   "tickers": [
+    "ABBV",
+    "GSK",
+    "BMRN",
+    "SRPT"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "#EADV26: Merck shows off mid-stage win for Prometheus drug in skin condition",
@@ -9,6 +23,39 @@
    "raw_score": 1.8,
    "tickers": [
     "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Eli Lilly\u2019s Zepbound combined with amylin drug led to significant weight loss in mid-stage trial",
+   "url": "https://www.statnews.com/2026/09/30/eli-lilly-zepbound-amylin-combination-drug-study/?utm_campaign=rss",
+   "published_iso": "2026-09-30",
+   "raw_score": -2.2,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": true
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Three biotech updates, including accusations of theft and and a new lobbying leader",
+   "url": "https://www.statnews.com/2026/09/30/biotech-news-updates-accusations-of-theft-new-phrma-guy/?utm_campaign=rss",
+   "published_iso": "2026-09-30",
+   "raw_score": 0.0,
+   "tickers": [
+    "BEAM"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Pharmalittle: We\u2019re reading about Beam suing over IP theft, a Trump rule on importing meds, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/09/30/beam-sues-over-trade-secret-theft-trump-drug-import-rule/?utm_campaign=rss",
+   "published_iso": "2026-09-30",
+   "raw_score": 0.0,
+   "tickers": [
+    "BEAM"
    ],
    "hard": false
   },
@@ -326,6 +373,39 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Beam Therapeutics sues base editing rival, claims former scientist stole secrets",
+   "url": "https://www.fiercebiotech.com/biotech/beam-therapeutics-sues-base-editing-rival-claims-former-scientist-stole-secrets",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "BEAM"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Merck\u2019s anti-TL1A antibody secures a win in ph. 2 hidradenitis suppurativa trial",
+   "url": "https://www.fiercebiotech.com/biotech/mercks-anti-tl1a-antibody-secures-win-ph-2-hidradenitis-suppurativa-trial",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "GSK continues to stock up on Wave's RNA drugs with liver-focused program",
+   "url": "https://www.fiercebiotech.com/biotech/gsk-continues-stock-waves-rna-drugs-liver-focused-program",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Highlight Therapeutics illuminates positive ph. 2 topline data in high-risk skin cancer",
    "url": "https://www.fiercebiotech.com/biotech/highlight-therapeutics-illuminates-positive-ph-2-topline-data-high-risk-skin-cancer",
    "published_iso": "",
@@ -380,24 +460,13 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Merck pens $2.1B deal with China\u2019s SciBrunch to chase KRAS G12D",
-   "url": "https://www.fiercebiotech.com/biotech/merck-pens-21b-deal-chinas-scibrunch-chase-kras-g12d",
+   "source": "FiercePharma",
+   "title": "Hansoh\u2019s Tagrisso rival loses EU approval after AstraZeneca legal challenge",
+   "url": "https://www.fiercepharma.com/pharma/hansoh-tagrisso-rival-loses-eu-approval-after-astrazeneca-legal-challenge",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Merck, Daiichi pull lung cancer filing after FDA pushback deals another blow to $4B deal",
-   "url": "https://www.fiercebiotech.com/biotech/merck-co-and-daiichi-pull-lung-cancer-filing-after-fda-pushback-deals-another-blow-4b-deal",
-   "published_iso": "",
-   "raw_score": 2.2,
-   "tickers": [
-    "MRK"
+    "AZN"
    ],
    "hard": false
   },
@@ -542,28 +611,6 @@
    "raw_score": 3.0,
    "tickers": [
     "MRK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Fierce Pharma Asia\u2014Lilly\u2019s $3.35B InnoCare deal; Korea\u2019s breakthrough; China\u2019s 5-year biotech plan",
-   "url": "https://www.fiercepharma.com/pharma/lilly-335b-innocare-deal-korea-breakthrough-china-5-year-biotech-plan",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Eli Lilly blasted for \u2018promotional and emotive\u2019 language in GLP-1 press release",
-   "url": "https://www.fiercepharma.com/marketing/eli-lilly-blasted-promotional-and-emotive-language-glp-1-press-release",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
    ],
    "hard": false
   },
