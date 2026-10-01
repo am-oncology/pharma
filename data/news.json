@@ -1,6 +1,17 @@
 {
- "as_of": "2026-09-30T17:10:15Z",
+ "as_of": "2026-10-01T00:37:38Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Patient death raises liver questions ahead of Bristol Myers readout",
+   "url": "https://endpoints.news/patient-death-raises-liver-questions-ahead-of-bristol-myers-readout/",
+   "published_iso": "2026-09-30",
+   "raw_score": -2.5,
+   "tickers": [
+    "BMY"
+   ],
+   "hard": true
+  },
   {
    "source": "Endpoints News",
    "title": "AbbVie's eczema drug shows benefit in Phase 2; BioMarin lays off 117",
@@ -23,6 +34,17 @@
    "raw_score": 1.8,
    "tickers": [
     "MRK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: UnitedHealth investor lawsuit moves forward on allegations it \u2018manufactured earnings\u2019 to hide declining profits",
+   "url": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/?utm_campaign=rss",
+   "published_iso": "2026-09-30",
+   "raw_score": 0.0,
+   "tickers": [
+    "UTHR"
    ],
    "hard": false
   },
@@ -56,6 +78,17 @@
    "raw_score": 0.0,
    "tickers": [
     "BEAM"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Drugs.com New Approvals",
+   "title": "U.S. Food and Drug Administration Approves Expanded Indication for Bristol Myers Squibb\u2019s Camzyos (mavacamten) for the Treatment of Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM) in Adults and Pediatric Patients*",
+   "url": "https://www.drugs.com/newdrugs/u-s-food-administration-approves-expanded-indication-bristol-myers-squibb-s-camzyos-mavacamten-6906.html",
+   "published_iso": "2026-09-30",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMY"
    ],
    "hard": false
   },
@@ -120,28 +153,6 @@
    "title": "STAT+: AstraZeneca invests $2 billion in Summit Therapeutics",
    "url": "https://www.statnews.com/2026/09/29/biotech-news-astrazeneca-invests-2-billion-in-summit-therapeautics/?utm_campaign=rss",
    "published_iso": "2026-09-29",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about Novo licensing a Chinese obesity pill, Merck pulling an antibiotic, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/09/29/novo-licenses-obesity-pill-from-china-merck-pulls-antibiotic/?utm_campaign=rss",
-   "published_iso": "2026-09-29",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "AstraZeneca buys a $2B stake in Summit, taking equity in bet on cancer drug",
-   "url": "https://endpoints.news/astrazeneca-buys-a-2b-stake-in-summit-taking-equity-in-bet-on-cancer-drug/",
-   "published_iso": "2026-09-28",
    "raw_score": 0.0,
    "tickers": [
     "AZN"
@@ -361,13 +372,13 @@
    "hard": false
   },
   {
-   "source": "Drugs.com New Approvals",
-   "title": "U.S. FDA Approves Ziihera (zanidatamab-hrii) with and without Tislelizumab plus Chemotherapy in First-Line HER2+ Advanced Gastroesophageal Adenocarcinoma",
-   "url": "https://www.drugs.com/newdrugs/u-s-fda-approves-ziihera-zanidatamab-hrii-without-tislelizumab-plus-chemotherapy-first-line-her2-6863.html",
-   "published_iso": "2026-08-25",
-   "raw_score": 3.0,
+   "source": "FierceBiotech",
+   "title": "Lilly raises diabetes weight-loss bar with amylin-Zepbound combo",
+   "url": "https://www.fiercebiotech.com/biotech/lilly-raises-weight-loss-bar-its-amylin-zepbound-combo",
+   "published_iso": "",
+   "raw_score": 0.0,
    "tickers": [
-    "JAZZ"
+    "LLY"
    ],
    "hard": false
   },
@@ -456,6 +467,17 @@
    "raw_score": 0.0,
    "tickers": [
     "GILD"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "BioMarin lays off 117 California workers to consolidate footprint",
+   "url": "https://www.fiercepharma.com/pharma/biomarin-lays-117-california-workers-consolidate-footprint",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "BMRN"
    ],
    "hard": false
   },
@@ -575,40 +597,6 @@
    "url": "https://www.fiercepharma.com/marketing/mercks-holistic-hiv-health-hive-buzzes-help-actress-debbie-allen",
    "published_iso": "",
    "raw_score": 0.0,
-   "tickers": [
-    "MRK"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Mirum bags FDA approval for ultra-rare bone lesion disorder, heating up rivalry with Regeneron",
-   "url": "https://www.fiercepharma.com/pharma/mirum-bags-fda-approval-ultra-rare-bone-lesion-disorder-heating-rivalry-regeneronns-pasatru",
-   "published_iso": "",
-   "raw_score": 3.0,
-   "tickers": [
-    "REGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "The Oral GLP-1 Tracker: Prescriptions bounce back from holiday lull",
-   "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Merck, Eisai\u2019s Welireg-Lenvima combo lands FDA nod to jump the kidney cancer queue",
-   "url": "https://www.fiercepharma.com/pharma/merck-eisai-welireg-lenvima-combo-lands-fda-nod-jump-kidney-cancer-queue",
-   "published_iso": "",
-   "raw_score": 3.0,
    "tickers": [
     "MRK"
    ],
