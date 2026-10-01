@@ -1,6 +1,17 @@
 {
- "as_of": "2026-10-01T14:24:12Z",
+ "as_of": "2026-10-01T17:40:22Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "United Therapeutics' legal victory; BMS' Camzyos approved for kids",
+   "url": "https://endpoints.news/united-therapeutics-legal-victory-bms-camzyos-approved-for-kids/",
+   "published_iso": "2026-10-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "UTHR"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Lilly pulls back from Foghorn's synthetic lethality work as biotech sheds 40% of staff",
@@ -48,6 +59,17 @@
    "hard": false
   },
   {
+   "source": "Lancet Oncology",
+   "title": "[Correspondence] Re-evaluating aglatimagene in localised prostate cancer",
+   "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00356-6/fulltext?rss=yes",
+   "published_iso": "2026-10-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "BEAM"
+   ],
+   "hard": false
+  },
+  {
    "source": "Endpoints News",
    "title": "Patient death raises liver questions ahead of Bristol Myers readout",
    "url": "https://endpoints.news/patient-death-raises-liver-questions-ahead-of-bristol-myers-readout/",
@@ -91,39 +113,6 @@
    "raw_score": 0.0,
    "tickers": [
     "UTHR"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Eli Lilly\u2019s Zepbound combined with amylin drug led to significant weight loss in mid-stage trial",
-   "url": "https://www.statnews.com/2026/09/30/eli-lilly-zepbound-amylin-combination-drug-study/?utm_campaign=rss",
-   "published_iso": "2026-09-30",
-   "raw_score": -2.2,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": true
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Three biotech updates, including accusations of theft and and a new lobbying leader",
-   "url": "https://www.statnews.com/2026/09/30/biotech-news-updates-accusations-of-theft-new-phrma-guy/?utm_campaign=rss",
-   "published_iso": "2026-09-30",
-   "raw_score": 0.0,
-   "tickers": [
-    "BEAM"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Pharmalittle: We\u2019re reading about Beam suing over IP theft, a Trump rule on importing meds, and more",
-   "url": "https://www.statnews.com/pharmalot/2026/09/30/beam-sues-over-trade-secret-theft-trump-drug-import-rule/?utm_campaign=rss",
-   "published_iso": "2026-09-30",
-   "raw_score": 0.0,
-   "tickers": [
-    "BEAM"
    ],
    "hard": false
   },
@@ -252,6 +241,17 @@
    "hard": false
   },
   {
+   "source": "Lancet Oncology",
+   "title": "[News] Kenya agrees major cuts to cancer drug prices",
+   "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00481-X/fulltext?rss=yes",
+   "published_iso": "2026-09-17",
+   "raw_score": 0.0,
+   "tickers": [
+    "PFE"
+   ],
+   "hard": false
+  },
+  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Reduced Monitoring Time for First Two Doses of Imdelltra",
    "url": "https://www.drugs.com/newdrugs/fda-approves-reduced-monitoring-time-first-two-doses-imdelltra-6885.html",
@@ -364,6 +364,28 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Fierce Biotech Layoff Tracker 2026: Foghorn cuts workforce by 40%; BioMarin drops 117 roles",
+   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+   "published_iso": "",
+   "raw_score": -1.2,
+   "tickers": [
+    "BMRN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Patient death in BMS pulmonary fibrosis trial raises questions, but analysts unshaken",
+   "url": "https://www.fiercebiotech.com/biotech/patient-death-bms-pulmonary-fibrosis-trial-raises-questions-analysts-unshaken",
+   "published_iso": "",
+   "raw_score": -2.5,
+   "tickers": [
+    "BMY"
+   ],
+   "hard": true
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Foghorn lays off 40% of employees as Lilly cancer collab collapses over poor data",
    "url": "https://www.fiercebiotech.com/ai-and-machine-learning/foghorn-lays-40-employees-lilly-collab-collapses-over-poor-data",
    "published_iso": "",
@@ -382,17 +404,6 @@
    "tickers": [
     "SNY",
     "REGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "Fierce Biotech Layoff Tracker 2026: BioMarin drops 117 roles; Enanta sheds staffers",
-   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-   "published_iso": "",
-   "raw_score": -1.2,
-   "tickers": [
-    "BMRN"
    ],
    "hard": false
   },
@@ -580,17 +591,6 @@
    "raw_score": 0.0,
    "tickers": [
     "AZN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "BioNTech to close 3 sites in Germany after failed buyer search",
-   "url": "https://www.fiercepharma.com/pharma/biontech-close-sites-germany-singapore-after-failed-buyer-search",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "BNTX"
    ],
    "hard": false
   },
