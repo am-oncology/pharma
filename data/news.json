@@ -1,6 +1,52 @@
 {
- "as_of": "2026-10-01T00:37:38Z",
+ "as_of": "2026-10-01T14:24:12Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Lilly pulls back from Foghorn's synthetic lethality work as biotech sheds 40% of staff",
+   "url": "https://endpoints.news/lilly-pulls-back-from-foghorns-synthetic-lethality-work-as-biotech-sheds-40-of-staff/",
+   "published_iso": "2026-10-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "#EASD26: Regeneron's antibody helps patients regain muscle after stopping GLP-1 therapy",
+   "url": "https://endpoints.news/easd26-regenerons-antibody-helps-patients-regain-muscle-after-stopping-glp-1-therapy/",
+   "published_iso": "2026-10-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "REGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Sanofi builds on immunology alliance with Regeneron for $1B upfront",
+   "url": "https://endpoints.news/sanofi-builds-on-immunology-alliance-with-regeneron-for-1b-upfront/",
+   "published_iso": "2026-10-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "SNY",
+    "REGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Sanofi, Regeneron expand partnership after Dupixent success",
+   "url": "https://www.statnews.com/2026/10/01/sanofi-regeneron-agreement-dupixent-antibodies-immunology/?utm_campaign=rss",
+   "published_iso": "2026-10-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "SNY",
+    "REGN"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Patient death raises liver questions ahead of Bristol Myers readout",
@@ -116,50 +162,6 @@
    "hard": false
   },
   {
-   "source": "Endpoints News",
-   "title": "Spark co-founder Steven Altschuler is back with an immune-resetting biotech",
-   "url": "https://endpoints.news/spark-co-founder-steven-altschuler-is-back-with-an-immune-resetting-biotech/",
-   "published_iso": "2026-09-29",
-   "raw_score": 0.0,
-   "tickers": [
-    "TWST"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "BioNTech to close three sites in Germany after failing to secure a sale",
-   "url": "https://endpoints.news/biontech-to-close-three-sites-in-germany-after-failing-to-secure-a-sale/",
-   "published_iso": "2026-09-29",
-   "raw_score": 0.0,
-   "tickers": [
-    "BNTX"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Beam Therapeutics sues Chinese biotech, VC-backed startup, alleging theft of intellectual property",
-   "url": "https://www.statnews.com/2026/09/29/beam-therapeutics-yoltech-serapha-gene-editing-lawsuit/?utm_campaign=rss",
-   "published_iso": "2026-09-29",
-   "raw_score": 0.0,
-   "tickers": [
-    "BEAM"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: AstraZeneca invests $2 billion in Summit Therapeutics",
-   "url": "https://www.statnews.com/2026/09/29/biotech-news-astrazeneca-invests-2-billion-in-summit-therapeautics/?utm_campaign=rss",
-   "published_iso": "2026-09-29",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Juvmo (tavapadon) for the Treatment of Parkinson's Disease",
    "url": "https://www.drugs.com/newdrugs/fda-approves-juvmo-tavapadon-parkinson-s-6900.html",
@@ -246,17 +248,6 @@
    "raw_score": 3.0,
    "tickers": [
     "RARE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Nature Biotechnology",
-   "title": "Gene editing using large insertions",
-   "url": "https://www.nature.com/articles/s41587-026-03319-6",
-   "published_iso": "2026-09-17",
-   "raw_score": 0.0,
-   "tickers": [
-    "CRSP"
    ],
    "hard": false
   },
@@ -373,6 +364,40 @@
   },
   {
    "source": "FierceBiotech",
+   "title": "Foghorn lays off 40% of employees as Lilly cancer collab collapses over poor data",
+   "url": "https://www.fiercebiotech.com/ai-and-machine-learning/foghorn-lays-40-employees-lilly-collab-collapses-over-poor-data",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Sanofi pays Dupixent partner Regeneron $1B upfront for 4 early-stage assets to ignite R&D",
+   "url": "https://www.fiercebiotech.com/biotech/sanofi-pays-regeneron-1b-4-early-stage-assets-ignite-rd",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "SNY",
+    "REGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Fierce Biotech Layoff Tracker 2026: BioMarin drops 117 roles; Enanta sheds staffers",
+   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+   "published_iso": "",
+   "raw_score": -1.2,
+   "tickers": [
+    "BMRN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
    "title": "Lilly raises diabetes weight-loss bar with amylin-Zepbound combo",
    "url": "https://www.fiercebiotech.com/biotech/lilly-raises-weight-loss-bar-its-amylin-zepbound-combo",
    "published_iso": "",
@@ -460,13 +485,13 @@
    "hard": false
   },
   {
-   "source": "FierceBiotech",
-   "title": "Mirum posts phase 3 hepatitis win for \u2018commercially differentiated\u2019 challenger to Gilead, Vir",
-   "url": "https://www.fiercebiotech.com/biotech/mirum-posts-phase-3-hepatitis-win-commercially-differentiated-challenger-gilead-and-vir",
+   "source": "FiercePharma",
+   "title": "Organon beams up 'Skin Science' in sci-fi themed Vtama campaign",
+   "url": "https://www.fiercepharma.com/marketing/organon-beams-skin-science-sci-fi-themed-vtama-campaign",
    "published_iso": "",
    "raw_score": 0.0,
    "tickers": [
-    "GILD"
+    "BEAM"
    ],
    "hard": false
   },
@@ -566,39 +591,6 @@
    "raw_score": 0.0,
    "tickers": [
     "BNTX"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Eli Lilly's new initiative will take GLP-1s to lower-income nations",
-   "url": "https://www.fiercepharma.com/pharma/lillys-new-initiative-will-take-glp-1s-lower-income-nations",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "AbbVie's Cerevel buyout delivers as FDA gives go-ahead to 1st-in-class Juvmo in Parkinson's disease",
-   "url": "https://www.fiercepharma.com/pharma/abbvies-cerevel-buyout-delivers-fda-gives-go-ahead-1st-class-juvmo-parkinsons-disease",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "ABBV"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Merck's holistic HIV health hive buzzes with the help of actress Debbie Allen",
-   "url": "https://www.fiercepharma.com/marketing/mercks-holistic-hiv-health-hive-buzzes-help-actress-debbie-allen",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "MRK"
    ],
    "hard": false
   },
