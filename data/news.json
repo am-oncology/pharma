@@ -1,6 +1,41 @@
 {
- "as_of": "2026-10-02T00:50:46Z",
+ "as_of": "2026-10-02T13:46:13Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "#EASD26: Regeneron sees a future combining its obesity drug with lipid-lowering therapy",
+   "url": "https://endpoints.news/easd26-regeneron-sees-a-future-combining-its-obesity-drug-with-lipid-lowering-therapy/",
+   "published_iso": "2026-10-02",
+   "raw_score": 0.0,
+   "tickers": [
+    "REGN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Moderna, Neurocrine bring back familiar faces; Pharming CEO exits after clashing with board",
+   "url": "https://endpoints.news/moderna-neurocrine-bring-back-familiar-faces-pharming-ceo-exits-after-clashing-with-board/",
+   "published_iso": "2026-10-02",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK",
+    "MRNA",
+    "NBIX"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Novartis takes rights to Abogen's mRNA T cell engager for $575M upfront",
+   "url": "https://endpoints.news/novartis-takes-rights-to-abogens-mrna-t-cell-engager-for-575m-upfront/",
+   "published_iso": "2026-10-02",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "United Therapeutics' legal victory; BMS' Camzyos approved for kids",
@@ -8,6 +43,7 @@
    "published_iso": "2026-10-01",
    "raw_score": 0.0,
    "tickers": [
+    "BMY",
     "UTHR"
    ],
    "hard": false
@@ -43,29 +79,6 @@
    "tickers": [
     "SNY",
     "REGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "STAT News",
-   "title": "STAT+: Sanofi, Regeneron expand partnership after Dupixent success",
-   "url": "https://www.statnews.com/2026/10/01/sanofi-regeneron-agreement-dupixent-antibodies-immunology/?utm_campaign=rss",
-   "published_iso": "2026-10-01",
-   "raw_score": 0.0,
-   "tickers": [
-    "SNY",
-    "REGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Lancet Oncology",
-   "title": "[Correspondence] Re-evaluating aglatimagene in localised prostate cancer",
-   "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00356-6/fulltext?rss=yes",
-   "published_iso": "2026-10-01",
-   "raw_score": 0.0,
-   "tickers": [
-    "BEAM"
    ],
    "hard": false
   },
@@ -106,17 +119,6 @@
    "hard": false
   },
   {
-   "source": "STAT News",
-   "title": "STAT+: UnitedHealth investor lawsuit moves forward on allegations it \u2018manufactured earnings\u2019 to hide declining profits",
-   "url": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/?utm_campaign=rss",
-   "published_iso": "2026-09-30",
-   "raw_score": 0.0,
-   "tickers": [
-    "UTHR"
-   ],
-   "hard": false
-  },
-  {
    "source": "Drugs.com New Approvals",
    "title": "U.S. Food and Drug Administration Approves Expanded Indication for Bristol Myers Squibb\u2019s Camzyos (mavacamten) for the Treatment of Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM) in Adults and Pediatric Patients*",
    "url": "https://www.drugs.com/newdrugs/u-s-food-administration-approves-expanded-indication-bristol-myers-squibb-s-camzyos-mavacamten-6906.html",
@@ -124,29 +126,6 @@
    "raw_score": 0.0,
    "tickers": [
     "BMY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "#EASD26: Lilly's triple-G allows 60% of patients to drop below obesity threshold",
-   "url": "https://endpoints.news/easd26-lillys-triple-g-allows-60-of-patients-to-drop-below-obesity-threshold/",
-   "published_iso": "2026-09-29",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "Beam sues YolTech and Serapha Bio for allegedly stealing its gene editing tech",
-   "url": "https://endpoints.news/beam-sues-yoltech-and-serapha-bio-for-allegedly-stealing-its-gene-editing-tech/",
-   "published_iso": "2026-09-29",
-   "raw_score": 0.0,
-   "tickers": [
-    "CRSP",
-    "BEAM"
    ],
    "hard": false
   },
@@ -237,17 +216,6 @@
    "raw_score": 3.0,
    "tickers": [
     "RARE"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Lancet Oncology",
-   "title": "[News] Kenya agrees major cuts to cancer drug prices",
-   "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00481-X/fulltext?rss=yes",
-   "published_iso": "2026-09-17",
-   "raw_score": 0.0,
-   "tickers": [
-    "PFE"
    ],
    "hard": false
   },
@@ -359,6 +327,17 @@
    "raw_score": 3.0,
    "tickers": [
     "GSK"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FierceBiotech",
+   "title": "Novartis pens $7.8B deal for Abogen's in vivo autoimmune T-cell engager",
+   "url": "https://www.fiercebiotech.com/biotech/novartis-pays-abogen-575m-vivo-autoimmune-t-cell-engager",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "NVS"
    ],
    "hard": false
   },
@@ -481,17 +460,6 @@
    "raw_score": 0.0,
    "tickers": [
     "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FierceBiotech",
-   "title": "AstraZeneca scales Summit\u2019s PD-1xVEGF strategy with $2B investment to fuel ADC combos",
-   "url": "https://www.fiercebiotech.com/biotech/astrazeneca-scales-summits-pd-1xvegf-strategy-2b-investment-fuel-adc-combinations",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "AZN"
    ],
    "hard": false
   },
