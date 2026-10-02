@@ -1,6 +1,29 @@
 {
- "as_of": "2026-10-02T13:46:13Z",
+ "as_of": "2026-10-02T16:59:37Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Lilly signals move into aesthetics, looking to add products for body, skin and hair",
+   "url": "https://endpoints.news/lilly-signals-move-into-aesthetics-looking-to-add-products-for-body-skin-and-hair/",
+   "published_iso": "2026-10-02",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "Endpoints News",
+   "title": "Summit partners with AstraZeneca and Daiichi; Eccogene earns $50M milestone",
+   "url": "https://endpoints.news/summit-partners-with-astrazeneca-and-daiichi-eccogene-earns-50m-milestone/",
+   "published_iso": "2026-10-02",
+   "raw_score": 0.0,
+   "tickers": [
+    "AZN",
+    "REGN"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "#EASD26: Regeneron sees a future combining its obesity drug with lipid-lowering therapy",
@@ -33,6 +56,17 @@
    "raw_score": 0.0,
    "tickers": [
     "NVS"
+   ],
+   "hard": false
+  },
+  {
+   "source": "STAT News",
+   "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
+   "url": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
+   "published_iso": "2026-10-02",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY"
    ],
    "hard": false
   },
@@ -83,6 +117,17 @@
    "hard": false
   },
   {
+   "source": "Lancet Oncology",
+   "title": "[Correspondence] Re-evaluating aglatimagene in localised prostate cancer",
+   "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00356-6/fulltext?rss=yes",
+   "published_iso": "2026-10-01",
+   "raw_score": 0.0,
+   "tickers": [
+    "BEAM"
+   ],
+   "hard": false
+  },
+  {
    "source": "Endpoints News",
    "title": "Patient death raises liver questions ahead of Bristol Myers readout",
    "url": "https://endpoints.news/patient-death-raises-liver-questions-ahead-of-bristol-myers-readout/",
@@ -104,17 +149,6 @@
     "GSK",
     "BMRN",
     "SRPT"
-   ],
-   "hard": false
-  },
-  {
-   "source": "Endpoints News",
-   "title": "#EADV26: Merck shows off mid-stage win for Prometheus drug in skin condition",
-   "url": "https://endpoints.news/eadv26-merck-shows-off-mid-stage-win-for-prometheus-drug-in-skin-condition/",
-   "published_iso": "2026-09-30",
-   "raw_score": 1.8,
-   "tickers": [
-    "MRK"
    ],
    "hard": false
   },
@@ -220,6 +254,17 @@
    "hard": false
   },
   {
+   "source": "Lancet Oncology",
+   "title": "[News] Kenya agrees major cuts to cancer drug prices",
+   "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00481-X/fulltext?rss=yes",
+   "published_iso": "2026-09-17",
+   "raw_score": 0.0,
+   "tickers": [
+    "PFE"
+   ],
+   "hard": false
+  },
+  {
    "source": "Drugs.com New Approvals",
    "title": "FDA Approves Reduced Monitoring Time for First Two Doses of Imdelltra",
    "url": "https://www.drugs.com/newdrugs/fda-approves-reduced-monitoring-time-first-two-doses-imdelltra-6885.html",
@@ -282,6 +327,17 @@
    "raw_score": 3.0,
    "tickers": [
     "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "NEJM Current Issue",
+   "title": "Durability of CRISPR-Cas9 Gene Editing Targeting ANGPTL3 with CTX310",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2609825?af=R&rss=currentIssue",
+   "published_iso": "2026-08-28",
+   "raw_score": 0.0,
+   "tickers": [
+    "CRSP"
    ],
    "hard": false
   },
@@ -465,6 +521,41 @@
   },
   {
    "source": "FiercePharma",
+   "title": "Pfizer touts 'dermatology momentum' as it paints fuller picture of Litfulo's vitiligo potential",
+   "url": "https://www.fiercepharma.com/pharma/pfizer-funnels-dermatology-momentum-immunology-expansion",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "PFE"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "The Oral GLP-1 Tracker: Lilly's Foundayo surges as Novo's Wegovy pill stalls",
+   "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY",
+    "NVO"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
+   "title": "Fierce Pharma Asia\u2014AZ\u2019s $2B bet on ivonescimab; Novo buys Hengrui GLP-1; Merck doubles down on KRAS",
+   "url": "https://www.fiercepharma.com/pharma/astrazeneca-2b-bet-ivonescimab-novo-buys-hengrui-glp-1-merck-doubles-down-kras",
+   "published_iso": "",
+   "raw_score": 0.0,
+   "tickers": [
+    "MRK",
+    "AZN"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "Organon beams up 'Skin Science' in sci-fi themed Vtama campaign",
    "url": "https://www.fiercepharma.com/marketing/organon-beams-skin-science-sci-fi-themed-vtama-campaign",
    "published_iso": "",
@@ -515,39 +606,6 @@
    "raw_score": 0.0,
    "tickers": [
     "UTHR"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Novo, Lilly pit their GLP-1s against one another in diabetes and obesity as EASD kicks off in Milan",
-   "url": "https://www.fiercepharma.com/pharma/novo-lilly-pit-their-glp-1s-against-one-another-diabetes-and-obesity-easd-kicks-milan",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "LLY"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Big Pharma's Big Brand: Regeneron's science-driven communications approach",
-   "url": "https://www.fiercepharma.com/marketing/big-pharmas-big-brand-regenerons-science-driven-communications-approach",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "REGN"
-   ],
-   "hard": false
-  },
-  {
-   "source": "FiercePharma",
-   "title": "Audien beams up William Shatner to boldly boost OTC hearing aid awareness",
-   "url": "https://www.fiercepharma.com/marketing/audien-beams-william-shatner-boldly-boost-otc-hearing-aid-awareness",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "BEAM"
    ],
    "hard": false
   },
