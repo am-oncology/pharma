@@ -1,6 +1,19 @@
 {
- "as_of": "2026-10-03T00:33:36Z",
+ "as_of": "2026-10-03T14:36:49Z",
  "articles": [
+  {
+   "source": "Endpoints News",
+   "title": "Eli Lilly\u2019s best-ever weight loss data; Sanofi, Regeneron re-up for $1B upfront; and more",
+   "url": "https://endpoints.news/eli-lillys-best-ever-weight-loss-data-sanofi-regeneron-re-up-for-1b-upfront-and-more/",
+   "published_iso": "2026-10-03",
+   "raw_score": 0.0,
+   "tickers": [
+    "LLY",
+    "SNY",
+    "REGN"
+   ],
+   "hard": false
+  },
   {
    "source": "Endpoints News",
    "title": "Lilly signals move into aesthetics, looking to add products for body, skin and hair",
