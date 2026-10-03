@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-02T16:59:37Z",
+ "as_of": "2026-10-03T00:33:36Z",
  "articles": [
   {
    "source": "Endpoints News",
@@ -137,20 +137,6 @@
     "BMY"
    ],
    "hard": true
-  },
-  {
-   "source": "Endpoints News",
-   "title": "AbbVie's eczema drug shows benefit in Phase 2; BioMarin lays off 117",
-   "url": "https://endpoints.news/abbvies-eczema-drug-shows-benefit-in-phase-2-biomarin-lays-off-117/",
-   "published_iso": "2026-09-30",
-   "raw_score": 1.8,
-   "tickers": [
-    "ABBV",
-    "GSK",
-    "BMRN",
-    "SRPT"
-   ],
-   "hard": false
   },
   {
    "source": "Drugs.com New Approvals",
@@ -521,6 +507,17 @@
   },
   {
    "source": "FiercePharma",
+   "title": "With FDA approval, Lilly\u2019s BTK drug Jaypirca enters first-line CLL",
+   "url": "https://www.fiercepharma.com/pharma/fda-approval-lilly-btk-drug-jaypirca-enters-first-line-cll",
+   "published_iso": "",
+   "raw_score": 3.0,
+   "tickers": [
+    "LLY"
+   ],
+   "hard": false
+  },
+  {
+   "source": "FiercePharma",
    "title": "Pfizer touts 'dermatology momentum' as it paints fuller picture of Litfulo's vitiligo potential",
    "url": "https://www.fiercepharma.com/pharma/pfizer-funnels-dermatology-momentum-immunology-expansion",
    "published_iso": "",
@@ -599,20 +596,9 @@
    "hard": false
   },
   {
-   "source": "FiercePharma",
-   "title": "PhRMA locks in former House Majority Leader Cantor as next CEO",
-   "url": "https://www.fiercepharma.com/pharma/phrma-locks-former-house-majority-leader-cantor-fill-trade-groups-ceo-shoes",
-   "published_iso": "",
-   "raw_score": 0.0,
-   "tickers": [
-    "UTHR"
-   ],
-   "hard": false
-  },
-  {
    "source": "FDA Drug Safety",
-   "title": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect",
-   "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-firmware-g3-20076-due-firmware-defect",
+   "title": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) Devices with Firmware G3-2.00.76 Configured with G3 A20-31.cfg",
+   "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-devices-firmware-g3-20076-configured-g3-a20",
    "published_iso": "",
    "raw_score": -1.8,
    "tickers": [
